@@ -4850,6 +4850,34 @@
         <a href="contact.html" style="color: #d97706; text-decoration: none; font-weight: 500;">Contact Us</a>
     </div>
 </footer>
+<script>
+  // Supabase Initialize
+  const SUPABASE_URL = 'YOUR_SUPABASE_PROJECT_URL'; // Supabase Dashboard -> Project Settings -> API se lein
+  const SUPABASE_ANON_KEY = 'YOUR_SUPABASE_ANON_KEY';
+  
+  const supabaseClient = supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
+
+  // Google Login Function
+  async function handleGoogleLogin() {
+    const { data, error } = await supabaseClient.auth.signInWithOAuth({
+      provider: 'google',
+      options: {
+        redirectTo: window.location.origin
+      }
+    });
+
+    if (error) {
+      alert('Login error: ' + error.message);
+    }
+  }
+
+  document.addEventListener('DOMContentLoaded', () => {
+    const googleBtn = document.getElementById('google-login-btn');
+    if (googleBtn) {
+      googleBtn.addEventListener('click', handleGoogleLogin);
+    }
+  });
+</script>
   
 </body>
 </html>

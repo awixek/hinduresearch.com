@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <!-- मुख्य वेबसाइट होमपेज -->
+    <url>
+        <loc>https://hinduresearch.com/</loc>
+        <lastmod>2026-08-06</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <!-- ५० रहस्यमयी स्थानों का ग्रैंड पोर्टल -->
+    <url>
+        <loc>https://hinduresearch.com/places.html</loc>
+        <lastmod>2026-08-06</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- योग: वैदिक विज्ञान -->
+    <url>
+        <loc>https://hinduresearch.com/yoga.html</loc>
+        <lastmod>2026-08-08</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- ध्यान: वैदिक विज्ञान -->
+    <url>
+        <loc>https://hinduresearch.com/meditation.html</loc>
+        <lastmod>2026-08-08</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- प्राचीन वैज्ञानिक और खोजकर्ता -->
+    <url>
+        <loc>https://hinduresearch.com/scientists.html</loc>
+        <lastmod>2026-08-06</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- लेख (Articles Hub) -->
+    <url>
+        <loc>https://hinduresearch.com/articles.html</loc>
+        <lastmod>2026-08-08</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- लेख: आर्यभट्ट -->
+    <url>
+        <loc>https://hinduresearch.com/aryabhata-zero-pi-discovery.html</loc>
+        <lastmod>2026-08-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- लेख: सुश्रुत -->
+    <url>
+        <loc>https://hinduresearch.com/sushruta-father-of-surgery.html</loc>
+        <lastmod>2026-08-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- हमारे बारे में (About Us) -->
+    <url>
+        <loc>https://hinduresearch.com/about.html</loc>
+        <lastmod>2026-08-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <!-- संपर्क करें (Contact Us) -->
+    <url>
+        <loc>https://hinduresearch.com/contact.html</loc>
+        <lastmod>2026-08-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <!-- गोपनीयता नीति (Privacy Policy) -->
+    <url>
+        <loc>https://hinduresearch.com/privacy.html</loc>
+        <lastmod>2026-08-06</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+    </url>
+
+    <!-- नियम और शर्तें (Terms & Conditions) -->
+    <url>
+        <loc>https://hinduresearch.com/terms.html</loc>
+        <lastmod>2026-08-06</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+    </url>
+</urlset>

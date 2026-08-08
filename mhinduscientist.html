@@ -1,0 +1,566 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Modern Hindu Scientists | Hindu Research Portal</title>
+  <meta name="description" content="Detailed profiles of modern Hindu scientists — Ramanujan, Homi Bhabha, C.V. Raman, Vikram Sarabhai, S.N. Bose, Meghnad Saha and S. Chandrasekhar — their research and contributions, in English and Hindi.">
+  <meta name="keywords" content="Modern Hindu Scientists, Indian Scientists, Ramanujan, Homi Bhabha, CV Raman, Vikram Sarabhai, Satyendra Nath Bose, Meghnad Saha, Chandrasekhar">
+  <meta name="author" content="Hindu Research Portal">
+  <meta name="robots" content="index, follow">
+  <link rel="icon" type="image/png" href="images/fevicon.png">
+  <link rel="canonical" href="https://hinduresearch.com/mhinduscientist.html">
+
+<style>
+  :root {
+    --bg-cream: #fff5eb;
+    --saffron: #ff6600;
+    --saffron-dark: #cc5200;
+    --gold: #d4a017;
+    --text-dark: #2e2a26;
+    --text-muted: #6b645c;
+    --border-soft: #f0ddc4;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    background-color: var(--bg-cream);
+    color: var(--text-dark);
+    font-family: 'Inter', sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  /* ===== HEADER (same pattern as index.html) ===== */
+  .site-header {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background-color: var(--bg-cream);
+    border-bottom: 2px solid var(--saffron);
+    box-shadow: 0 2px 10px rgba(255, 102, 0, 0.06);
+  }
+
+  .header-inner {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 14px 18px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    flex-wrap: wrap;
+  }
+
+  .brand {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    text-decoration: none;
+    color: var(--text-dark);
+  }
+
+  .om-mark {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 38px;
+    height: 38px;
+    min-width: 38px;
+    border-radius: 50%;
+    background: linear-gradient(145deg, var(--saffron), var(--gold));
+    color: #fff5eb;
+    font-size: 20px;
+    font-weight: 700;
+    box-shadow: 0 2px 6px rgba(204, 82, 0, 0.35);
+  }
+
+  .brand-text {
+    font-family: 'Tiro Devanagari Hindi', serif;
+    font-size: 19px;
+    line-height: 1.15;
+    letter-spacing: 0.2px;
+  }
+
+  .brand-text .brand-accent { color: var(--saffron-dark); }
+
+  .main-nav {
+    display: flex;
+    align-items: center;
+    gap: 22px;
+    flex-wrap: wrap;
+  }
+
+  .main-nav a {
+    text-decoration: none;
+    color: var(--text-dark);
+    font-size: 15px;
+    font-weight: 500;
+    position: relative;
+    padding: 4px 2px;
+    transition: color 0.2s ease;
+  }
+
+  .main-nav a::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: -3px;
+    width: 0%;
+    height: 2px;
+    background-color: var(--saffron);
+    transition: width 0.25s ease;
+  }
+
+  .main-nav a:hover,
+  .main-nav a:focus-visible { color: var(--saffron-dark); }
+
+  .main-nav a:hover::after,
+  .main-nav a:focus-visible::after { width: 100%; }
+
+  .main-nav a.current-page { color: var(--saffron-dark); font-weight: 700; }
+
+  .lang-switch {
+    display: flex;
+    align-items: center;
+    background-color: #ffffff;
+    border: 1.5px solid var(--saffron);
+    border-radius: 999px;
+    padding: 3px;
+    font-size: 13px;
+    font-weight: 600;
+    flex-shrink: 0;
+  }
+
+  .lang-switch button {
+    border: none;
+    background: transparent;
+    padding: 6px 14px;
+    border-radius: 999px;
+    cursor: pointer;
+    color: var(--saffron-dark);
+    font-family: inherit;
+    font-size: 13px;
+    font-weight: 600;
+    transition: background-color 0.2s ease, color 0.2s ease;
+  }
+
+  .lang-switch button.active {
+    background-color: var(--saffron);
+    color: #fff5eb;
+  }
+
+  /* ===== Language visibility ===== */
+  .lang-hi { display: none; }
+  body.show-hi .lang-en { display: none; }
+  body.show-hi .lang-hi { display: block; }
+  span.lang-hi { display: none; }
+  body.show-hi span.lang-hi { display: inline; }
+  body.show-hi span.lang-en { display: none; }
+
+  /* ===== HERO ===== */
+  .page-hero {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 42px 20px 18px;
+    text-align: center;
+  }
+
+  .page-hero .eyebrow {
+    color: var(--saffron-dark);
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    font-size: 13px;
+    text-transform: uppercase;
+  }
+
+  .page-hero h1 {
+    font-family: 'Tiro Devanagari Hindi', serif;
+    font-size: 32px;
+    line-height: 1.3;
+    margin: 10px 0 12px;
+    color: var(--text-dark);
+  }
+
+  .page-hero h1 .accent { color: var(--saffron-dark); }
+
+  .page-hero p {
+    color: var(--text-muted);
+    font-size: 15px;
+    line-height: 1.6;
+  }
+
+  /* ===== SCIENTIST CARDS ===== */
+  .scientists-wrap {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 10px 16px 60px;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+  }
+
+  .scientist-card {
+    background: linear-gradient(165deg, #ffffff, #fff8ef);
+    border: 1px solid var(--border-soft);
+    border-radius: 18px;
+    padding: 22px;
+    display: flex;
+    gap: 20px;
+    box-shadow: 0 4px 14px rgba(46, 42, 38, 0.06);
+  }
+
+  .scientist-photo {
+    width: 96px;
+    height: 96px;
+    min-width: 96px;
+    border-radius: 50%;
+    background-color: var(--border-soft);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 40px;
+    border: 3px solid var(--saffron);
+  }
+
+  .scientist-body { flex: 1; min-width: 0; }
+
+  .scientist-name {
+    font-size: 20px;
+    font-weight: 700;
+    color: var(--text-dark);
+  }
+
+  .scientist-years {
+    font-size: 13px;
+    color: var(--text-muted);
+    margin-bottom: 10px;
+  }
+
+  .scientist-block { margin-top: 10px; }
+
+  .scientist-block-label {
+    display: inline-block;
+    font-size: 12px;
+    font-weight: 700;
+    color: var(--saffron-dark);
+    text-transform: uppercase;
+    letter-spacing: 0.4px;
+    margin-bottom: 4px;
+  }
+
+  .scientist-block p {
+    font-size: 14.5px;
+    line-height: 1.65;
+    color: var(--text-dark);
+  }
+
+  .scientist-block p.lang-hi {
+    font-family: 'Tiro Devanagari Hindi', serif;
+  }
+
+  @media (max-width: 560px) {
+    .scientist-card { flex-direction: column; align-items: flex-start; }
+    .scientist-photo { width: 76px; height: 76px; min-width: 76px; }
+    .page-hero h1 { font-size: 26px; }
+  }
+
+  /* ===== Bottom quick links ===== */
+  .quick-links {
+    max-width: 900px;
+    margin: 0 auto 50px;
+    padding: 0 16px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    justify-content: center;
+  }
+
+  .quick-links a {
+    text-decoration: none;
+    background-color: #ffffff;
+    border: 1.5px solid var(--saffron);
+    color: var(--saffron-dark);
+    font-weight: 600;
+    font-size: 14px;
+    padding: 10px 18px;
+    border-radius: 999px;
+    transition: background-color 0.2s ease, color 0.2s ease;
+  }
+
+  .quick-links a:hover {
+    background-color: var(--saffron);
+    color: #fff5eb;
+  }
+</style>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-inner">
+    <a href="index.html" class="brand">
+      <span class="om-mark">ॐ</span>
+      <span class="brand-text">
+        Hindu <span class="brand-accent">Research</span> Portal
+      </span>
+    </a>
+
+    <nav class="main-nav">
+      <a href="index.html">Home</a>
+      <a href="scientists.html">Vedic Scientists</a>
+      <a href="mhinduscientist.html" class="current-page">Modern Scientists</a>
+      <a href="yoga.html">Yoga</a>
+      <a href="places.html">Places</a>
+    </nav>
+
+    <div class="lang-switch" id="langSwitch">
+      <button type="button" class="active" data-lang="en">EN</button>
+      <button type="button" data-lang="hi">हिं</button>
+    </div>
+  </div>
+</header>
+
+<section class="page-hero">
+  <div class="eyebrow">🧪 Modern Era &nbsp;•&nbsp; आधुनिक काल</div>
+  <h1 class="lang-en">Modern <span class="accent">Hindu Scientists</span></h1>
+  <h1 class="lang-hi">आधुनिक <span class="accent">हिन्दू वैज्ञानिक</span></h1>
+  <p class="lang-en">The scientists who carried India's ancient scientific temper into the 19th and 20th centuries — their research, discoveries and lasting contribution to the world.</p>
+  <p class="lang-hi">वे वैज्ञानिक जिन्होंने भारत की प्राचीन वैज्ञानिक परंपरा को 19वीं और 20वीं सदी में आगे बढ़ाया — उनका शोध, उनकी खोजें और दुनिया को उनका स्थायी योगदान।</p>
+</section>
+
+<section class="scientists-wrap">
+
+  <!-- Srinivasa Ramanujan -->
+  <div class="scientist-card">
+    <div class="scientist-photo" style="background-image:url('images/Ramanujan.png')">🧮</div>
+    <div class="scientist-body">
+      <div class="scientist-name">Srinivasa Ramanujan</div>
+      <div class="scientist-years">1887 – 1920 &nbsp;•&nbsp; Mathematician</div>
+
+      <div class="scientist-block">
+        <span class="scientist-block-label">Introduction / परिचय</span>
+        <p class="lang-en">Born in Erode, Tamil Nadu, Ramanujan was almost entirely self-taught in mathematics. With no formal training beyond school, he filled notebooks with original results that took professional mathematicians decades to fully verify and understand.</p>
+        <p class="lang-hi">तमिलनाडु के इरोड में जन्मे रामानुजन ने गणित लगभग स्वयं ही सीखा था। स्कूली शिक्षा के अलावा कोई औपचारिक प्रशिक्षण न होते हुए भी उन्होंने अपनी नोटबुक्स में ऐसे मौलिक परिणाम भर दिए जिन्हें समझने और सत्यापित करने में पेशेवर गणितज्ञों को दशकों लग गए।</p>
+      </div>
+
+      <div class="scientist-block">
+        <span class="scientist-block-label">Research & Discoveries / शोध व खोजें</span>
+        <p class="lang-en">He produced thousands of original results in number theory, infinite series, continued fractions and modular forms. His work on partition functions and what are now called "mock theta functions" anticipated ideas that later became important in modern physics and cryptography.</p>
+        <p class="lang-hi">उन्होंने संख्या सिद्धांत (Number Theory), अनंत श्रेणियों, निरंतर भिन्नों (Continued Fractions) और मॉड्यूलर फंक्शन्स में हजारों मौलिक परिणाम दिए। विभाजन फलनों (Partition Functions) और आज "मॉक थीटा फंक्शन" कहलाने वाले उनके काम ने ऐसे विचार पहले ही दे दिए थे जो बाद में आधुनिक भौतिकी और क्रिप्टोग्राफी में महत्वपूर्ण साबित हुए।</p>
+      </div>
+
+      <div class="scientist-block">
+        <span class="scientist-block-label">Contribution & Legacy / योगदान</span>
+        <p class="lang-en">Invited to Cambridge by mathematician G. H. Hardy in 1914, he became the first Indian elected a Fellow of Trinity College and a Fellow of the Royal Society. His notebooks are still actively studied, and 22 December — his birthday — is observed in India as National Mathematics Day.</p>
+        <p class="lang-hi">1914 में गणितज्ञ जी.एच. हार्डी के बुलावे पर वे कैम्ब्रिज गए, जहाँ वे ट्रिनिटी कॉलेज के फेलो और रॉयल सोसाइटी के फेलो चुने जाने वाले पहले भारतीय बने। उनकी नोटबुक्स आज भी गणितज्ञों के शोध का विषय हैं, और उनके जन्मदिन 22 दिसंबर को भारत में राष्ट्रीय गणित दिवस के रूप में मनाया जाता है।</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Homi J. Bhabha -->
+  <div class="scientist-card">
+    <div class="scientist-photo" style="background-image:url('images/HomiBhabha.png')">⚛️</div>
+    <div class="scientist-body">
+      <div class="scientist-name">Homi J. Bhabha</div>
+      <div class="scientist-years">1909 – 1966 &nbsp;•&nbsp; Nuclear Physicist</div>
+
+      <div class="scientist-block">
+        <span class="scientist-block-label">Introduction / परिचय</span>
+        <p class="lang-en">Born in Mumbai and trained at Cambridge, Homi Jehangir Bhabha is widely regarded as the architect of India's nuclear programme and one of the key figures who shaped Indian science policy after independence.</p>
+        <p class="lang-hi">मुंबई में जन्मे और कैम्ब्रिज में प्रशिक्षित होमी जहांगीर भाभा को भारत के परमाणु कार्यक्रम का वास्तुकार माना जाता है और वे स्वतंत्रता के बाद भारतीय विज्ञान नीति को आकार देने वाले प्रमुख व्यक्तियों में से एक थे।</p>
+      </div>
+
+      <div class="scientist-block">
+        <span class="scientist-block-label">Research & Discoveries / शोध व खोजें</span>
+        <p class="lang-en">His early research was in cosmic ray physics and quantum theory, including the cascade theory describing how electron showers form when cosmic rays strike the atmosphere. He later guided the design of India's first research reactors and atomic energy establishments.</p>
+        <p class="lang-hi">उनका प्रारंभिक शोध कॉस्मिक रे भौतिकी और क्वांटम सिद्धांत में था, जिसमें "कैस्केड थ्योरी" शामिल है जो बताती है कि जब कॉस्मिक किरणें वायुमंडल से टकराती हैं तो इलेक्ट्रॉन शावर कैसे बनते हैं। बाद में उन्होंने भारत के पहले शोध रिएक्टरों और परमाणु ऊर्जा प्रतिष्ठानों के डिज़ाइन का मार्गदर्शन किया।</p>
+      </div>
+
+      <div class="scientist-block">
+        <span class="scientist-block-label">Contribution & Legacy / योगदान</span>
+        <p class="lang-en">He founded the Tata Institute of Fundamental Research (TIFR) in 1945 and the Atomic Energy Establishment, Trombay — renamed Bhabha Atomic Research Centre (BARC) in his memory. As the first chairman of India's Atomic Energy Commission, he championed the peaceful, power-generation use of nuclear science.</p>
+        <p class="lang-hi">उन्होंने 1945 में टाटा इंस्टीट्यूट ऑफ फंडामेंटल रिसर्च (TIFR) और परमाणु ऊर्जा प्रतिष्ठान, ट्रॉम्बे की स्थापना की, जिसे बाद में उनकी स्मृति में भाभा एटॉमिक रिसर्च सेंटर (BARC) नाम दिया गया। भारत के परमाणु ऊर्जा आयोग के पहले अध्यक्ष के रूप में उन्होंने परमाणु विज्ञान के शांतिपूर्ण, ऊर्जा-उत्पादन उपयोग की वकालत की।</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- C.V. Raman -->
+  <div class="scientist-card">
+    <div class="scientist-photo" style="background-image:url('images/CVRaman.png')">🔬</div>
+    <div class="scientist-body">
+      <div class="scientist-name">Sir C.V. Raman</div>
+      <div class="scientist-years">1888 – 1970 &nbsp;•&nbsp; Physicist</div>
+
+      <div class="scientist-block">
+        <span class="scientist-block-label">Introduction / परिचय</span>
+        <p class="lang-en">Chandrasekhara Venkata Raman worked largely in Kolkata, studying the physics of light, sound and musical instruments at a time when Indian science had very limited laboratory resources.</p>
+        <p class="lang-hi">चंद्रशेखर वेंकट रामन ने अधिकतर कोलकाता में रहकर प्रकाश, ध्वनि और संगीत वाद्ययंत्रों की भौतिकी का अध्ययन किया, वह भी उस दौर में जब भारतीय विज्ञान के पास प्रयोगशाला संसाधन बहुत सीमित थे।</p>
+      </div>
+
+      <div class="scientist-block">
+        <span class="scientist-block-label">Research & Discoveries / शोध व खोजें</span>
+        <p class="lang-en">In 1928 he discovered that when light passes through a transparent substance, a small fraction of it scatters with a changed wavelength — now known as the Raman Effect. He also researched the acoustics of Indian drums and stringed instruments, and the diffraction of light by sound waves.</p>
+        <p class="lang-hi">1928 में उन्होंने खोजा कि जब प्रकाश किसी पारदर्शी पदार्थ से गुजरता है, तो उसका एक छोटा भाग बदली हुई तरंगदैर्ध्य के साथ बिखर जाता है — इसे ही "रामन इफ़ेक्ट" कहा जाता है। उन्होंने भारतीय ढोल-तबलों और तार वाद्ययंत्रों की ध्वनिकी (Acoustics) और ध्वनि तरंगों द्वारा प्रकाश के विवर्तन (Diffraction) पर भी शोध किया।</p>
+      </div>
+
+      <div class="scientist-block">
+        <span class="scientist-block-label">Contribution & Legacy / योगदान</span>
+        <p class="lang-en">For the discovery of the Raman Effect he was awarded the Nobel Prize in Physics in 1930 — the first Nobel Prize in the sciences won by an Asian working in Asia. India observes National Science Day every 28 February to mark the day the discovery was announced.</p>
+        <p class="lang-hi">रामन इफ़ेक्ट की खोज के लिए उन्हें 1930 में भौतिकी का नोबेल पुरस्कार मिला — एशिया में रहकर काम करने वाले किसी एशियाई वैज्ञानिक को विज्ञान में मिलने वाला यह पहला नोबेल पुरस्कार था। इस खोज की घोषणा की याद में भारत हर साल 28 फरवरी को राष्ट्रीय विज्ञान दिवस मनाता है।</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Vikram Sarabhai -->
+  <div class="scientist-card">
+    <div class="scientist-photo" style="background-image:url('images/VikramSarabhai.png')">🚀</div>
+    <div class="scientist-body">
+      <div class="scientist-name">Vikram Sarabhai</div>
+      <div class="scientist-years">1919 – 1971 &nbsp;•&nbsp; Physicist & Institution Builder</div>
+
+      <div class="scientist-block">
+        <span class="scientist-block-label">Introduction / परिचय</span>
+        <p class="lang-en">Born into an industrialist family in Ahmedabad, Vikram Sarabhai trained as a physicist at Cambridge before returning to India to build scientific institutions from the ground up.</p>
+        <p class="lang-hi">अहमदाबाद के एक उद्योगपति परिवार में जन्मे विक्रम साराभाई ने कैम्ब्रिज में भौतिकशास्त्र की पढ़ाई की और फिर भारत लौटकर शुरुआत से वैज्ञानिक संस्थानों का निर्माण किया।</p>
+      </div>
+
+      <div class="scientist-block">
+        <span class="scientist-block-label">Research & Discoveries / शोध व खोजें</span>
+        <p class="lang-en">He founded the Physical Research Laboratory in Ahmedabad in 1947 to study cosmic rays and space physics. Recognising the value of satellites for a developing country, he pushed for using space technology in education, weather forecasting and communication rather than only for prestige.</p>
+        <p class="lang-hi">उन्होंने 1947 में अहमदाबाद में फिजिकल रिसर्च लेबोरेटरी की स्थापना की, जहाँ कॉस्मिक किरणों और अंतरिक्ष भौतिकी का अध्ययन होता था। एक विकासशील देश के लिए उपग्रहों के महत्व को समझते हुए उन्होंने अंतरिक्ष तकनीक को केवल प्रतिष्ठा के लिए नहीं बल्कि शिक्षा, मौसम पूर्वानुमान और संचार में उपयोग करने पर ज़ोर दिया।</p>
+      </div>
+
+      <div class="scientist-block">
+        <span class="scientist-block-label">Contribution & Legacy / योगदान</span>
+        <p class="lang-en">Widely called the father of the Indian space programme, he was instrumental in setting up the Indian Space Research Organisation (ISRO) in 1969 and launching India's first sounding rockets from Thumba. The foundation he laid eventually led to missions like Chandrayaan and Mangalyaan.</p>
+        <p class="lang-hi">उन्हें भारतीय अंतरिक्ष कार्यक्रम का जनक कहा जाता है। 1969 में भारतीय अंतरिक्ष अनुसंधान संगठन (ISRO) की स्थापना और थुम्बा से भारत के पहले साउंडिंग रॉकेट प्रक्षेपण में उनकी अहम भूमिका थी। उन्होंने जो नींव रखी, उसी पर आगे चलकर चंद्रयान और मंगलयान जैसी उपलब्धियां संभव हुईं।</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Satyendra Nath Bose -->
+  <div class="scientist-card">
+    <div class="scientist-photo" style="background-image:url('images/SNBose.png')">🧲</div>
+    <div class="scientist-body">
+      <div class="scientist-name">Satyendra Nath Bose</div>
+      <div class="scientist-years">1894 – 1974 &nbsp;•&nbsp; Physicist</div>
+
+      <div class="scientist-block">
+        <span class="scientist-block-label">Introduction / परिचय</span>
+        <p class="lang-en">Born in Kolkata, Satyendra Nath Bose was a physicist and mathematician whose work reshaped the understanding of how light and matter behave at the quantum level.</p>
+        <p class="lang-hi">कोलकाता में जन्मे सत्येंद्र नाथ बोस एक भौतिकशास्त्री और गणितज्ञ थे, जिनके काम ने यह समझ बदल दी कि क्वांटम स्तर पर प्रकाश और पदार्थ किस तरह व्यवहार करते हैं।</p>
+      </div>
+
+      <div class="scientist-block">
+        <span class="scientist-block-label">Research & Discoveries / शोध व खोजें</span>
+        <p class="lang-en">In 1924 he derived Planck's law of black-body radiation using a new statistical method, without relying on classical physics. He sent the paper to Albert Einstein, who recognised its importance, translated it, and extended it to matter particles — together giving rise to what is now called Bose–Einstein statistics.</p>
+        <p class="lang-hi">1924 में उन्होंने शास्त्रीय भौतिकी (Classical Physics) पर निर्भर हुए बिना एक नई सांख्यिकीय विधि से प्लांक के ब्लैक-बॉडी विकिरण नियम को व्युत्पन्न किया। उन्होंने यह पेपर अल्बर्ट आइंस्टीन को भेजा, जिन्होंने इसका महत्व पहचानकर इसका अनुवाद किया और इसे पदार्थ कणों तक विस्तारित किया — इसी से आज "बोस-आइंस्टीन स्टैटिस्टिक्स" का जन्म हुआ।</p>
+      </div>
+
+      <div class="scientist-block">
+        <span class="scientist-block-label">Contribution & Legacy / योगदान</span>
+        <p class="lang-en">In recognition of his work, the class of particles that obey this statistics — including photons and helium-4 atoms — are called "bosons". His ideas underpin later discoveries such as the Bose–Einstein condensate and remain fundamental to quantum physics today.</p>
+        <p class="lang-hi">उनके काम के सम्मान में इस सांख्यिकी का पालन करने वाले कणों के वर्ग — जिनमें फोटॉन और हीलियम-4 परमाणु शामिल हैं — को "बोसॉन" कहा जाता है। उनके विचार आगे चलकर बोस-आइंस्टीन कंडेनसेट जैसी खोजों का आधार बने और आज भी क्वांटम भौतिकी की बुनियाद माने जाते हैं।</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Meghnad Saha -->
+  <div class="scientist-card">
+    <div class="scientist-photo" style="background-image:url('images/MeghnadSaha.png')">🌟</div>
+    <div class="scientist-body">
+      <div class="scientist-name">Meghnad Saha</div>
+      <div class="scientist-years">1893 – 1956 &nbsp;•&nbsp; Astrophysicist</div>
+
+      <div class="scientist-block">
+        <span class="scientist-block-label">Introduction / परिचय</span>
+        <p class="lang-en">Born in Bengal into a family of modest means, Meghnad Saha overcame early hardship to become one of India's most influential astrophysicists and science institution builders.</p>
+        <p class="lang-hi">बंगाल में एक साधारण परिवार में जन्मे मेघनाद साहा ने शुरुआती कठिनाइयों को पार करते हुए भारत के सबसे प्रभावशाली खगोल भौतिकशास्त्रियों और विज्ञान संस्थान निर्माताओं में अपना स्थान बनाया।</p>
+      </div>
+
+      <div class="scientist-block">
+        <span class="scientist-block-label">Research & Discoveries / शोध व खोजें</span>
+        <p class="lang-en">In 1920 he formulated the Saha ionization equation, which connects a star's temperature and pressure to the degree of ionization of the elements in it. This let astronomers read a star's temperature and chemical composition directly from its light spectrum for the first time.</p>
+        <p class="lang-hi">1920 में उन्होंने "साहा आयनीकरण समीकरण" प्रतिपादित किया, जो किसी तारे के तापमान और दाब को उसमें मौजूद तत्वों के आयनीकरण की मात्रा से जोड़ता है। इससे पहली बार खगोलशास्त्री किसी तारे के प्रकाश-स्पेक्ट्रम से सीधे उसका तापमान और रासायनिक संरचना पढ़ पाए।</p>
+      </div>
+
+      <div class="scientist-block">
+        <span class="scientist-block-label">Contribution & Legacy / योगदान</span>
+        <p class="lang-en">The Saha equation became a foundational tool of modern astrophysics and stellar spectral classification, still taught and used today. He also founded scientific institutions and journals in India and contributed to reforming the Indian national calendar.</p>
+        <p class="lang-hi">साहा समीकरण आधुनिक खगोल भौतिकी और तारकीय स्पेक्ट्रल वर्गीकरण का एक आधारभूत उपकरण बन गया, जिसे आज भी पढ़ाया और उपयोग किया जाता है। उन्होंने भारत में कई वैज्ञानिक संस्थानों और पत्रिकाओं की स्थापना की और भारतीय राष्ट्रीय पंचांग के सुधार में भी योगदान दिया।</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- S. Chandrasekhar -->
+  <div class="scientist-card">
+    <div class="scientist-photo" style="background-image:url('images/Chandrasekhar.png')">🌌</div>
+    <div class="scientist-body">
+      <div class="scientist-name">S. Chandrasekhar</div>
+      <div class="scientist-years">1910 – 1995 &nbsp;•&nbsp; Astrophysicist</div>
+
+      <div class="scientist-block">
+        <span class="scientist-block-label">Introduction / परिचय</span>
+        <p class="lang-en">Born in Lahore and a nephew of Sir C.V. Raman, Subrahmanyan Chandrasekhar became one of the twentieth century's leading astrophysicists, working for most of his career in the United States.</p>
+        <p class="lang-hi">लाहौर में जन्मे और सर सी.वी. रामन के भतीजे सुब्रह्मण्यन चंद्रशेखर बीसवीं सदी के सबसे प्रमुख खगोल भौतिकशास्त्रियों में से एक बने, जिन्होंने अपने करियर का अधिकांश समय अमेरिका में बिताया।</p>
+      </div>
+
+      <div class="scientist-block">
+        <span class="scientist-block-label">Research & Discoveries / शोध व खोजें</span>
+        <p class="lang-en">While still in his twenties, he calculated what is now called the Chandrasekhar limit — about 1.4 times the mass of the Sun — the maximum mass a white dwarf star can have before it collapses further into a neutron star or black hole. The idea was initially met with resistance from senior scientists of the time.</p>
+        <p class="lang-hi">अपनी बीसवीं आयु में ही उन्होंने आज "चंद्रशेखर सीमा" कहलाने वाली सीमा की गणना की — सूर्य के द्रव्यमान की लगभग 1.4 गुना — यानी किसी श्वेत वामन तारे (White Dwarf) का वह अधिकतम द्रव्यमान जिसके बाद वह और सिकुड़कर न्यूट्रॉन तारे या ब्लैक होल में बदल जाता है। उस समय के वरिष्ठ वैज्ञानिकों ने शुरुआत में इस विचार का विरोध किया था।</p>
+      </div>
+
+      <div class="scientist-block">
+        <span class="scientist-block-label">Contribution & Legacy / योगदान</span>
+        <p class="lang-en">This work became central to the modern understanding of stellar evolution and the life cycle of stars, and won him the Nobel Prize in Physics in 1983. He continued to publish influential work in astrophysics and general relativity throughout his life.</p>
+        <p class="lang-hi">यह काम तारों के जीवनचक्र और तारकीय विकास की आधुनिक समझ का केंद्र बिंदु बना, जिसके लिए उन्हें 1983 में भौतिकी का नोबेल पुरस्कार मिला। उन्होंने अपने पूरे जीवन खगोल भौतिकी और सामान्य सापेक्षता (General Relativity) में महत्वपूर्ण शोध कार्य जारी रखा।</p>
+      </div>
+    </div>
+  </div>
+
+</section>
+
+<div class="quick-links">
+  <a href="scientists.html">🔬 <span class="lang-en">Vedic Scientists</span><span class="lang-hi">वैदिक वैज्ञानिक</span></a>
+  <a href="yoga.html">🧘 <span class="lang-en">Yoga</span><span class="lang-hi">योग</span></a>
+  <a href="places.html">🕉️ <span class="lang-en">Sacred Places</span><span class="lang-hi">पवित्र स्थान</span></a>
+  <a href="index.html">🏠 <span class="lang-en">Home</span><span class="lang-hi">होम</span></a>
+</div>
+
+<footer style="text-align: center; padding: 20px; background-color: #f9f9f9; margin-top: 20px; border-top: 1px solid #eee; font-family: sans-serif;">
+    <p style="margin-bottom: 10px; color: #666; font-size: 14px;">© 2026 Hindu Research. All rights reserved.</p>
+    <div style="display: flex; justify-content: center; gap: 15px; font-size: 14px; flex-wrap: wrap;">
+        <a href="articles.html" style="color: #d97706; text-decoration: none; font-weight: 500;">Articles</a>
+        <span style="color: #ccc;">|</span>
+        <a href="about.html" style="color: #d97706; text-decoration: none; font-weight: 500;">About Us</a>
+        <span style="color: #ccc;">|</span>
+        <a href="privacy.html" style="color: #d97706; text-decoration: none; font-weight: 500;">Privacy Policy</a>
+        <span style="color: #ccc;">|</span>
+        <a href="terms.html" style="color: #d97706; text-decoration: none; font-weight: 500;">Terms & Conditions</a>
+        <span style="color: #ccc;">|</span>
+        <a href="contact.html" style="color: #d97706; text-decoration: none; font-weight: 500;">Contact Us</a>
+    </div>
+</footer>
+
+<script>
+  // Simple EN / HI toggle: adds/removes a body class that CSS uses to
+  // show or hide elements tagged .lang-en / .lang-hi.
+  const langSwitch = document.getElementById('langSwitch');
+  langSwitch.addEventListener('click', (e) => {
+    const btn = e.target.closest('button[data-lang]');
+    if (!btn) return;
+    const lang = btn.dataset.lang;
+
+    langSwitch.querySelectorAll('button').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+
+    document.body.classList.toggle('show-hi', lang === 'hi');
+  });
+</script>
+
+</body>
+</html>

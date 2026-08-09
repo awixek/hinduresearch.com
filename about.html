@@ -79,6 +79,31 @@
             border-top: 6px solid var(--secondary-color);
         }
 
+        .header-navigation {
+            margin-bottom: 24px;
+            padding-bottom: 16px;
+            border-bottom: 1px solid var(--border-color);
+        }
+
+        .btn-main-portal {
+            display: inline-block;
+            background-color: var(--primary-color);
+            color: #ffffff !important;
+            padding: 12px 24px;
+            border-radius: 8px;
+            text-decoration: none;
+            font-weight: 700;
+            font-size: 1.05rem;
+            box-shadow: 0 2px 8px rgba(180, 83, 9, 0.2);
+            transition: all 0.2s ease;
+        }
+
+        .btn-main-portal:hover {
+            background-color: var(--secondary-color);
+            transform: translateY(-1px);
+            box-shadow: 0 4px 12px rgba(217, 119, 6, 0.3);
+        }
+
         h1 {
             color: var(--primary-color);
             font-size: 2.1rem;
@@ -159,6 +184,22 @@
             border-color: var(--secondary-color);
         }
 
+        .btn-contact {
+            display: inline-block;
+            margin-top: 10px;
+            background-color: var(--secondary-color);
+            color: #ffffff !important;
+            padding: 10px 20px;
+            border-radius: 6px;
+            text-decoration: none;
+            font-weight: 600;
+            transition: background-color 0.2s ease;
+        }
+
+        .btn-contact:hover {
+            background-color: var(--primary-color);
+        }
+
         .back-link {
             display: inline-block;
             margin-top: 30px;
@@ -192,12 +233,22 @@
             h2 {
                 font-size: 1.25rem;
             }
+            .btn-main-portal {
+                display: block;
+                text-align: center;
+                width: 100%;
+            }
         }
     </style>
 </head>
 <body>
 
 <div class="container">
+    <!-- Main Portal Big Button Top Header Link -->
+    <div class="header-navigation">
+        <a href="index.html" class="btn-main-portal">🏠 ← Go to Main Portal (index.html)</a>
+    </div>
+
     <h1>About Hindu Research Portal</h1>
     <p>Welcome to <strong>Hindu Research Portal</strong> (<a href="https://hinduresearch.com" style="color: inherit; text-decoration: none;">hinduresearch.com</a>) — an independent, non-profit educational and research platform dedicated to preserving, organizing, and presenting authentic knowledge from ancient Indian scriptures, Sanatan Vigyan, astronomical sciences, and modern scientific contributions.</p>
 
@@ -250,15 +301,17 @@
         </ul>
     </div>
 
-    <!-- Section 6: Accuracy & User Feedback -->
-    <h2>5. Accuracy, Scriptural Integrity & Feedback</h2>
+    <!-- Section 6: Contact Us & User Feedback -->
+    <h2>5. Contact Us, Accuracy & User Feedback</h2>
     <p>We strictly prioritize factual accuracy and scriptural integrity. All content, interactive algorithms, and astronomical calculations are continuously verified against recognized traditional texts and peer-reviewed scientific records.</p>
     <p>However, digitizing and translating complex ancient literature is an ongoing process. If you spot any scriptural oversight, translation error, or technical bug, we warmly invite you to help us refine the platform.</p>
-    <p>Please send your feedback or research suggestions directly to: <a href="mailto:ay5890573@gmail.com" class="email-link">ay5890573@gmail.com</a></p>
+    <p>You can send your feedback, research suggestions, or queries directly via email at <a href="mailto:ay5890573@gmail.com" class="email-link">ay5890573@gmail.com</a>, or fill out our official contact form below:</p>
+    
+    <p><a href="contact.html" class="btn-contact">📩 Visit Contact Page (contact.html)</a></p>
 
     <a href="index.html" class="back-link">← Back to Main Portal</a>
 </div>
 
 </body>
-        </html>
-                                     
+    </html>
+    

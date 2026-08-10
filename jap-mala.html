@@ -1,0 +1,680 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Digital Jap Mala & Mantra Counter Online | Daily Jaap Streak Tracker — Hindu Research Portal</title>
+<meta name="description" content="Free Digital Jap Mala with a 108-bead online mantra counter. Chant the Gayatri Mantra, Mahamrityunjaya Mantra, Hare Krishna, Om Namah Shivaya or your own mantra, and track your Daily Jaap Streak. A modern Sanatan Dharma tool for daily sadhana.">
+<meta name="keywords" content="Digital Jap Mala, Online Mantra Counter, Daily Jaap Streak, Gayatri Mantra Counter, Sanatan Dharma Tools, Mala Jaap Online, Mantra Jaap Tracker, Virtual Mala 108 Beads">
+<meta name="author" content="Hindu Research Portal">
+<meta name="robots" content="index, follow">
+<link rel="icon" type="image/png" href="images/fevicon.png">
+<link rel="canonical" href="https://hinduresearch.com/jap-mala.html">
+
+<meta property="og:type" content="website">
+<meta property="og:title" content="Digital Jap Mala & Mantra Counter Online | Daily Jaap Streak Tracker">
+<meta property="og:description" content="Chant Gayatri, Mahamrityunjaya, Hare Krishna & more on a virtual 108-bead mala. Build your daily jaap streak.">
+<meta property="og:url" content="https://hinduresearch.com/jap-mala.html">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebApplication",
+  "name": "Digital Jap Mala & Daily Streak Tracker",
+  "url": "https://hinduresearch.com/jap-mala.html",
+  "applicationCategory": "LifestyleApplication",
+  "description": "Free online 108-bead digital jap mala and mantra counter with a daily jaap streak tracker for Gayatri Mantra, Mahamrityunjaya Mantra, Hare Krishna and Om Namah Shivaya."
+}
+</script>
+
+<style>
+  :root {
+    --bg-cream: #fff5eb;
+    --saffron: #ff6600;
+    --saffron-dark: #cc5200;
+    --gold: #d4a017;
+    --text-dark: #2e2a26;
+    --text-muted: #6b645c;
+    --border-soft: #f0ddc4;
+    --card-bg: #ffffff;
+    --header-shadow: rgba(255, 102, 0, 0.06);
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    background-color: var(--bg-cream);
+    color: var(--text-dark);
+    font-family: 'Inter', sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  /* ===== Language toggle — same convention as index.html's data-i18n switcher ===== */
+  .lang-hi { display: none; }
+  html[lang="hi"] .lang-hi { display: inline; }
+  html[lang="hi"] .lang-en { display: none; }
+
+  /* ===== HEADER (copied from index.html) ===== */
+  .site-header {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background-color: var(--bg-cream);
+    border-bottom: 2px solid var(--saffron);
+    box-shadow: 0 2px 10px var(--header-shadow);
+  }
+  .header-inner {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 14px 18px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+  }
+  .brand { display: flex; align-items: center; gap: 10px; text-decoration: none; color: var(--text-dark); }
+  .om-mark {
+    display: inline-flex; align-items: center; justify-content: center;
+    width: 38px; height: 38px; min-width: 38px; border-radius: 50%;
+    background: linear-gradient(145deg, var(--saffron), var(--gold));
+    color: #fff5eb; font-size: 20px; font-weight: 700;
+    box-shadow: 0 2px 6px rgba(204, 82, 0, 0.35);
+  }
+  .brand-text { font-family: 'Tiro Devanagari Hindi', serif; font-size: 19px; line-height: 1.15; }
+  .brand-text .brand-accent { color: var(--saffron-dark); }
+  .main-nav { display: flex; align-items: center; gap: 28px; }
+  .main-nav a {
+    text-decoration: none; color: var(--text-dark); font-size: 15px; font-weight: 500;
+    position: relative; padding: 4px 2px; transition: color 0.2s ease;
+  }
+  .main-nav a::after {
+    content: ""; position: absolute; left: 0; bottom: -3px; width: 0%; height: 2px;
+    background-color: var(--saffron); transition: width 0.25s ease;
+  }
+  .main-nav a:hover, .main-nav a:focus-visible { color: var(--saffron-dark); }
+  .main-nav a:hover::after, .main-nav a:focus-visible::after { width: 100%; }
+  .header-controls { display: flex; align-items: center; gap: 10px; }
+  .lang-switch {
+    display: flex; align-items: center; background-color: var(--card-bg);
+    border: 1.5px solid var(--saffron); border-radius: 999px; padding: 3px;
+    font-size: 13px; font-weight: 600; flex-shrink: 0;
+  }
+  .lang-switch button {
+    border: none; background: transparent; padding: 6px 12px; border-radius: 999px;
+    cursor: pointer; color: var(--saffron-dark); font-family: inherit; font-size: 13px;
+    font-weight: 600; transition: background-color 0.2s ease, color 0.2s ease;
+  }
+  .lang-switch button.active { background-color: var(--saffron); color: #fff5eb; }
+  .nav-toggle { display: none; flex-direction: column; gap: 4px; background: none; border: none; cursor: pointer; padding: 6px; }
+  .nav-toggle span { width: 22px; height: 2.5px; background-color: var(--saffron-dark); border-radius: 2px; transition: transform 0.25s ease, opacity 0.25s ease; }
+  .nav-toggle.open span:nth-child(1) { transform: translateY(6.5px) rotate(45deg); }
+  .nav-toggle.open span:nth-child(2) { opacity: 0; }
+  .nav-toggle.open span:nth-child(3) { transform: translateY(-6.5px) rotate(-45deg); }
+
+  @media (max-width: 760px) {
+    .brand-text { font-size: 16px; }
+    .main-nav {
+      position: absolute; top: 100%; left: 0; right: 0; background-color: var(--bg-cream);
+      border-bottom: 2px solid var(--saffron); flex-direction: column; align-items: flex-start;
+      gap: 0; max-height: 0; overflow: hidden; transition: max-height 0.3s ease;
+    }
+    .main-nav.open { max-height: 280px; }
+    .main-nav a { width: 100%; padding: 14px 20px; border-top: 1px solid var(--border-soft); }
+    .main-nav a::after { display: none; }
+    .nav-toggle { display: flex; }
+    .lang-switch button { padding: 5px 9px; font-size: 12px; }
+  }
+
+  /* ===== JAP MALA PAGE ===== */
+  .jap-hero {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 28px 18px 8px;
+    text-align: center;
+  }
+  .jap-hero h1 {
+    font-family: 'Tiro Devanagari Hindi', serif;
+    font-size: clamp(22px, 4.5vw, 30px);
+    color: var(--text-dark);
+    margin-bottom: 8px;
+  }
+  .jap-hero p { font-size: 14px; color: var(--text-muted); line-height: 1.6; }
+
+  .jap-stats-row {
+    display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;
+    max-width: 500px; margin: 18px auto 0; padding: 0 18px;
+  }
+  .jap-stat {
+    background-color: var(--card-bg); border: 1.5px solid var(--border-soft);
+    border-radius: 14px; padding: 10px 18px; text-align: center; min-width: 120px;
+  }
+  .jap-stat-value { font-size: 20px; font-weight: 800; color: var(--saffron-dark); }
+  .jap-stat-label { font-size: 11px; font-weight: 600; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.03em; }
+
+  .jap-mantra-picker {
+    display: flex; gap: 8px; flex-wrap: wrap; justify-content: center;
+    max-width: 640px; margin: 24px auto 0; padding: 0 18px;
+  }
+  .jap-mantra-btn {
+    border: 1.5px solid var(--saffron); background-color: var(--card-bg); color: var(--saffron-dark);
+    font-family: inherit; font-weight: 600; font-size: 13px; padding: 8px 16px;
+    border-radius: 999px; cursor: pointer; transition: background-color 0.2s ease, color 0.2s ease;
+  }
+  .jap-mantra-btn.active { background-color: var(--saffron); color: #fff5eb; }
+
+  .jap-custom-wrap { max-width: 420px; margin: 14px auto 0; padding: 0 18px; display: none; }
+  .jap-custom-wrap.show { display: block; }
+  .jap-custom-wrap input {
+    width: 100%; padding: 10px 14px; border-radius: 12px; border: 1.5px solid var(--border-soft);
+    font-family: inherit; font-size: 14px; text-align: center;
+  }
+
+  .jap-mala-card {
+    max-width: 480px; margin: 26px auto 0; padding: 30px 20px 26px;
+    background: linear-gradient(160deg, #1a0f08 0%, #3a1d0a 45%, #7a3b0a 100%);
+    border-radius: 26px; text-align: center; position: relative; overflow: hidden;
+  }
+  .jap-mantra-title { font-family: 'Tiro Devanagari Hindi', serif; font-size: 17px; color: #ffe9c7; margin-bottom: 4px; }
+  .jap-mantra-text { font-family: 'Tiro Devanagari Hindi', serif; font-size: 15px; color: rgba(255,245,235,0.85); line-height: 1.7; margin-bottom: 22px; }
+
+  /* ===== 108-bead mala — natural draped loop, thread, hanging guru bead ===== */
+  .jap-mala-wheel {
+    position: relative;
+    width: 300px;
+    height: 340px;
+    margin: 0 auto;
+  }
+
+  .jap-mala-thread {
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  .jap-mala-ring {
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    z-index: 1;
+  }
+
+  .jap-bead {
+    position: absolute;
+    width: 11px;
+    height: 11px;
+    margin: -5.5px 0 0 -5.5px;
+    border-radius: 50%;
+    background: linear-gradient(145deg, #b3865f, #6b4423 70%, #4a2e17);
+    box-shadow: inset -1.5px -1.5px 2px rgba(0, 0, 0, 0.45), 0 1px 2px rgba(0, 0, 0, 0.4);
+    transition: background 0.2s ease, box-shadow 0.2s ease;
+  }
+
+  @keyframes beadPop {
+    0% { transform: scale(1); }
+    45% { transform: scale(1.7); }
+    100% { transform: scale(1); }
+  }
+
+  .jap-bead.counted {
+    background: linear-gradient(145deg, #8bd66a, #2e7d32 75%, #1b5e20);
+    box-shadow: 0 0 7px rgba(76, 175, 80, 0.85), inset -1.5px -1.5px 2px rgba(0, 0, 0, 0.3);
+    animation: beadPop 0.35s ease;
+  }
+
+  .jap-tap-btn {
+    position: absolute;
+    top: 0; left: 0;
+    transform: translate(-50%, -50%);
+    width: 120px; height: 120px; border-radius: 50%;
+    display: flex; align-items: center; justify-content: center; flex-direction: column;
+    cursor: pointer; border: 4px solid var(--saffron); user-select: none;
+    background: radial-gradient(circle at 35% 30%, #ffab5c, #ff6600 60%, #b8590a 100%);
+    box-shadow: 0 0 0 6px rgba(255, 102, 0, 0.18), 0 0 40px rgba(255, 140, 46, 0.55), 0 10px 30px rgba(0,0,0,0.4);
+    transition: transform 0.12s ease, box-shadow 0.2s ease;
+    z-index: 2;
+  }
+  .jap-tap-btn:active { transform: translate(-50%, -50%) scale(0.96); }
+  .jap-bead-count { font-size: 32px; font-weight: 800; color: #fffaf2; line-height: 1; text-shadow: 0 2px 10px rgba(0,0,0,0.35); }
+  .jap-bead-total { font-size: 12px; font-weight: 700; color: rgba(255,250,242,0.75); margin-top: 4px; }
+  .jap-tap-hint { font-size: 12px; color: rgba(255,245,235,0.7); margin-top: 12px; }
+
+  .jap-below-row {
+    display: flex; justify-content: center; align-items: center; gap: 14px; margin-top: 10px;
+  }
+  .jap-chime-btn, .jap-reset-btn {
+    border: 1.5px solid var(--saffron); background-color: rgba(255,245,235,0.08); color: #ffe9c7;
+    font-family: inherit; font-weight: 600; font-size: 12.5px; padding: 8px 14px;
+    border-radius: 999px; cursor: pointer;
+  }
+
+  .jap-completion-msg {
+    max-width: 480px; margin: 16px auto 0; padding: 0 18px; text-align: center;
+    font-size: 14px; font-weight: 700; color: #2e7d32; display: none;
+  }
+  .jap-completion-msg.show { display: block; }
+
+  /* Confetti */
+  .jap-confetti-piece {
+    position: fixed; top: 50%; left: 50%; width: 8px; height: 8px; border-radius: 2px;
+    pointer-events: none; z-index: 999;
+  }
+
+  @media (max-width: 500px) {
+    .jap-mala-card { padding: 24px 14px 22px; }
+    .jap-mala-wheel { width: 225px; height: 255px; }
+    .jap-tap-btn { width: 90px; height: 90px; }
+    .jap-bead-count { font-size: 24px; }
+    .jap-bead { width: 9px; height: 9px; margin: -4.5px 0 0 -4.5px; }
+  }
+</style>
+</head>
+
+<body>
+
+<header class="site-header">
+  <div class="header-inner">
+    <a href="index.html" class="brand">
+      <span class="om-mark">ॐ</span>
+      <span class="brand-text">Hindu <span class="brand-accent">Research</span> Portal</span>
+    </a>
+
+    <nav class="main-nav" id="mainNav">
+      <a href="index.html" data-i18n="nav_home">Home</a>
+      <a href="scientists.html" data-i18n="nav_research">Research</a>
+      <a href="articles.html" data-i18n="nav_articles">Articles</a>
+      <a href="yoga.html" data-i18n="nav_yoga">Yoga</a>
+      <a href="meditation.html" data-i18n="nav_meditation">Meditation</a>
+      <a href="ayurveda.html" data-i18n="nav_ayurveda">Ayurveda</a>
+    </nav>
+
+    <div class="header-controls">
+      <div class="lang-switch" id="langSwitch">
+        <button type="button" class="active" data-lang="en">EN</button>
+        <button type="button" data-lang="hi">हिं</button>
+      </div>
+      <button class="nav-toggle" id="navToggle" aria-label="Toggle menu" aria-expanded="false">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </div>
+</header>
+
+<div class="jap-hero">
+  <h1 data-i18n="jap_h1">Digital Jap Mala & Daily Streak Tracker</h1>
+  <p data-i18n="jap_sub">Tap the mala below to chant. Complete a full 108-bead mala once a day to keep your jaap streak alive.</p>
+</div>
+
+<div class="jap-stats-row">
+  <div class="jap-stat">
+    <div class="jap-stat-value" id="statStreak">0</div>
+    <div class="jap-stat-label" data-i18n="jap_stat_streak">🔥 Day Streak</div>
+  </div>
+  <div class="jap-stat">
+    <div class="jap-stat-value" id="statTotal">0</div>
+    <div class="jap-stat-label" data-i18n="jap_stat_total">📿 Total Malas</div>
+  </div>
+</div>
+
+<div class="jap-mantra-picker" id="mantraPicker"></div>
+
+<div class="jap-custom-wrap" id="customWrap">
+  <input type="text" id="customMantraInput" data-i18n-placeholder="jap_custom_placeholder" placeholder="Type your own mantra...">
+</div>
+
+<div class="jap-mala-card">
+  <div class="jap-mantra-title" id="mantraTitle">—</div>
+  <div class="jap-mantra-text" id="mantraText">—</div>
+
+  <div class="jap-mala-wheel" id="malaWheel">
+    <svg class="jap-mala-thread" id="malaThread">
+      <path id="threadArc" fill="none" stroke="#8a4f28" stroke-width="2" stroke-linecap="round"></path>
+      <path id="threadTailL" fill="none" stroke="#8a4f28" stroke-width="2" stroke-linecap="round"></path>
+      <path id="threadTailR" fill="none" stroke="#8a4f28" stroke-width="2" stroke-linecap="round"></path>
+    </svg>
+    <div class="jap-mala-ring" id="malaRing"></div>
+    <div class="jap-tap-btn" id="japTapBtn">
+      <div class="jap-bead-count" id="beadCount">0</div>
+      <div class="jap-bead-total">/ 108</div>
+    </div>
+  </div>
+  <div class="jap-tap-hint" data-i18n="jap_tap_hint">Tap to count a bead</div>
+
+  <div class="jap-below-row">
+    <button class="jap-chime-btn" id="chimeToggleBtn">🔔 <span data-i18n="jap_chime_on">Chime On</span></button>
+    <button class="jap-reset-btn" id="resetBtn" data-i18n="jap_reset">Reset Count</button>
+  </div>
+</div>
+
+<div class="jap-completion-msg" id="completionMsg" data-i18n="jap_completion">🎉 Mala complete! Your streak has been updated.</div>
+
+<footer style="text-align: center; padding: 20px; background-color: #f9f9f9; margin-top: 40px; border-top: 1px solid #eee; font-family: sans-serif;">
+    <p style="margin-bottom: 10px; color: #666; font-size: 14px;">© 2026 Hindu Research. All rights reserved.</p>
+    <div style="display: flex; justify-content: center; gap: 15px; font-size: 14px; flex-wrap: wrap;">
+        <a href="articles.html" style="color: #d97706; text-decoration: none; font-weight: 500;">Articles</a>
+        <span style="color: #ccc;">|</span>
+        <a href="about.html" style="color: #d97706; text-decoration: none; font-weight: 500;">About Us</a>
+        <span style="color: #ccc;">|</span>
+        <a href="privacy.html" style="color: #d97706; text-decoration: none; font-weight: 500;">Privacy Policy</a>
+        <span style="color: #ccc;">|</span>
+        <a href="terms.html" style="color: #d97706; text-decoration: none; font-weight: 500;">Terms & Conditions</a>
+        <span style="color: #ccc;">|</span>
+        <a href="contact.html" style="color: #d97706; text-decoration: none; font-weight: 500;">Contact Us</a>
+    </div>
+</footer>
+
+<script>
+(function () {
+  // ===== i18n (same pattern/localStorage key as index.html) =====
+  var translations = {
+    nav_home: { en: "Home", hi: "होम" },
+    nav_research: { en: "Research", hi: "शोध" },
+    nav_articles: { en: "Articles", hi: "लेख" },
+    nav_yoga: { en: "Yoga", hi: "योग" },
+    nav_meditation: { en: "Meditation", hi: "ध्यान" },
+    nav_ayurveda: { en: "Ayurveda", hi: "आयुर्वेद" },
+    jap_h1: { en: "Digital Jap Mala & Daily Streak Tracker", hi: "डिजिटल जाप माला और दैनिक स्ट्रीक ट्रैकर" },
+    jap_sub: { en: "Tap the mala below to chant. Complete a full 108-bead mala once a day to keep your jaap streak alive.", hi: "जाप करने के लिए नीचे माला पर टैप करें। अपनी स्ट्रीक बनाए रखने के लिए दिन में एक बार पूरी 108-मनके माला पूरी करें।" },
+    jap_stat_streak: { en: "🔥 Day Streak", hi: "🔥 दिन की लगन" },
+    jap_stat_total: { en: "📿 Total Malas", hi: "📿 कुल माला" },
+    jap_custom_placeholder: { en: "Type your own mantra...", hi: "अपना मंत्र लिखें..." },
+    jap_tap_hint: { en: "Tap to count a bead", hi: "मनका गिनने के लिए टैप करें" },
+    jap_chime_on: { en: "Chime On", hi: "ध्वनि चालू" },
+    jap_chime_off: { en: "Chime Off", hi: "ध्वनि बंद" },
+    jap_reset: { en: "Reset Count", hi: "गिनती रीसेट करें" },
+    jap_completion: { en: "🎉 Mala complete! Your streak has been updated.", hi: "🎉 माला पूर्ण! आपकी स्ट्रीक अपडेट हो गई है।" }
+  };
+
+  function applyLang(lang) {
+    document.documentElement.lang = lang;
+    document.querySelectorAll('[data-i18n]').forEach(function (el) {
+      var entry = translations[el.getAttribute('data-i18n')];
+      if (entry && entry[lang] !== undefined) el.innerHTML = entry[lang];
+    });
+    document.querySelectorAll('[data-i18n-placeholder]').forEach(function (el) {
+      var entry = translations[el.getAttribute('data-i18n-placeholder')];
+      if (entry && entry[lang] !== undefined) el.setAttribute('placeholder', entry[lang]);
+    });
+    document.querySelectorAll('#langSwitch button').forEach(function (btn) {
+      btn.classList.toggle('active', btn.getAttribute('data-lang') === lang);
+    });
+    chimeBtn.querySelector('span').textContent = (chimeEnabled ? translations.jap_chime_on[lang] : translations.jap_chime_off[lang]);
+    try { localStorage.setItem('rishiSiteLang', lang); } catch (e) {}
+    renderMantraPicker(lang);
+    renderMantra(lang);
+  }
+
+  document.querySelectorAll('#langSwitch button').forEach(function (btn) {
+    btn.addEventListener('click', function () { applyLang(btn.getAttribute('data-lang')); });
+  });
+
+  var navToggle = document.getElementById('navToggle');
+  var mainNav = document.getElementById('mainNav');
+  navToggle.addEventListener('click', function () {
+    var isOpen = mainNav.classList.toggle('open');
+    navToggle.classList.toggle('open');
+    navToggle.setAttribute('aria-expanded', isOpen);
+  });
+
+  // ===== Mantra data =====
+  var mantras = [
+    { id: 'gayatri', en: 'Gayatri Mantra', hi: 'गायत्री मंत्र', text: 'ॐ भूर्भुवः स्वः तत्सवितुर्वरेण्यं भर्गो देवस्य धीमहि धियो यो नः प्रचोदयात्॥' },
+    { id: 'mahamrityunjaya', en: 'Mahamrityunjaya Mantra', hi: 'महामृत्युंजय मंत्र', text: 'ॐ त्र्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम्। उर्वारुकमिव बन्धनान् मृत्योर्मुक्षीय मामृतात्॥' },
+    { id: 'harekrishna', en: 'Hare Krishna Mahamantra', hi: 'हरे कृष्ण महामंत्र', text: 'हरे कृष्ण हरे कृष्ण कृष्ण कृष्ण हरे हरे। हरे राम हरे राम राम राम हरे हरे॥' },
+    { id: 'omnamahshivaya', en: 'Om Namah Shivaya', hi: 'ॐ नमः शिवाय', text: 'ॐ नमः शिवाय' },
+    { id: 'custom', en: 'Custom Mantra', hi: 'अपना मंत्र', text: '' }
+  ];
+
+  var mantraPicker = document.getElementById('mantraPicker');
+  var customWrap = document.getElementById('customWrap');
+  var customInput = document.getElementById('customMantraInput');
+  var mantraTitleEl = document.getElementById('mantraTitle');
+  var mantraTextEl = document.getElementById('mantraText');
+
+  var selectedMantra = (function () { try { return localStorage.getItem('jap_selected_mantra') || 'gayatri'; } catch (e) { return 'gayatri'; } })();
+  try { customInput.value = localStorage.getItem('jap_custom_mantra_text') || ''; } catch (e) {}
+
+  function renderMantraPicker(lang) {
+    mantraPicker.innerHTML = '';
+    mantras.forEach(function (m) {
+      var btn = document.createElement('button');
+      btn.type = 'button';
+      btn.className = 'jap-mantra-btn' + (m.id === selectedMantra ? ' active' : '');
+      btn.textContent = (lang === 'hi' ? m.hi : m.en);
+      btn.addEventListener('click', function () {
+        selectedMantra = m.id;
+        try { localStorage.setItem('jap_selected_mantra', selectedMantra); } catch (e) {}
+        renderMantraPicker(currentLang());
+        renderMantra(currentLang());
+      });
+      mantraPicker.appendChild(btn);
+    });
+    customWrap.classList.toggle('show', selectedMantra === 'custom');
+  }
+
+  function currentLang() { return document.documentElement.lang === 'hi' ? 'hi' : 'en'; }
+
+  function renderMantra(lang) {
+    var m = mantras.filter(function (x) { return x.id === selectedMantra; })[0] || mantras[0];
+    mantraTitleEl.textContent = (lang === 'hi' ? m.hi : m.en);
+    mantraTextEl.textContent = (m.id === 'custom') ? (customInput.value || (lang === 'hi' ? 'अपना मंत्र नीचे लिखें' : 'Type your mantra above')) : m.text;
+  }
+
+  customInput.addEventListener('input', function () {
+    try { localStorage.setItem('jap_custom_mantra_text', customInput.value); } catch (e) {}
+    renderMantra(currentLang());
+  });
+
+  // ===== Streak + bead counter logic =====
+  var beadCountEl = document.getElementById('beadCount');
+  var statStreak = document.getElementById('statStreak');
+  var statTotal = document.getElementById('statTotal');
+  var completionMsg = document.getElementById('completionMsg');
+  var chimeBtn = document.getElementById('chimeToggleBtn');
+  var japTapBtn = document.getElementById('japTapBtn');
+  var resetBtn = document.getElementById('resetBtn');
+  var malaWheel = document.getElementById('malaWheel');
+  var malaRing = document.getElementById('malaRing');
+  var threadArc = document.getElementById('threadArc');
+  var threadTailL = document.getElementById('threadTailL');
+  var threadTailR = document.getElementById('threadTailR');
+  var malaSvg = document.getElementById('malaThread');
+
+  var BEADS_TOTAL = 108;
+  var GAP_HALF = 20;              // degrees of empty gap on each side of bottom
+  var START_ANGLE = 90 + GAP_HALF; // 110deg
+  var SWEEP = 360 - (GAP_HALF * 2); // 320deg
+  var beadEls = [];
+
+  // Base layout (at wheel width = 300px); everything scales with actual width.
+  var BASE = { W: 300, H: 340, cx: 150, cy: 125, rx: 115, ry: 88, guruY: 260 };
+
+  function dims() {
+    var W = malaWheel.clientWidth || BASE.W;
+    var k = W / BASE.W;
+    return {
+      cx: BASE.cx * k, cy: BASE.cy * k, rx: BASE.rx * k, ry: BASE.ry * k,
+      guruX: BASE.cx * k, guruY: BASE.guruY * k
+    };
+  }
+
+  function pointAt(thetaDeg, d) {
+    var rad = thetaDeg * Math.PI / 180;
+    return { x: d.cx + d.rx * Math.cos(rad), y: d.cy + d.ry * Math.sin(rad) };
+  }
+
+  function createBeads() {
+    malaRing.innerHTML = '';
+    beadEls = [];
+    for (var i = 0; i < BEADS_TOTAL; i++) {
+      var bead = document.createElement('div');
+      bead.className = 'jap-bead';
+      malaRing.appendChild(bead);
+      beadEls.push(bead);
+    }
+  }
+
+  function render() {
+    var d = dims();
+    var W = malaWheel.clientWidth;
+    var H = malaWheel.clientHeight;
+    malaSvg.setAttribute('width', W);
+    malaSvg.setAttribute('height', H);
+    malaSvg.setAttribute('viewBox', '0 0 ' + W + ' ' + H);
+
+    var leftEdge = pointAt(START_ANGLE, d);
+    var rightEdge = pointAt(90 - GAP_HALF, d);
+
+    threadArc.setAttribute('d', 'M' + leftEdge.x + ',' + leftEdge.y + ' A' + d.rx + ' ' + d.ry + ' 0 1 1 ' + rightEdge.x + ',' + rightEdge.y);
+    threadTailL.setAttribute('d', 'M' + leftEdge.x + ',' + leftEdge.y + ' Q' + (d.cx - d.rx * 0.16) + ',' + (d.guruY - d.rx * 0.12) + ' ' + d.guruX + ',' + d.guruY);
+    threadTailR.setAttribute('d', 'M' + rightEdge.x + ',' + rightEdge.y + ' Q' + (d.cx + d.rx * 0.16) + ',' + (d.guruY - d.rx * 0.12) + ' ' + d.guruX + ',' + d.guruY);
+
+    beadEls.forEach(function (el, i) {
+      var theta = START_ANGLE + i * (SWEEP / (BEADS_TOTAL - 1));
+      var p = pointAt(theta, d);
+      el.style.left = p.x + 'px';
+      el.style.top = p.y + 'px';
+    });
+
+    japTapBtn.style.left = d.guruX + 'px';
+    japTapBtn.style.top = d.guruY + 'px';
+  }
+
+  window.addEventListener('resize', render);
+
+  var beadCount = 0;
+  try { beadCount = parseInt(localStorage.getItem('jap_bead_count') || '0', 10) || 0; } catch (e) {}
+  var streak = 0, totalMalas = 0, chimeEnabled = true;
+  try {
+    streak = parseInt(localStorage.getItem('jap_streak') || '0', 10) || 0;
+    totalMalas = parseInt(localStorage.getItem('jap_total_malas') || '0', 10) || 0;
+    chimeEnabled = (localStorage.getItem('jap_chime_enabled') !== '0');
+  } catch (e) {}
+
+  createBeads();
+  render();
+  for (var bi = 0; bi < beadCount && bi < BEADS_TOTAL; bi++) beadEls[bi].classList.add('counted');
+
+  function todayStr() {
+    var d = new Date();
+    return d.getFullYear() + '-' + String(d.getMonth() + 1).padStart(2, '0') + '-' + String(d.getDate()).padStart(2, '0');
+  }
+
+  function updateStats() {
+    beadCountEl.textContent = beadCount;
+    statStreak.textContent = streak;
+    statTotal.textContent = totalMalas;
+  }
+
+  function playChime() {
+    if (!chimeEnabled) return;
+    try {
+      var ctx = new (window.AudioContext || window.webkitAudioContext)();
+      var osc = ctx.createOscillator();
+      var gain = ctx.createGain();
+      osc.type = 'sine';
+      osc.frequency.value = 660;
+      gain.gain.setValueAtTime(0.12, ctx.currentTime);
+      gain.gain.exponentialRampToValueAtTime(0.001, ctx.currentTime + 0.35);
+      osc.connect(gain).connect(ctx.destination);
+      osc.start();
+      osc.stop(ctx.currentTime + 0.35);
+    } catch (e) {}
+  }
+
+  function fireConfetti() {
+    var colors = ['#ff6600', '#d4a017', '#ffab5c', '#fffaf2', '#cc5200'];
+    for (var i = 0; i < 40; i++) {
+      var piece = document.createElement('div');
+      piece.className = 'jap-confetti-piece';
+      piece.style.background = colors[Math.floor(Math.random() * colors.length)];
+      var angle = Math.random() * Math.PI * 2;
+      var dist = 120 + Math.random() * 180;
+      var x = Math.cos(angle) * dist;
+      var y = Math.sin(angle) * dist - 60;
+      piece.style.transition = 'transform 1.1s cubic-bezier(.2,.8,.3,1), opacity 1.1s ease';
+      document.body.appendChild(piece);
+      requestAnimationFrame(function (p, tx, ty) {
+        return function () {
+          p.style.transform = 'translate(' + tx + 'px,' + ty + 'px) rotate(' + (Math.random() * 360) + 'deg)';
+          p.style.opacity = '0';
+        };
+      }(piece, x, y));
+      setTimeout(function (p) { p.remove(); }.bind(null, piece), 1200);
+    }
+  }
+
+  function completeMala() {
+    var today = todayStr();
+    var lastDate = null;
+    try { lastDate = localStorage.getItem('jap_last_date'); } catch (e) {}
+
+    if (lastDate === today) {
+      // keep streak, another mala same day
+    } else {
+      var yesterday = new Date();
+      yesterday.setDate(yesterday.getDate() - 1);
+      var yStr = yesterday.getFullYear() + '-' + String(yesterday.getMonth() + 1).padStart(2, '0') + '-' + String(yesterday.getDate()).padStart(2, '0');
+      if (lastDate === yStr) {
+        streak += 1;
+      } else {
+        streak = 1;
+      }
+    }
+    totalMalas += 1;
+    beadCount = 0;
+    beadEls.forEach(function (el) { el.classList.remove('counted'); });
+
+    try {
+      localStorage.setItem('jap_streak', String(streak));
+      localStorage.setItem('jap_last_date', today);
+      localStorage.setItem('jap_total_malas', String(totalMalas));
+      localStorage.setItem('jap_bead_count', '0');
+    } catch (e) {}
+
+    updateStats();
+    fireConfetti();
+    completionMsg.classList.add('show');
+    setTimeout(function () { completionMsg.classList.remove('show'); }, 3500);
+  }
+
+  japTapBtn.addEventListener('click', function () {
+    if (beadCount < BEADS_TOTAL) beadEls[beadCount].classList.add('counted');
+    beadCount += 1;
+
+    if (navigator.vibrate) navigator.vibrate(50);
+    playChime();
+
+    if (beadCount >= 108) {
+      updateStats();
+      completeMala();
+      return;
+    }
+    try { localStorage.setItem('jap_bead_count', String(beadCount)); } catch (e) {}
+    updateStats();
+  });
+
+  resetBtn.addEventListener('click', function () {
+    beadCount = 0;
+    beadEls.forEach(function (el) { el.classList.remove('counted'); });
+    try { localStorage.setItem('jap_bead_count', '0'); } catch (e) {}
+    updateStats();
+  });
+
+  chimeBtn.addEventListener('click', function () {
+    chimeEnabled = !chimeEnabled;
+    try { localStorage.setItem('jap_chime_enabled', chimeEnabled ? '1' : '0'); } catch (e) {}
+    chimeBtn.querySelector('span').textContent = (chimeEnabled ? translations.jap_chime_on[currentLang()] : translations.jap_chime_off[currentLang()]);
+  });
+
+  // ===== Init =====
+  var savedLang = 'en';
+  try { savedLang = localStorage.getItem('rishiSiteLang') || 'en'; } catch (e) {}
+  applyLang(savedLang);
+  updateStats();
+})();
+</script>
+
+</body>
+</html>

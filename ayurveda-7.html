@@ -1,0 +1,939 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-D1K553SJT4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-D1K553SJT4');
+</script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Ayurveda — Traditions &amp; Contemporary Research | Hindu Research Portal</title>
+  <meta name="description" content="Explore 15 areas of Ayurveda through traditional context and contemporary research, with evidence levels, limitations, safety notes, and bilingual resources.">
+  <meta name="keywords" content="Ayurveda research, traditional medicine, contemporary research, Ashwagandha, turmeric curcumin, Triphala, Bacopa monnieri, Guggul, Neem, Shatavari, Amla, Tulsi, Rasayana, Panchakarma, Ayurgenomics, Prakriti, yoga diabetes research, Punarnava, Medhya Rasayana, medical safety">
+  <meta name="author" content="Hindu Research Portal">
+  <meta name="robots" content="index, follow">
+  <link rel="icon" type="image/png" href="images/fevicon.png">
+  <link rel="canonical" href="https://hinduresearch.com/ayurveda.html">
+
+  <style>
+    :root {
+      --bg-cream: #eaf3ea;
+      --saffron: #ff6600;
+      --saffron-dark: #cc5200;
+      --gold: #d4a017;
+      --text-dark: #2e2a26;
+      --text-muted: #6b645c;
+      --border-soft: #dbe8dc;
+      --blue-glow: rgba(70, 130, 220, 0.35);
+      --blue-glow-soft: rgba(70, 130, 220, 0.18);
+      --card-bg: #ffffff;
+      --header-shadow: rgba(255, 102, 0, 0.06);
+      --card-shadow: rgba(140, 70, 10, 0.06);
+      --card-shadow-hover: rgba(140, 70, 10, 0.12);
+    }
+
+    body.dark-mode {
+      --bg-cream: #12181a;
+      --text-dark: #e8ece9;
+      --text-muted: #a9b3ad;
+      --border-soft: #253028;
+      --card-bg: #1b2224;
+      --header-shadow: rgba(0, 0, 0, 0.4);
+      --card-shadow: rgba(0, 0, 0, 0.3);
+      --card-shadow-hover: rgba(0, 0, 0, 0.45);
+      --blue-glow-soft: rgba(90, 150, 240, 0.28);
+    }
+
+    body.dark-mode .ayur-hero-badge {
+      background: linear-gradient(145deg, #3a2c14, #4a3618);
+      color: #ffd699;
+    }
+
+    body.dark-mode footer {
+      background-color: #12181a !important;
+      color: #a9b3ad !important;
+      border-top-color: #253028 !important;
+    }
+
+    body.dark-mode footer p {
+      color: #a9b3ad !important;
+    }
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      background-color: var(--bg-cream);
+      color: var(--text-dark);
+      font-family: 'Inter', sans-serif;
+      -webkit-font-smoothing: antialiased;
+      transition: background-color 0.3s ease, color 0.3s ease;
+    }
+
+    /* ===== HEADER (matches site header) ===== */
+    .site-header {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background-color: var(--bg-cream);
+      border-bottom: 2px solid var(--saffron);
+      box-shadow: 0 2px 10px var(--header-shadow);
+    }
+
+    .header-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 14px 18px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      flex-wrap: wrap;
+    }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      text-decoration: none;
+      color: var(--text-dark);
+    }
+
+    .om-mark {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 38px;
+      height: 38px;
+      min-width: 38px;
+      border-radius: 50%;
+      background: linear-gradient(145deg, var(--saffron), var(--gold));
+      color: #fff5eb;
+      font-size: 20px;
+      font-weight: 700;
+      box-shadow: 0 2px 6px rgba(204, 82, 0, 0.35);
+    }
+
+    .brand-text {
+      font-family: 'Tiro Devanagari Hindi', serif;
+      font-size: 19px;
+      line-height: 1.15;
+      letter-spacing: 0.2px;
+    }
+
+    .brand-text .brand-accent {
+      color: var(--saffron-dark);
+    }
+
+    .main-nav {
+      display: flex;
+      align-items: center;
+      gap: 24px;
+      flex-wrap: wrap;
+    }
+
+    .main-nav a {
+      text-decoration: none;
+      color: var(--text-dark);
+      font-size: 15px;
+      font-weight: 500;
+      position: relative;
+      padding: 7px 14px;
+      border-radius: 999px;
+      transition: color 0.2s ease, background-color 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    .main-nav a:hover,
+    .main-nav a:focus-visible {
+      color: var(--saffron-dark);
+      background-color: rgba(255, 102, 0, 0.08);
+    }
+
+    .main-nav a.current {
+      color: #fff5eb;
+      font-weight: 700;
+      background: linear-gradient(145deg, var(--saffron), var(--gold));
+      box-shadow: 0 3px 10px rgba(204, 82, 0, 0.25);
+    }
+
+    .lang-switch {
+      display: flex;
+      align-items: center;
+      background-color: #ffffff;
+      border: 1.5px solid var(--saffron);
+      border-radius: 999px;
+      padding: 3px;
+      font-size: 13px;
+      font-weight: 600;
+      flex-shrink: 0;
+    }
+
+    .lang-switch button {
+      border: none;
+      background: transparent;
+      padding: 6px 12px;
+      border-radius: 999px;
+      cursor: pointer;
+      color: var(--saffron-dark);
+      font-family: inherit;
+      font-size: 13px;
+      font-weight: 600;
+      transition: background-color 0.2s ease, color 0.2s ease;
+    }
+
+    .lang-switch button.active {
+      background-color: var(--saffron);
+      color: #fff5eb;
+    }
+
+    .theme-toggle {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 38px;
+      height: 38px;
+      min-width: 38px;
+      border-radius: 50%;
+      border: 1.5px solid var(--saffron);
+      background-color: var(--card-bg);
+      cursor: pointer;
+      font-size: 17px;
+      transition: background-color 0.2s ease, transform 0.2s ease;
+      flex-shrink: 0;
+    }
+
+    .theme-toggle:hover {
+      transform: scale(1.06);
+    }
+
+    /* ===== Language toggle visibility ===== */
+    .lang-hi { display: none; }
+    body.lang-hi .lang-hi { display: inline; }
+    body.lang-hi .lang-en { display: none; }
+
+    .editorial-section{
+      max-width:900px;margin:10px auto 0;padding:32px 20px 8px;
+      border-top:1px solid var(--border-soft);color:var(--text-dark);
+    }
+    .editorial-section h2{font-size:1.4rem;margin-bottom:12px;color:var(--saffron-dark);}
+    .editorial-section h3{font-size:1.05rem;margin:18px 0 8px;color:var(--text-dark);}
+    .editorial-section p{color:var(--text-muted);line-height:1.7;margin-bottom:12px;font-size:0.96rem;}
+    .evidence-legend{display:flex;flex-wrap:wrap;gap:8px 20px;font-size:0.88rem;color:var(--text-muted);margin:10px 0 18px;}
+    .article-info-grid{
+      display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));
+      gap:10px 18px;background:var(--card-bg);border:1px solid var(--border-soft);
+      border-radius:10px;padding:16px 18px;margin:14px 0 20px;
+      box-shadow:0 2px 8px var(--card-shadow);font-size:0.9rem;color:var(--text-muted);
+    }
+    .article-info-grid strong{display:block;color:var(--saffron-dark);font-size:0.72rem;text-transform:uppercase;letter-spacing:.06em;margin-bottom:3px;}
+    .source-list{list-style:none;margin-bottom:14px;}
+    .source-list li{margin-bottom:10px;padding-left:16px;position:relative;font-size:0.92rem;color:var(--text-muted);}
+    .source-list li::before{content:"›";position:absolute;left:0;color:var(--saffron);font-weight:700;}
+    .source-list a{color:var(--saffron-dark);text-decoration:underline;}
+    .source-list .src-note{display:block;color:var(--text-muted);font-size:0.82rem;margin-top:2px;opacity:0.85;}
+
+    /* ===== HERO ===== */
+    .ayur-hero {
+      max-width: 1000px;
+      margin: 0 auto;
+      padding: 40px 18px 8px;
+      text-align: center;
+    }
+
+    .ayur-hero-badge {
+      display: inline-block;
+      font-size: 11.5px;
+      font-weight: 800;
+      letter-spacing: 0.05em;
+      color: #6b3500;
+      background: linear-gradient(145deg, #ffe9c7, #ffd699);
+      padding: 7px 18px;
+      border-radius: 999px;
+      margin-bottom: 16px;
+    }
+
+    .ayur-hero h1 {
+      font-family: 'Tiro Devanagari Hindi', serif;
+      font-size: clamp(26px, 5vw, 38px);
+      line-height: 1.3;
+      color: var(--saffron-dark);
+      margin-bottom: 14px;
+      text-shadow: 0 0 16px var(--blue-glow-soft);
+    }
+
+    .ayur-hero p {
+      font-size: 15px;
+      line-height: 1.75;
+      color: var(--text-muted);
+      max-width: 720px;
+      margin: 0 auto;
+    }
+
+    /* ===== GRID ===== */
+    .ayur-grid-section {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 36px 18px 60px;
+    }
+
+    .ayur-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 20px;
+    }
+
+    .ayur-card {
+      background-color: var(--card-bg);
+      border: 1.5px solid var(--border-soft);
+      border-radius: 20px;
+      padding: 22px 22px 24px;
+      box-shadow: 0 6px 20px var(--card-shadow);
+      transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease, background-color 0.25s ease;
+    }
+
+    .ayur-card:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 14px 30px var(--card-shadow-hover);
+      border-color: var(--saffron);
+    }
+
+    .ayur-card-num {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 30px;
+      height: 30px;
+      border-radius: 50%;
+      background: linear-gradient(145deg, var(--saffron), var(--gold));
+      color: #fff5eb;
+      font-size: 13px;
+      font-weight: 800;
+      margin-bottom: 12px;
+    }
+
+    .ayur-card-title {
+      font-family: 'Tiro Devanagari Hindi', serif;
+      font-size: 18px;
+      font-weight: 700;
+      color: var(--text-dark);
+      margin-bottom: 4px;
+      text-shadow: 0 0 10px var(--blue-glow-soft);
+    }
+
+    .ayur-card-sanskrit {
+      font-size: 12.5px;
+      font-weight: 600;
+      color: var(--saffron-dark);
+      margin-bottom: 10px;
+      display: block;
+    }
+
+    .ayur-card-desc {
+      font-size: 13.5px;
+      line-height: 1.7;
+      color: var(--text-muted);
+    }
+
+    /* ===== SEE MORE / EXPANDABLE DETAIL ===== */
+    .ayur-card-detail {
+      max-height: 0;
+      overflow: hidden;
+      opacity: 0;
+      transition: max-height 0.4s ease, opacity 0.35s ease, margin-top 0.4s ease;
+    }
+
+    .ayur-card.expanded .ayur-card-detail {
+      max-height: 600px;
+      opacity: 1;
+      margin-top: 10px;
+    }
+
+    .ayur-card-detail-inner {
+      font-size: 13.5px;
+      line-height: 1.75;
+      color: var(--text-muted);
+      padding-top: 12px;
+      border-top: 1px dashed var(--border-soft);
+    }
+
+    .ayur-see-more-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      margin-top: 14px;
+      background: none;
+      border: none;
+      padding: 0;
+      font-family: inherit;
+      font-size: 13px;
+      font-weight: 700;
+      color: var(--saffron-dark);
+      cursor: pointer;
+    }
+
+    .ayur-see-more-btn:hover {
+      text-decoration: underline;
+    }
+
+    .ayur-see-more-btn .ayur-chevron {
+      display: inline-block;
+      transition: transform 0.3s ease;
+      font-size: 11px;
+    }
+
+    .ayur-card.expanded .ayur-see-more-btn .ayur-chevron {
+      transform: rotate(180deg);
+    }
+
+    .ayur-card-evidence{
+      display:inline-flex;
+      align-items:center;
+      margin:0 0 10px 8px;
+      padding:4px 8px;
+      border:1px solid var(--border-soft);
+      border-radius:999px;
+      font-size:11px;
+      font-weight:700;
+      color:var(--text-muted);
+      vertical-align:top;
+    }
+    .ayur-card-source{
+      margin-top:10px;
+      padding-top:8px;
+      border-top:1px solid var(--border-soft);
+      font-size:12px;
+    }
+    .ayur-card-source a{color:var(--saffron-dark);font-weight:700;}
+
+    /* ===== BACK LINK ===== */
+    .ayur-back-wrap {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 18px;
+    }
+
+    .ayur-back-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      color: var(--saffron-dark);
+      text-decoration: none;
+      font-size: 14px;
+      font-weight: 600;
+      margin-top: 18px;
+    }
+
+    .ayur-back-link:hover {
+      text-decoration: underline;
+    }
+
+    /* ===== Mobile nav ===== */
+    @media (max-width: 720px) {
+      .main-nav {
+        gap: 14px;
+        justify-content: center;
+        width: 100%;
+        order: 3;
+      }
+    }
+
+  </style>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-inner">
+
+    <a href="index.html" class="brand">
+      <span class="om-mark">ॐ</span>
+      <span class="brand-text">
+        Hindu <span class="brand-accent">Research</span> Portal
+      </span>
+    </a>
+
+    <nav class="main-nav" id="mainNav">
+      <a href="index.html"><span class="lang-en">Home</span><span class="lang-hi">होम</span></a>
+      <a href="scientists.html"><span class="lang-en">Research</span><span class="lang-hi">अनुसंधान</span></a>
+      <a href="articles.html"><span class="lang-en">Articles</span><span class="lang-hi">लेख</span></a>
+      <a href="yoga.html"><span class="lang-en">Yoga</span><span class="lang-hi">योग</span></a>
+      <a href="meditation.html"><span class="lang-en">Meditation</span><span class="lang-hi">ध्यान</span></a>
+      <a href="ayurveda.html" class="current"><span class="lang-en">Ayurveda</span><span class="lang-hi">आयुर्वेद</span></a>
+    </nav>
+
+    <div class="lang-switch" id="langSwitch">
+      <button type="button" class="active" data-lang="en">EN</button>
+      <button type="button" data-lang="hi">हिं</button>
+    </div>
+
+    <button type="button" class="theme-toggle" id="themeToggle" aria-label="Toggle dark mode">🌙</button>
+
+  </div>
+</header>
+
+<section class="ayur-hero">
+  <div class="ayur-hero-badge">
+    <span class="lang-en">🌿 AYURVEDA — TRADITIONS &amp; CONTEMPORARY RESEARCH</span>
+    <span class="lang-hi">🌿 आयुर्वेद — परंपरा एवं समकालीन अनुसंधान</span>
+  </div>
+  <h1>
+    <span class="lang-en">Top 15 Areas of Ayurveda Research</span>
+    <span class="lang-hi">आयुर्वेद अनुसंधान के 15 प्रमुख क्षेत्र</span>
+  </h1>
+  <p>
+    <span class="lang-en">
+      From ancient herbs to modern clinical trials — a look at how age-old Ayurvedic
+      knowledge is being studied, tested, and understood through today's science.
+    </span>
+    <span class="lang-hi">
+      प्राचीन जड़ी-बूटियों से लेकर आधुनिक क्लिनिकल ट्रायल तक — जानिए कैसे सदियों पुराने
+      आयुर्वेदिक ज्ञान को आज के विज्ञान की कसौटी पर परखा और समझा जा रहा है।
+    </span>
+  </p>
+</section>
+
+<section class="ayur-grid-section">
+  <div class="ayur-grid" id="ayurGrid"></div>
+</section>
+
+<div class="ayur-back-wrap">
+  <a href="index.html" class="ayur-back-link">
+    <span class="lang-en">← Back to Home</span>
+    <span class="lang-hi">← होम पर वापस जाएँ</span>
+  </a>
+</div>
+
+<section class="editorial-section">
+  <h2>
+    <span class="lang-en">About This Content</span>
+    <span class="lang-hi">इस सामग्री के बारे में</span>
+  </h2>
+  <p>
+    <span class="lang-en">This article has been prepared for educational and historical research purposes using reputable institutional resources and research literature where available. Traditional and textual claims are distinguished from modern scientific evidence. Evidence varies by herb, preparation, indication, population, and study quality; a finding for one standardized extract does not validate every product or formulation.</span>
+    <span class="lang-hi">यह लेख शैक्षिक और ऐतिहासिक शोध उद्देश्यों के लिए उपलब्ध प्रतिष्ठित संस्थागत संसाधनों और शोध साहित्य के आधार पर तैयार किया गया है। पारंपरिक और textual claims को modern scientific evidence से अलग रखा गया है। Evidence herb, preparation, indication, population और study quality के अनुसार बदलता है; किसी एक standardized extract का finding हर product या formulation को प्रमाणित नहीं करता।</span>
+  </p>
+  <div class="ayur-warn" style="background:rgba(255,102,0,0.08);border-left:3px solid var(--saffron);border-radius:6px;padding:12px 16px;margin-bottom:16px;">
+    <p style="margin:0;font-size:0.9rem;">
+      <span class="lang-en"><strong>Medical / educational disclaimer:</strong> This page is for educational and historical research purposes. It does not provide medical advice or establish the safety or effectiveness of any Ayurvedic product or treatment. Do not use this information to diagnose, treat or prevent disease or to replace prescribed medical care. People considering an Ayurvedic product or treatment should discuss it with a qualified healthcare professional, especially when pregnant, nursing, taking medicines, or managing a chronic condition.</span>
+      <span class="lang-hi"><strong>चिकित्सकीय / शैक्षिक अस्वीकरण:</strong> यह पृष्ठ शैक्षिक और ऐतिहासिक शोध उद्देश्यों के लिए है। यह चिकित्सा सलाह नहीं देता और किसी Ayurvedic product या treatment की safety या effectiveness स्थापित नहीं करता। इस जानकारी का उपयोग disease का diagnosis, treatment या prevention करने या prescribed medical care को replace करने के लिए न करें। Ayurvedic product या treatment पर विचार करने वाले लोग qualified healthcare professional से चर्चा करें, विशेषकर pregnancy, nursing, medicines लेने या chronic condition की स्थिति में।</span>
+    </p>
+  </div>
+  <div class="ayur-warn" style="background:rgba(212,160,23,0.08);border-left:3px solid var(--gold);border-radius:6px;padding:12px 16px;margin-bottom:16px;">
+    <p style="margin:0;font-size:0.9rem;">
+      <span class="lang-en"><strong>Product safety:</strong> Some Ayurvedic preparations, particularly certain products containing metal or mineral ingredients, can pose safety risks if improperly manufactured, contaminated, or used without appropriate quality control. This does not mean that all Ayurvedic products contain toxic metals.</span>
+      <span class="lang-hi"><strong>उत्पाद सुरक्षा:</strong> कुछ Ayurvedic preparations, विशेषकर कुछ metal या mineral ingredients वाले products, यदि improperly manufactured, contaminated या appropriate quality control के बिना उपयोग किए जाएँ तो safety risks पैदा कर सकते हैं। इसका अर्थ यह नहीं है कि सभी Ayurvedic products में toxic metals होते हैं।</span>
+    </p>
+  </div>
+  <div class="article-info-grid">
+    <div><strong><span class="lang-en">Author</span><span class="lang-hi">लेखक</span></strong>Hindu Research Portal Editorial Team</div>
+    <div><strong><span class="lang-en">Published</span><span class="lang-hi">प्रकाशन</span></strong><span class="lang-en">Not specified</span><span class="lang-hi">निर्दिष्ट नहीं</span></div>
+    <div><strong><span class="lang-en">Last updated</span><span class="lang-hi">अंतिम अपडेट</span></strong>11 August 2026</div>
+    <div><strong><span class="lang-en">Category</span><span class="lang-hi">श्रेणी</span></strong><span class="lang-en">Ayurveda &amp; Traditional Medicine</span><span class="lang-hi">आयुर्वेद और पारंपरिक चिकित्सा</span></div>
+  </div>
+  <div class="evidence-legend">
+    <span class="lang-en">🟢 Well established</span><span class="lang-hi">🟢 सुस्थापित</span>
+    <span class="lang-en">🟡 Preliminary / mixed / debated</span><span class="lang-hi">🟡 प्रारंभिक / मिश्रित / विवादित</span>
+    <span class="lang-en">🔴 Unsupported / too strong</span><span class="lang-hi">🔴 असमर्थित / बहुत strong</span>
+  </div>
+  <h3><span class="lang-en">Sources &amp; Further Reading</span><span class="lang-hi">स्रोत एवं आगे पढ़ने के लिए</span></h3>
+  <ul class="source-list">
+    <li><a href="https://www.nccih.nih.gov/health/ayurvedic-medicine-in-depth" target="_blank" rel="noopener">NCCIH — Ayurvedic Medicine: In Depth</a><span class="src-note lang-en">General evidence and safety overview for Ayurvedic medicine.</span><span class="src-note lang-hi">Ayurvedic medicine के evidence और safety का institutional overview।</span></li>
+    <li><a href="https://www.who.int/publications/i/item/9789240113176" target="_blank" rel="noopener">WHO — Global Traditional Medicine Strategy 2025–2034</a><span class="src-note lang-en">Global framework emphasizing evidence, safety, quality and culturally respectful research.</span><span class="src-note lang-hi">Evidence, safety, quality और culturally respectful research पर global framework।</span></li>
+    <li><a href="https://arp.ayush.gov.in/researchabout" target="_blank" rel="noopener">Ministry of Ayush — Ayush Research Portal</a><span class="src-note lang-en">Indian government research-data portal for AYUSH systems.</span><span class="src-note lang-hi">AYUSH systems के research data के लिए भारत सरकार का portal।</span></li>
+    <li><a href="https://pubmed.ncbi.nlm.nih.gov/" target="_blank" rel="noopener">PubMed</a><span class="src-note lang-en">Biomedical literature database; individual card links above point to specific studies where used.</span><span class="src-note lang-hi">Biomedical literature database; ऊपर cards में जहाँ उपयोग किया गया है वहाँ specific study links दिए गए हैं।</span></li>
+  </ul>
+</section>
+
+<!-- Footer Section -->
+<footer style="text-align: center; padding: 20px; background-color: #f9f9f9; margin-top: 40px; border-top: 1px solid #eee; font-family: sans-serif;">
+    <p style="margin-bottom: 10px; color: #666; font-size: 14px;">© 2026 Hindu Research. All rights reserved.</p>
+    <div style="display: flex; justify-content: center; gap: 15px; font-size: 14px; flex-wrap: wrap;">
+        <a href="articles.html" style="color: #d97706; text-decoration: none; font-weight: 500;">Articles</a>
+        <span style="color: #ccc;">|</span>
+        <a href="about.html" style="color: #d97706; text-decoration: none; font-weight: 500;">About Us</a>
+        <span style="color: #ccc;">|</span>
+        <a href="privacy.html" style="color: #d97706; text-decoration: none; font-weight: 500;">Privacy Policy</a>
+        <span style="color: #ccc;">|</span>
+        <a href="terms.html" style="color: #d97706; text-decoration: none; font-weight: 500;">Terms & Conditions</a>
+        <span style="color: #ccc;">|</span>
+        <a href="contact.html" style="color: #d97706; text-decoration: none; font-weight: 500;">Contact Us</a>
+    </div>
+</footer>
+
+
+<script>
+  // ===== 15 Ayurveda research topics (English + Hindi) =====
+  const ayurTopics = [
+    {
+        "sanskrit": "हल्दी / करक्युमिन",
+        "status": "yellow",
+        "en": {
+            "title": "Turmeric (Curcumin)",
+            "desc": "Traditional use is well documented; modern human research on specific Curcuma longa extracts and curcumin is most developed for some joint-pain outcomes, but results do not validate every turmeric preparation.",
+            "detail": "🟡 Preliminary/mixed: systematic reviews of randomized trials report possible improvements in knee-osteoarthritis pain and function for studied Curcuma/curcumin products. Laboratory anti-inflammatory mechanisms are not the same as clinical proof. Evidence for a standardized extract or curcumin product should not be generalized to ordinary turmeric, every formulation, or disease prevention.",
+            "source": "https://pubmed.ncbi.nlm.nih.gov/34216044/",
+            "sourceLabel": "PubMed — Curcuma longa extract and knee osteoarthritis systematic review"
+        },
+        "hi": {
+            "title": "हल्दी (करक्युमिन)",
+            "desc": "पारंपरिक उपयोग ऐतिहासिक रूप से सुस्थापित है; विशिष्ट Curcuma longa extracts और curcumin पर कुछ joint-pain outcomes के लिए मानव शोध उपलब्ध है, लेकिन इससे हर हल्दी-तैयारी प्रमाणित नहीं होती।",
+            "detail": "🟡 प्रारंभिक/मिश्रित: randomized trials की systematic reviews में studied Curcuma/curcumin products के साथ knee osteoarthritis pain और function में संभावित सुधार मिले हैं। Laboratory mechanisms को clinical proof नहीं माना जा सकता। किसी standardized extract या curcumin product के प्रमाण को सामान्य हल्दी, हर formulation या disease prevention पर लागू नहीं करना चाहिए।",
+            "source": "https://pubmed.ncbi.nlm.nih.gov/34216044/",
+            "sourceLabel": "PubMed — Curcuma longa extract and knee osteoarthritis systematic review"
+        }
+    },
+    {
+        "sanskrit": "अश्वगंधा",
+        "status": "yellow",
+        "en": {
+            "title": "Ashwagandha (Withania somnifera)",
+            "desc": "Traditional use is longstanding. Human studies have examined stress, anxiety, sleep, and other outcomes, but effects depend on the extract, population, and study design.",
+            "detail": "🟡 Preliminary/mixed: NCCIH notes many clinical trials but emphasizes that evidence varies by condition and preparation. Do not treat “adaptogen” as a proven medical category or generalize one extract to every commercial product. Safety and drug/condition interactions also matter.",
+            "source": "https://www.nccih.nih.gov/health/ashwagandha",
+            "sourceLabel": "NCCIH — Ashwagandha: Usefulness and Safety"
+        },
+        "hi": {
+            "title": "अश्वगंधा (Withania somnifera)",
+            "desc": "पारंपरिक उपयोग लंबे समय से है। मानव अध्ययनों ने stress, anxiety, sleep और अन्य outcomes की जांच की है, लेकिन परिणाम extract, population और study design पर निर्भर करते हैं।",
+            "detail": "🟡 प्रारंभिक/मिश्रित: NCCIH के अनुसार कई clinical trials हुए हैं, पर evidence condition और preparation के अनुसार बदलता है। “Adaptogen” को proven medical category न मानें और किसी एक extract के परिणाम को हर commercial product पर लागू न करें। Safety और drug/condition interactions भी महत्वपूर्ण हैं।",
+            "source": "https://www.nccih.nih.gov/health/ashwagandha",
+            "sourceLabel": "NCCIH — Ashwagandha: Usefulness and Safety"
+        }
+    },
+    {
+        "sanskrit": "त्रिफला",
+        "status": "yellow",
+        "en": {
+            "title": "Triphala",
+            "desc": "A classical three-fruit formulation with substantial traditional use. Contemporary studies include oral-health research and exploratory gastrointestinal research, but “microbiome balance” or broad digestive treatment claims remain unproven.",
+            "detail": "🟡 Preliminary/mixed: randomized clinical trials have studied Triphala mouthwash for plaque and gingivitis. Other laboratory, animal, and small human studies do not establish that Triphala treats gastrointestinal disease or produces a proven healthy microbiome.",
+            "source": "https://pubmed.ncbi.nlm.nih.gov/27442086/",
+            "sourceLabel": "PubMed — Randomized clinical trial of Triphala mouthwash"
+        },
+        "hi": {
+            "title": "त्रिफला",
+            "desc": "तीन फलों का शास्त्रीय मिश्रण, जिसका पारंपरिक उपयोग व्यापक है। समकालीन अध्ययनों में oral-health और exploratory gastrointestinal research शामिल हैं, लेकिन “microbiome balance” या व्यापक digestive treatment claims अभी स्थापित नहीं हैं।",
+            "detail": "🟡 प्रारंभिक/मिश्रित: randomized clinical trials ने Triphala mouthwash को plaque और gingivitis के लिए studied किया है। अन्य laboratory, animal और छोटे human studies से यह स्थापित नहीं होता कि Triphala gastrointestinal disease का treatment है या proven healthy microbiome बनाता है।",
+            "source": "https://pubmed.ncbi.nlm.nih.gov/27442086/",
+            "sourceLabel": "PubMed — Randomized clinical trial of Triphala mouthwash"
+        }
+    },
+    {
+        "sanskrit": "ब्राह्मी / Bacopa",
+        "status": "yellow",
+        "en": {
+            "title": "Brahmi / Bacopa monnieri",
+            "desc": "Bacopa monnieri has been studied for memory and cognition in controlled human trials; the name “Brahmi” can also refer to other plants, so botanical identity and preparation matter.",
+            "detail": "🟡 Preliminary/mixed: a systematic review of randomized controlled human trials found evidence worth further study, but this is not proof of a clinically established cognitive treatment. Do not generalize Bacopa evidence to all products sold as Brahmi.",
+            "source": "https://pubmed.ncbi.nlm.nih.gov/22747190/",
+            "sourceLabel": "PubMed — Systematic review of Bacopa monnieri cognitive trials"
+        },
+        "hi": {
+            "title": "ब्राह्मी / Bacopa monnieri",
+            "desc": "Bacopa monnieri का memory और cognition के लिए controlled human trials में अध्ययन हुआ है; “ब्राह्मी” नाम अन्य पौधों के लिए भी प्रयुक्त हो सकता है, इसलिए botanical identity और preparation महत्वपूर्ण हैं।",
+            "detail": "🟡 प्रारंभिक/मिश्रित: randomized controlled human trials की systematic review में आगे शोध योग्य evidence मिला, लेकिन यह clinically established cognitive treatment का प्रमाण नहीं है। Bacopa के प्रमाण को “Brahmi” नाम वाले सभी products पर लागू न करें।",
+            "source": "https://pubmed.ncbi.nlm.nih.gov/22747190/",
+            "sourceLabel": "PubMed — Systematic review of Bacopa monnieri cognitive trials"
+        }
+    },
+    {
+        "sanskrit": "गुग्गुल",
+        "status": "yellow",
+        "en": {
+            "title": "Guggul (Commiphora mukul)",
+            "desc": "Guggul has a long traditional history and has been investigated for lipid effects, but clinical results are mixed and do not establish a cardiovascular-risk reduction benefit.",
+            "detail": "🟡 Preliminary/mixed: a randomized controlled trial of standardized guggulipid found no cholesterol benefit and observed LDL increases in that study. Plausible laboratory mechanisms are not enough to establish clinical efficacy.",
+            "source": "https://pubmed.ncbi.nlm.nih.gov/12915429/",
+            "sourceLabel": "PubMed — Randomized controlled trial of guggulipid"
+        },
+        "hi": {
+            "title": "गुग्गुल (Commiphora mukul)",
+            "desc": "गुग्गुल का लंबा पारंपरिक इतिहास है और lipid effects के लिए इसका अध्ययन हुआ है, लेकिन clinical results मिश्रित हैं और cardiovascular-risk reduction benefit स्थापित नहीं करते।",
+            "detail": "🟡 प्रारंभिक/मिश्रित: standardized guggulipid के randomized controlled trial में cholesterol benefit नहीं मिला और उस study में LDL बढ़ा। Laboratory mechanisms clinical efficacy स्थापित करने के लिए पर्याप्त नहीं हैं।",
+            "source": "https://pubmed.ncbi.nlm.nih.gov/12915429/",
+            "sourceLabel": "PubMed — Randomized controlled trial of guggulipid"
+        }
+    },
+    {
+        "sanskrit": "नीम",
+        "status": "yellow",
+        "en": {
+            "title": "Neem (Azadirachta indica)",
+            "desc": "Neem is historically important in Ayurvedic practice. Some human research has examined specific oral-health preparations, while broader antibacterial, glucose, or “detox” claims require claim-specific evidence.",
+            "detail": "🟡 Preliminary/mixed: randomized dental studies have investigated neem mouthwash/toothpaste for plaque and gingivitis. Laboratory antimicrobial findings should not be presented as proof that neem treats systemic infection, diabetes, or performs biomedical “detoxification.”",
+            "source": "https://pubmed.ncbi.nlm.nih.gov/22368367/",
+            "sourceLabel": "PubMed — Randomized controlled neem mouthrinse study"
+        },
+        "hi": {
+            "title": "नीम (Azadirachta indica)",
+            "desc": "नीम Ayurvedic practice में ऐतिहासिक रूप से महत्वपूर्ण है। कुछ human research ने specific oral-health preparations का अध्ययन किया है, जबकि broader antibacterial, glucose या “detox” claims के लिए claim-specific evidence आवश्यक है।",
+            "detail": "🟡 प्रारंभिक/मिश्रित: randomized dental studies ने plaque और gingivitis के लिए neem mouthwash/toothpaste का अध्ययन किया है। Laboratory antimicrobial findings को systemic infection, diabetes treatment या biomedical “detoxification” का प्रमाण नहीं मानना चाहिए।",
+            "source": "https://pubmed.ncbi.nlm.nih.gov/22368367/",
+            "sourceLabel": "PubMed — Randomized controlled neem mouthrinse study"
+        }
+    },
+    {
+        "sanskrit": "शतावरी",
+        "status": "yellow",
+        "en": {
+            "title": "Shatavari (Asparagus racemosus)",
+            "desc": "Traditional use includes women’s health and lactation. Recent controlled research includes a postpartum lactation trial, but this does not establish universal fertility, hormone, or lactation guarantees.",
+            "detail": "🟡 Preliminary/mixed: a recent randomized, double-blind, placebo-controlled study reported higher expressed milk volume over 72 hours with a specific root extract. The finding applies to that studied extract and setting; it should not be generalized to every Shatavari product or to fertility/hormone treatment.",
+            "source": "https://pubmed.ncbi.nlm.nih.gov/41055223/",
+            "sourceLabel": "PubMed — Randomized controlled postpartum Shatavari study"
+        },
+        "hi": {
+            "title": "शतावरी (Asparagus racemosus)",
+            "desc": "पारंपरिक उपयोग में women’s health और lactation शामिल हैं। हालिया controlled research में postpartum lactation trial भी है, लेकिन इससे fertility, hormones या lactation की सार्वभौमिक guarantee स्थापित नहीं होती।",
+            "detail": "🟡 प्रारंभिक/मिश्रित: हालिया randomized, double-blind, placebo-controlled study में specific root extract के साथ 72 घंटे में expressed milk volume अधिक reported हुआ। यह निष्कर्ष उसी studied extract और setting तक सीमित है; इसे हर Shatavari product या fertility/hormone treatment पर लागू नहीं करना चाहिए।",
+            "source": "https://pubmed.ncbi.nlm.nih.gov/41055223/",
+            "sourceLabel": "PubMed — Randomized controlled postpartum Shatavari study"
+        }
+    },
+    {
+        "sanskrit": "आँवला",
+        "status": "yellow",
+        "en": {
+            "title": "Amla (Emblica officinalis)",
+            "desc": "Amla has established traditional importance and has been studied in humans for selected lipid and metabolic markers; antioxidant language should not be converted into disease-prevention proof.",
+            "detail": "🟡 Preliminary/mixed: controlled trials of specific amla extracts have reported changes in lipid measures. These studies do not establish that every amla preparation prevents cardiovascular disease or treats diabetes.",
+            "source": "https://pubmed.ncbi.nlm.nih.gov/30670010/",
+            "sourceLabel": "PubMed — Randomized controlled multicenter amla extract trial"
+        },
+        "hi": {
+            "title": "आँवला (Emblica officinalis)",
+            "desc": "आँवला का पारंपरिक महत्व सुस्थापित है और selected lipid तथा metabolic markers के लिए human studies हुए हैं; antioxidant language को disease-prevention proof में नहीं बदलना चाहिए।",
+            "detail": "🟡 प्रारंभिक/मिश्रित: specific amla extracts के controlled trials में lipid measures में बदलाव reported हुए हैं। इससे यह स्थापित नहीं होता कि हर आँवला preparation cardiovascular disease को रोकती है या diabetes का treatment है।",
+            "source": "https://pubmed.ncbi.nlm.nih.gov/30670010/",
+            "sourceLabel": "PubMed — Randomized controlled multicenter amla extract trial"
+        }
+    },
+    {
+        "sanskrit": "तुलसी",
+        "status": "yellow",
+        "en": {
+            "title": "Tulsi (Holy Basil)",
+            "desc": "Tulsi has a strong cultural and traditional role in India. Human studies exist for selected preparations and outcomes, but broad immunity, respiratory, or disease-prevention claims remain insufficiently established.",
+            "detail": "🟡 Preliminary/mixed: a systematic review has evaluated human clinical evidence for Tulsi and found a limited evidence base. Traditional use and laboratory mechanisms should be kept separate from claims of proven disease prevention or treatment.",
+            "source": "https://pubmed.ncbi.nlm.nih.gov/28400848/",
+            "sourceLabel": "PubMed — Systematic review of Tulsi clinical evidence"
+        },
+        "hi": {
+            "title": "तुलसी",
+            "desc": "तुलसी का भारत में मजबूत सांस्कृतिक और पारंपरिक स्थान है। Selected preparations और outcomes पर human studies उपलब्ध हैं, लेकिन broad immunity, respiratory या disease-prevention claims अभी पर्याप्त रूप से स्थापित नहीं हैं।",
+            "detail": "🟡 प्रारंभिक/मिश्रित: systematic review ने Tulsi के human clinical evidence का मूल्यांकन किया और evidence base सीमित पाया। Traditional use और laboratory mechanisms को proven disease prevention या treatment claims से अलग रखना चाहिए।",
+            "source": "https://pubmed.ncbi.nlm.nih.gov/28400848/",
+            "sourceLabel": "PubMed — Systematic review of Tulsi clinical evidence"
+        }
+    },
+    {
+        "sanskrit": "रसायन चिकित्सा",
+        "status": "yellow",
+        "en": {
+            "title": "Rasayana",
+            "desc": "Rasayana is a classical Ayurvedic category concerned with rejuvenation, vitality, and longevity; it is not equivalent to modern anti-aging medicine.",
+            "detail": "🟡 Preliminary/mixed: individual Rasayana herbs and formulations are studied in modern biomedical research, but the classical category itself is not a single standardized clinical intervention and should not be presented as proven anti-aging medicine, nootropics, or disease prevention.",
+            "source": "https://www.nccih.nih.gov/health/ayurvedic-medicine-in-depth",
+            "sourceLabel": "NCCIH — Ayurveda evidence and safety overview"
+        },
+        "hi": {
+            "title": "रसायन",
+            "desc": "रसायन rejuvenation, vitality और longevity से जुड़ी classical Ayurvedic category है; इसे modern anti-aging medicine के बराबर नहीं माना जाना चाहिए।",
+            "detail": "🟡 प्रारंभिक/मिश्रित: individual Rasayana herbs और formulations पर modern biomedical research होता है, लेकिन classical category स्वयं कोई single standardized clinical intervention नहीं है और इसे proven anti-aging medicine, nootropics या disease prevention के रूप में प्रस्तुत नहीं करना चाहिए।",
+            "source": "https://www.nccih.nih.gov/health/ayurvedic-medicine-in-depth",
+            "sourceLabel": "NCCIH — Ayurveda evidence and safety overview"
+        }
+    },
+    {
+        "sanskrit": "पंचकर्म",
+        "status": "yellow",
+        "en": {
+            "title": "Panchakarma",
+            "desc": "Panchakarma is a classical therapeutic framework. Modern studies have investigated selected protocols and outcomes, but “detox” is a traditional description, not a demonstrated biomedical detoxification process.",
+            "detail": "🟡 Preliminary/mixed: individual Panchakarma procedures have been studied clinically, but multi-component protocols make attribution difficult and the evidence base remains limited. It should not be presented as a proven detox, a substitute for medical treatment, or a universal treatment for chronic disease.",
+            "source": "https://pubmed.ncbi.nlm.nih.gov/33281395/",
+            "sourceLabel": "PubMed — Clinical study of a Panchakarma procedure"
+        },
+        "hi": {
+            "title": "पंचकर्म",
+            "desc": "पंचकर्म एक classical therapeutic framework है। Modern studies ने selected protocols और outcomes का अध्ययन किया है, लेकिन “detox” traditional description है, demonstrated biomedical detoxification process नहीं।",
+            "detail": "🟡 प्रारंभिक/मिश्रित: individual Panchakarma procedures का clinical study हुआ है, लेकिन multi-component protocols के कारण किसी एक component का effect तय करना कठिन है और evidence base सीमित है। इसे proven detox, medical treatment के substitute या chronic disease के universal treatment के रूप में प्रस्तुत नहीं करना चाहिए।",
+            "source": "https://pubmed.ncbi.nlm.nih.gov/33281395/",
+            "sourceLabel": "PubMed — Clinical study of a Panchakarma procedure"
+        }
+    },
+    {
+        "sanskrit": "आयुर्जीनोमिक्स / प्रकृति",
+        "status": "yellow",
+        "en": {
+            "title": "Ayurgenomics / Prakriti Research",
+            "desc": "Ayurgenomics is a modern research field exploring whether classical Prakriti classifications correlate with molecular or genomic measures; it has not proved Ayurveda as a whole.",
+            "detail": "🟡 Preliminary/developing: genomic and machine-learning studies have reported associations between selected Prakriti classifications and molecular/phenotypic data. These findings are exploratory and do not establish Prakriti as an exact genetic profile or validate all Ayurvedic diagnostic claims.",
+            "source": "https://pubmed.ncbi.nlm.nih.gov/26511157/",
+            "sourceLabel": "PubMed — Genome-wide analysis of Ayurveda Prakriti"
+        },
+        "hi": {
+            "title": "आयुर्जीनोमिक्स / प्रकृति अनुसंधान",
+            "desc": "Ayurgenomics एक modern research field है जो यह जांचता है कि classical Prakriti classifications का molecular या genomic measures से संबंध है या नहीं; इससे पूरा Ayurveda सिद्ध नहीं होता।",
+            "detail": "🟡 प्रारंभिक/विकासशील: genomic और machine-learning studies ने selected Prakriti classifications और molecular/phenotypic data के बीच associations report किए हैं। ये findings exploratory हैं और Prakriti को exact genetic profile या सभी Ayurvedic diagnostic claims का validation स्थापित नहीं करते।",
+            "source": "https://pubmed.ncbi.nlm.nih.gov/26511157/",
+            "sourceLabel": "PubMed — Genome-wide analysis of Ayurveda Prakriti"
+        }
+    },
+    {
+        "sanskrit": "आयुर्वेद + योग / मधुमेह",
+        "status": "yellow",
+        "en": {
+            "title": "Ayurveda + Yoga and Diabetes Research",
+            "desc": "Yoga has been studied as an adjunct to standard diabetes care, while evidence for Ayurvedic medicines varies substantially by formulation and study quality.",
+            "detail": "🟡 Preliminary/mixed: systematic reviews report possible glycemic improvements with yoga, and reviews of Ayurvedic medicines note potential effects but substantial methodological limitations. This research does not support replacing insulin, prescribed medicines, glucose monitoring, or medical care.",
+            "source": "https://pubmed.ncbi.nlm.nih.gov/35754481/",
+            "sourceLabel": "PubMed — Systematic review and meta-analysis of Ayurvedic medicines in type 2 diabetes"
+        },
+        "hi": {
+            "title": "आयुर्वेद + योग और मधुमेह अनुसंधान",
+            "desc": "Yoga का standard diabetes care के adjunct के रूप में अध्ययन हुआ है, जबकि Ayurvedic medicines का evidence formulation और study quality के अनुसार काफी बदलता है।",
+            "detail": "🟡 प्रारंभिक/मिश्रित: systematic reviews में yoga के साथ glycemic improvements की संभावना report हुई है और Ayurvedic medicines की reviews में potential effects के साथ methodological limitations भी मिली हैं। यह research insulin, prescribed medicines, glucose monitoring या medical care को replace करने का समर्थन नहीं करती।",
+            "source": "https://pubmed.ncbi.nlm.nih.gov/35754481/",
+            "sourceLabel": "PubMed — Systematic review and meta-analysis of Ayurvedic medicines in type 2 diabetes"
+        }
+    },
+    {
+        "sanskrit": "पुनर्नवा",
+        "status": "red",
+        "en": {
+            "title": "Punarnava (Boerhavia diffusa)",
+            "desc": "Punarnava has a long traditional history and has been investigated pharmacologically, but strong human evidence for treating kidney or liver disease is not established here.",
+            "detail": "🔴 Unsupported/too strong: claims that Punarnava treats kidney disease, protects the kidneys, or provides reliable diuretic therapy should not be presented as established clinical facts without strong human evidence for the exact preparation and indication. Traditional use and preclinical findings are not substitutes for clinical proof.",
+            "source": "https://pubmed.ncbi.nlm.nih.gov/?term=Boerhavia+diffusa+clinical+trial",
+            "sourceLabel": "PubMed — Clinical-trial literature search for Boerhavia diffusa"
+        },
+        "hi": {
+            "title": "पुनर्नवा (Boerhavia diffusa)",
+            "desc": "पुनर्नवा का लंबा पारंपरिक इतिहास है और pharmacological research में इसका अध्ययन हुआ है, लेकिन kidney या liver disease के treatment के लिए strong human evidence यहाँ स्थापित नहीं है।",
+            "detail": "🔴 असमर्थित/बहुत strong: Punarnava kidney disease का treatment करती है, kidneys को protect करती है या reliable diuretic therapy देती है—ऐसे claims को exact preparation और indication के लिए strong human evidence के बिना established clinical fact की तरह प्रस्तुत नहीं करना चाहिए। Traditional use और preclinical findings clinical proof का substitute नहीं हैं।",
+            "source": "https://pubmed.ncbi.nlm.nih.gov/?term=Boerhavia+diffusa+clinical+trial",
+            "sourceLabel": "PubMed — Clinical-trial literature search for Boerhavia diffusa"
+        }
+    },
+    {
+        "sanskrit": "मेध्य रसायन",
+        "status": "yellow",
+        "en": {
+            "title": "Medhya Rasayana",
+            "desc": "Medhya Rasayana is a classical category of herbs associated with memory and intellect in Ayurvedic texts; modern evidence is ingredient- and formulation-specific.",
+            "detail": "🟡 Preliminary/mixed: Bacopa monnieri has human cognition research, while some Medhya formulations have only preclinical evidence. The category should not be equated with clinically proven nootropics or neuroprotective treatment.",
+            "source": "https://pubmed.ncbi.nlm.nih.gov/22747190/",
+            "sourceLabel": "PubMed — Bacopa monnieri cognitive evidence"
+        },
+        "hi": {
+            "title": "मेध्य रसायन",
+            "desc": "मेध्य रसायन Ayurvedic texts में memory और intellect से जुड़ी classical category है; modern evidence ingredient और formulation-specific है।",
+            "detail": "🟡 प्रारंभिक/मिश्रित: Bacopa monnieri पर human cognition research है, जबकि कुछ Medhya formulations के लिए केवल preclinical evidence है। इस category को clinically proven nootropics या neuroprotective treatment के बराबर नहीं मानना चाहिए।",
+            "source": "https://pubmed.ncbi.nlm.nih.gov/22747190/",
+            "sourceLabel": "PubMed — Bacopa monnieri cognitive evidence"
+        }
+    }
+];
+
+  const grid = document.getElementById('ayurGrid');
+  ayurTopics.forEach((topic, i) => {
+    const card = document.createElement('div');
+    card.className = 'ayur-card';
+    card.innerHTML = `
+      <div class="ayur-card-num">${i + 1}</div>
+      <div class="ayur-card-evidence evidence-${topic.status}">
+        <span class="lang-en">${topic.status === 'green' ? '🟢 Well established' : topic.status === 'yellow' ? '🟡 Preliminary / mixed' : '🔴 Unsupported / too strong'}</span>
+        <span class="lang-hi">${topic.status === 'green' ? '🟢 सुस्थापित' : topic.status === 'yellow' ? '🟡 प्रारंभिक / मिश्रित' : '🔴 असमर्थित / बहुत strong'}</span>
+      </div>
+      <span class="ayur-card-sanskrit">${topic.sanskrit}</span>
+      <div class="ayur-card-title">
+        <span class="lang-en">${topic.en.title}</span>
+        <span class="lang-hi">${topic.hi.title}</span>
+      </div>
+      <p class="ayur-card-desc">
+        <span class="lang-en">${topic.en.desc}</span>
+        <span class="lang-hi">${topic.hi.desc}</span>
+      </p>
+      <div class="ayur-card-detail">
+        <div class="ayur-card-detail-inner">
+          <span class="lang-en">${topic.en.detail}</span>
+          <span class="lang-hi">${topic.hi.detail}</span>
+          <div class="ayur-card-source">
+            <span class="lang-en">Source: <a href="${topic.en.source}" target="_blank" rel="noopener">${topic.en.sourceLabel}</a></span>
+            <span class="lang-hi">स्रोत: <a href="${topic.hi.source}" target="_blank" rel="noopener">${topic.hi.sourceLabel}</a></span>
+          </div>
+        </div>
+      </div>
+      <button type="button" class="ayur-see-more-btn">
+        <span class="ayur-see-more-text">
+          <span class="lang-en">See More</span>
+          <span class="lang-hi">और पढ़ें</span>
+        </span>
+        <span class="ayur-chevron">▾</span>
+      </button>
+    `;
+
+    const seeMoreBtn = card.querySelector('.ayur-see-more-btn');
+    const seeMoreTextEn = card.querySelector('.ayur-see-more-text .lang-en');
+    const seeMoreTextHi = card.querySelector('.ayur-see-more-text .lang-hi');
+    seeMoreBtn.addEventListener('click', () => {
+      const isExpanded = card.classList.toggle('expanded');
+      seeMoreTextEn.textContent = isExpanded ? 'See Less' : 'See More';
+      seeMoreTextHi.textContent = isExpanded ? 'कम पढ़ें' : 'और पढ़ें';
+      if (!isExpanded) {
+        card.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+      }
+    });
+
+    grid.appendChild(card);
+  });
+
+  // ===== Language toggle (shared with rest of site via localStorage) =====
+  function applyLang(lang) {
+    document.body.classList.toggle('lang-hi', lang === 'hi');
+    document.documentElement.lang = lang;
+    document.querySelectorAll('#langSwitch button').forEach(btn => {
+      btn.classList.toggle('active', btn.getAttribute('data-lang') === lang);
+    });
+    try { localStorage.setItem('rishiSiteLang', lang); } catch (e) {}
+  }
+
+  document.querySelectorAll('#langSwitch button').forEach(btn => {
+    btn.addEventListener('click', () => applyLang(btn.getAttribute('data-lang')));
+  });
+
+  let savedLang = 'en';
+  try { savedLang = localStorage.getItem('rishiSiteLang') || 'en'; } catch (e) {}
+  applyLang(savedLang);
+
+  // ===== Dark mode toggle (shared with rest of site via localStorage) =====
+  const themeToggleBtn = document.getElementById('themeToggle');
+
+  function applyTheme(theme) {
+    document.body.classList.toggle('dark-mode', theme === 'dark');
+    themeToggleBtn.textContent = theme === 'dark' ? '☀️' : '🌙';
+    try { localStorage.setItem('rishiSiteTheme', theme); } catch (e) {}
+  }
+
+  themeToggleBtn.addEventListener('click', () => {
+    const isDark = document.body.classList.contains('dark-mode');
+    applyTheme(isDark ? 'light' : 'dark');
+  });
+
+  let savedTheme = 'light';
+  try { savedTheme = localStorage.getItem('rishiSiteTheme') || 'light'; } catch (e) {}
+  applyTheme(savedTheme);
+
+</script>
+
+</body>
+</html>

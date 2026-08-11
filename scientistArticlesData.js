@@ -495,19 +495,4 @@ const scientistArticlesData = [
     externalUrl: "kashyapa-samhita-ayurveda.html"
   },
 
-{
-    id: 42,
-    slug: "bhoja-engineering",
-    name_hi: "राजा भोज",
-    name_en: "Raja Bhoja",
-    field_hi: "वास्तु, अभियांत्रिकी एवं ज्ञान परंपरा",
-    field_en: "Architecture, Engineering & Knowledge",
-    era_hi: "लगभग १०१० – १०५५ ई.",
-    era_en: "c. 1010 – 1055 CE",
-    image: "Raja-Bhoja.png",
-    summary_hi: "बहु-विषयी विद्वान शासक जिनसे वास्तु, जल-प्रबंधन, स्थापत्य और विभिन्न ज्ञान-विषयों से जुड़े ग्रंथों की परंपरा जोड़ी जाती है।",
-    summary_en: "A polymathic ruler associated with traditions of architecture, water management, engineering and a wide range of scholarly works.",
-    externalUrl: "raja-bhoja-architecture-engineering.html"
-  },
-
 ];

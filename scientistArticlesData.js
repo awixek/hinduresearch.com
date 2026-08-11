@@ -465,34 +465,4 @@ const scientistArticlesData = [
     externalUrl: "vriddha-vagbhata-ashtanga-sangraha.html"
   },
 
-{
-    id: 35,
-    slug: "shalihotra",
-    name_hi: "शालिहोत्र",
-    name_en: "Shalihotra",
-    field_hi: "पशु चिकित्सा",
-    field_en: "Veterinary Medicine",
-    era_hi: "प्राचीन भारत",
-    era_en: "Ancient India",
-    image: "Shalihotra.png",
-    summary_hi: "भारतीय पशु चिकित्सा परंपरा के प्राचीन आचार्य, जिनके नाम से घोड़ों की चिकित्सा और देखभाल का साहित्य जुड़ा है।",
-    summary_en: "An ancient authority associated with Indian veterinary medicine, especially the care and treatment of horses.",
-    externalUrl: "shalihotra-ancient-veterinary-medicine.html"
-  },
-
-{
-    id: 41,
-    slug: "kashyapa-ayurveda",
-    name_hi: "कश्यप",
-    name_en: "Kashyapa",
-    field_hi: "बाल चिकित्सा एवं स्त्री-रोग परंपरा",
-    field_en: "Pediatrics & Obstetrics Tradition",
-    era_hi: "प्राचीन भारत",
-    era_en: "Ancient India",
-    image: "Kashyapa.png",
-    summary_hi: "काश्यप संहिता की परंपरा से जुड़े आचार्य, जिनका नाम बाल चिकित्सा, प्रसूति और स्त्री स्वास्थ्य संबंधी आयुर्वेदिक ज्ञान से जुड़ा है।",
-    summary_en: "An authority associated with the Kashyapa tradition of Ayurveda, especially knowledge concerning pediatrics, childbirth and women's health.",
-    externalUrl: "kashyapa-samhita-ayurveda.html"
-  },
-
 ];

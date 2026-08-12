@@ -12,7 +12,7 @@ const scientistArticlesData = [
     image: "Aryabhata.png",
     summary_hi: "शून्य की अवधारणा, पाई (π) का सटीक मान और पृथ्वी के अपनी धुरी पर घूमने की खोज — मात्र २३ वर्ष की आयु में लिखी गई 'आर्यभटीय' की पूरी कहानी।",
     summary_en: "The concept of zero, an accurate value of Pi (π), and the discovery that the Earth rotates on its axis — the full story of the 'Aryabhatiya', written at just 23 years of age.",
-    externalUrl: "aryabhata-zero-pi-discovry.html"
+    externalUrl: "aryabhata-zero-pi-discovery.html"
   },
 
 {

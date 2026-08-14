@@ -1,0 +1,20 @@
+{
+  "schema_version": "6.1B",
+  "generated_at": "2026-08-14T08:57:49.341874+00:00",
+  "site": "https://hinduresearch.com",
+  "total_articles": 8,
+  "latest_count": 8,
+  "years": {
+    "2026": 8
+  },
+  "paths": {
+    "permanent_archive": "/data/articles.json",
+    "latest": "/data/latest.json",
+    "manifest": "/data/manifest.json",
+    "year_archive_pattern": "/data/archive/YYYY.json",
+    "article_pattern": "/news/articles/YYYY/MM/slug.html",
+    "news_index": "/news/",
+    "rss": "/feed/rss.xml",
+    "news_sitemap": "/sitemap-news.xml"
+  }
+}

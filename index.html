@@ -1360,7 +1360,7 @@
   /* ===== DAILY SANATAN FACTS SLIDER ===== */
   .facts-section {
     background-color: var(--bg-cream);
-    padding: 38px 18px 36px;
+    padding: 22px 18px 20px;
   }
 
   .facts-inner {
@@ -1374,7 +1374,7 @@
     border: 1.5px solid var(--border-soft);
     border-left: 5px solid var(--saffron);
     border-radius: 16px;
-    padding: 30px 56px 30px;
+    padding: 22px 52px 22px;
     height: auto;
     display: flex;
     align-items: center;
@@ -3841,33 +3841,6 @@
 
   [class$="-btn"]:active, [class*="-cta-btn"]:active {
     transform: scale(0.97);
-  }
-
-  /* Scroll-reveal: opt-in only once JS adds ".reveal" — if JS never
-     runs, elements simply keep their default full opacity, so nothing
-     ever gets stuck invisible. */
-  .reveal {
-    opacity: 0;
-    transform: translateY(22px);
-    transition: opacity 0.8s var(--ease-premium), transform 0.8s var(--ease-premium);
-  }
-
-  .reveal.in-view {
-    opacity: 1;
-    transform: translateY(0);
-  }
-
-  @media (prefers-reduced-motion: reduce) {
-    *, *::before, *::after {
-      animation-duration: 0.001ms !important;
-      animation-iteration-count: 1 !important;
-      transition-duration: 0.001ms !important;
-      scroll-behavior: auto !important;
-    }
-    .reveal {
-      opacity: 1;
-      transform: none;
-    }
   }
 
   /* ---- Night-mode touch-ups for the handful of components that use a
@@ -6806,36 +6779,6 @@
 </footer>
 
 <script>
-  // Gentle scroll-reveal for major sections. Progressive enhancement only:
-  // if IntersectionObserver is unavailable or this script fails to run,
-  // sections simply keep their normal full-opacity appearance — nothing
-  // is ever hidden by default in the CSS.
-  (function () {
-    if (!('IntersectionObserver' in window)) return;
-    var prefersReduced = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-    if (prefersReduced) return;
-
-    var targets = document.querySelectorAll(
-      '.facts-section, .search-section, .stories-section, .panchang-section, ' +
-      '.japmala-teaser-section, .vratcal-teaser-section, .stotra-teaser-section, ' +
-      '.ebooks-section, .heritage-banner-section, .ayurveda-banner-section, ' +
-      '.quiz-box-section'
-    );
-
-    var observer = new IntersectionObserver(function (entries) {
-      entries.forEach(function (entry) {
-        if (entry.isIntersecting) {
-          entry.target.classList.add('in-view');
-          observer.unobserve(entry.target);
-        }
-      });
-    }, { threshold: 0.12, rootMargin: '0px 0px -40px 0px' });
-
-    targets.forEach(function (el) {
-      el.classList.add('reveal');
-      observer.observe(el);
-    });
-  })();
 </script>
 
 </body>

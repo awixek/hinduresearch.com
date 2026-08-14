@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en" data-generated-by="hinduresearch-news-agent">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Research News | Hindu Research Portal</title>
+  <meta name="description" content="Latest research, archaeology, manuscripts, heritage and cultural news from Hindu Research Portal.">
+  <meta name="robots" content="index,follow,max-image-preview:large">
+  <link rel="canonical" href="https://hinduresearch.com/news/">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Research News | Hindu Research Portal">
+  <meta property="og:description" content="Latest research and evidence-oriented news from Hindu Research Portal.">
+  <meta property="og:url" content="https://hinduresearch.com/news/">
+  <meta property="og:site_name" content="Hindu Research Portal">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Research News | Hindu Research Portal">
+  <meta name="twitter:description" content="Latest research and evidence-oriented news from Hindu Research Portal.">
+  <link rel="alternate" type="application/rss+xml" title="Hindu Research Portal Research News" href="/feed/rss.xml">
+  <link rel="stylesheet" href="/assets/news/css/news.css">
+</head>
+<body>
+  <header class="news-header">
+    <div class="news-shell news-header-inner">
+      <a class="news-brand" href="/">Hindu <span>Research</span></a>
+      <nav aria-label="News navigation">
+        <a href="/">Portal Home</a>
+        <a class="active" href="/news/">Research News</a>
+        <a href="/feed/rss.xml">RSS</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="news-shell">
+    <section class="news-hero">
+      <div class="eyebrow">Hindu Research Portal</div>
+      <h1>Research News</h1>
+      <p>Evidence-oriented briefs covering archaeology, manuscripts, Indian knowledge systems, heritage and global Hindu cultural developments.</p>
+      <div class="stats"><span>{{TOTAL_ARTICLES}} permanent articles</span><span>{{LATEST_COUNT}} latest briefs shown</span></div>
+    </section>
+
+    <section aria-labelledby="latest-heading">
+      <div class="section-heading">
+        <h2 id="latest-heading">Latest Research</h2>
+        <time datetime="{{GENERATED_AT}}">Updated {{GENERATED_AT}}</time>
+      </div>
+      <div class="news-grid">
+        {{ARTICLE_CARDS_HTML}}
+      </div>
+    </section>
+
+    <section class="archive-panel" aria-labelledby="archive-heading">
+      <h2 id="archive-heading">Yearly Archive</h2>
+      <p>Permanent yearly JSON archives are maintained for machine-readable access and future search/indexing.</p>
+      <div class="archive-links">
+        {{ARCHIVE_LINKS_HTML}}
+      </div>
+    </section>
+  </main>
+
+  <footer class="news-footer">
+    <div class="news-shell">Hindu Research Portal · Research News · RSS available at <a href="/feed/rss.xml">/feed/rss.xml</a></div>
+  </footer>
+  <script src="/assets/news/js/news.js" defer></script>
+</body>
+</html>

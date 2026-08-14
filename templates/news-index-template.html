@@ -26,6 +26,10 @@
         <a href="/">Portal Home</a>
         <a class="active" href="/news/">Research News</a>
         <a href="/feed/rss.xml">RSS</a>
+        <div class="language-switcher" role="group" aria-label="Language">
+          <button type="button" data-language="en" aria-label="Switch to English">EN</button>
+          <button type="button" data-language="hi" aria-label="हिन्दी चुनें">HI</button>
+        </div>
       </nav>
     </div>
   </header>
@@ -33,15 +37,24 @@
   <main class="news-shell">
     <section class="news-hero">
       <div class="eyebrow">Hindu Research Portal</div>
-      <h1>Research News</h1>
-      <p>Evidence-oriented briefs covering archaeology, manuscripts, Indian knowledge systems, heritage and global Hindu cultural developments.</p>
-      <div class="stats"><span>{{TOTAL_ARTICLES}} permanent articles</span><span>{{LATEST_COUNT}} latest briefs shown</span></div>
+      <div data-lang="en">
+        <h1>Research News</h1>
+        <p>Evidence-oriented briefs covering archaeology, manuscripts, Indian knowledge systems, heritage and global Hindu cultural developments.</p>
+        <div class="stats"><span>{{TOTAL_ARTICLES}} permanent articles</span><span>{{LATEST_COUNT}} latest briefs shown</span></div>
+      </div>
+      <div data-lang="hi">
+        <h1>रिसर्च न्यूज़</h1>
+        <p>पुरातत्व, पांडुलिपियों, भारतीय ज्ञान-परंपराओं, विरासत और वैश्विक हिन्दू सांस्कृतिक विकास पर प्रमाण-आधारित संक्षिप्त शोध समाचार।</p>
+        <div class="stats"><span>{{TOTAL_ARTICLES}} स्थायी लेख</span><span>{{LATEST_COUNT}} नवीन ब्रीफ़</span></div>
+      </div>
     </section>
 
     <section aria-labelledby="latest-heading">
       <div class="section-heading">
-        <h2 id="latest-heading">Latest Research</h2>
-        <time datetime="{{GENERATED_AT}}">Updated {{GENERATED_AT}}</time>
+        <div data-lang="en"><h2 id="latest-heading">Latest Research</h2></div>
+        <div data-lang="hi"><h2>नवीनतम रिसर्च</h2></div>
+        <div data-lang="en"><time datetime="{{GENERATED_AT}}">Updated {{GENERATED_AT}}</time></div>
+        <div data-lang="hi"><time datetime="{{GENERATED_AT}}">अपडेट {{GENERATED_AT}}</time></div>
       </div>
       <div class="news-grid">
         {{ARTICLE_CARDS_HTML}}
@@ -49,16 +62,23 @@
     </section>
 
     <section class="archive-panel" aria-labelledby="archive-heading">
-      <h2 id="archive-heading">Yearly Archive</h2>
-      <p>Permanent yearly JSON archives are maintained for machine-readable access and future search/indexing.</p>
-      <div class="archive-links">
-        {{ARCHIVE_LINKS_HTML}}
+      <div data-lang="en">
+        <h2 id="archive-heading">Yearly Archive</h2>
+        <p>Permanent yearly JSON archives are maintained for machine-readable access and future search/indexing.</p>
       </div>
+      <div data-lang="hi">
+        <h2>वार्षिक आर्काइव</h2>
+        <p>मशीन-पठनीय उपयोग और भविष्य की सर्च/इंडेक्सिंग के लिए स्थायी वार्षिक JSON आर्काइव बनाए जाते हैं।</p>
+      </div>
+      <div class="archive-links">{{ARCHIVE_LINKS_HTML}}</div>
     </section>
   </main>
 
   <footer class="news-footer">
-    <div class="news-shell">Hindu Research Portal · Research News · RSS available at <a href="/feed/rss.xml">/feed/rss.xml</a></div>
+    <div class="news-shell">
+      <span data-lang="en">Hindu Research Portal · Research News · RSS available at <a href="/feed/rss.xml">/feed/rss.xml</a></span>
+      <span data-lang="hi">हिन्दू रिसर्च पोर्टल · रिसर्च न्यूज़ · RSS: <a href="/feed/rss.xml">/feed/rss.xml</a></span>
+    </div>
   </footer>
   <script src="/assets/news/js/news.js" defer></script>
 </body>

@@ -429,6 +429,13 @@
     letter-spacing: 0.2px;
   }
 
+  .logo-icon-svg {
+    width: 26px;
+    height: 26px;
+    display: block;
+    transition: transform .7s cubic-bezier(.65, 0, .35, 1);
+  }
+
   .brand-text .brand-accent {
     color: var(--saffron-dark);
   }
@@ -1226,11 +1233,15 @@
     align-items: center;
     justify-content: space-between;
     gap: 24px;
-    background: linear-gradient(135deg, #fff8ef, #ffffff);
+    background: linear-gradient(135deg, var(--card-bg), var(--card-bg));
     border: 1.5px solid var(--gold);
     border-left: 5px solid var(--saffron);
     border-radius: 16px;
     box-shadow: var(--shadow-sm);
+  }
+
+  body.green-mode .homepage-news-card {
+    background: linear-gradient(135deg, rgba(22, 30, 58, 0.9), rgba(22, 30, 58, 0.72));
   }
 
   .homepage-news-copy {
@@ -3911,7 +3922,11 @@
   <div class="header-inner">
 
     <a href="index.html" class="brand">
-      <span class="om-mark">ॐ</span>
+      <span class="om-mark" id="logoMark">
+        <svg id="logoIconSvg" class="logo-icon-svg" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+          <text x="50" y="68" font-size="58" font-family="'Tiro Devanagari Hindi', serif" text-anchor="middle" fill="currentColor">ॐ</text>
+        </svg>
+      </span>
       <span class="brand-text">
         Hindu <span class="brand-accent">Research</span> Portal
       </span>
@@ -4834,6 +4849,79 @@
       swastikaEmblem.style.transition = '';
     }, 700);
   }
+
+  // ===== Header logo icon cycler: Om -> Krishna (flute) -> Dhanush -> Lotus Om,
+  // transitioning through a spinning swastika between each. =====
+  (function () {
+    const logoSvg = document.getElementById('logoIconSvg');
+    if (!logoSvg) return;
+
+    const swastikaContent = `
+      <path d="M50 15 L50 42 L77 42 L77 50 L58 50 L58 50 L58 85 L50 85 L50 58 L23 58 L23 50 L42 50 L42 15 Z"/>
+      <circle cx="68" cy="32" r="3.4"/><circle cx="68" cy="68" r="3.4"/>
+      <circle cx="32" cy="68" r="3.4"/><circle cx="32" cy="32" r="3.4"/>
+    `;
+
+    const logoStates = [
+      // Om
+      `<text x="50" y="68" font-size="58" font-family="'Tiro Devanagari Hindi', serif" text-anchor="middle" fill="currentColor">ॐ</text>`,
+      // Krishna silhouette with bansuri — refined tribhanga pose, feather crown, hand + finger holes
+      `<circle cx="50" cy="21" r="8.5"/>
+       <path d="M45 14 Q39 4 47 3 Q45 10 47 15 Q46 15 45 14 Z"/>
+       <ellipse cx="45.5" cy="7" rx="1.6" ry="2.6" fill="#00000030"/>
+       <path d="M50 30
+                C41 35 37 48 43 58
+                C47 65 43 74 34 82
+                C40 85 47 84 51 78
+                C56 71 53 62 58 55
+                C64 46 62 36 50 30 Z"/>
+       <line x1="52" y1="26" x2="82" y2="14" stroke="currentColor" stroke-width="4.2" stroke-linecap="round"/>
+       <circle cx="63" cy="22" r="1.5" fill="#00000045"/>
+       <circle cx="70" cy="19" r="1.5" fill="#00000045"/>
+       <circle cx="77" cy="16" r="1.5" fill="#00000045"/>`,
+      // Dhanush (bow & arrow) — cleaner arc, balanced arrowhead and fletching
+      `<path d="M30 12 Q54 50 30 88" fill="none" stroke="currentColor" stroke-width="5.5" stroke-linecap="round"/>
+       <line x1="30" y1="12" x2="30" y2="88" stroke="currentColor" stroke-width="2.2"/>
+       <line x1="16" y1="50" x2="72" y2="50" stroke="currentColor" stroke-width="4.2" stroke-linecap="round"/>
+       <path d="M72 50 L60 43 L60 57 Z" fill="currentColor"/>
+       <line x1="16" y1="50" x2="25" y2="43" stroke="currentColor" stroke-width="3" stroke-linecap="round"/>
+       <line x1="16" y1="50" x2="25" y2="57" stroke="currentColor" stroke-width="3" stroke-linecap="round"/>`,
+      // Lotus with Om — fuller bloom with inner, side and outer petal layers
+      `<g fill="currentColor">
+         <path d="M50 58 Q40 44 30 54 Q38 64 50 58 Z"/>
+         <path d="M50 58 Q60 44 70 54 Q62 64 50 58 Z"/>
+         <path d="M50 58 Q30 58 22 70 Q36 74 50 58 Z"/>
+         <path d="M50 58 Q70 58 78 70 Q64 74 50 58 Z"/>
+         <path d="M50 60 Q44 42 50 26 Q56 42 50 60 Z"/>
+         <path d="M50 62 Q34 68 26 84 Q42 82 50 62 Z"/>
+         <path d="M50 62 Q66 68 74 84 Q58 82 50 62 Z"/>
+       </g>
+       <text x="50" y="24" font-size="22" font-family="'Tiro Devanagari Hindi', serif" text-anchor="middle" fill="currentColor">ॐ</text>`
+    ];
+
+    let logoIndex = 0;
+    let logoAngle = 0;
+
+    function spinToNextLogoIcon() {
+      // Phase 1: show the spinning swastika
+      logoSvg.innerHTML = swastikaContent;
+      logoAngle += 360;
+      logoSvg.style.transform = `rotate(${logoAngle}deg)`;
+
+      // Phase 2: after the spin completes, reveal the next icon upright
+      setTimeout(() => {
+        logoIndex = (logoIndex + 1) % logoStates.length;
+        logoSvg.style.transition = 'none';
+        logoAngle = 0;
+        logoSvg.style.transform = 'rotate(0deg)';
+        void logoSvg.offsetWidth;
+        logoSvg.style.transition = '';
+        logoSvg.innerHTML = logoStates[logoIndex];
+      }, 700);
+    }
+
+    setInterval(spinToNextLogoIcon, 3200);
+  })();
 
   function goToSlide(index) {
     slides[currentIndex].classList.remove('active');

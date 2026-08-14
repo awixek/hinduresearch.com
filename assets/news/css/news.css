@@ -17,3 +17,13 @@ h1,h2{font-family:Georgia,serif}h1{font-size:clamp(2.25rem,6vw,4.1rem);line-heig
 .archive-panel{margin:48px 0;padding:24px;background:var(--surface);border:1px solid var(--border);border-radius:10px}.archive-panel h2{margin-top:0}.archive-panel p{color:var(--muted)}.archive-links{display:flex;gap:10px;flex-wrap:wrap}.archive-links a{display:inline-flex;gap:8px;padding:8px 12px;border:1px solid var(--border);border-radius:6px;text-decoration:none}.archive-links span{color:var(--muted)}
 .news-article{padding:38px 0 60px;max-width:900px}.breadcrumbs{display:flex;gap:8px;flex-wrap:wrap;color:var(--muted);font-size:.82rem;margin-bottom:36px}.breadcrumbs a{text-decoration:none}.news-article h1{font-size:clamp(2.1rem,5vw,3.5rem);margin:10px 0 18px}.lead{font-size:1.18rem;color:#e1d4c3}.article-meta{display:flex;gap:8px 18px;flex-wrap:wrap;color:var(--muted);font-size:.8rem;border-bottom:1px solid var(--border);padding:14px 0 22px}.news-article section{margin-top:34px}.news-article section h2{font-size:1.45rem;color:var(--orange)}.research-box,.source-box{background:linear-gradient(160deg,var(--surface2),var(--surface));border:1px solid var(--gold);border-radius:9px;padding:20px}.news-article li{margin:8px 0;color:#d8cbbb}.back-link{margin-top:38px}.news-footer{border-top:1px solid var(--border);margin-top:40px;padding:24px 0;color:#988a78;font-size:.8rem}
 @media(max-width:760px){.news-shell{width:min(100% - 20px,1080px)}.news-grid{grid-template-columns:1fr}.news-header-inner{align-items:flex-start;padding:10px 0;flex-direction:column}.news-header nav{width:100%}.section-heading{align-items:flex-start;flex-direction:column}}
+
+/* Phase 6.1C — bilingual news controls. Existing news layout remains unchanged. */
+.language-switcher{display:inline-flex;align-items:center;gap:2px;margin-left:4px;padding:2px;border:1px solid var(--border);border-radius:999px;background:var(--surface)}
+.language-switcher button{border:0;background:transparent;color:#d9cbb8;font:700 .72rem/1 "Segoe UI","Noto Sans",Arial,sans-serif;letter-spacing:.04em;padding:6px 9px;border-radius:999px;cursor:pointer}
+.language-switcher button:hover,.language-switcher button.active{background:rgba(212,165,55,.16);color:var(--gold2)}
+.language-switcher button:focus-visible{outline:2px solid var(--gold2);outline-offset:1px}
+[data-lang][hidden]{display:none!important}
+.news-card [data-lang]{min-height:0}
+.article-meta>div{display:flex;gap:8px 18px;flex-wrap:wrap}
+@media(max-width:760px){.language-switcher{margin-left:0}.news-header nav{align-items:center}}

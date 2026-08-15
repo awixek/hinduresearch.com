@@ -1,13 +1,13 @@
 {
   "schema_version": "6.1B",
-  "updated_at": "2026-08-15T04:06:01.243519+00:00",
-  "count": 17,
+  "updated_at": "2026-08-15T16:26:30.196918+00:00",
+  "count": 18,
   "articles": [
     {
       "id": "c23a3b47acaf8a84",
       "slug": "ancient-indian-inscriptions-uncovered-in-egypt-s-valley-of-the-kings-c23a3b47",
       "title": "Ancient Indian Inscriptions Uncovered in Egypt's Valley of the Kings",
-      "summary": "A recent archaeological discovery in the Valley of the Kings has revealed nearly 30 inscriptions in ancient Indian languages, shedding new light on the presence of Indians in Egypt between the 1st and 3rd centuries AD. The inscriptions, found across six tombs, are primarily in Tamil-Brahmi, an ancient language connected to modern Tamil. This finding suggests a significant integration of people of Indian origin into Roman Egyptian society.",
+      "summary": "Archaeologists have discovered nearly 30 inscriptions in ancient Indian languages within six tombs in the Valley of the Kings, shedding new light on Indian presence in Ancient Egypt. The majority of these inscriptions are in Tamil-Brahmi, an ancient language connected to modern Tamil. This finding suggests a significant integration of Indians into Roman Egyptian society between the first and third centuries AD.",
       "category": "Archaeology & Ancient Discoveries",
       "date": "2026-08-15",
       "published_at": "2026-08-15",
@@ -15,12 +15,12 @@
       "source": "theartnewspaper.com",
       "source_url": "https://www.theartnewspaper.com/2026/02/25/2000-year-old-inscriptions-found-in-valley-of-the-kings-offer-fresh-insight-into-indian-presence-in-ancient-egypt",
       "key_takeaways": [
-        "The inscriptions are approximately 2,000 years old and were found in six tombs in the Valley of the Kings",
-        "The majority of the inscriptions are in Tamil-Brahmi, an ancient language linked to modern Tamil",
-        "The discovery indicates the presence of Indians from various regions of the subcontinent in Ancient Egypt"
+        "The inscriptions are approximately 2,000 years old and were found across six tombs in the Valley of the Kings",
+        "The majority of the inscriptions are in Tamil-Brahmi, indicating a connection to the Indian subcontinent",
+        "The discovery suggests that people of Indian origin were integrated into the society of Roman Egypt during the first to third centuries AD"
       ],
-      "why_this_matters": "This discovery is significant for Indian civilisation and historical research as it provides evidence of Indian presence in Ancient Egypt, highlighting the cultural exchange and integration between the two ancient societies. It also opens up new avenues for research into the history of Indian diaspora and trade networks in the ancient world.",
-      "research_hook": "A future research article could explore the implications of these inscriptions on our understanding of ancient Indian trade routes and cultural exchange with the Mediterranean world, and how this discovery can inform new perspectives on the history of Indian-Egyptian relations.",
+      "why_this_matters": "This discovery is significant for Indian civilisation and heritage as it provides tangible evidence of Indian presence in Ancient Egypt, highlighting the historical connections between the two cultures. It also underscores the potential for further discoveries of Indian artefacts in Egypt, which could deepen our understanding of these ancient interactions.",
+      "research_hook": "A future research article could explore the implications of these findings for our understanding of trade and cultural exchange between Ancient India and Egypt, examining the role of Indian communities in shaping the cultural and economic landscape of Roman Egypt.",
       "editorial_confidence": 90,
       "schema_version": "6.1B",
       "language": "en",
@@ -28,29 +28,353 @@
       "translations": {
         "hi": {
           "title": "मिस्र की वैली ऑफ द किंग्स में प्राचीन भारतीय शिलालेखों का पता चला",
-          "summary": "वैली ऑफ द किंग्स में एक हालिया पुरातात्विक खोज ने लगभग 30 प्राचीन भारतीय भाषाओं में शिलालेखों का खुलासा किया है, जो 1से 3री शताब्दी ईस्वी के बीच मिस्र में भारतीयों की उपस्थिति पर नई रोशनी डालता है। छह कब्रों में पाए गए शिलालेख मुख्य रूप से तमिल-ब्राह्मी में हैं, जो आधुनिक तमिल से जुड़ी एक प्राचीन भाषा है। यह खोज रोमन मिस्र के समाज में भारतीय मूल के लोगों के महत्वपूर्ण एकीकरण का संकेत देती है।",
+          "summary": "पुरातत्वविदों ने वैली ऑफ द किंग्स के छह स्माधियों में लगभग ३० प्राचीन भारतीय भाषाओं में शिलालेखों का पता लगाया है, जो प्राचीन मिस्र में भारतीय उपस्थिति पर नई जानकारी प्रदान करता है। इनमें से अधिकांश शिलालेख तमिल-ब्राह्मी में हैं, जो आधुनिक तमिल से जुड़ी एक प्राचीन भाषा है। यह खोज पहली और तीसरी शताब्दी ईस्वी के बीच रोमन मिस्र के समाज में भारतीयों के महत्वपूर्ण एकीकरण का सुझाव देती है।",
           "key_takeaways": [
-            "शिलालेख लगभग 2,000 वर्ष पुराने हैं और वैली ऑफ द किंग्स की छह कब्रों में पाए गए हैं",
-            "शिलालेखों का अधिकांश भाग तमिल-ब्राह्मी में है, जो आधुनिक तमिल से जुड़ी एक प्राचीन भाषा है",
-            "यह खोज प्राचीन मिस्र में उपमहाद्वीप के विभिन्न क्षेत्रों के भारतीयों की उपस्थिति का संकेत देती है"
+            "इन शिलालेखों की आयु लगभग २००० वर्ष है और वैली ऑफ द किंग्स के छह स्माधियों में पाए गए हैं",
+            "अधिकांश शिलालेख तमिल-ब्राह्मी में हैं, जो भारतीय उपमहाद्वीप से जुड़े हुए हैं",
+            "यह खोज दर्शाती है कि पहली से तीसरी शताब्दी ईस्वी के बीच रोमन मिस्र के समाज में भारतीय मूल के लोग एकीकृत थे"
           ],
-          "why_this_matters": "यह खोज भारतीय सभ्यता और ऐतिहासिक अनुसंधान के लिए महत्वपूर्ण है क्योंकि यह प्राचीन मिस्र में भारतीय उपस्थिति के प्रमाण प्रदान करती है, जो दोनों प्राचीन समाजों के बीच सांस्कृतिक आदान-प्रदान और एकीकरण को उजागर करती है। यह प्राचीन विश्व में भारतीय प्रवासी और व्यापार नेटवर्क के इतिहास में अनुसंधान के लिए नए मार्ग भी खोलती है।",
-          "research_hook": "एक भविष्य के शोध लेख में प्राचीन भारतीय व्यापार मार्गों और भूमध्यसागरीय विश्व के साथ सांस्कृतिक आदान-प्रदान पर इन शिलालेखों के निहितार्थों का अन्वेषण किया जा सकता है, और यह खोज कैसे भारत-मिस्र संबंधों के इतिहास पर नए दृष्टिकोण को सूचित कर सकती है।"
+          "why_this_matters": "यह खोज भारतीय सभ्यता और विरासत के लिए महत्वपूर्ण है क्योंकि यह प्राचीन मिस्र में भारतीय उपस्थिति के साक्ष्य प्रदान करती है, जो दोनों संस्कृतियों के बीच ऐतिहासिक संबंधों को रेखांकित करती है। यह मिस्र में और अधिक भारतीय कलाकृतियों की खोज की संभावना को भी दर्शाती है, जो इन प्राचीन परस्पर क्रियाओं की हमारी समझ को गहरा कर सकती है।",
+          "research_hook": "एक भविष्य के शोध लेख में प्राचीन भारत और मिस्र के बीच व्यापार और सांस्कृतिक आदान-प्रदान पर इन निष्कर्षों के निहितार्थों का अन्वेषण किया जा सकता है, जिसमें रोमन मिस्र के सांस्कृतिक और आर्थिक परिदृश्य को आकार देने में भारतीय समुदायों की भूमिका की जांच की जा सकती है।"
         },
         "en": {
           "title": "Ancient Indian Inscriptions Uncovered in Egypt's Valley of the Kings",
-          "summary": "A recent archaeological discovery in the Valley of the Kings has revealed nearly 30 inscriptions in ancient Indian languages, shedding new light on the presence of Indians in Egypt between the 1st and 3rd centuries AD. The inscriptions, found across six tombs, are primarily in Tamil-Brahmi, an ancient language connected to modern Tamil. This finding suggests a significant integration of people of Indian origin into Roman Egyptian society.",
+          "summary": "Archaeologists have discovered nearly 30 inscriptions in ancient Indian languages within six tombs in the Valley of the Kings, shedding new light on Indian presence in Ancient Egypt. The majority of these inscriptions are in Tamil-Brahmi, an ancient language connected to modern Tamil. This finding suggests a significant integration of Indians into Roman Egyptian society between the first and third centuries AD.",
           "key_takeaways": [
-            "The inscriptions are approximately 2,000 years old and were found in six tombs in the Valley of the Kings",
-            "The majority of the inscriptions are in Tamil-Brahmi, an ancient language linked to modern Tamil",
-            "The discovery indicates the presence of Indians from various regions of the subcontinent in Ancient Egypt"
+            "The inscriptions are approximately 2,000 years old and were found across six tombs in the Valley of the Kings",
+            "The majority of the inscriptions are in Tamil-Brahmi, indicating a connection to the Indian subcontinent",
+            "The discovery suggests that people of Indian origin were integrated into the society of Roman Egypt during the first to third centuries AD"
           ],
-          "why_this_matters": "This discovery is significant for Indian civilisation and historical research as it provides evidence of Indian presence in Ancient Egypt, highlighting the cultural exchange and integration between the two ancient societies. It also opens up new avenues for research into the history of Indian diaspora and trade networks in the ancient world.",
-          "research_hook": "A future research article could explore the implications of these inscriptions on our understanding of ancient Indian trade routes and cultural exchange with the Mediterranean world, and how this discovery can inform new perspectives on the history of Indian-Egyptian relations."
+          "why_this_matters": "This discovery is significant for Indian civilisation and heritage as it provides tangible evidence of Indian presence in Ancient Egypt, highlighting the historical connections between the two cultures. It also underscores the potential for further discoveries of Indian artefacts in Egypt, which could deepen our understanding of these ancient interactions.",
+          "research_hook": "A future research article could explore the implications of these findings for our understanding of trade and cultural exchange between Ancient India and Egypt, examining the role of Indian communities in shaping the cultural and economic landscape of Roman Egypt."
         }
       },
       "first_published": "2026-08-14",
-      "updated_at": "2026-08-15T04:06:03.704557+00:00"
+      "updated_at": "2026-08-15T16:26:33.622192+00:00"
+    },
+    {
+      "id": "8da5ee15834d64b7",
+      "slug": "archaeological-survey-of-india-8da5ee15",
+      "title": "Unveiling India's Epigraphical Heritage: A Window into the Past",
+      "summary": "The Archaeological Survey of India's Epigraphy Branch has been instrumental in uncovering the country's rich epigraphical wealth, with over one lakh inscriptions discovered to date. These inscriptions provide valuable insights into India's history and culture, spanning from the Mauryan period to the late medieval era. The branch, established in 1886, has been collecting, editing, and publishing inscriptions, shedding light on the country's past.",
+      "category": "Archaeology & Ancient Discoveries",
+      "date": "2026-08-15",
+      "published_at": "2026-08-15",
+      "source_published_at": null,
+      "source": "asi.nic.in",
+      "source_url": "https://asi.nic.in/pages/Epigraphy-Branch/HQ",
+      "key_takeaways": [
+        "More than one lakh inscriptions have been discovered in India, with many more waiting to be uncovered",
+        "The Epigraphy Branch of the Archaeological Survey of India was established in 1886, highlighting the importance of inscriptions in understanding Indian history",
+        "Inscriptions provide a significant source of information on India's history and culture, from the Mauryan period to the late medieval era"
+      ],
+      "why_this_matters": "The study of epigraphy is crucial for understanding India's rich cultural heritage and historical significance, offering a unique window into the country's past. By analyzing these inscriptions, researchers can gain valuable insights into the country's development and evolution over time.",
+      "research_hook": "A future research article could explore the significance of specific inscriptions, such as those from the Mauryan period, and their impact on our understanding of Indian history and culture.",
+      "editorial_confidence": 90,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "hi": {
+          "title": "भारत की शिलालेखीय विरासत का अनावरण: अतीत की एक झलक",
+          "summary": "भारतीय पुरातत्व सर्वेक्षण की शिलालेख शाखा ने देश की समृद्ध शिलालेखीय धरोहर का पता लगाने में महत्वपूर्ण भूमिका निभाई है, जिसमें अब तक एक लाख से अधिक शिलालेखों की खोज की जा चुकी है। ये शिलालेख भारत के इतिहास और संस्कृति में मूल्यवान अंतर्दृष्टि प्रदान करते हैं, जो मौर्य काल से लेकर देर से मध्ययुगीन युग तक फैले हुए हैं। १८८६ में स्थापित इस शाखा ने शिलालेखों का संग्रह, संपादन और प्रकाशन किया है, जिससे देश के अतीत पर प्रकाश पड़ा है।",
+          "key_takeaways": [
+            "भारत में एक लाख से अधिक शिलालेखों की खोज की जा चुकी है, जिनमें से कई और अभी भी खोजे जाने बाकी हैं",
+            "भारतीय पुरातत्व सर्वेक्षण की शिलालेख शाखा की स्थापना १८८६ में हुई थी, जो शिलालेखों के महत्व को भारतीय इतिहास को समझने में दर्शाती है",
+            "शिलालेख भारत के इतिहास और संस्कृति के बारे में महत्वपूर्ण जानकारी का स्रोत हैं, जो मौर्य काल से लेकर देर से मध्ययुगीन युग तक फैले हुए हैं"
+          ],
+          "why_this_matters": "शिलालेख विज्ञान का अध्ययन भारत की समृद्ध सांस्कृतिक विरासत और ऐतिहासिक महत्व को समझने के लिए महत्वपूर्ण है, जो देश के अतीत में एक अनोखी झलक प्रदान करता है। इन शिलालेखों का विश्लेषण करके, शोधकर्ता देश के विकास और काल के साथ विकास के बारे में मूल्यवान अंतर्दृष्टि प्राप्त कर सकते हैं।",
+          "research_hook": "एक भविष्य के शोध लेख में मौर्य काल के विशिष्ट शिलालेखों के महत्व का अन्वेषण किया जा सकता है और उनका भारतीय इतिहास और संस्कृति की हमारी समझ पर प्रभाव।"
+        },
+        "en": {
+          "title": "Unveiling India's Epigraphical Heritage: A Window into the Past",
+          "summary": "The Archaeological Survey of India's Epigraphy Branch has been instrumental in uncovering the country's rich epigraphical wealth, with over one lakh inscriptions discovered to date. These inscriptions provide valuable insights into India's history and culture, spanning from the Mauryan period to the late medieval era. The branch, established in 1886, has been collecting, editing, and publishing inscriptions, shedding light on the country's past.",
+          "key_takeaways": [
+            "More than one lakh inscriptions have been discovered in India, with many more waiting to be uncovered",
+            "The Epigraphy Branch of the Archaeological Survey of India was established in 1886, highlighting the importance of inscriptions in understanding Indian history",
+            "Inscriptions provide a significant source of information on India's history and culture, from the Mauryan period to the late medieval era"
+          ],
+          "why_this_matters": "The study of epigraphy is crucial for understanding India's rich cultural heritage and historical significance, offering a unique window into the country's past. By analyzing these inscriptions, researchers can gain valuable insights into the country's development and evolution over time.",
+          "research_hook": "A future research article could explore the significance of specific inscriptions, such as those from the Mauryan period, and their impact on our understanding of Indian history and culture."
+        }
+      },
+      "first_published": "2026-08-14",
+      "updated_at": "2026-08-15T16:26:33.621138+00:00"
+    },
+    {
+      "id": "f1af2489cebd3205",
+      "slug": "deciphering-indus-script-inscriptions-unveiling-ancient-india-s-cultural-history-f1af2489",
+      "title": "Deciphering Indus Script Inscriptions: Unveiling Ancient India's Cultural History",
+      "summary": "Research on Indian inscriptions has shed light on the cultural and artistic history of ancient India, with a focus on deciphering the Indus Script and its connection to Hindu iconography. The study of epigraphic evidence has revealed the significance of inscriptions in understanding religious practices and societal dynamics. This area of research has the potential to reconstruct historical narratives about ancient and medieval India",
+      "category": "Archaeology & Ancient Discoveries",
+      "date": "2026-08-15",
+      "published_at": "2026-08-15",
+      "source_published_at": null,
+      "source": "academia.edu",
+      "source_url": "https://www.academia.edu/Documents/in/Indian_Inscriptions",
+      "key_takeaways": [
+        "Inscriptions on stones, metal plates, and temple walls serve as primary sources for understanding ancient Indian history",
+        "The Indus Script has been proposed to be deciphered as hypertext expressions that link epigraphy with the origins of Hindu iconography",
+        "Epigraphic evidence reveals donor identities, sectarian affiliations, and socio-political changes in ancient and medieval India"
+      ],
+      "why_this_matters": "The study of Indian inscriptions is crucial for understanding the cultural and historical context of ancient India, and has significant implications for the field of Hindu iconography and cultural history. This research has the potential to provide new insights into the development of religious practices and societal dynamics in ancient India",
+      "research_hook": "A future research article could explore the intersection of epigraphic evidence and archaeological findings to further reconstruct the historical narrative of ancient India, with a focus on the role of inscriptions in documenting the evolution of Hindu iconography",
+      "editorial_confidence": 90,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "hi": {
+          "title": "सिंधु लिपि शिलालेखों का अर्थ समझना: प्राचीन भारत के सांस्कृतिक इतिहास का पर्दाफाश",
+          "summary": "भारतीय शिलालेखों पर किए गए शोध ने प्राचीन भारत के सांस्कृतिक और कलात्मक इतिहास पर प्रकाश डाला है, जिसमें सिंधु लिपि को समझने और हिंदू प्रतीकात्मकता से इसके संबंध पर ध्यान केंद्रित किया गया है। शिलालेखों के साक्ष्य का अध्ययन करने से यह पता चला है कि धार्मिक प्रथाओं और सामाजिक गतिविधियों को समझने में शिलालेखों का कितना महत्व है। इस शोध क्षेत्र में प्राचीन और मध्ययुगीन भारत के ऐतिहासिक विवरण को पुनर्निर्माण करने की क्षमता है।",
+          "key_takeaways": [
+            "पत्थरों, धातु की प्लेटों और मंदिर की दीवारों पर शिलालेख प्राचीन भारतीय इतिहास को समझने के लिए प्राथमिक स्रोत के रूप में कार्य करते हैं",
+            "सिंधु लिपि को हाइपरटेक्स्ट अभिव्यक्तियों के रूप में समझने का प्रस्ताव किया गया है जो शिलालेखों को हिंदू प्रतीकात्मकता की उत्पत्ति से जोड़ती है",
+            "शिलालेखों के साक्ष्य से दाताओं की पहचान, संप्रदायिक संबंध और प्राचीन और मध्ययुगीन भारत में सामाजिक-राजनीतिक परिवर्तनों का पता चलता है"
+          ],
+          "why_this_matters": "भारतीय शिलालेखों का अध्ययन प्राचीन भारत के सांस्कृतिक और ऐतिहासिक संदर्भ को समझने के लिए महत्वपूर्ण है और हिंदू प्रतीकात्मकता और सांस्कृतिक इतिहास के क्षेत्र में इसके महत्वपूर्ण निहितार्थ हैं। इस शोध में प्राचीन भारत में धार्मिक प्रथाओं और सामाजिक गतिविधियों के विकास के बारे में नए दृष्टिकोण प्रदान करने की क्षमता है।",
+          "research_hook": "एक भविष्य के शोध लेख में शिलालेखों के साक्ष्य और पुरातात्त्विक खोजों के बीच के संबंध का अन्वेषण किया जा सकता है ताकि प्राचीन भारत के ऐतिहासिक विवरण को और पुनर्निर्माण किया जा सके, जिसमें हिंदू प्रतीकात्मकता के विकास का दस्तावेजीकरण करने में शिलालेखों की भूमिका पर ध्यान केंद्रित किया जा सके।"
+        },
+        "en": {
+          "title": "Deciphering Indus Script Inscriptions: Unveiling Ancient India's Cultural History",
+          "summary": "Research on Indian inscriptions has shed light on the cultural and artistic history of ancient India, with a focus on deciphering the Indus Script and its connection to Hindu iconography. The study of epigraphic evidence has revealed the significance of inscriptions in understanding religious practices and societal dynamics. This area of research has the potential to reconstruct historical narratives about ancient and medieval India",
+          "key_takeaways": [
+            "Inscriptions on stones, metal plates, and temple walls serve as primary sources for understanding ancient Indian history",
+            "The Indus Script has been proposed to be deciphered as hypertext expressions that link epigraphy with the origins of Hindu iconography",
+            "Epigraphic evidence reveals donor identities, sectarian affiliations, and socio-political changes in ancient and medieval India"
+          ],
+          "why_this_matters": "The study of Indian inscriptions is crucial for understanding the cultural and historical context of ancient India, and has significant implications for the field of Hindu iconography and cultural history. This research has the potential to provide new insights into the development of religious practices and societal dynamics in ancient India",
+          "research_hook": "A future research article could explore the intersection of epigraphic evidence and archaeological findings to further reconstruct the historical narrative of ancient India, with a focus on the role of inscriptions in documenting the evolution of Hindu iconography"
+        }
+      },
+      "first_published": "2026-08-15",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "b62f3abad5426a8c",
+      "slug": "official-website-of-national-archives-of-india-government-of-india-b62f3aba",
+      "title": "Unveiling India's Rich History: The National Archives of India",
+      "summary": "The National Archives of India serves as the primary custodian of the government's enduring records, established in 1891 in Calcutta. It houses a vast collection of records, including public and private papers, oriental records, and microfilms. This repository offers invaluable sources for researching Indian history and culture",
+      "category": "Vedic & Manuscript Research",
+      "date": "2026-08-15",
+      "published_at": "2026-08-15",
+      "source_published_at": null,
+      "source": "nationalarchives.nic.in",
+      "source_url": "https://nationalarchives.nic.in/en",
+      "key_takeaways": [
+        "The National Archives of India was established on 11 March 1891 as the Imperial Records Department",
+        "It is the largest archival repository in South Asia, holding a vast corpus of records",
+        "The archives provide access to various resources, including digital exhibitions, online records, and a library"
+      ],
+      "why_this_matters": "The National Archives of India plays a crucial role in preserving India's historical and cultural heritage, providing valuable resources for researchers and scholars. Its extensive collection of records and manuscripts offers insights into the country's past, contributing significantly to Indian historical research",
+      "research_hook": "A future research article could explore the significance of the National Archives of India's oriental records collection, examining its relevance to the study of ancient Indian manuscripts and texts",
+      "editorial_confidence": 90,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "hi": {
+          "title": "भारत का समृद्ध इतिहास उजागर करना: नेशनल आर्काइव्स ऑफ इंडिया",
+          "summary": "नेशनल आर्काइव्स ऑफ इंडिया सरकार के स्थायी रिकॉर्ड्स के प्राथमिक संरक्षक के रूप में कार्य करता है, जिसकी स्थापना 1891 में कलकत्ता में हुई थी। यह सार्वजनिक और निजी पत्रों, पूर्वी रिकॉर्ड, और माइक्रोफिल्म सहित रिकॉर्ड्स का एक विशाल संग्रह है। यह भंडार भारतीय इतिहास और संस्कृति के शोध के लिए अमूल्य स्रोत प्रदान करता है",
+          "key_takeaways": [
+            "नेशनल आर्काइव्स ऑफ इंडिया की स्थापना 11 मार्च 1891 को इंपीरियल रिकॉर्ड्स डिपार्टमेंट के रूप में हुई थी",
+            "यह दक्षिण एशिया का सबसे बड़ा संग्रहालय है, जिसमें रिकॉर्ड्स का एक विशाल संग्रह है",
+            "आर्काइव्स डिजिटल प्रदर्शनी, ऑनलाइन रिकॉर्ड, और एक पुस्तकालय सहित विभिन्न संसाधनों तक पहुंच प्रदान करता है"
+          ],
+          "why_this_matters": "नेशनल आर्काइव्स ऑफ इंडिया भारत की ऐतिहासिक और सांस्कृतिक विरासत को संरक्षित करने में एक महत्वपूर्ण भूमिका निभाता है, शोधकर्ताओं और विद्वानों के लिए मूल्यवान संसाधन प्रदान करता है। इसके व्यापक रिकॉर्ड और पांडुलिपियों के संग्रह से देश के अतीत के बारे में जानकारी मिलती है, जो भारतीय ऐतिहासिक शोध में महत्वपूर्ण योगदान करता है",
+          "research_hook": "एक भविष्य के शोध लेख में नेशनल आर्काइव्स ऑफ इंडिया के पूर्वी रिकॉर्ड संग्रह के महत्व का अन्वेषण किया जा सकता है, जिसमें प्राचीन भारतीय पांडुलिपियों और ग्रंथों के अध्ययन से इसका संबंध देखा जा सकता है"
+        },
+        "en": {
+          "title": "Unveiling India's Rich History: The National Archives of India",
+          "summary": "The National Archives of India serves as the primary custodian of the government's enduring records, established in 1891 in Calcutta. It houses a vast collection of records, including public and private papers, oriental records, and microfilms. This repository offers invaluable sources for researching Indian history and culture",
+          "key_takeaways": [
+            "The National Archives of India was established on 11 March 1891 as the Imperial Records Department",
+            "It is the largest archival repository in South Asia, holding a vast corpus of records",
+            "The archives provide access to various resources, including digital exhibitions, online records, and a library"
+          ],
+          "why_this_matters": "The National Archives of India plays a crucial role in preserving India's historical and cultural heritage, providing valuable resources for researchers and scholars. Its extensive collection of records and manuscripts offers insights into the country's past, contributing significantly to Indian historical research",
+          "research_hook": "A future research article could explore the significance of the National Archives of India's oriental records collection, examining its relevance to the study of ancient Indian manuscripts and texts"
+        }
+      },
+      "first_published": "2026-08-14",
+      "updated_at": "2026-08-15T16:26:33.616882+00:00"
+    },
+    {
+      "id": "5ed1656dbf0a05ba",
+      "slug": "toward-a-critical-edition-of-the-la-k-vat-ras-tra-the-significance-of-the-palm-leaf-manuscript-5ed1656d",
+      "title": "Unveiling the Significance of a Newly Discovered Sanskrit Manuscript in Mahāyāna Sūtras",
+      "summary": "A recently published Sanskrit manuscript of the Jayamatiparipṛcchāsūtra has been found to have a previously unrecognized relationship with the Śūraṃgama-samādhisūtra, both of which are classified as Mahāyāna sūtras. The manuscript provides new insights into the content and context of these texts, and its publication is a significant contribution to the study of Indian scriptural materials. The article offers suggestions for improvement to the edited texts and presents a comparative analysis of the original Sanskrit and Tibetan translations.",
+      "category": "Vedic & Manuscript Research",
+      "date": "2026-08-15",
+      "published_at": "2026-08-15",
+      "source_published_at": null,
+      "source": "academia.edu",
+      "source_url": "https://www.academia.edu/46471964/Toward_a_Critical_Edition_of_the_La%E1%B9%85k%C4%81vat%C4%81ras%C5%ABtra_The_Significance_of_the_Palm_leaf_Manuscript",
+      "key_takeaways": [
+        "The Jayamatiparipṛcchāsūtra and Śūraṃgama-samādhisūtra are two Mahāyāna sūtras with a previously unrecognized relationship",
+        "The newly discovered Sanskrit manuscript provides new insights into the content and context of these texts",
+        "The publication of the manuscript is a significant contribution to the study of Indian scriptural materials, including twenty shorter Buddhist sūtras in Sanskrit"
+      ],
+      "why_this_matters": "This research is significant for Indian civilisation and heritage as it sheds new light on the Mahāyāna sūtras and their relationships, and contributes to a deeper understanding of Buddhist scriptures and their evolution. The study of these manuscripts is crucial for understanding the development of Buddhist thought and its impact on Indian culture and society.",
+      "research_hook": "A future research article could explore the implications of the Jayamatiparipṛcchāsūtra and Śūraṃgama-samādhisūtra relationship on our understanding of Mahāyāna Buddhism and its spread in ancient India, and how this new knowledge can inform contemporary Buddhist scholarship and practice.",
+      "editorial_confidence": 95,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "hi": {
+          "title": "महायान सूत्रों में एक नए खोजे गए संस्कृत पाण्डुलिपि का महत्व उजागर करना",
+          "summary": "हाल ही में प्रकाशित जयमतिपरिपृच्छासूत्र की संस्कृत पाण्डुलिपि में शूरंगम-समाधिसूत्र के साथ एक पहले से अनजान संबंध पाया गया है, जो दोनों महायान सूत्रों के वर्ग में आते हैं। यह पाण्डुलिपि इन ग्रंथों की सामग्री और संदर्भ के बारे में नए दृष्टिकोण प्रदान करती है, और इसका प्रकाशन भारतीय शास्त्रीय सामग्रियों के अध्ययन में एक महत्वपूर्ण योगदान है। लेख संपादित पाठ में सुधार के सुझाव प्रस्तुत करता है और मूल संस्कृत और तिब्बती अनुवादों का तुलनात्मक विश्लेषण प्रस्तुत करता है।",
+          "key_takeaways": [
+            "जयमतिपरिपृच्छासूत्र और शूरंगम-समाधिसूत्र दो महायान सूत्र हैं जिनका पहले से अनजान संबंध है",
+            "नई खोजी गई संस्कृत पाण्डुलिपि इन ग्रंथों की सामग्री और संदर्भ के बारे में नए दृष्टिकोण प्रदान करती है",
+            "पाण्डुलिपि का प्रकाशन भारतीय शास्त्रीय सामग्रियों के अध्ययन में एक महत्वपूर्ण योगदान है, जिसमें संस्कृत में बीस छोटे बौद्ध सूत्र भी शामिल हैं"
+          ],
+          "why_this_matters": "यह शोध भारतीय सभ्यता और विरासत के लिए महत्वपूर्ण है क्योंकि यह महायान सूत्रों और उनके संबंधों पर नए दृष्टिकोण प्रदान करता है, और बौद्ध ग्रंथों और उनके विकास की गहरी समझ में योगदान करता है। इन पाण्डुलिपियों का अध्ययन बौद्ध विचारों के विकास और भारतीय संस्कृति और समाज पर उनके प्रभाव को समझने के लिए महत्वपूर्ण है।",
+          "research_hook": "एक भविष्य के शोध लेख में जयमतिपरिपृच्छासूत्र और शूरंगम-समाधिसूत्र संबंध के महायान बौद्ध धर्म और प्राचीन भारत में इसके प्रसार पर हमारी समझ पर परिणामों का अन्वेषण किया जा सकता है, और यह नई जानकारी कैसे समकालीन बौद्ध विद्वानों और अभ्यास को सूचित कर सकती है।"
+        },
+        "en": {
+          "title": "Unveiling the Significance of a Newly Discovered Sanskrit Manuscript in Mahāyāna Sūtras",
+          "summary": "A recently published Sanskrit manuscript of the Jayamatiparipṛcchāsūtra has been found to have a previously unrecognized relationship with the Śūraṃgama-samādhisūtra, both of which are classified as Mahāyāna sūtras. The manuscript provides new insights into the content and context of these texts, and its publication is a significant contribution to the study of Indian scriptural materials. The article offers suggestions for improvement to the edited texts and presents a comparative analysis of the original Sanskrit and Tibetan translations.",
+          "key_takeaways": [
+            "The Jayamatiparipṛcchāsūtra and Śūraṃgama-samādhisūtra are two Mahāyāna sūtras with a previously unrecognized relationship",
+            "The newly discovered Sanskrit manuscript provides new insights into the content and context of these texts",
+            "The publication of the manuscript is a significant contribution to the study of Indian scriptural materials, including twenty shorter Buddhist sūtras in Sanskrit"
+          ],
+          "why_this_matters": "This research is significant for Indian civilisation and heritage as it sheds new light on the Mahāyāna sūtras and their relationships, and contributes to a deeper understanding of Buddhist scriptures and their evolution. The study of these manuscripts is crucial for understanding the development of Buddhist thought and its impact on Indian culture and society.",
+          "research_hook": "A future research article could explore the implications of the Jayamatiparipṛcchāsūtra and Śūraṃgama-samādhisūtra relationship on our understanding of Mahāyāna Buddhism and its spread in ancient India, and how this new knowledge can inform contemporary Buddhist scholarship and practice."
+        }
+      },
+      "first_published": "2026-08-14",
+      "updated_at": "2026-08-15T16:26:33.615552+00:00"
+    },
+    {
+      "id": "c7e94cd03b5a89e4",
+      "slug": "mimamsa-bibliography-philpapers-c7e94cd0",
+      "title": "Exploring Mimamsa: A School of Indian Philosophy",
+      "summary": "Mimamsa is a significant school of Indian philosophy, with a rich bibliography of academic papers and books available for research. The PhilPapers database provides a comprehensive list of publications on Mimamsa, including works by notable authors such as Madan Mohan Agrawal and Daya Krishna. These publications cover various aspects of Mimamsa philosophy, including its relation to other Indian philosophical systems like Nyaya and Vedanta.",
+      "category": "Vedic & Manuscript Research",
+      "date": "2026-08-15",
+      "published_at": "2026-08-15",
+      "source_published_at": null,
+      "source": "philpapers.org",
+      "source_url": "https://philpapers.org/browse/mimamsa",
+      "key_takeaways": [
+        "Mimamsa is one of the six orthodox schools of Indian philosophy, known as Astika philosophy",
+        "The PhilPapers database contains a bibliography of academic papers and books on Mimamsa, with 36 and 27 notable publications listed",
+        "Mimamsa has been studied in relation to other Indian philosophical systems, including Nyaya, Samkhya, Vaisesika, and Vedanta"
+      ],
+      "why_this_matters": "The study of Mimamsa is crucial for understanding the development of Indian philosophy and its various schools of thought, which have significantly influenced the country's cultural and intellectual heritage. Research on Mimamsa can provide valuable insights into the evolution of Indian thought and its relevance to contemporary philosophical debates.",
+      "research_hook": "A future research article could explore the intersections between Mimamsa and other Indian philosophical systems, examining how they have influenced each other and shaped the country's intellectual landscape over time.",
+      "editorial_confidence": 80,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "hi": {
+          "title": "मीमांसा का अन्वेषण: एक भारतीय दर्शन शाला",
+          "summary": "मीमांसा भारतीय दर्शन की एक महत्वपूर्ण शाला है, जिसके लिए शोध के लिए अकादमिक पत्रों और पुस्तकों का एक समृद्ध संग्रह उपलब्ध है। PhilPapers डेटाबेस मीमांसा पर प्रकाशनों की एक व्यापक सूची प्रदान करता है, जिसमें मदन मोहन अग्रवाल और दया कृष्ण जैसे प्रसिद्ध लेखकों के कार्य शामिल हैं। ये प्रकाशन मीमांसा दर्शन के विभिन्न पहलुओं को कवर करते हैं, जिनमें न्याय और वेदांत जैसे अन्य भारतीय दार्शनिक प्रणालियों के साथ इसका संबंध शामिल है।",
+          "key_takeaways": [
+            "मीमांसा भारतीय दर्शन की छह ऑर्थोडॉक्स शालाओं में से एक है, जिसे आस्तिक दर्शन के रूप में जाना जाता है",
+            "PhilPapers डेटाबेस मीमांसा पर अकादमिक पत्रों और पुस्तकों का एक संग्रह प्रदान करता है, जिसमें 36 और 27 उल्लेखनीय प्रकाशन सूचीबद्ध हैं",
+            "मीमांसा का अध्ययन न्याय, सांख्य, वैशेषिक और वेदांत जैसे अन्य भारतीय दार्शनिक प्रणालियों के संबंध में किया गया है"
+          ],
+          "why_this_matters": "मीमांसा का अध्ययन भारतीय दर्शन और इसके विभिन्न विचारधाराओं के विकास को समझने के लिए महत्वपूर्ण है, जिन्होंने देश की सांस्कृतिक और बौद्धिक विरासत पर महत्वपूर्ण प्रभाव डाला है। मीमांसा पर शोध भारतीय विचार के विकास और इसके समकालीन दार्शनिक विवादों के प्रति प्रासंगिकता में मूल्यवान अंतर्दृष्टि प्रदान कर सकता है।",
+          "research_hook": "एक भविष्य के शोध लेख मीमांसा और अन्य भारतीय दार्शनिक प्रणालियों के बीच के संबंधों का अन्वेषण कर सकता है, जिसमें यह देखा जा सकता है कि वे एक दूसरे को कैसे प्रभावित करते हैं और समय के साथ देश के बौद्धिक परिदृश्य को आकार देते हैं।"
+        },
+        "en": {
+          "title": "Exploring Mimamsa: A School of Indian Philosophy",
+          "summary": "Mimamsa is a significant school of Indian philosophy, with a rich bibliography of academic papers and books available for research. The PhilPapers database provides a comprehensive list of publications on Mimamsa, including works by notable authors such as Madan Mohan Agrawal and Daya Krishna. These publications cover various aspects of Mimamsa philosophy, including its relation to other Indian philosophical systems like Nyaya and Vedanta.",
+          "key_takeaways": [
+            "Mimamsa is one of the six orthodox schools of Indian philosophy, known as Astika philosophy",
+            "The PhilPapers database contains a bibliography of academic papers and books on Mimamsa, with 36 and 27 notable publications listed",
+            "Mimamsa has been studied in relation to other Indian philosophical systems, including Nyaya, Samkhya, Vaisesika, and Vedanta"
+          ],
+          "why_this_matters": "The study of Mimamsa is crucial for understanding the development of Indian philosophy and its various schools of thought, which have significantly influenced the country's cultural and intellectual heritage. Research on Mimamsa can provide valuable insights into the evolution of Indian thought and its relevance to contemporary philosophical debates.",
+          "research_hook": "A future research article could explore the intersections between Mimamsa and other Indian philosophical systems, examining how they have influenced each other and shaped the country's intellectual landscape over time."
+        }
+      },
+      "first_published": "2026-08-14",
+      "updated_at": "2026-08-15T16:26:33.614247+00:00"
+    },
+    {
+      "id": "f9d2b3f03a19dbfd",
+      "slug": "unpacking-the-gurukul-system-a-cornerstone-of-indian-knowledge-and-education-f9d2b3f0",
+      "title": "Unpacking the Gurukul System: Holistic Education in Ancient India",
+      "summary": "The Gurukul system was a traditional Indian educational model that emphasized holistic development through a residential teacher-disciple relationship, focusing on self-discipline, ethical values, and critical thinking. This system aimed to integrate spiritual, moral, intellectual, and physical growth in students. The Gurukul model has its roots in classical teachings and has evolved to incorporate contemporary methodologies",
+      "category": "Daily Research Hook / Topic Idea",
+      "date": "2026-08-15",
+      "published_at": "2026-08-15",
+      "source_published_at": null,
+      "source": "bijmrd.com",
+      "source_url": "https://bijmrd.com/index.php/volume4-issue32/a-critical-study-of-the-gurukul-system-within-the-indian-knowledge-systems",
+      "key_takeaways": [
+        "The Gurukul system was based on a residential model where students lived with their gurus to learn through firsthand experience",
+        "The system focused on holistic development, including spiritual, moral, intellectual, and physical growth",
+        "The Gurukul model has been influential in shaping India's traditional educational framework"
+      ],
+      "why_this_matters": "The Gurukul system's emphasis on holistic education and the guru-shishya relationship has significant implications for understanding India's rich educational heritage and its continued relevance in modern times. This traditional model can inform contemporary educational practices and policies in India",
+      "research_hook": "A future study could explore the modern applications and adaptations of the Gurukul system in Indian schools and educational institutions, examining its potential to promote sustainable and value-based learning",
+      "editorial_confidence": 80,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "hi": {
+          "title": "गुरुकुल प्रणाली का विश्लेषण: प्राचीन भारत में समग्र शिक्षा",
+          "summary": "गुरुकुल प्रणाली एक पारंपरिक भारतीय शैक्षिक मॉडल था जिसमें आवासीय शिक्षक-शिष्य संबंध के माध्यम से समग्र विकास पर जोर दिया गया था, जिसमें आत्म-नियंत्रण, नैतिक मूल्यों और महत्वपूर्ण सोच पर ध्यान केंद्रित किया गया था। इस प्रणाली का उद्देश्य छात्रों में आध्यात्मिक, नैतिक, बौद्धिक और शारीरिक विकास को एकीकृत करना था। गुरुकुल मॉडल की जड़ें शास्त्रीय शिक्षाओं में हैं और यह समकालीन विधियों को शामिल करने के लिए विकसित हुआ है।",
+          "key_takeaways": [
+            "गुरुकुल प्रणाली एक आवासीय मॉडल पर आधारित थी जहां छात्र अपने गुरुओं के साथ रहते थे और प्रत्यक्ष अनुभव के माध्यम से सीखते थे",
+            "इस प्रणाली ने समग्र विकास पर ध्यान केंद्रित किया, जिसमें आध्यात्मिक, नैतिक, बौद्धिक और शारीरिक विकास शामिल थे",
+            "गुरुकुल मॉडल ने भारत की पारंपरिक शैक्षिक ढांचे को आकार देने में महत्वपूर्ण भूमिका निभाई है"
+          ],
+          "why_this_matters": "गुरुकुल प्रणाली का समग्र शिक्षा और गुरु-शिष्य संबंध पर जोर भारत की समृद्ध शैक्षिक विरासत को समझने और इसकी आधुनिक समय में प्रासंगिकता के लिए महत्वपूर्ण है। यह पारंपरिक मॉडल भारत में समकालीन शैक्षिक पрак्टिसों और नीतियों को सूचित कर सकता है।",
+          "research_hook": "भविष्य के अध्ययन में गुरुकुल प्रणाली के आधुनिक अनुप्रयोगों और भारतीय स्कूलों और शैक्षिक संस्थानों में इसके अनुकूलन का अन्वेषण किया जा सकता है, जिसमें इसकी स्थायी और मूल्य-आधारित शिक्षा को बढ़ावा देने की क्षमता की जांच की जा सकती है।"
+        },
+        "en": {
+          "title": "Unpacking the Gurukul System: Holistic Education in Ancient India",
+          "summary": "The Gurukul system was a traditional Indian educational model that emphasized holistic development through a residential teacher-disciple relationship, focusing on self-discipline, ethical values, and critical thinking. This system aimed to integrate spiritual, moral, intellectual, and physical growth in students. The Gurukul model has its roots in classical teachings and has evolved to incorporate contemporary methodologies",
+          "key_takeaways": [
+            "The Gurukul system was based on a residential model where students lived with their gurus to learn through firsthand experience",
+            "The system focused on holistic development, including spiritual, moral, intellectual, and physical growth",
+            "The Gurukul model has been influential in shaping India's traditional educational framework"
+          ],
+          "why_this_matters": "The Gurukul system's emphasis on holistic education and the guru-shishya relationship has significant implications for understanding India's rich educational heritage and its continued relevance in modern times. This traditional model can inform contemporary educational practices and policies in India",
+          "research_hook": "A future study could explore the modern applications and adaptations of the Gurukul system in Indian schools and educational institutions, examining its potential to promote sustainable and value-based learning"
+        }
+      },
+      "first_published": "2026-08-14",
+      "updated_at": "2026-08-15T16:26:33.612969+00:00"
+    },
+    {
+      "id": "bb47e5c67a2eefa0",
+      "slug": "revitalizing-indian-education-integrating-traditional-knowledge-systems-into-modern-learning-bb47e5c6",
+      "title": "From Gurukul to Global Classroom: A Spiral Pedagogical Model for Integrating Indian Knowledge Systems Across Lifelong Learning",
+      "summary": "learning. This research proposes the Spiral Pedagogical Model as a conceptual framework for integrating IKS from early childhood education to higher education and adult learning. The research begins by examining the fundamental pedagogical elements of the Gurukul system, such as experiential education, the guru-shishya Parampara, moral and spiritual development, and community-based education, to d",
+      "category": "Daily Research Hook / Topic Idea",
+      "date": "2026-08-15",
+      "published_at": "2026-08-15",
+      "source_published_at": null,
+      "source": "ijsrm.net",
+      "source_url": "https://ijsrm.net/index.php/ijsrm/article/view/7067",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 80,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "From Gurukul to Global Classroom: A Spiral Pedagogical Model for Integrating Indian Knowledge Systems Across Lifelong Learning",
+          "summary": "learning. This research proposes the Spiral Pedagogical Model as a conceptual framework for integrating IKS from early childhood education to higher education and adult learning. The research begins by examining the fundamental pedagogical elements of the Gurukul system, such as experiential education, the guru-shishya Parampara, moral and spiritual development, and community-based education, to d",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-14",
+      "updated_at": "2026-08-15T16:26:33.611614+00:00"
     },
     {
       "id": "ca9018c26bcf1671",
@@ -151,55 +475,6 @@
       "updated_at": "2026-08-15"
     },
     {
-      "id": "5ed1656dbf0a05ba",
-      "slug": "toward-a-critical-edition-of-the-la-k-vat-ras-tra-the-significance-of-the-palm-leaf-manuscript-5ed1656d",
-      "title": "Unveiling the Laṅkāvatārasūtra: The Crucial Role of a Palm Leaf Manuscript in Establishing a Critical Edition",
-      "summary": "A newly discovered Sanskrit manuscript of the Jayamatiparipṛcchāsūtra has been found to be related to the Śūraṃgama-samādhisūtra, shedding new light on the Laṅkāvatārasūtra. The palm leaf manuscript is significant due to its superior readings compared to existing versions. This discovery has implications for creating a revised critical edition of the Laṅkāvatārasūtra",
-      "category": "Vedic & Manuscript Research",
-      "date": "2026-08-15",
-      "published_at": "2026-08-15",
-      "source_published_at": null,
-      "source": "academia.edu",
-      "source_url": "https://www.academia.edu/46471964/Toward_a_Critical_Edition_of_the_La%E1%B9%85k%C4%81vat%C4%81ras%C5%ABtra_The_Significance_of_the_Palm_leaf_Manuscript",
-      "key_takeaways": [
-        "The Laṅkāvatārasūtra requires a revised critical edition due to inadequacies in previous editions",
-        "The palm-leaf manuscript provides superior readings compared to existing versions",
-        "Only one of the five total manuscripts of the sutra is on palm leaves, making it a unique and valuable resource"
-      ],
-      "why_this_matters": "The discovery of the palm leaf manuscript and its significance in establishing a critical edition of the Laṅkāvatārasūtra is crucial for Vedic and manuscript research, as it provides new insights and evidence for understanding ancient Indian texts. This research has the potential to impact our understanding of Mahāyāna sūtras and their transmission",
-      "research_hook": "A future research article could explore the implications of the revised critical edition of the Laṅkāvatārasūtra on our understanding of the historical development of Mahāyāna Buddhism in India",
-      "editorial_confidence": 90,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "hi": {
-          "title": "लंकावतारसूत्र का अनावरण: एक ताड़पत्र पाण्डुलिपि द्वारा महत्वपूर्ण संस्करण स्थापना",
-          "summary": "जयमतिपरिपृच्छासूत्र की एक नई संस्कृत पाण्डुलिपि की खोज हुई है, जो शूरंगम-समाधिसूत्र से संबंधित है और लंकावतारसूत्र पर नई रोशनी डालती है। ताड़पत्र पाण्डुलिपि अपने श्रेष्ठ पाठों के कारण महत्वपूर्ण है, जो मौजूदा संस्करणों से बेहतर हैं। यह खोज लंकावतारसूत्र के संशोधित महत्वपूर्ण संस्करण बनाने के लिए महत्वपूर्ण है।",
-          "key_takeaways": [
-            "लंकावतारसूत्र को पिछले संस्करणों में कमियों के कारण संशोधित महत्वपूर्ण संस्करण की आवश्यकता है",
-            "ताड़पत्र पाण्डुलिपि मौजूदा संस्करणों की तुलना में श्रेष्ठ पाठ प्रदान करती है",
-            "कुल पांच पाण्डुलिपियों में से केवल एक ताड़पत्र पर है, जो इसे एक अनोखा और मूल्यवान संसाधन बनाती है"
-          ],
-          "why_this_matters": "ताड़पत्र पाण्डुलिपि की खोज और इसका महत्व लंकावतारसूत्र के महत्वपूर्ण संस्करण स्थापना में वैदिक और पाण्डुलिपि अनुसंधान के लिए महत्वपूर्ण है, क्योंकि यह प्राचीन भारतीय ग्रंथों को समझने के लिए नए दृष्टिकोण और साक्ष्य प्रदान करती है। यह अनुसंधान महायान सूत्रों और उनके प्रसारण पर हमारी समझ को प्रभावित कर सकता है।",
-          "research_hook": "एक भविष्य के शोध लेख में लंकावतारसूत्र के संशोधित महत्वपूर्ण संस्करण के भारत में महायान बौद्ध धर्म के ऐतिहासिक विकास पर प्रभाव का अन्वेषण किया जा सकता है।"
-        },
-        "en": {
-          "title": "Unveiling the Laṅkāvatārasūtra: The Crucial Role of a Palm Leaf Manuscript in Establishing a Critical Edition",
-          "summary": "A newly discovered Sanskrit manuscript of the Jayamatiparipṛcchāsūtra has been found to be related to the Śūraṃgama-samādhisūtra, shedding new light on the Laṅkāvatārasūtra. The palm leaf manuscript is significant due to its superior readings compared to existing versions. This discovery has implications for creating a revised critical edition of the Laṅkāvatārasūtra",
-          "key_takeaways": [
-            "The Laṅkāvatārasūtra requires a revised critical edition due to inadequacies in previous editions",
-            "The palm-leaf manuscript provides superior readings compared to existing versions",
-            "Only one of the five total manuscripts of the sutra is on palm leaves, making it a unique and valuable resource"
-          ],
-          "why_this_matters": "The discovery of the palm leaf manuscript and its significance in establishing a critical edition of the Laṅkāvatārasūtra is crucial for Vedic and manuscript research, as it provides new insights and evidence for understanding ancient Indian texts. This research has the potential to impact our understanding of Mahāyāna sūtras and their transmission",
-          "research_hook": "A future research article could explore the implications of the revised critical edition of the Laṅkāvatārasūtra on our understanding of the historical development of Mahāyāna Buddhism in India"
-        }
-      },
-      "first_published": "2026-08-14",
-      "updated_at": "2026-08-15T04:06:03.700331+00:00"
-    },
-    {
       "id": "d25e967e7f38c6ba",
       "slug": "sanskrit-manuscript-critical-edition-table-of-contents-revealed-d25e967e",
       "title": "Sanskrit Manuscript Critical Edition: Table of Contents Revealed",
@@ -296,175 +571,6 @@
       },
       "first_published": "2026-08-15",
       "updated_at": "2026-08-15"
-    },
-    {
-      "id": "bb47e5c67a2eefa0",
-      "slug": "revitalizing-indian-education-integrating-traditional-knowledge-systems-into-modern-learning-bb47e5c6",
-      "title": "Revitalizing Indian Education: A Spiral Pedagogical Model for Lifelong Learning",
-      "summary": "This research proposes a conceptual framework for integrating Indian Knowledge Systems into modern education, from early childhood to adult learning, by drawing on the pedagogical elements of the traditional Gurukul system. The Spiral Pedagogical Model aims to provide a holistic and relational approach to education, countering the fragmentation and uniformity of modern digital learning. By analyzing existing literature, the study explores the relevance of Gurukul's experiential learning, holistic development, and guru-shishya tradition in contemporary education",
-      "category": "Daily Research Hook / Topic Idea",
-      "date": "2026-08-15",
-      "published_at": "2026-08-15",
-      "source_published_at": null,
-      "source": "ijsrm.net",
-      "source_url": "https://ijsrm.net/index.php/ijsrm/article/view/7067",
-      "key_takeaways": [
-        "The Gurukul system's emphasis on experiential learning and holistic development can inform modern education",
-        "The Spiral Pedagogical Model offers a framework for integrating Indian Knowledge Systems into lifelong learning",
-        "The research relies on a qualitative and descriptive strategy, analyzing secondary data from peer-reviewed sources"
-      ],
-      "why_this_matters": "This research has significant implications for Indian civilisation and heritage, as it seeks to revitalize traditional knowledge systems and pedagogical approaches in modern education, promoting a more holistic and humanizing approach to learning. By exploring the potential of Indian Knowledge Systems, this study can contribute to a deeper understanding of the country's rich educational heritage",
-      "research_hook": "A future research article could delve into the practical applications of the Spiral Pedagogical Model, exploring case studies of its implementation in Indian educational institutions and assessing its impact on student outcomes and teacher training",
-      "editorial_confidence": 80,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "hi": {
-          "title": "भारतीय शिक्षा का पुनर्जीवन: जीवन भर सीखने के लिए एक स्पाइरल पेडागोजिकल मॉडल",
-          "summary": "इस शोध में प्रारंभिक बाल्यावस्था से लेकर वयस्क शिक्षा तक आधुनिक शिक्षा में भारतीय ज्ञान प्रणालियों को एकीकृत करने के लिए एक अवधारणात्मक ढांचा प्रस्तावित किया गया है, जो पारंपरिक गुरुकुल प्रणाली के पेडागोजिकल तत्वों पर आधारित है। स्पाइरल पेडागोजिकल मॉडल का उद्देश्य शिक्षा के लिए एक समग्र और संबंधपरक दृष्टिकोण प्रदान करना है, जो आधुनिक डिजिटल शिक्षा की खंडितता और एकरूपता का मुकाबला करता है। मौजूदा साहित्य का विश्लेषण करके, अध्ययन गुरुकुल के अनुभवात्मक शिक्षा, समग्र विकास और गुरु-शिष्य परंपरा के समकालीन शिक्षा में प्रासंगिकता का अन्वेषण करता है",
-          "key_takeaways": [
-            "गुरुकुल प्रणाली का अनुभवात्मक शिक्षा और समग्र विकास पर जोर आधुनिक शिक्षा को सूचित कर सकता है",
-            "स्पाइरल पेडागोजिकल मॉडल जीवन भर सीखने में भारतीय ज्ञान प्रणालियों को एकीकृत करने के लिए एक ढांचा प्रदान करता है",
-            "शोध एक गुणात्मक और विवरणात्मक रणनीति पर निर्भर करता है, जो पीयर-रिव्यूड स्रोतों से द्वितीयक डेटा का विश्लेषण करता है"
-          ],
-          "why_this_matters": "यह शोध भारतीय सभ्यता और विरासत के लिए महत्वपूर्ण परिणाम है, क्योंकि यह आधुनिक शिक्षा में पारंपरिक ज्ञान प्रणालियों और पेडागोजिकल दृष्टिकोणों को पुनर्जीवित करने का प्रयास करता है, जो सीखने के लिए एक अधिक समग्र और मानवीकरण दृष्टिकोण को बढ़ावा देता है। भारतीय ज्ञान प्रणालियों की संभावनाओं का अन्वेषण करके, यह अध्ययन देश की समृद्ध शैक्षिक विरासत की गहरी समझ में योगदान कर सकता है",
-          "research_hook": "एक भविष्य के शोध लेख स्पाइरल पेडागोजिकल मॉडल के व्यावहारिक अनुप्रयोगों में गहराई से जा सकता है, जो भारतीय शैक्षिक संस्थानों में इसके कार्यान्वयन के मामले का अध्ययन कर सकता है और छात्र परिणामों और शिक्षक प्रशिक्षण पर इसके प्रभाव का मूल्यांकन कर सकता है"
-        },
-        "en": {
-          "title": "Revitalizing Indian Education: A Spiral Pedagogical Model for Lifelong Learning",
-          "summary": "This research proposes a conceptual framework for integrating Indian Knowledge Systems into modern education, from early childhood to adult learning, by drawing on the pedagogical elements of the traditional Gurukul system. The Spiral Pedagogical Model aims to provide a holistic and relational approach to education, countering the fragmentation and uniformity of modern digital learning. By analyzing existing literature, the study explores the relevance of Gurukul's experiential learning, holistic development, and guru-shishya tradition in contemporary education",
-          "key_takeaways": [
-            "The Gurukul system's emphasis on experiential learning and holistic development can inform modern education",
-            "The Spiral Pedagogical Model offers a framework for integrating Indian Knowledge Systems into lifelong learning",
-            "The research relies on a qualitative and descriptive strategy, analyzing secondary data from peer-reviewed sources"
-          ],
-          "why_this_matters": "This research has significant implications for Indian civilisation and heritage, as it seeks to revitalize traditional knowledge systems and pedagogical approaches in modern education, promoting a more holistic and humanizing approach to learning. By exploring the potential of Indian Knowledge Systems, this study can contribute to a deeper understanding of the country's rich educational heritage",
-          "research_hook": "A future research article could delve into the practical applications of the Spiral Pedagogical Model, exploring case studies of its implementation in Indian educational institutions and assessing its impact on student outcomes and teacher training"
-        }
-      },
-      "first_published": "2026-08-14",
-      "updated_at": "2026-08-15T04:06:03.694673+00:00"
-    },
-    {
-      "id": "8da5ee15834d64b7",
-      "slug": "archaeological-survey-of-india-8da5ee15",
-      "title": "Archaeological Survey of India",
-      "summary": "India is singularly rich in epigraphical wealth. It is estimated that so far more than one lakh inscriptions have been discovered from the length and breadth of the country, and still a large number of inscriptions have to be brought to light by conducting an intensive and systematic survey of our vast sub- continent. [...] Epigraphy forms one of the very important sources for understanding the hi",
-      "category": "Archaeology & Ancient Discoveries",
-      "date": "2026-08-14",
-      "published_at": "2026-08-14",
-      "source_published_at": null,
-      "source": "asi.nic.in",
-      "source_url": "https://asi.nic.in/pages/Epigraphy-Branch/HQ",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 80,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "Archaeological Survey of India",
-          "summary": "India is singularly rich in epigraphical wealth. It is estimated that so far more than one lakh inscriptions have been discovered from the length and breadth of the country, and still a large number of inscriptions have to be brought to light by conducting an intensive and systematic survey of our vast sub- continent. [...] Epigraphy forms one of the very important sources for understanding the hi",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-14",
-      "updated_at": "2026-08-14"
-    },
-    {
-      "id": "b62f3abad5426a8c",
-      "slug": "official-website-of-national-archives-of-india-government-of-india-b62f3aba",
-      "title": "National Archives of India",
-      "summary": "The National Archives of India is the custodian of the records of enduring value of the Government of India. Established on 11 March 1891 at Calcutta (Kolkata) as the Imperial Records Department, the National Archives of India is the custodian of the records of enduring value. It is the biggest archival repository in South Asia. It has a vast corpus of records viz., public records, private papers,",
-      "category": "Vedic & Manuscript Research",
-      "date": "2026-08-14",
-      "published_at": "2026-08-14",
-      "source_published_at": null,
-      "source": "nationalarchives.nic.in",
-      "source_url": "https://nationalarchives.nic.in/en",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 80,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "National Archives of India",
-          "summary": "The National Archives of India is the custodian of the records of enduring value of the Government of India. Established on 11 March 1891 at Calcutta (Kolkata) as the Imperial Records Department, the National Archives of India is the custodian of the records of enduring value. It is the biggest archival repository in South Asia. It has a vast corpus of records viz., public records, private papers,",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-14",
-      "updated_at": "2026-08-14T15:31:19.217567+00:00"
-    },
-    {
-      "id": "c7e94cd03b5a89e4",
-      "slug": "mimamsa-bibliography-philpapers-c7e94cd0",
-      "title": "Mimamsa - Bibliography - PhilPapers",
-      "summary": "36.   Six systems of Indian philosophy: the sūtras of six systems of Indian philosophy with English translation, transliteration, and indices.Madan Mohan Agrawal (ed.) - 2001 -  Delhi: Chaukhamba Sanskrit Pratishthan.details Compilation of basic text of six systems of Indian philosophy.  Mimamsa in Asian Philosophy Nyaya in Asian Philosophy Samkhya in Asian Philosophy Vaisesika in Asian Philosoph",
-      "category": "Vedic & Manuscript Research",
-      "date": "2026-08-14",
-      "published_at": "2026-08-14",
-      "source_published_at": null,
-      "source": "philpapers.org",
-      "source_url": "https://philpapers.org/browse/mimamsa",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 90,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "Mimamsa - Bibliography - PhilPapers",
-          "summary": "36.   Six systems of Indian philosophy: the sūtras of six systems of Indian philosophy with English translation, transliteration, and indices.Madan Mohan Agrawal (ed.) - 2001 -  Delhi: Chaukhamba Sanskrit Pratishthan.details Compilation of basic text of six systems of Indian philosophy.  Mimamsa in Asian Philosophy Nyaya in Asian Philosophy Samkhya in Asian Philosophy Vaisesika in Asian Philosoph",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-14",
-      "updated_at": "2026-08-14T15:31:19.217177+00:00"
-    },
-    {
-      "id": "f9d2b3f03a19dbfd",
-      "slug": "unpacking-the-gurukul-system-a-cornerstone-of-indian-knowledge-and-education-f9d2b3f0",
-      "title": "A Critical Study of the Gurukul System within the Indian Knowledge Systems – BHARATI INTERNATIONAL JOURNAL OF MULTIDISCIPLINARY RESEARCH AND DEVELOPMENT",
-      "summary": "Abstract: The Gurukul system was instrumental in shaping the ancient Indian knowledge framework by emphasizing a holistic, practical, and value-oriented education through a residential model of teacher and disciple. It nurtured self-discipline, ethical values, and critical thinking alongside academic pursuits, with students residing with their gurus to learn through firsthand experience and observ",
-      "category": "Daily Research Hook / Topic Idea",
-      "date": "2026-08-14",
-      "published_at": "2026-08-14",
-      "source_published_at": null,
-      "source": "bijmrd.com",
-      "source_url": "https://bijmrd.com/index.php/volume4-issue32/a-critical-study-of-the-gurukul-system-within-the-indian-knowledge-systems",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 90,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "A Critical Study of the Gurukul System within the Indian Knowledge Systems – BHARATI INTERNATIONAL JOURNAL OF MULTIDISCIPLINARY RESEARCH AND DEVELOPMENT",
-          "summary": "Abstract: The Gurukul system was instrumental in shaping the ancient Indian knowledge framework by emphasizing a holistic, practical, and value-oriented education through a residential model of teacher and disciple. It nurtured self-discipline, ethical values, and critical thinking alongside academic pursuits, with students residing with their gurus to learn through firsthand experience and observ",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-14",
-      "updated_at": "2026-08-14T15:31:19.216467+00:00"
     },
     {
       "id": "fded457cd5c61907",

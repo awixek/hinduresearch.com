@@ -1,14 +1,14 @@
 {
   "schema_version": "6.1B",
   "year": 2026,
-  "updated_at": "2026-08-16T04:10:10.710933+00:00",
-  "count": 21,
+  "updated_at": "2026-08-16T09:13:34.959486+00:00",
+  "count": 23,
   "articles": [
     {
       "id": "c23a3b47acaf8a84",
       "slug": "ancient-indian-inscriptions-uncovered-in-egypt-s-valley-of-the-kings-c23a3b47",
       "title": "Ancient Indian Inscriptions Uncovered in Egypt's Valley of the Kings",
-      "summary": "A recent archaeological discovery in the Valley of the Kings has revealed nearly 30 inscriptions in ancient Indian languages, shedding new light on the presence of Indians in Egypt between the 1st and 3rd centuries AD. The inscriptions, found across six tombs, are primarily in Tamil-Brahmi, an ancient language connected to modern Tamil. This finding suggests a significant integration of people of Indian origin into Roman Egyptian society",
+      "summary": "A recent archaeological discovery in the Valley of the Kings has revealed nearly 30 inscriptions in ancient Indian languages, shedding new light on the presence of Indians in Egypt between the 1st and 3rd centuries AD. The majority of these inscriptions are in Tamil-Brahmi, an ancient language connected to modern Tamil. This finding suggests a significant level of integration between Indian individuals and Roman Egyptian society during this period.",
       "category": "Archaeology & Ancient Discoveries",
       "date": "2026-08-16",
       "published_at": "2026-08-16",
@@ -16,91 +16,336 @@
       "source": "theartnewspaper.com",
       "source_url": "https://www.theartnewspaper.com/2026/02/25/2000-year-old-inscriptions-found-in-valley-of-the-kings-offer-fresh-insight-into-indian-presence-in-ancient-egypt",
       "key_takeaways": [
-        "The inscriptions are approximately 2,000 years old and were found in six tombs in the Valley of the Kings",
-        "The majority of the inscriptions are in Tamil-Brahmi, an ancient language linked to modern Tamil",
-        "The discovery indicates a significant presence of Indians in Egypt during the Roman period, between the 1st and 3rd centuries AD"
+        "The inscriptions, dating back around 2,000 years, were found across six tombs in the Valley of the Kings",
+        "The majority of the inscriptions are in Tamil-Brahmi, indicating a connection to the Indian subcontinent",
+        "The discovery suggests that people of Indian origin were integrated into Roman Egyptian society during the 1st to 3rd centuries AD"
       ],
-      "why_this_matters": "This discovery is significant for Indian civilisation and heritage as it provides tangible evidence of ancient Indian presence in Egypt, highlighting the cultural exchange and integration that occurred between the two regions. It also underscores the importance of continued archaeological research in uncovering the complexities of ancient Indian history",
-      "research_hook": "A future research article could explore the implications of these inscriptions on our understanding of ancient Indian trade and cultural networks, and how they contributed to the development of Indian civilisation and heritage",
+      "why_this_matters": "This discovery is significant for Indian civilisation and historical research as it provides tangible evidence of ancient Indian presence in Egypt, highlighting the cultural exchange and interactions between the two regions. It also underscores the importance of continued archaeological research in uncovering the complexities of ancient global connections.",
+      "research_hook": "A future research article could explore the implications of these findings on our understanding of ancient trade routes and cultural exchange between India and Egypt, and how this discovery might inform new perspectives on the history of Indian diaspora communities.",
       "editorial_confidence": 90,
       "schema_version": "6.1B",
       "language": "en",
       "image_url": null,
       "translations": {
         "hi": {
-          "title": "मिस्र के वैली ऑफ द किंग्स में प्राचीन भारतीय शिलालेखों का पता चला",
-          "summary": "वैली ऑफ द किंग्स में एक हालिया पुरातात्विक खोज ने लगभग 30 प्राचीन भारतीय भाषाओं में शिलालेखों का खुलासा किया है, जो 1से 3री शताब्दी ईस्वी के बीच मिस्र में भारतीयों की उपस्थिति पर नई रोशनी डालता है। छह कब्रों में पाए गए शिलालेख मुख्य रूप से तमिल-ब्राह्मी में हैं, जो आधुनिक तमिल से जुड़ी एक प्राचीन भाषा है। यह खोज रोमन मिस्री समाज में भारतीय मूल के लोगों के महत्वपूर्ण एकीकरण का सुझाव देती है",
+          "title": "मिस्र की वैली ऑफ द किंग्स में प्राचीन भारतीय शिलालेखों का पता चला",
+          "summary": "वैली ऑफ द किंग्स में एक हालिया पुरातात्विक खोज ने लगभग 30 प्राचीन भारतीय भाषाओं में शिलालेखों का खुलासा किया है, जो 1ली और 3री शताब्दी ईस्वी के बीच मिस्र में भारतीयों की उपस्थिति पर नई रोशनी डालता है। इनमें से अधिकांश शिलालेख तमिल-ब्राह्मी में हैं, जो आधुनिक तमिल से जुड़ी एक प्राचीन भाषा है। यह खोज इस अवधि के दौरान भारतीय व्यक्तियों और रोमन मिस्री समाज के बीच एक महत्वपूर्ण एकीकरण का संकेत देती है।",
           "key_takeaways": [
-            "शिलालेख लगभग 2,000 वर्ष पुराने हैं और वैली ऑफ द किंग्स की छह कब्रों में पाए गए हैं",
-            "शिलालेखों का अधिकांश भाग तमिल-ब्राह्मी में है, जो आधुनिक तमिल से जुड़ी एक प्राचीन भाषा है",
-            "यह खोज 1से 3री शताब्दी ईस्वी के बीच रोमन काल में मिस्र में भारतीयों की महत्वपूर्ण उपस्थिति का संकेत देती है"
+            "इन शिलालेखों की आयु लगभग 2,000 वर्ष है, जो वैली ऑफ द किंग्स के छह मकबरों में पाए गए थे",
+            "अधिकांश शिलालेख तमिल-ब्राह्मी में हैं, जो भारतीय उपमहाद्वीप से जुड़े हुए हैं",
+            "यह खोज सुझाव देती है कि 1ली से 3री शताब्दी ईस्वी के दौरान भारतीय मूल के लोग रोमन मिस्री समाज में एकीकृत थे"
           ],
-          "why_this_matters": "यह खोज भारतीय सभ्यता और विरासत के लिए महत्वपूर्ण है क्योंकि यह मिस्र में प्राचीन भारतीय उपस्थिति के लिए ठोस प्रमाण प्रदान करती है, जो दोनों क्षेत्रों के बीच सांस्कृतिक आदान-प्रदान और एकीकरण को उजागर करती है। यह प्राचीन भारतीय इतिहास की जटिलताओं को उजागर करने में जारी पुरातात्विक अनुसंधान के महत्व को भी रेखांकित करती है",
-          "research_hook": "एक भविष्य के शोध लेख में इन शिलालेखों के प्राचीन भारतीय व्यापार और सांस्कृतिक नेटवर्क की हमारी समझ पर परिणामों का अन्वेषण किया जा सकता है, और वे कैसे भारतीय सभ्यता और विरासत के विकास में योगदान करते हैं"
+          "why_this_matters": "यह खोज भारतीय सभ्यता और ऐतिहासिक अनुसंधान के लिए महत्वपूर्ण है, क्योंकि यह मिस्र में प्राचीन भारतीय उपस्थिति के ठोस प्रमाण प्रदान करती है, जो दोनों क्षेत्रों के बीच सांस्कृतिक आदान-प्रदान और परस्पर क्रियाओं को रेखांकित करती है। यह प्राचीन वैश्विक संबंधों की जटिलताओं को उजागर करने में जारी पुरातात्विक अनुसंधान के महत्व को भी रेखांकित करती है।",
+          "research_hook": "एक भविष्य के शोध लेख में इन निष्कर्षों के भारत और मिस्र के बीच प्राचीन व्यापार मार्गों और सांस्कृतिक आदान-प्रदान पर हमारी समझ पर प्रभाव का अन्वेषण किया जा सकता है, और यह खोज कैसे भारतीय प्रवासी समुदायों के इतिहास पर नई दृष्टिकोण प्रदान कर सकती है।"
         },
         "en": {
           "title": "Ancient Indian Inscriptions Uncovered in Egypt's Valley of the Kings",
-          "summary": "A recent archaeological discovery in the Valley of the Kings has revealed nearly 30 inscriptions in ancient Indian languages, shedding new light on the presence of Indians in Egypt between the 1st and 3rd centuries AD. The inscriptions, found across six tombs, are primarily in Tamil-Brahmi, an ancient language connected to modern Tamil. This finding suggests a significant integration of people of Indian origin into Roman Egyptian society",
+          "summary": "A recent archaeological discovery in the Valley of the Kings has revealed nearly 30 inscriptions in ancient Indian languages, shedding new light on the presence of Indians in Egypt between the 1st and 3rd centuries AD. The majority of these inscriptions are in Tamil-Brahmi, an ancient language connected to modern Tamil. This finding suggests a significant level of integration between Indian individuals and Roman Egyptian society during this period.",
           "key_takeaways": [
-            "The inscriptions are approximately 2,000 years old and were found in six tombs in the Valley of the Kings",
-            "The majority of the inscriptions are in Tamil-Brahmi, an ancient language linked to modern Tamil",
-            "The discovery indicates a significant presence of Indians in Egypt during the Roman period, between the 1st and 3rd centuries AD"
+            "The inscriptions, dating back around 2,000 years, were found across six tombs in the Valley of the Kings",
+            "The majority of the inscriptions are in Tamil-Brahmi, indicating a connection to the Indian subcontinent",
+            "The discovery suggests that people of Indian origin were integrated into Roman Egyptian society during the 1st to 3rd centuries AD"
           ],
-          "why_this_matters": "This discovery is significant for Indian civilisation and heritage as it provides tangible evidence of ancient Indian presence in Egypt, highlighting the cultural exchange and integration that occurred between the two regions. It also underscores the importance of continued archaeological research in uncovering the complexities of ancient Indian history",
-          "research_hook": "A future research article could explore the implications of these inscriptions on our understanding of ancient Indian trade and cultural networks, and how they contributed to the development of Indian civilisation and heritage"
+          "why_this_matters": "This discovery is significant for Indian civilisation and historical research as it provides tangible evidence of ancient Indian presence in Egypt, highlighting the cultural exchange and interactions between the two regions. It also underscores the importance of continued archaeological research in uncovering the complexities of ancient global connections.",
+          "research_hook": "A future research article could explore the implications of these findings on our understanding of ancient trade routes and cultural exchange between India and Egypt, and how this discovery might inform new perspectives on the history of Indian diaspora communities."
         }
       },
       "first_published": "2026-08-14",
-      "updated_at": "2026-08-16T04:10:14.868338+00:00"
+      "updated_at": "2026-08-16T09:13:37.844359+00:00"
     },
     {
       "id": "ca9018c26bcf1671",
       "slug": "unveiling-ancient-india-s-history-through-epigraphs-ca9018c2",
-      "title": "Unveiling Ancient India's History through Epigraphs and Inscriptions",
-      "summary": "The Archaeological Survey of India has digitised over 67,000 estampages of Indian epigraphs, shedding light on the country's ancient past. Significant inscriptions have been discovered in several states, including Tamil Nadu and Maharashtra. These epigraphs provide valuable insights into ancient Indian society, culture, and politics",
+      "title": "A study of Ancient Indian and Early Medieval Epigraphs ...",
+      "summary": "by a team of epigraphists. The estampages of the inscriptions are then studied and preserved in various epigraphy branches. The information is disseminated through various publications. In the recent past, the ASI has discovered significant inscriptions in states including Tamil Nadu, Maharashtra, Gujarat and Telangana. The Archaeological Survey of India (ASI) has taken up a total of 67,461 estamp",
       "category": "Archaeology & Ancient Discoveries",
       "date": "2026-08-16",
       "published_at": "2026-08-16",
       "source_published_at": null,
       "source": "ijnrd.org",
       "source_url": "https://www.ijnrd.org/papers/IJNRD2407093.pdf",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 90,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "A study of Ancient Indian and Early Medieval Epigraphs ...",
+          "summary": "by a team of epigraphists. The estampages of the inscriptions are then studied and preserved in various epigraphy branches. The information is disseminated through various publications. In the recent past, the ASI has discovered significant inscriptions in states including Tamil Nadu, Maharashtra, Gujarat and Telangana. The Archaeological Survey of India (ASI) has taken up a total of 67,461 estamp",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-14",
+      "updated_at": "2026-08-16T09:13:37.843252+00:00"
+    },
+    {
+      "id": "d9fb116a4f7045ea",
+      "slug": "unveiling-ancient-indian-epigraphy-insights-from-halmidi-and-beyond-d9fb116a",
+      "title": "Unveiling Ancient Indian Epigraphy: Insights from Halmidi and Beyond",
+      "summary": "The Halmidi inscription, dated 450 CE, is the oldest known Kannada language inscription, while the Mahasthan Brahmi Inscription and Hathigumpha inscription provide valuable insights into ancient Indian administration and governance. These discoveries have significantly contributed to the field of epigraphy, shedding light on India's rich linguistic and cultural heritage. The inscriptions have been found in various locations, including Karnataka and Orissa, and are now preserved in museums and protected sites.",
+      "category": "Archaeology & Ancient Discoveries",
+      "date": "2026-08-16",
+      "published_at": "2026-08-16",
+      "source_published_at": null,
+      "source": "en.wikipedia.org",
+      "source_url": "https://en.wikipedia.org/wiki/Early_Indian_epigraphy",
       "key_takeaways": [
-        "The ASI has digitised 67,461 estampages of Indian epigraphs for preservation and study",
-        "Inscriptions have been found in states such as Tamil Nadu, Maharashtra, and Gujarat, offering a glimpse into regional histories",
-        "The study of epigraphs reveals the complex relationships between ancient Indian society, culture, and the natural world, including animals"
+        "The Halmidi inscription is the oldest known inscription in the Kannada language, dated 450 CE",
+        "The Mahasthan Brahmi Inscription details administrative orders for emergency situations, such as floods and famines, and provides relief for distressed populations",
+        "The Hathigumpha inscription, written by King Kharavela in the 2nd century BCE, consists of seventeen lines incised in Brahmi letters on a natural cavern in Orissa"
       ],
-      "why_this_matters": "The study of epigraphs is crucial for understanding ancient Indian civilisation, as they provide primary sources of historical information, allowing researchers to reconstruct the social, political, and cultural context of the time. This research has significant implications for Indian heritage and historical studies",
-      "research_hook": "A future research article could explore the specific role of animals in ancient Indian epigraphy, examining the symbolism, cultural significance, and historical context of animal representations in inscriptions and other archaeological findings",
+      "why_this_matters": "These ancient inscriptions are crucial for understanding India's linguistic, cultural, and administrative history, and their study has significant implications for the fields of epigraphy, archaeology, and history. By analyzing these inscriptions, researchers can gain valuable insights into the lives and governance of ancient Indian societies.",
+      "research_hook": "A future research article could explore the significance of the Brahmi script in ancient Indian epigraphy, examining its evolution, spread, and impact on the development of Indian languages and cultures.",
       "editorial_confidence": 90,
       "schema_version": "6.1B",
       "language": "en",
       "image_url": null,
       "translations": {
         "hi": {
-          "title": "प्राचीन भारत का इतिहास अभिलेखों और शिलालेखों के माध्यम से",
-          "summary": "भारतीय पुरातत्व सर्वेक्षण ने 67,000 से अधिक भारतीय अभिलेखों की प्रतिलिपियों को डिजिटाइज़ किया है, जो देश के प्राचीन अतीत पर प्रकाश डालते हैं। तमिलनाडु और महाराष्ट्र सहित कई राज्यों में महत्वपूर्ण शिलालेखों की खोज की गई है। ये अभिलेख प्राचीन भारतीय समाज, संस्कृति और राजनीति में मूल्यवान अंतर्दृष्टि प्रदान करते हैं",
+          "title": "प्राचीन भारतीय अभिलेखशास्त्र का अनावरण: हल्मिडी और उससे परे के निष्कर्ष",
+          "summary": "हल्मिडी शिलालेख, जो ४५० ईस्वी में दिनांकित है, कन्नड़ भाषा का सबसे पुराना ज्ञात शिलालेख है, जबकि महास्थान ब्राह्मी शिलालेख और हाथीगुम्फा शिलालेख प्राचीन भारतीय प्रशासन और शासन के बारे में मूल्यवान जानकारी प्रदान करते हैं। इन खोजों ने अभिलेखशास्त्र के क्षेत्र में महत्वपूर्ण योगदान दिया है, जो भारत की समृद्ध भाषाई और सांस्कृतिक विरासत पर प्रकाश डालता है। ये शिलालेख विभिन्न स्थानों पर पाए गए हैं, जिनमें कर्नाटक और ओडिशा शामिल हैं, और अब संग्रहालयों और संरक्षित स्थलों पर संरक्षित हैं।",
           "key_takeaways": [
-            "भारतीय पुरातत्व सर्वेक्षण ने संरक्षण और अध्ययन के लिए 67,461 भारतीय अभिलेखों की प्रतिलिपियों को डिजिटाइज़ किया है",
-            "तमिलनाडु, महाराष्ट्र और गुजरात जैसे राज्यों में शिलालेख पाए गए हैं, जो क्षेत्रीय इतिहास की एक झलक प्रदान करते हैं",
-            "अभिलेखों का अध्ययन प्राचीन भारतीय समाज, संस्कृति और प्राकृतिक विश्व, जिसमें जानवर भी शामिल हैं, के बीच जटिल संबंधों को प्रकट करता है"
+            "हल्मिडी शिलालेख कन्नड़ भाषा का सबसे पुराना ज्ञात शिलालेख है, जो ४५० ईस्वी में दिनांकित है",
+            "महास्थान ब्राह्मी शिलालेख आपातकालीन स्थितियों, जैसे कि बाढ़ और अकाल, के लिए प्रशासनिक आदेशों का विवरण देता है और पीड़ित जनसंख्या के लिए राहत प्रदान करता है",
+            "हाथीगुम्फा शिलालेख, जो द्वितीय शताब्दी ईसा पूर्व में राजा खरवेला द्वारा लिखा गया था, ओडिशा में एक प्राकृतिक गुफा पर ब्राह्मी अक्षरों में उत्कीर्ण सत्रह पंक्तियों से युक्त है"
           ],
-          "why_this_matters": "अभिलेखों का अध्ययन प्राचीन भारतीय सभ्यता को समझने के लिए महत्वपूर्ण है, क्योंकि वे ऐतिहासिक जानकारी के प्राथमिक स्रोत प्रदान करते हैं, जिससे शोधकर्ता उस समय के सामाजिक, राजनीतिक और सांस्कृतिक संदर्भ को पुनर्निर्मित कर सकते हैं। इस शोध का भारतीय विरासत और ऐतिहासिक अध्ययनों पर महत्वपूर्ण प्रभाव पड़ता है",
-          "research_hook": "एक भविष्य के शोध लेख में प्राचीन भारतीय अभिलेखों में जानवरों की विशिष्ट भूमिका का अन्वेषण किया जा सकता है, जिसमें शिलालेखों और अन्य पुरातात्विक खोजों में जानवरों के प्रतिनिधित्व के प्रतीकवाद, सांस्कृतिक महत्व और ऐतिहासिक संदर्भ की जांच की जा सकती है"
+          "why_this_matters": "इन प्राचीन शिलालेखों का अध्ययन भारत के भाषाई, सांस्कृतिक और प्रशासनिक इतिहास को समझने के लिए महत्वपूर्ण है, और इसके परिणामस्वरूप अभिलेखशास्त्र, पुरातत्व और इतिहास के क्षेत्रों में महत्वपूर्ण परिणाम हो सकते हैं। इन शिलालेखों का विश्लेषण करके, शोधकर्ता प्राचीन भारतीय समाजों के जीवन और शासन के बारे में मूल्यवान जानकारी प्राप्त कर सकते हैं।",
+          "research_hook": "एक भविष्य के शोध लेख में ब्राह्मी लिपि के प्राचीन भारतीय अभिलेखशास्त्र में महत्व का अन्वेषण किया जा सकता है, जिसमें इसके विकास, प्रसार और भारतीय भाषाओं और संस्कृतियों के विकास पर इसके प्रभाव की जांच की जा सकती है।"
         },
         "en": {
-          "title": "Unveiling Ancient India's History through Epigraphs and Inscriptions",
-          "summary": "The Archaeological Survey of India has digitised over 67,000 estampages of Indian epigraphs, shedding light on the country's ancient past. Significant inscriptions have been discovered in several states, including Tamil Nadu and Maharashtra. These epigraphs provide valuable insights into ancient Indian society, culture, and politics",
+          "title": "Unveiling Ancient Indian Epigraphy: Insights from Halmidi and Beyond",
+          "summary": "The Halmidi inscription, dated 450 CE, is the oldest known Kannada language inscription, while the Mahasthan Brahmi Inscription and Hathigumpha inscription provide valuable insights into ancient Indian administration and governance. These discoveries have significantly contributed to the field of epigraphy, shedding light on India's rich linguistic and cultural heritage. The inscriptions have been found in various locations, including Karnataka and Orissa, and are now preserved in museums and protected sites.",
           "key_takeaways": [
-            "The ASI has digitised 67,461 estampages of Indian epigraphs for preservation and study",
-            "Inscriptions have been found in states such as Tamil Nadu, Maharashtra, and Gujarat, offering a glimpse into regional histories",
-            "The study of epigraphs reveals the complex relationships between ancient Indian society, culture, and the natural world, including animals"
+            "The Halmidi inscription is the oldest known inscription in the Kannada language, dated 450 CE",
+            "The Mahasthan Brahmi Inscription details administrative orders for emergency situations, such as floods and famines, and provides relief for distressed populations",
+            "The Hathigumpha inscription, written by King Kharavela in the 2nd century BCE, consists of seventeen lines incised in Brahmi letters on a natural cavern in Orissa"
           ],
-          "why_this_matters": "The study of epigraphs is crucial for understanding ancient Indian civilisation, as they provide primary sources of historical information, allowing researchers to reconstruct the social, political, and cultural context of the time. This research has significant implications for Indian heritage and historical studies",
-          "research_hook": "A future research article could explore the specific role of animals in ancient Indian epigraphy, examining the symbolism, cultural significance, and historical context of animal representations in inscriptions and other archaeological findings"
+          "why_this_matters": "These ancient inscriptions are crucial for understanding India's linguistic, cultural, and administrative history, and their study has significant implications for the fields of epigraphy, archaeology, and history. By analyzing these inscriptions, researchers can gain valuable insights into the lives and governance of ancient Indian societies.",
+          "research_hook": "A future research article could explore the significance of the Brahmi script in ancient Indian epigraphy, examining its evolution, spread, and impact on the development of Indian languages and cultures."
+        }
+      },
+      "first_published": "2026-08-16",
+      "updated_at": "2026-08-16"
+    },
+    {
+      "id": "b62f3abad5426a8c",
+      "slug": "official-website-of-national-archives-of-india-government-of-india-b62f3aba",
+      "title": "Unveiling India's Rich Archival Heritage: The National Archives of India",
+      "summary": "The National Archives of India serves as the primary custodian of the government's enduring records, boasting an extensive collection of historical documents and manuscripts. Established in 1891, it has evolved into the largest archival repository in South Asia. The archives provide access to a vast array of records, including public and private papers, oriental records, and cartographic materials.",
+      "category": "Vedic & Manuscript Research",
+      "date": "2026-08-16",
+      "published_at": "2026-08-16",
+      "source_published_at": null,
+      "source": "nationalarchives.nic.in",
+      "source_url": "https://nationalarchives.nic.in/en",
+      "key_takeaways": [
+        "The National Archives of India was established on 11 March 1891 as the Imperial Records Department",
+        "It holds a vast corpus of records, including public records, private papers, and oriental records",
+        "The archives provide online access to historical documents and manuscripts through its digital exhibitions and online records"
+      ],
+      "why_this_matters": "The National Archives of India plays a crucial role in preserving India's historical heritage, offering invaluable resources for researchers and scholars. Its extensive collection and digital accessibility make it an essential institution for understanding India's rich cultural and historical landscape.",
+      "research_hook": "A future research article could explore the significance of the National Archives of India's oriental records collection, examining its relevance to Vedic studies and manuscript research in the Indian subcontinent.",
+      "editorial_confidence": 90,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "Unveiling India's Rich Archival Heritage: The National Archives of India",
+          "summary": "The National Archives of India serves as the primary custodian of the government's enduring records, boasting an extensive collection of historical documents and manuscripts. Established in 1891, it has evolved into the largest archival repository in South Asia. The archives provide access to a vast array of records, including public and private papers, oriental records, and cartographic materials.",
+          "key_takeaways": [
+            "The National Archives of India was established on 11 March 1891 as the Imperial Records Department",
+            "It holds a vast corpus of records, including public records, private papers, and oriental records",
+            "The archives provide online access to historical documents and manuscripts through its digital exhibitions and online records"
+          ],
+          "why_this_matters": "The National Archives of India plays a crucial role in preserving India's historical heritage, offering invaluable resources for researchers and scholars. Its extensive collection and digital accessibility make it an essential institution for understanding India's rich cultural and historical landscape.",
+          "research_hook": "A future research article could explore the significance of the National Archives of India's oriental records collection, examining its relevance to Vedic studies and manuscript research in the Indian subcontinent."
         }
       },
       "first_published": "2026-08-14",
-      "updated_at": "2026-08-16T04:10:14.867540+00:00"
+      "updated_at": "2026-08-16T09:13:37.838990+00:00"
+    },
+    {
+      "id": "5ed1656dbf0a05ba",
+      "slug": "toward-a-critical-edition-of-the-la-k-vat-ras-tra-the-significance-of-the-palm-leaf-manuscript-5ed1656d",
+      "title": "Unveiling the Significance of a Newly Discovered Sanskrit Manuscript in Mahāyāna Sūtra Research",
+      "summary": "A recently published Sanskrit manuscript of the Jayamatiparipṛcchāsūtra has been found to be related to the Śūraṃgama-samādhisūtra, shedding new light on Mahāyāna sūtras. The manuscript's discovery and analysis contribute to the inventory of Indian scriptural materials. The article provides edited and corrected Sanskrit, Tibetan, and English texts for further study",
+      "category": "Vedic & Manuscript Research",
+      "date": "2026-08-16",
+      "published_at": "2026-08-16",
+      "source_published_at": null,
+      "source": "academia.edu",
+      "source_url": "https://www.academia.edu/46471964/Toward_a_Critical_Edition_of_the_La%E1%B9%85k%C4%81vat%C4%81ras%C5%ABtra_The_Significance_of_the_Palm_leaf_Manuscript",
+      "key_takeaways": [
+        "The Jayamatiparipṛcchāsūtra and Śūraṃgama-samādhisūtra are two Mahāyāna sūtras with previously unrecognized relationships",
+        "A newly discovered Sanskrit manuscript of the Jayamatiparipṛcchāsūtra has been published and analyzed",
+        "The manuscript's study involves comparison with original Sanskrit, Tibetan, and Chinese translations to understand the intentions of revisers"
+      ],
+      "why_this_matters": "This research is significant for Indian civilisation and heritage as it expands our understanding of Mahāyāna sūtras and their interconnectedness, ultimately enriching the study of Buddhist scriptures. The discovery and analysis of the manuscript also highlight the importance of preserving and studying ancient Indian texts",
+      "research_hook": "A future research article could explore the implications of the Jayamatiparipṛcchāsūtra and Śūraṃgama-samādhisūtra relationship on our understanding of Buddhist philosophy and its evolution in ancient India",
+      "editorial_confidence": 95,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "hi": {
+          "title": "महायान सूत्र अनुसंधान में एक नवप्राप्त संस्कृत पाण्डुलिपि के महत्व का अनावरण",
+          "summary": "हाल ही में प्रकाशित जयमतिपरिपृच्छासूत्र की एक संस्कृत पाण्डुलिपि को शूरंगम-समाधिसूत्र से संबंधित पाया गया है, जो महायान सूत्रों पर नए सिरे से प्रकाश डालती है। पाण्डुलिपि की खोज और विश्लेषण भारतीय शास्त्रीय सामग्री के संग्रह में योगदान करते हैं। लेख में आगे के अध्ययन के लिए संस्कृत, तिब्बती और अंग्रेजी पाठों को संपादित और संशोधित किया गया है।",
+          "key_takeaways": [
+            "जयमतिपरिपृच्छासूत्र और शूरंगम-समाधिसूत्र दो महायान सूत्र हैं जिनके बीच पहले से अनजान संबंध हैं",
+            "जयमतिपरिपृच्छासूत्र की एक नवप्राप्त संस्कृत पाण्डुलिपि का प्रकाशन और विश्लेषण किया गया है",
+            "पाण्डुलिपि के अध्ययन में मूल संस्कृत, तिब्बती और चीनी अनुवादों की तुलना शामिल है ताकि संशोधकों के उद्देश्यों को समझा जा सके"
+          ],
+          "why_this_matters": "यह अनुसंधान भारतीय सभ्यता और विरासत के लिए महत्वपूर्ण है क्योंकि यह महायान सूत्रों और उनके आपसी संबंधों की हमारी समझ को बढ़ाता है, अंततः बौद्ध धर्मग्रंथों के अध्ययन को समृद्ध बनाता है। पाण्डुलिपि की खोज और विश्लेषण प्राचीन भारतीय ग्रंथों के संरक्षण और अध्ययन के महत्व को भी रेखांकित करते हैं।",
+          "research_hook": "एक भविष्य के शोध लेख में जयमतिपरिपृच्छासूत्र और शूरंगम-समाधिसूत्र संबंध के बौद्ध दर्शन और प्राचीन भारत में इसके विकास पर हमारी समझ पर पड़ने वाले प्रभावों का अन्वेषण किया जा सकता है"
+        },
+        "en": {
+          "title": "Unveiling the Significance of a Newly Discovered Sanskrit Manuscript in Mahāyāna Sūtra Research",
+          "summary": "A recently published Sanskrit manuscript of the Jayamatiparipṛcchāsūtra has been found to be related to the Śūraṃgama-samādhisūtra, shedding new light on Mahāyāna sūtras. The manuscript's discovery and analysis contribute to the inventory of Indian scriptural materials. The article provides edited and corrected Sanskrit, Tibetan, and English texts for further study",
+          "key_takeaways": [
+            "The Jayamatiparipṛcchāsūtra and Śūraṃgama-samādhisūtra are two Mahāyāna sūtras with previously unrecognized relationships",
+            "A newly discovered Sanskrit manuscript of the Jayamatiparipṛcchāsūtra has been published and analyzed",
+            "The manuscript's study involves comparison with original Sanskrit, Tibetan, and Chinese translations to understand the intentions of revisers"
+          ],
+          "why_this_matters": "This research is significant for Indian civilisation and heritage as it expands our understanding of Mahāyāna sūtras and their interconnectedness, ultimately enriching the study of Buddhist scriptures. The discovery and analysis of the manuscript also highlight the importance of preserving and studying ancient Indian texts",
+          "research_hook": "A future research article could explore the implications of the Jayamatiparipṛcchāsūtra and Śūraṃgama-samādhisūtra relationship on our understanding of Buddhist philosophy and its evolution in ancient India"
+        }
+      },
+      "first_published": "2026-08-14",
+      "updated_at": "2026-08-16T09:13:37.837259+00:00"
+    },
+    {
+      "id": "c7e94cd03b5a89e4",
+      "slug": "mimamsa-bibliography-philpapers-c7e94cd0",
+      "title": "Exploring Mimamsa: A School of Indian Philosophy",
+      "summary": "Mimamsa is a significant school of Indian philosophy, with various academic papers and books dedicated to its study. The PhilPapers bibliography provides a comprehensive list of publications on Mimamsa, including works by notable authors such as Madan Mohan Agrawal and Daya Krishna. These publications cover topics such as the basic texts of Indian philosophy and discussions on Vedanta, Mimamsa, and Nyaya philosophy.",
+      "category": "Vedic & Manuscript Research",
+      "date": "2026-08-16",
+      "published_at": "2026-08-16",
+      "source_published_at": null,
+      "source": "philpapers.org",
+      "source_url": "https://philpapers.org/browse/mimamsa",
+      "key_takeaways": [
+        "Mimamsa is a school of Indian philosophy with a rich bibliography of academic papers and books",
+        "The PhilPapers bibliography includes publications by authors such as Madan Mohan Agrawal and Daya Krishna",
+        "Publications on Mimamsa cover topics such as basic texts of Indian philosophy and discussions on Vedanta, Mimamsa, and Nyaya philosophy"
+      ],
+      "why_this_matters": "The study of Mimamsa is crucial for understanding Indian philosophy and its various schools of thought, and the availability of academic papers and books on the subject facilitates further research and exploration. This research has significant implications for the field of Indian philosophy and its relevance to modern scholarship.",
+      "research_hook": "A future research article could delve into the comparisons and contrasts between Mimamsa and other schools of Indian philosophy, such as Nyaya and Vedanta, to provide a more comprehensive understanding of the subject.",
+      "editorial_confidence": 80,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "hi": {
+          "title": "मीमांसा का अन्वेषण: एक भारतीय दर्शन का विद्यालय",
+          "summary": "मीमांसा भारतीय दर्शन का एक महत्वपूर्ण विद्यालय है, जिसके अध्ययन के लिए विभिन्न शैक्षणिक पत्र और पुस्तकें समर्पित हैं। PhilPapers संदर्भ सूची में मीमांसा पर प्रकाशनों की एक व्यापक सूची है, जिसमें मदन मोहन अग्रवाल और दया कृष्ण जैसे प्रसिद्ध लेखकों के कार्य शामिल हैं। इन प्रकाशनों में भारतीय दर्शन के मूल ग्रंथों और वेदांत, मीमांसा और न्याय दर्शन पर चर्चा जैसे विषयों को शामिल किया गया है।",
+          "key_takeaways": [
+            "मीमांसा एक समृद्ध शैक्षणिक पत्रों और पुस्तकों के साथ भारतीय दर्शन का एक विद्यालय है",
+            "PhilPapers संदर्भ सूची में मदन मोहन अग्रवाल और दया कृष्ण जैसे लेखकों के प्रकाशन शामिल हैं",
+            "मीमांसा पर प्रकाशन भारतीय दर्शन के मूल ग्रंथों और वेदांत, मीमांसा और न्याय दर्शन पर चर्चा जैसे विषयों को कवर करते हैं"
+          ],
+          "why_this_matters": "मीमांसा का अध्ययन भारतीय दर्शन और इसके विभिन्न विचारधाराओं को समझने के लिए महत्वपूर्ण है, और विषय पर शैक्षणिक पत्रों और पुस्तकों की उपलब्धता आगे के अनुसंधान और अन्वेषण को सुविधाजनक बनाती है। इस अनुसंधान का भारतीय दर्शन के क्षेत्र और आधुनिक विद्वानों के लिए इसकी प्रासंगिकता पर महत्वपूर्ण प्रभाव पड़ता है।",
+          "research_hook": "एक भविष्य के शोध लेख मीमांसा और अन्य भारतीय दर्शन के विद्यालयों जैसे न्याय और वेदांत के बीच तुलना और विरोधाभासों में गहराई से जा सकता है, जिससे विषय की एक अधिक व्यापक समझ प्रदान की जा सकती है।"
+        },
+        "en": {
+          "title": "Exploring Mimamsa: A School of Indian Philosophy",
+          "summary": "Mimamsa is a significant school of Indian philosophy, with various academic papers and books dedicated to its study. The PhilPapers bibliography provides a comprehensive list of publications on Mimamsa, including works by notable authors such as Madan Mohan Agrawal and Daya Krishna. These publications cover topics such as the basic texts of Indian philosophy and discussions on Vedanta, Mimamsa, and Nyaya philosophy.",
+          "key_takeaways": [
+            "Mimamsa is a school of Indian philosophy with a rich bibliography of academic papers and books",
+            "The PhilPapers bibliography includes publications by authors such as Madan Mohan Agrawal and Daya Krishna",
+            "Publications on Mimamsa cover topics such as basic texts of Indian philosophy and discussions on Vedanta, Mimamsa, and Nyaya philosophy"
+          ],
+          "why_this_matters": "The study of Mimamsa is crucial for understanding Indian philosophy and its various schools of thought, and the availability of academic papers and books on the subject facilitates further research and exploration. This research has significant implications for the field of Indian philosophy and its relevance to modern scholarship.",
+          "research_hook": "A future research article could delve into the comparisons and contrasts between Mimamsa and other schools of Indian philosophy, such as Nyaya and Vedanta, to provide a more comprehensive understanding of the subject."
+        }
+      },
+      "first_published": "2026-08-14",
+      "updated_at": "2026-08-16T09:13:37.836126+00:00"
+    },
+    {
+      "id": "f6d700f2ae7df40c",
+      "slug": "unlocking-indian-knowledge-systems-through-sanskrit-language-studies-f6d700f2",
+      "title": "Unlocking Indian Knowledge Systems through Sanskrit Language Studies",
+      "summary": "A research paper explores the preservation and modern relevance of Indian Knowledge Systems, highlighting the significance of Sanskrit language studies in understanding this ancient body of knowledge. The study reveals that Sanskrit is a treasure trove of systematic representation of Indian Knowledge Systems, which encompasses science, yoga, and Ayurveda. The traditional Gurukul system and methods like Shravana, Manana, and Nididhyasana are crucial for transmitting this knowledge",
+      "category": "Daily Research Hook / Topic Idea",
+      "date": "2026-08-16",
+      "published_at": "2026-08-16",
+      "source_published_at": null,
+      "source": "ijirt.org",
+      "source_url": "https://ijirt.org/article?manuscript=191095",
+      "key_takeaways": [
+        "Sanskrit language is a primary means of accessing Indian Knowledge Systems",
+        "Indian Knowledge Systems encompass a broad range of subjects including science, yoga, and Ayurveda",
+        "The traditional Gurukul system and methods like Shravana, Manana, and Nididhyasana are essential for knowledge transmission"
+      ],
+      "why_this_matters": "The preservation and modern relevance of Indian Knowledge Systems are crucial for understanding India's rich cultural heritage and its contributions to ancient science. By studying Sanskrit language, researchers can unlock the secrets of this ancient body of knowledge and its applications in modern times",
+      "research_hook": "A future research article could explore the applications of Indian Knowledge Systems in modern fields like medicine, astronomy, and environmental science, and how Sanskrit language studies can facilitate a deeper understanding of these topics",
+      "editorial_confidence": 80,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "hi": {
+          "title": "भारतीय ज्ञान प्रणालियों को संस्कृत भाषा अध्ययन के माध्यम से अनलॉक करना",
+          "summary": "एक शोध पत्र भारतीय ज्ञान प्रणालियों के संरक्षण और आधुनिक प्रासंगिकता का अन्वेषण करता है, संस्कृत भाषा अध्ययन के महत्व को इस प्राचीन ज्ञान के शरीर को समझने में उजागर करता है। अध्ययन से पता चलता है कि संस्कृत भारतीय ज्ञान प्रणालियों के व्यवस्थित प्रतिनिधित्व का एक खजाना है, जिसमें विज्ञान, योग और आयुर्वेद शामिल हैं। पारंपरिक गुरुकुल प्रणाली और श्रवण, मनन, और निदिध्यासन जैसे तरीके इस ज्ञान के संचरण के लिए महत्वपूर्ण हैं",
+          "key_takeaways": [
+            "संस्कृत भाषा भारतीय ज्ञान प्रणालियों तक पहुँचने का एक प्राथमिक साधन है",
+            "भारतीय ज्ञान प्रणालियों में विज्ञान, योग, और आयुर्वेद जैसे विषयों की एक विस्तृत श्रृंखला शामिल है",
+            "पारंपरिक गुरुकुल प्रणाली और श्रवण, मनन, और निदिध्यासन जैसे तरीके ज्ञान संचरण के लिए आवश्यक हैं"
+          ],
+          "why_this_matters": "भारतीय ज्ञान प्रणालियों के संरक्षण और आधुनिक प्रासंगिकता भारत की समृद्ध सांस्कृतिक विरासत और प्राचीन विज्ञान में इसके योगदान को समझने के लिए महत्वपूर्ण हैं। संस्कृत भाषा का अध्ययन करके, शोधकर्ता इस प्राचीन ज्ञान के शरीर और इसके आधुनिक समय में अनुप्रयोगों के रहस्यों को अनलॉक कर सकते हैं",
+          "research_hook": "एक भविष्य के शोध लेख में आधुनिक क्षेत्रों जैसे कि चिकित्सा, खगोल विज्ञान, और पर्यावरण विज्ञान में भारतीय ज्ञान प्रणालियों के अनुप्रयोगों का अन्वेषण किया जा सकता है, और संस्कृत भाषा अध्ययन इन विषयों की गहरी समझ को कैसे सुविधाजनक बना सकता है"
+        },
+        "en": {
+          "title": "Unlocking Indian Knowledge Systems through Sanskrit Language Studies",
+          "summary": "A research paper explores the preservation and modern relevance of Indian Knowledge Systems, highlighting the significance of Sanskrit language studies in understanding this ancient body of knowledge. The study reveals that Sanskrit is a treasure trove of systematic representation of Indian Knowledge Systems, which encompasses science, yoga, and Ayurveda. The traditional Gurukul system and methods like Shravana, Manana, and Nididhyasana are crucial for transmitting this knowledge",
+          "key_takeaways": [
+            "Sanskrit language is a primary means of accessing Indian Knowledge Systems",
+            "Indian Knowledge Systems encompass a broad range of subjects including science, yoga, and Ayurveda",
+            "The traditional Gurukul system and methods like Shravana, Manana, and Nididhyasana are essential for knowledge transmission"
+          ],
+          "why_this_matters": "The preservation and modern relevance of Indian Knowledge Systems are crucial for understanding India's rich cultural heritage and its contributions to ancient science. By studying Sanskrit language, researchers can unlock the secrets of this ancient body of knowledge and its applications in modern times",
+          "research_hook": "A future research article could explore the applications of Indian Knowledge Systems in modern fields like medicine, astronomy, and environmental science, and how Sanskrit language studies can facilitate a deeper understanding of these topics"
+        }
+      },
+      "first_published": "2026-08-16",
+      "updated_at": "2026-08-16"
+    },
+    {
+      "id": "8b738ce381573ac5",
+      "slug": "from-policy-to-practice-16-institutional-initiatives-driving-indian-knowledge-systems-in-higher-8b738ce3",
+      "title": "From policy to practice: 16 institutional initiatives driving Indian Knowledge Systems in Higher Education",
+      "summary": "The scheme marks a national-level effort to acknowledge expertise rooted in the Shastras and Indian Knowledge Systems independent of formal schooling credentials. To be eligible, candidates must have completed at least five years of study at a recognised gurukul and demonstrate proficiency in fields such as philosophy, mathematics, Ayurveda, Sanskrit or the performing arts. [...] Between 2020 and ",
+      "category": "Daily Research Hook / Topic Idea",
+      "date": "2026-08-16",
+      "published_at": "2026-08-16",
+      "source_published_at": null,
+      "source": "organiser.org",
+      "source_url": "https://organiser.org/2026/03/04/342668/bharat/from-policy-to-practice-16-institutional-initiatives-driving-indian-knowledge-systems-in-higher-education",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 90,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "From policy to practice: 16 institutional initiatives driving Indian Knowledge Systems in Higher Education",
+          "summary": "The scheme marks a national-level effort to acknowledge expertise rooted in the Shastras and Indian Knowledge Systems independent of formal schooling credentials. To be eligible, candidates must have completed at least five years of study at a recognised gurukul and demonstrate proficiency in fields such as philosophy, mathematics, Ayurveda, Sanskrit or the performing arts. [...] Between 2020 and ",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-16",
+      "updated_at": "2026-08-16T09:13:37.832099+00:00"
     },
     {
       "id": "aeec5debf70860e3",
@@ -152,104 +397,6 @@
       "updated_at": "2026-08-16"
     },
     {
-      "id": "5ed1656dbf0a05ba",
-      "slug": "toward-a-critical-edition-of-the-la-k-vat-ras-tra-the-significance-of-the-palm-leaf-manuscript-5ed1656d",
-      "title": "Unveiling the Significance of a Newly Discovered Sanskrit Manuscript in Mahāyāna Sūtra Research",
-      "summary": "A recently published Sanskrit manuscript of the Jayamatiparipṛcchāsūtra has shed new light on its relationship with the Śūraṃgama-samādhisūtra, both classified as Mahāyāna sūtras. The manuscript's discovery and analysis contribute to the inventory of Indian scriptural materials. The study also highlights the importance of comparing original Sanskrit texts with their translations to understand the intentions of revisers.",
-      "category": "Vedic & Manuscript Research",
-      "date": "2026-08-16",
-      "published_at": "2026-08-16",
-      "source_published_at": null,
-      "source": "academia.edu",
-      "source_url": "https://www.academia.edu/46471964/Toward_a_Critical_Edition_of_the_La%E1%B9%85k%C4%81vat%C4%81ras%C5%ABtra_The_Significance_of_the_Palm_leaf_Manuscript",
-      "key_takeaways": [
-        "The Jayamatiparipṛcchāsūtra and Śūraṃgama-samādhisūtra are two Mahāyāna sūtras with previously unrecognized relationships",
-        "A newly discovered Sanskrit manuscript of the Jayamatiparipṛcchāsūtra has been published and analyzed",
-        "Comparing original Sanskrit texts with their translations is crucial for understanding the intentions of revisers like the Jonang translators"
-      ],
-      "why_this_matters": "This research contributes significantly to the understanding of Mahāyāna sūtras and the evolution of Buddhist thought in India, highlighting the importance of manuscript analysis in uncovering new insights into Indian civilisation and heritage. The study's findings have implications for the field of Buddhist studies and the interpretation of sacred texts.",
-      "research_hook": "A future research article could explore the historical context and geographical spread of the Jayamatiparipṛcchāsūtra and Śūraṃgama-samādhisūtra, examining their influence on Buddhist thought and practice in ancient India and beyond.",
-      "editorial_confidence": 95,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "hi": {
-          "title": "एक नवप्राप्त संस्कृत पांडुलिपि के महत्व का अनावरण: महायान सूत्र अनुसंधान में",
-          "summary": "हाल ही में प्रकाशित जयमतिपरिपृच्छासूत्र की संस्कृत पांडुलिपि ने इसके साथ शूरंगम-समाधिसूत्र के संबंध को नया अर्थ दिया है, जो दोनों महायान सूत्र हैं। इस पांडुलिपि की खोज और विश्लेषण भारतीय धार्मिक सामग्री के संग्रह में योगदान करते हैं। यह अध्ययन मूल संस्कृत पाठों की उनके अनुवादों के साथ तुलना करने के महत्व को भी रेखांकित करता है ताकि संशोधकों के उद्देश्यों को समझा जा सके।",
-          "key_takeaways": [
-            "जयमतिपरिपृच्छासूत्र और शूरंगम-समाधिसूत्र दो महायान सूत्र हैं जिनके बीच पहले अनजान संबंध थे",
-            "जयमतिपरिपृच्छासूत्र की एक नवप्राप्त संस्कृत पांडुलिपि का प्रकाशन और विश्लेषण किया गया है",
-            "मूल संस्कृत पाठों की उनके अनुवादों के साथ तुलना करना संशोधकों जैसे जोनांग अनुवादकों के उद्देश्यों को समझने के लिए महत्वपूर्ण है"
-          ],
-          "why_this_matters": "यह अनुसंधान महायान सूत्रों और भारत में बौद्ध विचारों के विकास को समझने में महत्वपूर्ण योगदान करता है, पांडुलिपि विश्लेषण के महत्व को भारतीय सभ्यता और विरासत में नए दृष्टिकोण प्राप्त करने में रेखांकित करता है। इस अध्ययन के निष्कर्ष बौद्ध अध्ययन के क्षेत्र और पवित्र ग्रंथों की व्याख्या के लिए महत्वपूर्ण हैं।",
-          "research_hook": "एक भविष्य के शोध लेख में जयमतिपरिपृच्छासूत्र और शूरंगम-समाधिसूत्र के ऐतिहासिक संदर्भ और भौगोलिक विस्तार का अन्वेषण किया जा सकता है, जो प्राचीन भारत और उसके परे बौद्ध विचार और अभ्यास पर उनके प्रभाव की जांच करेगा।"
-        },
-        "en": {
-          "title": "Unveiling the Significance of a Newly Discovered Sanskrit Manuscript in Mahāyāna Sūtra Research",
-          "summary": "A recently published Sanskrit manuscript of the Jayamatiparipṛcchāsūtra has shed new light on its relationship with the Śūraṃgama-samādhisūtra, both classified as Mahāyāna sūtras. The manuscript's discovery and analysis contribute to the inventory of Indian scriptural materials. The study also highlights the importance of comparing original Sanskrit texts with their translations to understand the intentions of revisers.",
-          "key_takeaways": [
-            "The Jayamatiparipṛcchāsūtra and Śūraṃgama-samādhisūtra are two Mahāyāna sūtras with previously unrecognized relationships",
-            "A newly discovered Sanskrit manuscript of the Jayamatiparipṛcchāsūtra has been published and analyzed",
-            "Comparing original Sanskrit texts with their translations is crucial for understanding the intentions of revisers like the Jonang translators"
-          ],
-          "why_this_matters": "This research contributes significantly to the understanding of Mahāyāna sūtras and the evolution of Buddhist thought in India, highlighting the importance of manuscript analysis in uncovering new insights into Indian civilisation and heritage. The study's findings have implications for the field of Buddhist studies and the interpretation of sacred texts.",
-          "research_hook": "A future research article could explore the historical context and geographical spread of the Jayamatiparipṛcchāsūtra and Śūraṃgama-samādhisūtra, examining their influence on Buddhist thought and practice in ancient India and beyond."
-        }
-      },
-      "first_published": "2026-08-14",
-      "updated_at": "2026-08-16T04:10:14.863973+00:00"
-    },
-    {
-      "id": "c7e94cd03b5a89e4",
-      "slug": "mimamsa-bibliography-philpapers-c7e94cd0",
-      "title": "Exploring Mimamsa: A School of Indian Philosophy",
-      "summary": "Mimamsa is one of the six systems of Indian philosophy, with a rich bibliography of academic papers and books. The school has been studied and debated in various publications, including compilations of basic texts and contributed articles. Researchers have explored Mimamsa in relation to other Indian philosophies, such as Nyaya and Vedanta.",
-      "category": "Vedic & Manuscript Research",
-      "date": "2026-08-16",
-      "published_at": "2026-08-16",
-      "source_published_at": null,
-      "source": "philpapers.org",
-      "source_url": "https://philpapers.org/browse/mimamsa",
-      "key_takeaways": [
-        "Mimamsa is a school of Indian philosophy that is part of the six systems of Indian philosophy",
-        "The school has been studied and debated in various academic publications, including books and journal articles",
-        "Mimamsa has been explored in relation to other Indian philosophies, such as Nyaya and Vedanta"
-      ],
-      "why_this_matters": "Understanding Mimamsa is significant for Indian civilisation and heritage research, as it provides insights into the country's rich philosophical traditions and intellectual history. Studying Mimamsa can also inform contemporary debates in Indian philosophy and its relevance to modern society.",
-      "research_hook": "A future research article could explore the historical development of Mimamsa and its influence on Indian thought, examining the key texts, thinkers, and debates that have shaped the school's philosophy over time.",
-      "editorial_confidence": 80,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "hi": {
-          "title": "मीमांसा का अन्वेषण: एक भारतीय दर्शन शाला",
-          "summary": "मीमांसा भारतीय दर्शन की छह प्रणालियों में से एक है, जिसके पास अकादमिक पत्रों और पुस्तकों का एक समृद्ध साहित्य है। इस शाला का अध्ययन और विभिन्न प्रकाशनों में इसकी चर्चा की गई है, जिनमें मूल ग्रंथों के संकलन और योगदान से लेख शामिल हैं। शोधकर्ताओं ने मीमांसा को न्याय और वेदांत जैसे अन्य भारतीय दर्शनों के संबंध में अन्वेषित किया है।",
-          "key_takeaways": [
-            "मीमांसा भारतीय दर्शन की एक शाला है जो भारतीय दर्शन की छह प्रणालियों में से एक है",
-            "इस शाला का अध्ययन और विभिन्न अकादमिक प्रकाशनों में इसकी चर्चा की गई है, जिनमें पुस्तकें और पत्रिका लेख शामिल हैं",
-            "मीमांसा को न्याय और वेदांत जैसे अन्य भारतीय दर्शनों के संबंध में अन्वेषित किया गया है"
-          ],
-          "why_this_matters": "मीमांसा को समझना भारतीय सभ्यता और विरासत अनुसंधान के लिए महत्वपूर्ण है, क्योंकि यह देश की समृद्ध दार्शनिक परंपराओं और बौद्धिक इतिहास में अंतर्दृष्टि प्रदान करता है। मीमांसा का अध्ययन भारतीय दर्शन में समकालीन वाद-विवाद को भी सूचित कर सकता है और आधुनिक समाज में इसकी प्रासंगिकता को दर्शा सकता है।",
-          "research_hook": "एक भविष्य के शोध लेख मीमांसा के ऐतिहासिक विकास और भारतीय विचार पर इसके प्रभाव का अन्वेषण कर सकता है, जिसमें इस शाला के दर्शन को आकार देने वाले मूल ग्रंथों, विचारकों और वाद-विवाद की जांच की जा सकती है।"
-        },
-        "en": {
-          "title": "Exploring Mimamsa: A School of Indian Philosophy",
-          "summary": "Mimamsa is one of the six systems of Indian philosophy, with a rich bibliography of academic papers and books. The school has been studied and debated in various publications, including compilations of basic texts and contributed articles. Researchers have explored Mimamsa in relation to other Indian philosophies, such as Nyaya and Vedanta.",
-          "key_takeaways": [
-            "Mimamsa is a school of Indian philosophy that is part of the six systems of Indian philosophy",
-            "The school has been studied and debated in various academic publications, including books and journal articles",
-            "Mimamsa has been explored in relation to other Indian philosophies, such as Nyaya and Vedanta"
-          ],
-          "why_this_matters": "Understanding Mimamsa is significant for Indian civilisation and heritage research, as it provides insights into the country's rich philosophical traditions and intellectual history. Studying Mimamsa can also inform contemporary debates in Indian philosophy and its relevance to modern society.",
-          "research_hook": "A future research article could explore the historical development of Mimamsa and its influence on Indian thought, examining the key texts, thinkers, and debates that have shaped the school's philosophy over time."
-        }
-      },
-      "first_published": "2026-08-14",
-      "updated_at": "2026-08-16T04:10:14.862688+00:00"
-    },
-    {
       "id": "da0ed2f16eaa4bc7",
       "slug": "unlocking-india-s-archival-treasures-national-archives-of-india-s-digital-initiatives-da0ed2f1",
       "title": "Declassified Netaji Files Now Accessible Online Through National Archives of India",
@@ -297,36 +444,6 @@
       },
       "first_published": "2026-08-14",
       "updated_at": "2026-08-16T04:10:14.861811+00:00"
-    },
-    {
-      "id": "8b738ce381573ac5",
-      "slug": "from-policy-to-practice-16-institutional-initiatives-driving-indian-knowledge-systems-in-higher-8b738ce3",
-      "title": "From policy to practice: 16 institutional initiatives driving Indian Knowledge Systems in Higher Education",
-      "summary": "The scheme marks a national-level effort to acknowledge expertise rooted in the Shastras and Indian Knowledge Systems independent of formal schooling credentials. To be eligible, candidates must have completed at least five years of study at a recognised gurukul and demonstrate proficiency in fields such as philosophy, mathematics, Ayurveda, Sanskrit or the performing arts. [...] Between 2020 and ",
-      "category": "Daily Research Hook / Topic Idea",
-      "date": "2026-08-16",
-      "published_at": "2026-08-16",
-      "source_published_at": null,
-      "source": "organiser.org",
-      "source_url": "https://organiser.org/2026/03/04/342668/bharat/from-policy-to-practice-16-institutional-initiatives-driving-indian-knowledge-systems-in-higher-education",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 90,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "From policy to practice: 16 institutional initiatives driving Indian Knowledge Systems in Higher Education",
-          "summary": "The scheme marks a national-level effort to acknowledge expertise rooted in the Shastras and Indian Knowledge Systems independent of formal schooling credentials. To be eligible, candidates must have completed at least five years of study at a recognised gurukul and demonstrate proficiency in fields such as philosophy, mathematics, Ayurveda, Sanskrit or the performing arts. [...] Between 2020 and ",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-16",
-      "updated_at": "2026-08-16"
     },
     {
       "id": "35ca43127fdffc67",
@@ -474,55 +591,6 @@
       },
       "first_published": "2026-08-15",
       "updated_at": "2026-08-15"
-    },
-    {
-      "id": "b62f3abad5426a8c",
-      "slug": "official-website-of-national-archives-of-india-government-of-india-b62f3aba",
-      "title": "Unveiling India's Rich History: The National Archives of India",
-      "summary": "The National Archives of India serves as the primary custodian of the government's enduring records, established in 1891 in Calcutta. It houses a vast collection of records, including public and private papers, oriental records, and microfilms. This repository offers invaluable sources for researching Indian history and culture",
-      "category": "Vedic & Manuscript Research",
-      "date": "2026-08-15",
-      "published_at": "2026-08-15",
-      "source_published_at": null,
-      "source": "nationalarchives.nic.in",
-      "source_url": "https://nationalarchives.nic.in/en",
-      "key_takeaways": [
-        "The National Archives of India was established on 11 March 1891 as the Imperial Records Department",
-        "It is the largest archival repository in South Asia, holding a vast corpus of records",
-        "The archives provide access to various resources, including digital exhibitions, online records, and a library"
-      ],
-      "why_this_matters": "The National Archives of India plays a crucial role in preserving India's historical and cultural heritage, providing valuable resources for researchers and scholars. Its extensive collection of records and manuscripts offers insights into the country's past, contributing significantly to Indian historical research",
-      "research_hook": "A future research article could explore the significance of the National Archives of India's oriental records collection, examining its relevance to the study of ancient Indian manuscripts and texts",
-      "editorial_confidence": 90,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "hi": {
-          "title": "भारत का समृद्ध इतिहास उजागर करना: नेशनल आर्काइव्स ऑफ इंडिया",
-          "summary": "नेशनल आर्काइव्स ऑफ इंडिया सरकार के स्थायी रिकॉर्ड्स के प्राथमिक संरक्षक के रूप में कार्य करता है, जिसकी स्थापना 1891 में कलकत्ता में हुई थी। यह सार्वजनिक और निजी पत्रों, पूर्वी रिकॉर्ड, और माइक्रोफिल्म सहित रिकॉर्ड्स का एक विशाल संग्रह है। यह भंडार भारतीय इतिहास और संस्कृति के शोध के लिए अमूल्य स्रोत प्रदान करता है",
-          "key_takeaways": [
-            "नेशनल आर्काइव्स ऑफ इंडिया की स्थापना 11 मार्च 1891 को इंपीरियल रिकॉर्ड्स डिपार्टमेंट के रूप में हुई थी",
-            "यह दक्षिण एशिया का सबसे बड़ा संग्रहालय है, जिसमें रिकॉर्ड्स का एक विशाल संग्रह है",
-            "आर्काइव्स डिजिटल प्रदर्शनी, ऑनलाइन रिकॉर्ड, और एक पुस्तकालय सहित विभिन्न संसाधनों तक पहुंच प्रदान करता है"
-          ],
-          "why_this_matters": "नेशनल आर्काइव्स ऑफ इंडिया भारत की ऐतिहासिक और सांस्कृतिक विरासत को संरक्षित करने में एक महत्वपूर्ण भूमिका निभाता है, शोधकर्ताओं और विद्वानों के लिए मूल्यवान संसाधन प्रदान करता है। इसके व्यापक रिकॉर्ड और पांडुलिपियों के संग्रह से देश के अतीत के बारे में जानकारी मिलती है, जो भारतीय ऐतिहासिक शोध में महत्वपूर्ण योगदान करता है",
-          "research_hook": "एक भविष्य के शोध लेख में नेशनल आर्काइव्स ऑफ इंडिया के पूर्वी रिकॉर्ड संग्रह के महत्व का अन्वेषण किया जा सकता है, जिसमें प्राचीन भारतीय पांडुलिपियों और ग्रंथों के अध्ययन से इसका संबंध देखा जा सकता है"
-        },
-        "en": {
-          "title": "Unveiling India's Rich History: The National Archives of India",
-          "summary": "The National Archives of India serves as the primary custodian of the government's enduring records, established in 1891 in Calcutta. It houses a vast collection of records, including public and private papers, oriental records, and microfilms. This repository offers invaluable sources for researching Indian history and culture",
-          "key_takeaways": [
-            "The National Archives of India was established on 11 March 1891 as the Imperial Records Department",
-            "It is the largest archival repository in South Asia, holding a vast corpus of records",
-            "The archives provide access to various resources, including digital exhibitions, online records, and a library"
-          ],
-          "why_this_matters": "The National Archives of India plays a crucial role in preserving India's historical and cultural heritage, providing valuable resources for researchers and scholars. Its extensive collection of records and manuscripts offers insights into the country's past, contributing significantly to Indian historical research",
-          "research_hook": "A future research article could explore the significance of the National Archives of India's oriental records collection, examining its relevance to the study of ancient Indian manuscripts and texts"
-        }
-      },
-      "first_published": "2026-08-14",
-      "updated_at": "2026-08-15T16:26:33.616882+00:00"
     },
     {
       "id": "f9d2b3f03a19dbfd",

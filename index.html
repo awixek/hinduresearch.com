@@ -189,6 +189,15 @@
     50% { opacity: 1; }
   }
 
+  /* Perf: while the user is actively scrolling, freeze the twinkle/shooting-star
+     animations so the browser isn't repainting these heavy multi-gradient
+     layers on every scroll frame (this is what caused the dark-mode scroll
+     jank — .sky-day has no such animation, which is why light mode was smooth). */
+  body.is-scrolling .star-layer,
+  body.is-scrolling .shooting-star {
+    animation-play-state: paused;
+  }
+
   .shooting-star {
     position: absolute;
     top: 12%;
@@ -386,6 +395,15 @@
     border-bottom: 1px solid var(--border-soft);
     box-shadow: 0 2px 24px var(--header-shadow);
     transition: background-color 0.9s var(--ease-premium), border-color 0.9s var(--ease-premium), box-shadow 0.9s var(--ease-premium);
+  }
+
+  /* Perf: dark mode's backdrop behind the sticky header is a busy, animated
+     multi-gradient star field, so a full 14px blur+saturate is much more
+     expensive to recompute per scroll frame than in light mode (static sky).
+     A lighter blur here keeps the glass effect without the jank. */
+  body.green-mode .site-header {
+    -webkit-backdrop-filter: blur(6px);
+    backdrop-filter: blur(6px);
   }
 
   .header-inner {
@@ -703,8 +721,14 @@
     box-shadow: 0 8px 22px rgba(204, 82, 0, 0.22);
     cursor: pointer;
     font-family: inherit;
+    will-change: transform;
+    /* Perf: only "transform" is animated here now (compositor-only, cheap).
+       Previously this also transitioned "padding" on the .compact toggle,
+       which is a layout-affecting property and forced a reflow every time
+       the widget shrank/grew while scrolling — that reflow, stacked on top
+       of the scroll's own layout work, was the glitch. */
     transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1),
-                padding 0.3s ease, box-shadow 0.2s ease;
+                box-shadow 0.2s ease;
   }
 
   .rishi-widget:hover,
@@ -718,14 +742,15 @@
     cursor: grabbing;
   }
 
-  /* Compact state once the page is scrolled — shrinks ~30% */
+  /* Compact state once the page is scrolled — shrinks ~30% via transform only
+     (no padding change), so the shrink is a cheap compositor animation. */
   .rishi-widget.compact {
-    padding: 8px 16px 8px 8px;
     transform: scale(0.78);
     transform-origin: bottom left;
   }
 
   .rishi-widget-avatar {
+    position: relative;
     width: 46px;
     height: 46px;
     min-width: 46px;
@@ -737,12 +762,33 @@
     color: #fff5eb;
     font-size: 21px;
     font-weight: 700;
+  }
+
+  /* Perf: the pulsing glow used to animate the avatar's own box-shadow
+     directly, which forces the browser to repaint that element on every
+     animation frame, continuously — this fought with scroll repaints and
+     was the other half of the "moving around glitches" issue. Now it's a
+     separate pseudo-element ring animating transform + opacity only, which
+     runs on the compositor thread and never triggers paint/layout. */
+  .rishi-widget-avatar::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    border-radius: 50%;
+    box-shadow: 0 0 0 0 rgba(255, 102, 0, 0.35);
     animation: rishiPulseGlow 2.6s ease-in-out infinite;
+    pointer-events: none;
+    will-change: transform, opacity;
+  }
+
+  body.is-scrolling .rishi-widget-avatar::after {
+    animation-play-state: paused;
   }
 
   @keyframes rishiPulseGlow {
-    0%, 100% { box-shadow: 0 0 0 0 rgba(255, 102, 0, 0.35); }
-    50% { box-shadow: 0 0 0 7px rgba(255, 102, 0, 0); }
+    0% { transform: scale(1); opacity: 0.55; }
+    50% { transform: scale(1.18); opacity: 0; }
+    100% { transform: scale(1); opacity: 0; }
   }
 
   .rishi-widget-label {
@@ -4725,6 +4771,10 @@
      carousel reads the global "sanatanQuestionBank" array on page load. -->
 <script src="Sanatan-quiz.js"></script>
 
+<!-- factsData.js must load BEFORE the main script below, since the facts
+     slider reads the global "factsData" array on page load. -->
+<script src="factsData.js"></script>
+
 <script>
   // Mobile menu toggle
   const navToggle = document.getElementById('navToggle');
@@ -4737,44 +4787,8 @@
   });
 
   // ===== DAILY SANATAN FACTS DATA =====
-  // Add/edit facts here. Later this can be replaced by a daily auto-updating API.
-  const factsData = [
-    {
-      source: "Hanuman Chalisa",
-      text: {
-        en: "A verse of the Hanuman Chalisa gives a startlingly accurate scientific estimate of the distance between the Sun and Earth — \"Jug sahastra yojan par Bhanu\" — remarkably close to today's measured distance.",
-        hi: "हनुमान चालीसा की एक चौपाई में सूर्य और पृथ्वी के बीच की दूरी का बेहद सटीक वैज्ञानिक अनुमान दिया गया है — \"जुग सहस्र योजन पर भानु\" — जो आज मापी गई दूरी के काफी करीब है।"
-      }
-    },
-    {
-      source: "Rigveda",
-      text: {
-        en: "A verse in the Rigveda describes the speed of light, which some scholars connect to the modern measured speed of light.",
-        hi: "ऋग्वेद के एक श्लोक में प्रकाश की गति का उल्लेख मिलता है, जिसे कुछ विद्वान आधुनिक 'स्पीड ऑफ लाइट' के अनुमान से जोड़ते हैं।"
-      }
-    },
-    {
-      source: "Yajurveda",
-      text: {
-        en: "The Yajurveda contains a detailed number system that names very large numbers (powers of ten) — considered one of the world's oldest decimal systems.",
-        hi: "यजुर्वेद में संख्या प्रणाली का विस्तृत उल्लेख है, जिसमें बड़ी संख्याओं (जैसे दस की शक्तियाँ) को नाम दिए गए थे — जिसे दुनिया की सबसे पुरानी दशमलव प्रणाली माना जाता है।"
-      }
-    },
-    {
-      source: "Sushruta Samhita",
-      text: {
-        en: "The Sushruta Samhita describes over 300 surgical procedures and more than 120 surgical instruments, forming the foundation of ancient surgery.",
-        hi: "सुश्रुत संहिता में 300 से ज़्यादा शल्य चिकित्सा (सर्जिकल) प्रक्रियाओं और 120 से ज़्यादा सर्जिकल उपकरणों का वर्णन मिलता है, जिसे प्राचीन शल्य चिकित्सा का आधार माना जाता है।"
-      }
-    },
-    {
-      source: "Surya Siddhanta",
-      text: {
-        en: "The Surya Siddhanta text gives an estimate of Earth's diameter that closely matches modern measurements — without the use of a telescope.",
-        hi: "सूर्य सिद्धांत ग्रंथ में पृथ्वी के व्यास (diameter) का अनुमान दिया गया है, जो आधुनिक मापों से काफी मेल खाता है — बिना किसी दूरबीन (टेलीस्कोप) के।"
-      }
-    }
-  ];
+  // Now loaded from the external factsData.js file (see <script src="factsData.js">
+  // near the top of </head>) — edit facts there, not here.
 
   const rishiFactsShareLabel = { en: "Share", hi: "शेयर करें" };
 
@@ -4782,6 +4796,18 @@
   const factsDots = document.getElementById('factsDots');
   const swastikaEmblem = document.getElementById('swastikaEmblem');
   let swastikaAngle = 0; // tracks cumulative rotation
+
+  // Shuffle the facts into a random order on every page load, so the slider
+  // doesn't always start on the same fixed fact and the sequence itself
+  // varies visit to visit (Fisher–Yates shuffle, done once at load time).
+  function shuffleFactsArray(arr) {
+    for (let i = arr.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [arr[i], arr[j]] = [arr[j], arr[i]];
+    }
+    return arr;
+  }
+  shuffleFactsArray(factsData);
 
   // Build slides + dots dynamically
   factsData.forEach((fact, i) => {
@@ -5024,16 +5050,42 @@
     rishiAuthMessage.style.color = isError ? '#ff6b6b' : '#4caf7d';
   }
 
-  // Widget shrinks ~30% once the page has scrolled, so it never blocks text
+  // Widget shrinks ~30% once the page has scrolled, so it never blocks text.
+  // Perf: throttled with requestAnimationFrame so the class check/write runs
+  // at most once per rendered frame instead of on every raw scroll event
+  // (a scroll gesture can fire dozens of scroll events per frame).
+  let rishiScrollTicking = false;
   function handleRishiWidgetScroll() {
-    if (window.scrollY > 60) {
-      rishiWidget.classList.add('compact');
-    } else {
-      rishiWidget.classList.remove('compact');
-    }
+    if (rishiScrollTicking) return;
+    rishiScrollTicking = true;
+    requestAnimationFrame(() => {
+      if (window.scrollY > 60) {
+        rishiWidget.classList.add('compact');
+      } else {
+        rishiWidget.classList.remove('compact');
+      }
+      rishiScrollTicking = false;
+    });
   }
   window.addEventListener('scroll', handleRishiWidgetScroll, { passive: true });
   handleRishiWidgetScroll();
+
+  // ===== SCROLL PERF: pause the night-mode star/shooting-star animations
+  // while actively scrolling, resume ~150ms after scrolling stops. Prevents
+  // the browser repainting those heavy multi-gradient layers every frame,
+  // which was the main cause of dark-mode scroll jank. =====
+  (function setupScrollPerfToggle() {
+    let scrollTimeout = null;
+    window.addEventListener('scroll', () => {
+      if (!document.body.classList.contains('is-scrolling')) {
+        document.body.classList.add('is-scrolling');
+      }
+      clearTimeout(scrollTimeout);
+      scrollTimeout = setTimeout(() => {
+        document.body.classList.remove('is-scrolling');
+      }, 150);
+    }, { passive: true });
+  })();
 
   // ===== RISHI AI WIDGET — DRAGGABLE (touch only, mobile) =====
   // Pure touch events; does not interfere with the existing click handler below.
@@ -5043,8 +5095,13 @@
     let startY = 0;
     let originLeft = 0;
     let originTop = 0;
+    let widgetWidth = 0;
+    let widgetHeight = 0;
     let isDragging = false;
     let dragMoved = false;
+    let pendingLeft = 0;
+    let pendingTop = 0;
+    let dragTicking = false;
     const DRAG_THRESHOLD = 8; // px of finger movement before it counts as a drag, not a tap
 
     function clamp(value, min, max) {
@@ -5059,10 +5116,16 @@
       const touch = e.touches[0];
       const rect = getWidgetRect();
 
-      // Lock current visual position into left/top px so dragging starts from
-      // exactly where the widget currently sits (works in both normal and compact state)
+      // Lock current visual position AND size into local vars once, up front —
+      // touchmove below never re-measures the DOM, only reads these cached
+      // numbers. Calling getBoundingClientRect() on every touchmove forces a
+      // synchronous layout recalculation each time (since the previous
+      // frame's style write just invalidated layout), which is exactly what
+      // was causing the glitch while dragging the widget around.
       originLeft = rect.left;
       originTop = rect.top;
+      widgetWidth = rect.width;
+      widgetHeight = rect.height;
 
       startX = touch.clientX;
       startY = touch.clientY;
@@ -5088,15 +5151,23 @@
 
       if (!dragMoved) return;
 
-      const rect = getWidgetRect();
-      const maxLeft = window.innerWidth - rect.width;
-      const maxTop = window.innerHeight - rect.height;
+      const maxLeft = window.innerWidth - widgetWidth;
+      const maxTop = window.innerHeight - widgetHeight;
 
-      const newLeft = clamp(originLeft + deltaX, 0, maxLeft);
-      const newTop = clamp(originTop + deltaY, 0, maxTop);
+      pendingLeft = clamp(originLeft + deltaX, 0, maxLeft);
+      pendingTop = clamp(originTop + deltaY, 0, maxTop);
 
-      rishiWidget.style.left = `${newLeft}px`;
-      rishiWidget.style.top = `${newTop}px`;
+      // Batch the actual style write into the next animation frame instead of
+      // writing on every single touchmove event (a finger drag can fire far
+      // more touchmove events than the screen can actually paint).
+      if (!dragTicking) {
+        dragTicking = true;
+        requestAnimationFrame(() => {
+          rishiWidget.style.left = `${pendingLeft}px`;
+          rishiWidget.style.top = `${pendingTop}px`;
+          dragTicking = false;
+        });
+      }
     }, { passive: true });
 
     function endDrag() {

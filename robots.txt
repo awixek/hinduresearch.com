@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://hinduresearch.com/sitemap.xml
+Sitemap: https://hinduresearch.com/sitemap-news.xml

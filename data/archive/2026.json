@@ -1,17 +1,47 @@
 {
   "schema_version": "6.1B",
   "year": 2026,
-  "updated_at": "2026-08-18T04:11:32.982516+00:00",
-  "count": 31,
+  "updated_at": "2026-08-19T04:11:33.710787+00:00",
+  "count": 34,
   "articles": [
+    {
+      "id": "d9fb116a4f7045ea",
+      "slug": "unveiling-ancient-indian-epigraphy-insights-from-halmidi-and-beyond-d9fb116a",
+      "title": "Early Indian epigraphy",
+      "summary": ". A replica at Halmidi village. The original is at the Bangalore museum\n\nThe Halmidi inscription is the oldest known inscription in the Kannada language. The inscription is carved on a pillar, that was discovered in the village of Halmidi, a few miles from the famous temple town of Belur in the Hassan district of Karnataka, and is dated 450 CE. The original inscription has now been deposited in an",
+      "category": "Archaeology & Ancient Discoveries",
+      "date": "2026-08-19",
+      "published_at": "2026-08-19",
+      "source_published_at": null,
+      "source": "en.wikipedia.org",
+      "source_url": "https://en.wikipedia.org/wiki/Early_Indian_epigraphy",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "Early Indian epigraphy",
+          "summary": ". A replica at Halmidi village. The original is at the Bangalore museum\n\nThe Halmidi inscription is the oldest known inscription in the Kannada language. The inscription is carved on a pillar, that was discovered in the village of Halmidi, a few miles from the famous temple town of Belur in the Hassan district of Karnataka, and is dated 450 CE. The original inscription has now been deposited in an",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-16",
+      "updated_at": "2026-08-19T04:11:36.828114+00:00"
+    },
     {
       "id": "ca9018c26bcf1671",
       "slug": "unveiling-ancient-india-s-history-through-epigraphs-ca9018c2",
       "title": "A study of Ancient Indian and Early Medieval Epigraphs ...",
       "summary": "by a team of epigraphists. The estampages of the inscriptions are then studied and preserved in various epigraphy branches. The information is disseminated through various publications. In the recent past, the ASI has discovered significant inscriptions in states including Tamil Nadu, Maharashtra, Gujarat and Telangana. The Archaeological Survey of India (ASI) has taken up a total of 67,461 estamp",
       "category": "Archaeology & Ancient Discoveries",
-      "date": "2026-08-18",
-      "published_at": "2026-08-18",
+      "date": "2026-08-19",
+      "published_at": "2026-08-19",
       "source_published_at": null,
       "source": "ijnrd.org",
       "source_url": "https://www.ijnrd.org/papers/IJNRD2407093.pdf",
@@ -32,7 +62,187 @@
         }
       },
       "first_published": "2026-08-14",
-      "updated_at": "2026-08-18T04:11:36.862244+00:00"
+      "updated_at": "2026-08-19T04:11:36.827119+00:00"
+    },
+    {
+      "id": "58e75015b936dd9e",
+      "slug": "india-s-ancient-scientific-knowledge-india-foundation-58e75015",
+      "title": "India’s Ancient Scientific Knowledge – India Foundation",
+      "summary": "Ancient Indian mathematicians made advancements in algebra(#_edn2) and trigonometry. Aryabhata’s work named Āryabhatiya contained solutions to quadratic equations. He introduced trigonometric functions in the context of astronomy. Trigonometry was used to construct fire altars in various shapes like bird (Garuda) shape, as described in texts like Yajurveda. Baudhāyana (800-740 BCE), provided an ap",
+      "category": "Archaeology & Ancient Discoveries",
+      "date": "2026-08-19",
+      "published_at": "2026-08-19",
+      "source_published_at": null,
+      "source": "indiafoundation.in",
+      "source_url": "https://indiafoundation.in/articles-and-commentaries/indias-ancient-scientific-knowledge",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "India’s Ancient Scientific Knowledge – India Foundation",
+          "summary": "Ancient Indian mathematicians made advancements in algebra(#_edn2) and trigonometry. Aryabhata’s work named Āryabhatiya contained solutions to quadratic equations. He introduced trigonometric functions in the context of astronomy. Trigonometry was used to construct fire altars in various shapes like bird (Garuda) shape, as described in texts like Yajurveda. Baudhāyana (800-740 BCE), provided an ap",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-19",
+      "updated_at": "2026-08-19"
+    },
+    {
+      "id": "d16a914ff00dab61",
+      "slug": "material-analysis-of-sanskrit-palm-leaf-manuscripts-preserved-in-nepal-d16a914f",
+      "title": "Material Analysis of Sanskrit Palm-Leaf Manuscripts Preserved in Nepal",
+      "summary": "While the Uṣṇīṣavijayā tradition received considerable scholarly attention regarding its Central and East Asian aspects, examinations of native South Asian evidence have been sparse. This paper offers now the first critical edition and translation of the Uṣṇīṣavijayā-dhāraṇī as it survives in Sanskrit manuscripts. Using ten Nepalese witnesses, the text with the nidāna, dhāraṇī and kalpa sections i",
+      "category": "Vedic & Manuscript Research",
+      "date": "2026-08-19",
+      "published_at": "2026-08-19",
+      "source_published_at": null,
+      "source": "academia.edu",
+      "source_url": "https://www.academia.edu/11395355/Material_Analysis_of_Sanskrit_Palm_Leaf_Manuscripts_Preserved_in_Nepal",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "Material Analysis of Sanskrit Palm-Leaf Manuscripts Preserved in Nepal",
+          "summary": "While the Uṣṇīṣavijayā tradition received considerable scholarly attention regarding its Central and East Asian aspects, examinations of native South Asian evidence have been sparse. This paper offers now the first critical edition and translation of the Uṣṇīṣavijayā-dhāraṇī as it survives in Sanskrit manuscripts. Using ten Nepalese witnesses, the text with the nidāna, dhāraṇī and kalpa sections i",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-19",
+      "updated_at": "2026-08-19"
+    },
+    {
+      "id": "b62f3abad5426a8c",
+      "slug": "official-website-of-national-archives-of-india-government-of-india-b62f3aba",
+      "title": "Official website of National Archives of India, Government of India",
+      "summary": "The National Archives of India is the custodian of the records of enduring value of the Government of India. Established on 11 March 1891 at Calcutta (Kolkata) as the Imperial Records Department, the National Archives of India is the custodian of the records of enduring value. It is the biggest archival repository in South Asia. It has a vast corpus of records viz., public records, private papers,",
+      "category": "Vedic & Manuscript Research",
+      "date": "2026-08-19",
+      "published_at": "2026-08-19",
+      "source_published_at": null,
+      "source": "nationalarchives.nic.in",
+      "source_url": "https://nationalarchives.nic.in/en",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "Official website of National Archives of India, Government of India",
+          "summary": "The National Archives of India is the custodian of the records of enduring value of the Government of India. Established on 11 March 1891 at Calcutta (Kolkata) as the Imperial Records Department, the National Archives of India is the custodian of the records of enduring value. It is the biggest archival repository in South Asia. It has a vast corpus of records viz., public records, private papers,",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-14",
+      "updated_at": "2026-08-19T04:11:36.820864+00:00"
+    },
+    {
+      "id": "c7e94cd03b5a89e4",
+      "slug": "mimamsa-bibliography-philpapers-c7e94cd0",
+      "title": "Mimamsa - Bibliography - PhilPapers",
+      "summary": "Remove from this list    Direct download Export citation Bookmark\n36. Six systems of Indian philosophy: the sūtras of six systems of Indian philosophy with English translation, transliteration, and indices.Madan Mohan Agrawal (ed.) - 2001 -  Delhi: Chaukhamba Sanskrit Pratishthan.details\n\n    Compilation of basic text of six systems of Indian philosophy.\n\n    Mimamsa in Asian Philosophy\n\n    Nyay",
+      "category": "Vedic & Manuscript Research",
+      "date": "2026-08-19",
+      "published_at": "2026-08-19",
+      "source_published_at": null,
+      "source": "philpapers.org",
+      "source_url": "https://philpapers.org/browse/mimamsa",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "Mimamsa - Bibliography - PhilPapers",
+          "summary": "Remove from this list    Direct download Export citation Bookmark\n36. Six systems of Indian philosophy: the sūtras of six systems of Indian philosophy with English translation, transliteration, and indices.Madan Mohan Agrawal (ed.) - 2001 -  Delhi: Chaukhamba Sanskrit Pratishthan.details\n\n    Compilation of basic text of six systems of Indian philosophy.\n\n    Mimamsa in Asian Philosophy\n\n    Nyay",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-14",
+      "updated_at": "2026-08-19T04:11:36.819234+00:00"
+    },
+    {
+      "id": "7d952265f17d44f2",
+      "slug": "digital-collections-native-americans-resources-in-local-history-and-genealogy-research-guides-at-7d952265",
+      "title": "Digital Collections - Native Americans: Resources in Local History and Genealogy - Research Guides at Library of Congress",
+      "summary": "Images from each of the geo-cultural regions documented in The North American Indian are represented in the collection: the Pacific Northwest, New Southwest, Great Basin, Great Plains, Plateau Region, California, and Alaska. Included are both studio and field photographs. A large number are individual or group portraits, and many subjects are identified by name. Other subjects include traditional ",
+      "category": "Global Cultural & Temple Events",
+      "date": "2026-08-19",
+      "published_at": "2026-08-19",
+      "source_published_at": null,
+      "source": "guides.loc.gov",
+      "source_url": "https://guides.loc.gov/native-americans/digital-collections",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "Digital Collections - Native Americans: Resources in Local History and Genealogy - Research Guides at Library of Congress",
+          "summary": "Images from each of the geo-cultural regions documented in The North American Indian are represented in the collection: the Pacific Northwest, New Southwest, Great Basin, Great Plains, Plateau Region, California, and Alaska. Included are both studio and field photographs. A large number are individual or group portraits, and many subjects are identified by name. Other subjects include traditional ",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-19",
+      "updated_at": "2026-08-19"
+    },
+    {
+      "id": "bb47e5c67a2eefa0",
+      "slug": "revitalizing-indian-education-integrating-traditional-knowledge-systems-into-modern-learning-bb47e5c6",
+      "title": "From Gurukul to Global Classroom: A Spiral Pedagogical Model for Integrating Indian Knowledge Systems Across Lifelong Learning",
+      "summary": "learning. This research proposes the Spiral Pedagogical Model as a conceptual framework for integrating IKS from early childhood education to higher education and adult learning. The research begins by examining the fundamental pedagogical elements of the Gurukul system, such as experiential education, the guru-shishya Parampara, moral and spiritual development, and community-based education, to d",
+      "category": "Daily Research Hook / Topic Idea",
+      "date": "2026-08-19",
+      "published_at": "2026-08-19",
+      "source_published_at": null,
+      "source": "ijsrm.net",
+      "source_url": "https://ijsrm.net/index.php/ijsrm/article/view/7067",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "From Gurukul to Global Classroom: A Spiral Pedagogical Model for Integrating Indian Knowledge Systems Across Lifelong Learning",
+          "summary": "learning. This research proposes the Spiral Pedagogical Model as a conceptual framework for integrating IKS from early childhood education to higher education and adult learning. The research begins by examining the fundamental pedagogical elements of the Gurukul system, such as experiential education, the guru-shishya Parampara, moral and spiritual development, and community-based education, to d",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-14",
+      "updated_at": "2026-08-19T04:11:36.813831+00:00"
     },
     {
       "id": "7166e25f5c8744f4",
@@ -153,36 +363,6 @@
       },
       "first_published": "2026-08-18",
       "updated_at": "2026-08-18"
-    },
-    {
-      "id": "bb47e5c67a2eefa0",
-      "slug": "revitalizing-indian-education-integrating-traditional-knowledge-systems-into-modern-learning-bb47e5c6",
-      "title": "From Gurukul to Global Classroom: A Spiral Pedagogical Model for Integrating Indian Knowledge Systems Across Lifelong Learning",
-      "summary": "learning. This research proposes the Spiral Pedagogical Model as a conceptual framework for integrating IKS from early childhood education to higher education and adult learning. The research begins by examining the fundamental pedagogical elements of the Gurukul system, such as experiential education, the guru-shishya Parampara, moral and spiritual development, and community-based education, to d",
-      "category": "Daily Research Hook / Topic Idea",
-      "date": "2026-08-18",
-      "published_at": "2026-08-18",
-      "source_published_at": null,
-      "source": "ijsrm.net",
-      "source_url": "https://ijsrm.net/index.php/ijsrm/article/view/7067",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "From Gurukul to Global Classroom: A Spiral Pedagogical Model for Integrating Indian Knowledge Systems Across Lifelong Learning",
-          "summary": "learning. This research proposes the Spiral Pedagogical Model as a conceptual framework for integrating IKS from early childhood education to higher education and adult learning. The research begins by examining the fundamental pedagogical elements of the Gurukul system, such as experiential education, the guru-shishya Parampara, moral and spiritual development, and community-based education, to d",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-14",
-      "updated_at": "2026-08-18T04:11:36.851194+00:00"
     },
     {
       "id": "3c93250e26f56b14",
@@ -373,55 +553,6 @@
       "updated_at": "2026-08-17T04:14:20.599231+00:00"
     },
     {
-      "id": "c7e94cd03b5a89e4",
-      "slug": "mimamsa-bibliography-philpapers-c7e94cd0",
-      "title": "Exploring Mimamsa: A School of Indian Philosophy",
-      "summary": "Mimamsa is a significant school of Indian philosophy, with a rich bibliography of academic papers and books available for research. The PhilPapers database provides a comprehensive list of publications on Mimamsa, including works by notable authors such as Madan Mohan Agrawal and Daya Krishna. These publications cover various aspects of Mimamsa, including its relationship with other Indian philosophical systems like Nyaya and Vedanta.",
-      "category": "Vedic & Manuscript Research",
-      "date": "2026-08-17",
-      "published_at": "2026-08-17",
-      "source_published_at": null,
-      "source": "philpapers.org",
-      "source_url": "https://philpapers.org/browse/mimamsa",
-      "key_takeaways": [
-        "Mimamsa is a school of Indian philosophy with a focus on the interpretation of Vedic texts",
-        "The PhilPapers database contains a bibliography of academic papers and books on Mimamsa, including works by prominent authors",
-        "Mimamsa is closely related to other Indian philosophical systems, such as Nyaya and Vedanta, and is often studied in conjunction with these systems"
-      ],
-      "why_this_matters": "The study of Mimamsa is significant for Indian civilisation and heritage, as it provides insights into the development of Indian philosophical thought and its relationship with other schools of philosophy. Understanding Mimamsa is essential for a comprehensive understanding of Indian philosophy and its contributions to global intellectual traditions.",
-      "research_hook": "A future research article could explore the historical development of Mimamsa and its influence on Indian philosophical thought, examining the key texts and authors that have shaped the tradition over time.",
-      "editorial_confidence": 80,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "hi": {
-          "title": "मीमांसा का अन्वेषण: एक भारतीय दर्शन का विद्यालय",
-          "summary": "मीमांसा भारतीय दर्शन का एक महत्वपूर्ण विद्यालय है, जिसके लिए शोध के लिए अकादमिक पत्रों और पुस्तकों का एक समृद्ध संग्रह उपलब्ध है। PhilPapers डेटाबेस मीमांसा पर प्रकाशनों की एक व्यापक सूची प्रदान करता है, जिसमें मदन मोहन अग्रवाल और दया कृष्ण जैसे प्रसिद्ध लेखकों के कार्य शामिल हैं। ये प्रकाशन मीमांसा के विभिन्न पहलुओं को कवर करते हैं, जिनमें न्याय और वेदांत जैसे अन्य भारतीय दार्शनिक प्रणालियों के साथ इसका संबंध शामिल है।",
-          "key_takeaways": [
-            "मीमांसा वैदिक ग्रंथों की व्याख्या पर केंद्रित एक भारतीय दर्शन का विद्यालय है",
-            "PhilPapers डेटाबेस मीमांसा पर अकादमिक पत्रों और पुस्तकों का एक संग्रह प्रदान करता है, जिसमें प्रमुख लेखकों के कार्य शामिल हैं",
-            "मीमांसा अन्य भारतीय दार्शनिक प्रणालियों जैसे न्याय और वेदांत के साथ निकटता से जुड़ा हुआ है और अक्सर इन प्रणालियों के साथ मिलकर अध्ययन किया जाता है"
-          ],
-          "why_this_matters": "मीमांसा का अध्ययन भारतीय सभ्यता और विरासत के लिए महत्वपूर्ण है, क्योंकि यह भारतीय दार्शनिक विचार के विकास और अन्य दर्शन के स्कूलों के साथ इसके संबंधों में अंतर्दृष्टि प्रदान करता है। मीमांसा को समझना भारतीय दर्शन और इसके वैश्विक बौद्धिक परंपराओं में योगदान की व्यापक समझ के लिए आवश्यक है।",
-          "research_hook": "एक भविष्य के शोध लेख मीमांसा के ऐतिहासिक विकास और इसके भारतीय दार्शनिक विचार पर प्रभाव का अन्वेषण कर सकता है, जिसमें समय के साथ परंपरा को आकार देने वाले प्रमुख ग्रंथों और लेखकों की जांच की जा सकती है।"
-        },
-        "en": {
-          "title": "Exploring Mimamsa: A School of Indian Philosophy",
-          "summary": "Mimamsa is a significant school of Indian philosophy, with a rich bibliography of academic papers and books available for research. The PhilPapers database provides a comprehensive list of publications on Mimamsa, including works by notable authors such as Madan Mohan Agrawal and Daya Krishna. These publications cover various aspects of Mimamsa, including its relationship with other Indian philosophical systems like Nyaya and Vedanta.",
-          "key_takeaways": [
-            "Mimamsa is a school of Indian philosophy with a focus on the interpretation of Vedic texts",
-            "The PhilPapers database contains a bibliography of academic papers and books on Mimamsa, including works by prominent authors",
-            "Mimamsa is closely related to other Indian philosophical systems, such as Nyaya and Vedanta, and is often studied in conjunction with these systems"
-          ],
-          "why_this_matters": "The study of Mimamsa is significant for Indian civilisation and heritage, as it provides insights into the development of Indian philosophical thought and its relationship with other schools of philosophy. Understanding Mimamsa is essential for a comprehensive understanding of Indian philosophy and its contributions to global intellectual traditions.",
-          "research_hook": "A future research article could explore the historical development of Mimamsa and its influence on Indian philosophical thought, examining the key texts and authors that have shaped the tradition over time."
-        }
-      },
-      "first_published": "2026-08-14",
-      "updated_at": "2026-08-17T04:14:20.596543+00:00"
-    },
-    {
       "id": "16622bf6babbbfce",
       "slug": "revitalizing-indian-knowledge-systems-in-education-a-new-era-for-nep-2020-16622bf6",
       "title": "Revitalizing Indian Knowledge Systems in Education: A New Era for NEP 2020",
@@ -518,93 +649,6 @@
       },
       "first_published": "2026-08-17",
       "updated_at": "2026-08-17"
-    },
-    {
-      "id": "d9fb116a4f7045ea",
-      "slug": "unveiling-ancient-indian-epigraphy-insights-from-halmidi-and-beyond-d9fb116a",
-      "title": "Unveiling Ancient Indian Epigraphy: Insights from Halmidi and Beyond",
-      "summary": "The Halmidi inscription, dated 450 CE, is the oldest known Kannada language inscription, while the Mahasthan Brahmi Inscription and Hathigumpha inscription provide valuable insights into ancient Indian administration and governance. These discoveries have significantly contributed to the field of epigraphy, shedding light on India's rich linguistic and cultural heritage. The inscriptions have been found in various locations, including Karnataka and Orissa, and are now preserved in museums and protected sites.",
-      "category": "Archaeology & Ancient Discoveries",
-      "date": "2026-08-16",
-      "published_at": "2026-08-16",
-      "source_published_at": null,
-      "source": "en.wikipedia.org",
-      "source_url": "https://en.wikipedia.org/wiki/Early_Indian_epigraphy",
-      "key_takeaways": [
-        "The Halmidi inscription is the oldest known inscription in the Kannada language, dated 450 CE",
-        "The Mahasthan Brahmi Inscription details administrative orders for emergency situations, such as floods and famines, and provides relief for distressed populations",
-        "The Hathigumpha inscription, written by King Kharavela in the 2nd century BCE, consists of seventeen lines incised in Brahmi letters on a natural cavern in Orissa"
-      ],
-      "why_this_matters": "These ancient inscriptions are crucial for understanding India's linguistic, cultural, and administrative history, and their study has significant implications for the fields of epigraphy, archaeology, and history. By analyzing these inscriptions, researchers can gain valuable insights into the lives and governance of ancient Indian societies.",
-      "research_hook": "A future research article could explore the significance of the Brahmi script in ancient Indian epigraphy, examining its evolution, spread, and impact on the development of Indian languages and cultures.",
-      "editorial_confidence": 90,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "hi": {
-          "title": "प्राचीन भारतीय अभिलेखशास्त्र का अनावरण: हल्मिडी और उससे परे के निष्कर्ष",
-          "summary": "हल्मिडी शिलालेख, जो ४५० ईस्वी में दिनांकित है, कन्नड़ भाषा का सबसे पुराना ज्ञात शिलालेख है, जबकि महास्थान ब्राह्मी शिलालेख और हाथीगुम्फा शिलालेख प्राचीन भारतीय प्रशासन और शासन के बारे में मूल्यवान जानकारी प्रदान करते हैं। इन खोजों ने अभिलेखशास्त्र के क्षेत्र में महत्वपूर्ण योगदान दिया है, जो भारत की समृद्ध भाषाई और सांस्कृतिक विरासत पर प्रकाश डालता है। ये शिलालेख विभिन्न स्थानों पर पाए गए हैं, जिनमें कर्नाटक और ओडिशा शामिल हैं, और अब संग्रहालयों और संरक्षित स्थलों पर संरक्षित हैं।",
-          "key_takeaways": [
-            "हल्मिडी शिलालेख कन्नड़ भाषा का सबसे पुराना ज्ञात शिलालेख है, जो ४५० ईस्वी में दिनांकित है",
-            "महास्थान ब्राह्मी शिलालेख आपातकालीन स्थितियों, जैसे कि बाढ़ और अकाल, के लिए प्रशासनिक आदेशों का विवरण देता है और पीड़ित जनसंख्या के लिए राहत प्रदान करता है",
-            "हाथीगुम्फा शिलालेख, जो द्वितीय शताब्दी ईसा पूर्व में राजा खरवेला द्वारा लिखा गया था, ओडिशा में एक प्राकृतिक गुफा पर ब्राह्मी अक्षरों में उत्कीर्ण सत्रह पंक्तियों से युक्त है"
-          ],
-          "why_this_matters": "इन प्राचीन शिलालेखों का अध्ययन भारत के भाषाई, सांस्कृतिक और प्रशासनिक इतिहास को समझने के लिए महत्वपूर्ण है, और इसके परिणामस्वरूप अभिलेखशास्त्र, पुरातत्व और इतिहास के क्षेत्रों में महत्वपूर्ण परिणाम हो सकते हैं। इन शिलालेखों का विश्लेषण करके, शोधकर्ता प्राचीन भारतीय समाजों के जीवन और शासन के बारे में मूल्यवान जानकारी प्राप्त कर सकते हैं।",
-          "research_hook": "एक भविष्य के शोध लेख में ब्राह्मी लिपि के प्राचीन भारतीय अभिलेखशास्त्र में महत्व का अन्वेषण किया जा सकता है, जिसमें इसके विकास, प्रसार और भारतीय भाषाओं और संस्कृतियों के विकास पर इसके प्रभाव की जांच की जा सकती है।"
-        },
-        "en": {
-          "title": "Unveiling Ancient Indian Epigraphy: Insights from Halmidi and Beyond",
-          "summary": "The Halmidi inscription, dated 450 CE, is the oldest known Kannada language inscription, while the Mahasthan Brahmi Inscription and Hathigumpha inscription provide valuable insights into ancient Indian administration and governance. These discoveries have significantly contributed to the field of epigraphy, shedding light on India's rich linguistic and cultural heritage. The inscriptions have been found in various locations, including Karnataka and Orissa, and are now preserved in museums and protected sites.",
-          "key_takeaways": [
-            "The Halmidi inscription is the oldest known inscription in the Kannada language, dated 450 CE",
-            "The Mahasthan Brahmi Inscription details administrative orders for emergency situations, such as floods and famines, and provides relief for distressed populations",
-            "The Hathigumpha inscription, written by King Kharavela in the 2nd century BCE, consists of seventeen lines incised in Brahmi letters on a natural cavern in Orissa"
-          ],
-          "why_this_matters": "These ancient inscriptions are crucial for understanding India's linguistic, cultural, and administrative history, and their study has significant implications for the fields of epigraphy, archaeology, and history. By analyzing these inscriptions, researchers can gain valuable insights into the lives and governance of ancient Indian societies.",
-          "research_hook": "A future research article could explore the significance of the Brahmi script in ancient Indian epigraphy, examining its evolution, spread, and impact on the development of Indian languages and cultures."
-        }
-      },
-      "first_published": "2026-08-16",
-      "updated_at": "2026-08-16"
-    },
-    {
-      "id": "b62f3abad5426a8c",
-      "slug": "official-website-of-national-archives-of-india-government-of-india-b62f3aba",
-      "title": "Unveiling India's Rich Archival Heritage: The National Archives of India",
-      "summary": "The National Archives of India serves as the primary custodian of the government's enduring records, boasting an extensive collection of historical documents and manuscripts. Established in 1891, it has evolved into the largest archival repository in South Asia. The archives provide access to a vast array of records, including public and private papers, oriental records, and cartographic materials.",
-      "category": "Vedic & Manuscript Research",
-      "date": "2026-08-16",
-      "published_at": "2026-08-16",
-      "source_published_at": null,
-      "source": "nationalarchives.nic.in",
-      "source_url": "https://nationalarchives.nic.in/en",
-      "key_takeaways": [
-        "The National Archives of India was established on 11 March 1891 as the Imperial Records Department",
-        "It holds a vast corpus of records, including public records, private papers, and oriental records",
-        "The archives provide online access to historical documents and manuscripts through its digital exhibitions and online records"
-      ],
-      "why_this_matters": "The National Archives of India plays a crucial role in preserving India's historical heritage, offering invaluable resources for researchers and scholars. Its extensive collection and digital accessibility make it an essential institution for understanding India's rich cultural and historical landscape.",
-      "research_hook": "A future research article could explore the significance of the National Archives of India's oriental records collection, examining its relevance to Vedic studies and manuscript research in the Indian subcontinent.",
-      "editorial_confidence": 90,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "Unveiling India's Rich Archival Heritage: The National Archives of India",
-          "summary": "The National Archives of India serves as the primary custodian of the government's enduring records, boasting an extensive collection of historical documents and manuscripts. Established in 1891, it has evolved into the largest archival repository in South Asia. The archives provide access to a vast array of records, including public and private papers, oriental records, and cartographic materials.",
-          "key_takeaways": [
-            "The National Archives of India was established on 11 March 1891 as the Imperial Records Department",
-            "It holds a vast corpus of records, including public records, private papers, and oriental records",
-            "The archives provide online access to historical documents and manuscripts through its digital exhibitions and online records"
-          ],
-          "why_this_matters": "The National Archives of India plays a crucial role in preserving India's historical heritage, offering invaluable resources for researchers and scholars. Its extensive collection and digital accessibility make it an essential institution for understanding India's rich cultural and historical landscape.",
-          "research_hook": "A future research article could explore the significance of the National Archives of India's oriental records collection, examining its relevance to Vedic studies and manuscript research in the Indian subcontinent."
-        }
-      },
-      "first_published": "2026-08-14",
-      "updated_at": "2026-08-16T09:13:37.838990+00:00"
     },
     {
       "id": "f6d700f2ae7df40c",

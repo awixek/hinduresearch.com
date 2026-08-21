@@ -1,7 +1,7 @@
 {
   "schema_version": "6.1B",
-  "updated_at": "2026-08-20T04:11:52.180322+00:00",
-  "count": 37,
+  "updated_at": "2026-08-21T04:13:19.362655+00:00",
+  "count": 40,
   "articles": [
     {
       "id": "ca9018c26bcf1671",
@@ -9,8 +9,8 @@
       "title": "A study of Ancient Indian and Early Medieval Epigraphs ...",
       "summary": "by a team of epigraphists. The estampages of the inscriptions are then studied and preserved in various epigraphy branches. The information is disseminated through various publications. In the recent past, the ASI has discovered significant inscriptions in states including Tamil Nadu, Maharashtra, Gujarat and Telangana. The Archaeological Survey of India (ASI) has taken up a total of 67,461 estamp",
       "category": "Archaeology & Ancient Discoveries",
-      "date": "2026-08-20",
-      "published_at": "2026-08-20",
+      "date": "2026-08-21",
+      "published_at": "2026-08-21",
       "source_published_at": null,
       "source": "ijnrd.org",
       "source_url": "https://www.ijnrd.org/papers/IJNRD2407093.pdf",
@@ -31,7 +31,217 @@
         }
       },
       "first_published": "2026-08-14",
-      "updated_at": "2026-08-20T04:11:55.287910+00:00"
+      "updated_at": "2026-08-21T04:13:22.186913+00:00"
+    },
+    {
+      "id": "12dcde139ec8ffb4",
+      "slug": "aryabhata-to-ayurveda-how-nep-s-driving-academic-revival-through-india-s-ancient-knowledge-syste-12dcde13",
+      "title": "Aryabhata to Ayurveda, how NEP’s driving ‘academic revival’ through India’s ancient knowledge systems",
+      "summary": "After ancient Mathematics, the IKS centre at Aryabhatta College is soon set to begin its next major project on Indian Astronomy. A similar endeavour is underway across 49 other government institutions and research centres, including at multiple Indian Institutes of Technology. [...] In the Maths and Astronomy domain, the centre has published a critical edition of the manuscript called _Makarandopa",
+      "category": "Archaeology & Ancient Discoveries",
+      "date": "2026-08-21",
+      "published_at": "2026-08-21",
+      "source_published_at": null,
+      "source": "theprint.in",
+      "source_url": "https://theprint.in/india/education/aryabhata-to-ayurveda-how-neps-driving-academic-revival-through-indias-ancient-knowledge-systems/2707283",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "Aryabhata to Ayurveda, how NEP’s driving ‘academic revival’ through India’s ancient knowledge systems",
+          "summary": "After ancient Mathematics, the IKS centre at Aryabhatta College is soon set to begin its next major project on Indian Astronomy. A similar endeavour is underway across 49 other government institutions and research centres, including at multiple Indian Institutes of Technology. [...] In the Maths and Astronomy domain, the centre has published a critical edition of the manuscript called _Makarandopa",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-21",
+      "updated_at": "2026-08-21"
+    },
+    {
+      "id": "8da5ee15834d64b7",
+      "slug": "archaeological-survey-of-india-8da5ee15",
+      "title": "Archaeological Survey of India",
+      "summary": "India is singularly rich in epigraphical wealth. It is estimated that so far more than one lakh inscriptions have been discovered from the length and breadth of the country, and still a large number of inscriptions have to be brought to light by conducting an intensive and systematic survey of our vast sub- continent. [...] Epigraphy forms one of the very important sources for understanding the hi",
+      "category": "Archaeology & Ancient Discoveries",
+      "date": "2026-08-21",
+      "published_at": "2026-08-21",
+      "source_published_at": null,
+      "source": "asi.nic.in",
+      "source_url": "https://asi.nic.in/pages/Epigraphy-Branch/HQ",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "Archaeological Survey of India",
+          "summary": "India is singularly rich in epigraphical wealth. It is estimated that so far more than one lakh inscriptions have been discovered from the length and breadth of the country, and still a large number of inscriptions have to be brought to light by conducting an intensive and systematic survey of our vast sub- continent. [...] Epigraphy forms one of the very important sources for understanding the hi",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-14",
+      "updated_at": "2026-08-21T04:13:22.178647+00:00"
+    },
+    {
+      "id": "5ed1656dbf0a05ba",
+      "slug": "toward-a-critical-edition-of-the-la-k-vat-ras-tra-the-significance-of-the-palm-leaf-manuscript-5ed1656d",
+      "title": "Toward a Critical Edition of the Laṅkāvatārasūtra: The Significance of the Palm leaf Manuscript",
+      "summary": "This article examines a newly discovered and recently published Sanskrit manuscript of the Jayamatiparipṛcchāsūtra (“Inquiry of Jayamati”) and documents its relationship, previously unrecognized, as part of the Śūraṃgama-samādhisūtra (“The Concentration of Heroic Progress”). While both texts are classified as Mahāyāna sūtras, the Jayamati-paripṛcchā depicts its content as spoken by the Buddha whil",
+      "category": "Vedic & Manuscript Research",
+      "date": "2026-08-21",
+      "published_at": "2026-08-21",
+      "source_published_at": null,
+      "source": "academia.edu",
+      "source_url": "https://www.academia.edu/46471964/Toward_a_Critical_Edition_of_the_La%E1%B9%85k%C4%81vat%C4%81ras%C5%ABtra_The_Significance_of_the_Palm_leaf_Manuscript",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "Toward a Critical Edition of the Laṅkāvatārasūtra: The Significance of the Palm leaf Manuscript",
+          "summary": "This article examines a newly discovered and recently published Sanskrit manuscript of the Jayamatiparipṛcchāsūtra (“Inquiry of Jayamati”) and documents its relationship, previously unrecognized, as part of the Śūraṃgama-samādhisūtra (“The Concentration of Heroic Progress”). While both texts are classified as Mahāyāna sūtras, the Jayamati-paripṛcchā depicts its content as spoken by the Buddha whil",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-14",
+      "updated_at": "2026-08-21T04:13:22.176084+00:00"
+    },
+    {
+      "id": "5cec0fd2934ecd5e",
+      "slug": "unveiling-a-critical-edition-of-a-sanskrit-manuscript-hindu-research-portal-5cec0fd2",
+      "title": "Unveiling a Critical Edition of a Sanskrit Manuscript | Hindu Research Portal",
+      "summary": "Hindu Research\n\nVedic & Manuscript Research\n\n# Unveiling a Critical Edition of a Sanskrit Manuscript\n\nA scholarly publication presents a critical edition of a Sanskrit manuscript, accompanied by a detailed table of contents. The manuscript is described in terms of its physical characteristics, including palm-leaf and paper manuscripts. The edition includes a diplomatic edition and a critical editi",
+      "category": "Vedic & Manuscript Research",
+      "date": "2026-08-21",
+      "published_at": "2026-08-21",
+      "source_published_at": null,
+      "source": "hinduresearch.com",
+      "source_url": "https://hinduresearch.com/news/articles/2026/08/sanskrit-manuscript-critical-edition-table-of-contents-revealed-d25e967e.html",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "Unveiling a Critical Edition of a Sanskrit Manuscript | Hindu Research Portal",
+          "summary": "Hindu Research\n\nVedic & Manuscript Research\n\n# Unveiling a Critical Edition of a Sanskrit Manuscript\n\nA scholarly publication presents a critical edition of a Sanskrit manuscript, accompanied by a detailed table of contents. The manuscript is described in terms of its physical characteristics, including palm-leaf and paper manuscripts. The edition includes a diplomatic edition and a critical editi",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-21",
+      "updated_at": "2026-08-21"
+    },
+    {
+      "id": "6511e9400abe2a8f",
+      "slug": "unpacking-the-evolution-of-ny-ya-s-philosophy-of-language-in-premodern-south-asia-6511e940",
+      "title": "Prābhākāra Mīmāṃsā and the Rise of Nyāya’s Philosophy of Language – The Indian Philosophy Blog",
+      "summary": "My research interests primarily orbit around philosophy of language in premodern South Asia, and my dissertation project seeks to tell an intellectual history of Gaṅgeśa’s philosophy of language in the Tattvacintāmaṇi (c. 1320 CE). [...] Hi. My name is Patrick, and I’m a Doctoral Candidate at Cornell University. For the month of March 2021, I’ll be taking the lead in this blog series for graduate ",
+      "category": "Vedic & Manuscript Research",
+      "date": "2026-08-21",
+      "published_at": "2026-08-21",
+      "source_published_at": null,
+      "source": "indianphilosophyblog.org",
+      "source_url": "https://indianphilosophyblog.org/2021/03/01/prabhakara-mima%E1%B9%83sa-and-the-rise-of-nyayas-philosophy-of-language",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "Prābhākāra Mīmāṃsā and the Rise of Nyāya’s Philosophy of Language – The Indian Philosophy Blog",
+          "summary": "My research interests primarily orbit around philosophy of language in premodern South Asia, and my dissertation project seeks to tell an intellectual history of Gaṅgeśa’s philosophy of language in the Tattvacintāmaṇi (c. 1320 CE). [...] Hi. My name is Patrick, and I’m a Doctoral Candidate at Cornell University. For the month of March 2021, I’ll be taking the lead in this blog series for graduate ",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-15",
+      "updated_at": "2026-08-21T04:13:22.166567+00:00"
+    },
+    {
+      "id": "5415d1afc8050325",
+      "slug": "american-indian-and-alaska-native-records-in-the-national-archives-national-archives-5415d1af",
+      "title": "American Indian and Alaska Native Records in the National Archives | National Archives",
+      "summary": "To help you answer this question, use the navigation options below to explore the vast resources relating to American Indian and Alaska Native research.\n\nIf you are just beginning archival research, please review guidance about getting started.\n\nPlease note: Although some records related to American Indians and Alaska Natives are digitized and available online, there are many records that are only",
+      "category": "Global Cultural & Temple Events",
+      "date": "2026-08-21",
+      "published_at": "2026-08-21",
+      "source_published_at": null,
+      "source": "archives.gov",
+      "source_url": "https://www.archives.gov/research/native-americans",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "American Indian and Alaska Native Records in the National Archives | National Archives",
+          "summary": "To help you answer this question, use the navigation options below to explore the vast resources relating to American Indian and Alaska Native research.\n\nIf you are just beginning archival research, please review guidance about getting started.\n\nPlease note: Although some records related to American Indians and Alaska Natives are digitized and available online, there are many records that are only",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-21",
+      "updated_at": "2026-08-21"
+    },
+    {
+      "id": "16622bf6babbbfce",
+      "slug": "revitalizing-indian-knowledge-systems-in-education-a-new-era-for-nep-2020-16622bf6",
+      "title": "From Gurukul to Global: Indian Knowledge Systems Shaping NEP 2020 | International Journal of Innovations in Science, Engineering And Management",
+      "summary": "India's educational system experienced an important shift with the National Education Policy (NEP) 2020, which focuses on a return to the roots while educating students for a global future. The intentional integration of Indian Knowledge Systems (IKS), an immense collection of indigenous philosophies, sciences, arts, and pedagogies that have developed over millennia, lies at the core of this chang",
+      "category": "Daily Research Hook / Topic Idea",
+      "date": "2026-08-21",
+      "published_at": "2026-08-21",
+      "source_published_at": null,
+      "source": "ijisem.com",
+      "source_url": "https://ijisem.com/journal/index.php/ijisem/article/view/380",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "From Gurukul to Global: Indian Knowledge Systems Shaping NEP 2020 | International Journal of Innovations in Science, Engineering And Management",
+          "summary": "India's educational system experienced an important shift with the National Education Policy (NEP) 2020, which focuses on a return to the roots while educating students for a global future. The intentional integration of Indian Knowledge Systems (IKS), an immense collection of indigenous philosophies, sciences, arts, and pedagogies that have developed over millennia, lies at the core of this chang",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-17",
+      "updated_at": "2026-08-21T04:13:22.153854+00:00"
     },
     {
       "id": "c23a3b47acaf8a84",
@@ -182,36 +392,6 @@
       },
       "first_published": "2026-08-20",
       "updated_at": "2026-08-20"
-    },
-    {
-      "id": "16622bf6babbbfce",
-      "slug": "revitalizing-indian-knowledge-systems-in-education-a-new-era-for-nep-2020-16622bf6",
-      "title": "From Gurukul to Global: Indian Knowledge Systems Shaping NEP 2020 | International Journal of Innovations in Science, Engineering And Management",
-      "summary": "India's educational system experienced an important shift with the National Education Policy (NEP) 2020, which focuses on a return to the roots while educating students for a global future. The intentional integration of Indian Knowledge Systems (IKS), an immense collection of indigenous philosophies, sciences, arts, and pedagogies that have developed over millennia, lies at the core of this chang",
-      "category": "Daily Research Hook / Topic Idea",
-      "date": "2026-08-20",
-      "published_at": "2026-08-20",
-      "source_published_at": null,
-      "source": "ijisem.com",
-      "source_url": "https://ijisem.com/journal/index.php/ijisem/article/view/380",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "From Gurukul to Global: Indian Knowledge Systems Shaping NEP 2020 | International Journal of Innovations in Science, Engineering And Management",
-          "summary": "India's educational system experienced an important shift with the National Education Policy (NEP) 2020, which focuses on a return to the roots while educating students for a global future. The intentional integration of Indian Knowledge Systems (IKS), an immense collection of indigenous philosophies, sciences, arts, and pedagogies that have developed over millennia, lies at the core of this chang",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-17",
-      "updated_at": "2026-08-20T04:11:55.271876+00:00"
     },
     {
       "id": "bb47e5c67a2eefa0",
@@ -422,36 +602,6 @@
       },
       "first_published": "2026-08-18",
       "updated_at": "2026-08-18"
-    },
-    {
-      "id": "5ed1656dbf0a05ba",
-      "slug": "toward-a-critical-edition-of-the-la-k-vat-ras-tra-the-significance-of-the-palm-leaf-manuscript-5ed1656d",
-      "title": "Toward a Critical Edition of the Laṅkāvatārasūtra: The Significance of the Palm leaf Manuscript",
-      "summary": "This article examines a newly discovered and recently published Sanskrit manuscript of the Jayamatiparipṛcchāsūtra (“Inquiry of Jayamati”) and documents its relationship, previously unrecognized, as part of the Śūraṃgama-samādhisūtra (“The Concentration of Heroic Progress”). While both texts are classified as Mahāyāna sūtras, the Jayamati-paripṛcchā depicts its content as spoken by the Buddha whil",
-      "category": "Vedic & Manuscript Research",
-      "date": "2026-08-18",
-      "published_at": "2026-08-18",
-      "source_published_at": null,
-      "source": "academia.edu",
-      "source_url": "https://www.academia.edu/46471964/Toward_a_Critical_Edition_of_the_La%E1%B9%85k%C4%81vat%C4%81ras%C5%ABtra_The_Significance_of_the_Palm_leaf_Manuscript",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "Toward a Critical Edition of the Laṅkāvatārasūtra: The Significance of the Palm leaf Manuscript",
-          "summary": "This article examines a newly discovered and recently published Sanskrit manuscript of the Jayamatiparipṛcchāsūtra (“Inquiry of Jayamati”) and documents its relationship, previously unrecognized, as part of the Śūraṃgama-samādhisūtra (“The Concentration of Heroic Progress”). While both texts are classified as Mahāyāna sūtras, the Jayamati-paripṛcchā depicts its content as spoken by the Buddha whil",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-14",
-      "updated_at": "2026-08-18T04:11:36.859037+00:00"
     },
     {
       "id": "05b77b1275295d1c",
@@ -928,55 +1078,6 @@
       "updated_at": "2026-08-16"
     },
     {
-      "id": "8da5ee15834d64b7",
-      "slug": "archaeological-survey-of-india-8da5ee15",
-      "title": "Unveiling India's Epigraphical Heritage: A Window into the Past",
-      "summary": "The Archaeological Survey of India's Epigraphy Branch has been instrumental in uncovering the country's rich epigraphical wealth, with over one lakh inscriptions discovered to date. These inscriptions provide valuable insights into India's history and culture, spanning from the Mauryan period to the late medieval era. The branch, established in 1886, has been collecting, editing, and publishing inscriptions, shedding light on the country's past.",
-      "category": "Archaeology & Ancient Discoveries",
-      "date": "2026-08-15",
-      "published_at": "2026-08-15",
-      "source_published_at": null,
-      "source": "asi.nic.in",
-      "source_url": "https://asi.nic.in/pages/Epigraphy-Branch/HQ",
-      "key_takeaways": [
-        "More than one lakh inscriptions have been discovered in India, with many more waiting to be uncovered",
-        "The Epigraphy Branch of the Archaeological Survey of India was established in 1886, highlighting the importance of inscriptions in understanding Indian history",
-        "Inscriptions provide a significant source of information on India's history and culture, from the Mauryan period to the late medieval era"
-      ],
-      "why_this_matters": "The study of epigraphy is crucial for understanding India's rich cultural heritage and historical significance, offering a unique window into the country's past. By analyzing these inscriptions, researchers can gain valuable insights into the country's development and evolution over time.",
-      "research_hook": "A future research article could explore the significance of specific inscriptions, such as those from the Mauryan period, and their impact on our understanding of Indian history and culture.",
-      "editorial_confidence": 90,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "hi": {
-          "title": "भारत की शिलालेखीय विरासत का अनावरण: अतीत की एक झलक",
-          "summary": "भारतीय पुरातत्व सर्वेक्षण की शिलालेख शाखा ने देश की समृद्ध शिलालेखीय धरोहर का पता लगाने में महत्वपूर्ण भूमिका निभाई है, जिसमें अब तक एक लाख से अधिक शिलालेखों की खोज की जा चुकी है। ये शिलालेख भारत के इतिहास और संस्कृति में मूल्यवान अंतर्दृष्टि प्रदान करते हैं, जो मौर्य काल से लेकर देर से मध्ययुगीन युग तक फैले हुए हैं। १८८६ में स्थापित इस शाखा ने शिलालेखों का संग्रह, संपादन और प्रकाशन किया है, जिससे देश के अतीत पर प्रकाश पड़ा है।",
-          "key_takeaways": [
-            "भारत में एक लाख से अधिक शिलालेखों की खोज की जा चुकी है, जिनमें से कई और अभी भी खोजे जाने बाकी हैं",
-            "भारतीय पुरातत्व सर्वेक्षण की शिलालेख शाखा की स्थापना १८८६ में हुई थी, जो शिलालेखों के महत्व को भारतीय इतिहास को समझने में दर्शाती है",
-            "शिलालेख भारत के इतिहास और संस्कृति के बारे में महत्वपूर्ण जानकारी का स्रोत हैं, जो मौर्य काल से लेकर देर से मध्ययुगीन युग तक फैले हुए हैं"
-          ],
-          "why_this_matters": "शिलालेख विज्ञान का अध्ययन भारत की समृद्ध सांस्कृतिक विरासत और ऐतिहासिक महत्व को समझने के लिए महत्वपूर्ण है, जो देश के अतीत में एक अनोखी झलक प्रदान करता है। इन शिलालेखों का विश्लेषण करके, शोधकर्ता देश के विकास और काल के साथ विकास के बारे में मूल्यवान अंतर्दृष्टि प्राप्त कर सकते हैं।",
-          "research_hook": "एक भविष्य के शोध लेख में मौर्य काल के विशिष्ट शिलालेखों के महत्व का अन्वेषण किया जा सकता है और उनका भारतीय इतिहास और संस्कृति की हमारी समझ पर प्रभाव।"
-        },
-        "en": {
-          "title": "Unveiling India's Epigraphical Heritage: A Window into the Past",
-          "summary": "The Archaeological Survey of India's Epigraphy Branch has been instrumental in uncovering the country's rich epigraphical wealth, with over one lakh inscriptions discovered to date. These inscriptions provide valuable insights into India's history and culture, spanning from the Mauryan period to the late medieval era. The branch, established in 1886, has been collecting, editing, and publishing inscriptions, shedding light on the country's past.",
-          "key_takeaways": [
-            "More than one lakh inscriptions have been discovered in India, with many more waiting to be uncovered",
-            "The Epigraphy Branch of the Archaeological Survey of India was established in 1886, highlighting the importance of inscriptions in understanding Indian history",
-            "Inscriptions provide a significant source of information on India's history and culture, from the Mauryan period to the late medieval era"
-          ],
-          "why_this_matters": "The study of epigraphy is crucial for understanding India's rich cultural heritage and historical significance, offering a unique window into the country's past. By analyzing these inscriptions, researchers can gain valuable insights into the country's development and evolution over time.",
-          "research_hook": "A future research article could explore the significance of specific inscriptions, such as those from the Mauryan period, and their impact on our understanding of Indian history and culture."
-        }
-      },
-      "first_published": "2026-08-14",
-      "updated_at": "2026-08-15T16:26:33.621138+00:00"
-    },
-    {
       "id": "f1af2489cebd3205",
       "slug": "deciphering-indus-script-inscriptions-unveiling-ancient-india-s-cultural-history-f1af2489",
       "title": "Deciphering Indus Script Inscriptions: Unveiling Ancient India's Cultural History",
@@ -1118,55 +1219,6 @@
           ],
           "why_this_matters": "The digitization of archival records is crucial for preserving India's cultural heritage and making historical documents accessible to researchers and the public. This effort will facilitate a deeper understanding of India's history and evolution.",
           "research_hook": "A future research article could explore the significance of specific digitized documents, such as the Mountbatten plan papers, and their relevance to India's modern history and independence movement."
-        }
-      },
-      "first_published": "2026-08-15",
-      "updated_at": "2026-08-15"
-    },
-    {
-      "id": "6511e9400abe2a8f",
-      "slug": "unpacking-the-evolution-of-ny-ya-s-philosophy-of-language-in-premodern-south-asia-6511e940",
-      "title": "Unpacking the Evolution of Nyāya's Philosophy of Language in Premodern South Asia",
-      "summary": "A doctoral research project at Cornell University is exploring the intellectual history of Gaṅgeśa's philosophy of language in the Tattvacintāmaṇi, a 14th-century text. The study delves into the reconfiguration of linguistic theories by Śālikanātha, a key figure in the Prābhākāra Mīmāṃsā tradition. This research sheds light on the development of Nyāya's philosophy of language in premodern South Asia",
-      "category": "Vedic & Manuscript Research",
-      "date": "2026-08-15",
-      "published_at": "2026-08-15",
-      "source_published_at": null,
-      "source": "indianphilosophyblog.org",
-      "source_url": "https://indianphilosophyblog.org/2021/03/01/prabhakara-mima%E1%B9%83sa-and-the-rise-of-nyayas-philosophy-of-language",
-      "key_takeaways": [
-        "The Tattvacintāmaṇi, written by Gaṅgeśa around 1320 CE, is a pivotal text in the evolution of Nyāya's philosophy of language",
-        "Śālikanātha's work in the Prābhākāra Mīmāṃsā tradition influenced the reconfiguration of linguistic theories, particularly those related to bhāvanā or 'bringing into being'",
-        "The research project aims to provide an intellectual history of Gaṅgeśa's philosophy of language, situating it within the broader context of premodern South Asian thought"
-      ],
-      "why_this_matters": "This research contributes significantly to our understanding of the historical development of Nyāya's philosophy of language, highlighting the complex interactions between different philosophical traditions in premodern South Asia. By examining the evolution of linguistic theories, this study sheds light on the rich intellectual heritage of the region",
-      "research_hook": "A future research article could explore the implications of Śālikanātha's theories on bhāvanā for our understanding of language and reality in Nyāya philosophy, and how these ideas continue to influence contemporary debates in the field",
-      "editorial_confidence": 80,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "hi": {
-          "title": "प्राचीन दक्षिण एशिया में न्याय के भाषा दर्शन का विकास",
-          "summary": "कॉर्नेल विश्वविद्यालय में एक डॉक्टरेट अनुसंधान परियोजना गंगेश के भाषा दर्शन के बौद्धिक इतिहास की खोज कर रही है, जो 14वीं शताब्दी के ग्रंथ तत्त्वचिंतामणि में पाया जाता है। यह अध्ययन शैलिकनाथ द्वारा भाषाई सिद्धांतों के पुनर्गठन में गहराई से जाता है, जो प्राभाकर मीमांसा परंपरा में एक प्रमुख व्यक्ति है। यह अनुसंधान प्राचीन दक्षिण एशिया में न्याय के भाषा दर्शन के विकास पर प्रकाश डालता है",
-          "key_takeaways": [
-            "तत्त्वचिंतामणि, जो गंगेश ने लगभग 1320 ईस्वी में लिखा था, न्याय के भाषा दर्शन के विकास में एक महत्वपूर्ण ग्रंथ है",
-            "शैलिकनाथ का प्राभाकर मीमांसा परंपरा में कार्य, विशेष रूप से भावना या 'अस्तित्व में लाने' से संबंधित सिद्धांतों के पुनर्गठन पर प्रभाव डालता है",
-            "अनुसंधान परियोजना का उद्देश्य गंगेश के भाषा दर्शन का एक बौद्धिक इतिहास प्रदान करना है, जिसे प्राचीन दक्षिण एशियाई विचार के व्यापक संदर्भ में स्थापित किया गया है"
-          ],
-          "why_this_matters": "यह अनुसंधान न्याय के भाषा दर्शन के ऐतिहासिक विकास की हमारी समझ में महत्वपूर्ण योगदान करता है, प्राचीन दक्षिण एशिया में विभिन्न दार्शनिक परंपराओं के बीच जटिल परस्पर क्रियाओं को उजागर करता है। भाषाई सिद्धांतों के विकास की जांच करके, यह अध्ययन इस क्षेत्र की समृद्ध बौद्धिक विरासत पर प्रकाश डालता है",
-          "research_hook": "एक भविष्य के शोध लेख में शैलिकनाथ के भावना से संबंधित सिद्धांतों के न्याय दर्शन में भाषा और वास्तविकता की हमारी समझ पर प्रभाव का अन्वेषण किया जा सकता है, और यह विचार कैसे समकालीन वाद-विवाद को प्रभावित करते हैं"
-        },
-        "en": {
-          "title": "Unpacking the Evolution of Nyāya's Philosophy of Language in Premodern South Asia",
-          "summary": "A doctoral research project at Cornell University is exploring the intellectual history of Gaṅgeśa's philosophy of language in the Tattvacintāmaṇi, a 14th-century text. The study delves into the reconfiguration of linguistic theories by Śālikanātha, a key figure in the Prābhākāra Mīmāṃsā tradition. This research sheds light on the development of Nyāya's philosophy of language in premodern South Asia",
-          "key_takeaways": [
-            "The Tattvacintāmaṇi, written by Gaṅgeśa around 1320 CE, is a pivotal text in the evolution of Nyāya's philosophy of language",
-            "Śālikanātha's work in the Prābhākāra Mīmāṃsā tradition influenced the reconfiguration of linguistic theories, particularly those related to bhāvanā or 'bringing into being'",
-            "The research project aims to provide an intellectual history of Gaṅgeśa's philosophy of language, situating it within the broader context of premodern South Asian thought"
-          ],
-          "why_this_matters": "This research contributes significantly to our understanding of the historical development of Nyāya's philosophy of language, highlighting the complex interactions between different philosophical traditions in premodern South Asia. By examining the evolution of linguistic theories, this study sheds light on the rich intellectual heritage of the region",
-          "research_hook": "A future research article could explore the implications of Śālikanātha's theories on bhāvanā for our understanding of language and reality in Nyāya philosophy, and how these ideas continue to influence contemporary debates in the field"
         }
       },
       "first_published": "2026-08-15",

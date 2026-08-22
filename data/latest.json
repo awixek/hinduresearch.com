@@ -1,16 +1,16 @@
 {
   "schema_version": "6.1B",
-  "updated_at": "2026-08-21T04:13:19.362655+00:00",
-  "count": 40,
+  "updated_at": "2026-08-22T04:09:30.991286+00:00",
+  "count": 42,
   "articles": [
     {
       "id": "ca9018c26bcf1671",
       "slug": "unveiling-ancient-india-s-history-through-epigraphs-ca9018c2",
-      "title": "A study of Ancient Indian and Early Medieval Epigraphs ...",
+      "title": "[PDF] A study of Ancient Indian and Early Medieval Epigraphs with special ...",
       "summary": "by a team of epigraphists. The estampages of the inscriptions are then studied and preserved in various epigraphy branches. The information is disseminated through various publications. In the recent past, the ASI has discovered significant inscriptions in states including Tamil Nadu, Maharashtra, Gujarat and Telangana. The Archaeological Survey of India (ASI) has taken up a total of 67,461 estamp",
       "category": "Archaeology & Ancient Discoveries",
-      "date": "2026-08-21",
-      "published_at": "2026-08-21",
+      "date": "2026-08-22",
+      "published_at": "2026-08-22",
       "source_published_at": null,
       "source": "ijnrd.org",
       "source_url": "https://www.ijnrd.org/papers/IJNRD2407093.pdf",
@@ -23,7 +23,7 @@
       "image_url": null,
       "translations": {
         "en": {
-          "title": "A study of Ancient Indian and Early Medieval Epigraphs ...",
+          "title": "[PDF] A study of Ancient Indian and Early Medieval Epigraphs with special ...",
           "summary": "by a team of epigraphists. The estampages of the inscriptions are then studied and preserved in various epigraphy branches. The information is disseminated through various publications. In the recent past, the ASI has discovered significant inscriptions in states including Tamil Nadu, Maharashtra, Gujarat and Telangana. The Archaeological Survey of India (ASI) has taken up a total of 67,461 estamp",
           "key_takeaways": [],
           "why_this_matters": "",
@@ -31,7 +31,217 @@
         }
       },
       "first_published": "2026-08-14",
-      "updated_at": "2026-08-21T04:13:22.186913+00:00"
+      "updated_at": "2026-08-22T04:09:33.306845+00:00"
+    },
+    {
+      "id": "8da5ee15834d64b7",
+      "slug": "archaeological-survey-of-india-8da5ee15",
+      "title": "Archaeological Survey of India",
+      "summary": "India is singularly rich in epigraphical wealth. It is estimated that so far more than one lakh inscriptions have been discovered from the length and breadth of the country, and still a large number of inscriptions have to be brought to light by conducting an intensive and systematic survey of our vast sub- continent. [...] Epigraphy forms one of the very important sources for understanding the hi",
+      "category": "Archaeology & Ancient Discoveries",
+      "date": "2026-08-22",
+      "published_at": "2026-08-22",
+      "source_published_at": null,
+      "source": "asi.nic.in",
+      "source_url": "https://asi.nic.in/pages/Epigraphy-Branch/HQ",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "Archaeological Survey of India",
+          "summary": "India is singularly rich in epigraphical wealth. It is estimated that so far more than one lakh inscriptions have been discovered from the length and breadth of the country, and still a large number of inscriptions have to be brought to light by conducting an intensive and systematic survey of our vast sub- continent. [...] Epigraphy forms one of the very important sources for understanding the hi",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-14",
+      "updated_at": "2026-08-22T04:09:33.305797+00:00"
+    },
+    {
+      "id": "19ca7ee4ac74d109",
+      "slug": "cultural-heritage-conservation-project-description-of-conservation-of-sakhargadniwasini-temple-r-19ca7ee4",
+      "title": "Cultural Heritage Conservation PROJECT DESCRIPTION OF CONSERVATION OF SAKHARGADNIWASINI TEMPLE RESTORATION",
+      "summary": "Bandiyagarh fort is located in Sirohi district of Rajasthan state in India. This research paper is based on new findings in our previously discovered site Bandiyagarh. The discovered structures played an important role in rewriting the history of the Parmar dynasty because Bandiyagarh is approximately 10 km away from the ruins of the capital city site, Chandravati of the royal Parmar dynasty (910 ",
+      "category": "Archaeology & Ancient Discoveries",
+      "date": "2026-08-22",
+      "published_at": "2026-08-22",
+      "source_published_at": null,
+      "source": "academia.edu",
+      "source_url": "https://www.academia.edu/6758428/Cultural_Heritage_Conservation_PROJECT_DESCRIPTION_OF_CONSERVATION_OF_SAKHARGADNIWASINI_TEMPLE_RESTORATION",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "Cultural Heritage Conservation PROJECT DESCRIPTION OF CONSERVATION OF SAKHARGADNIWASINI TEMPLE RESTORATION",
+          "summary": "Bandiyagarh fort is located in Sirohi district of Rajasthan state in India. This research paper is based on new findings in our previously discovered site Bandiyagarh. The discovered structures played an important role in rewriting the history of the Parmar dynasty because Bandiyagarh is approximately 10 km away from the ruins of the capital city site, Chandravati of the royal Parmar dynasty (910 ",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-22",
+      "updated_at": "2026-08-22"
+    },
+    {
+      "id": "5cec0fd2934ecd5e",
+      "slug": "unveiling-a-critical-edition-of-a-sanskrit-manuscript-hindu-research-portal-5cec0fd2",
+      "title": "Unveiling a Critical Edition of a Sanskrit Manuscript | Hindu Research Portal",
+      "summary": "Hindu Research\n\nVedic & Manuscript Research\n\n# Unveiling a Critical Edition of a Sanskrit Manuscript\n\nA scholarly publication presents a critical edition of a Sanskrit manuscript, accompanied by a detailed table of contents. The manuscript is described in terms of its physical characteristics, including palm-leaf and paper manuscripts. The edition includes a diplomatic edition and a critical editi",
+      "category": "Vedic & Manuscript Research",
+      "date": "2026-08-22",
+      "published_at": "2026-08-22",
+      "source_published_at": null,
+      "source": "hinduresearch.com",
+      "source_url": "https://hinduresearch.com/news/articles/2026/08/sanskrit-manuscript-critical-edition-table-of-contents-revealed-d25e967e.html",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "Unveiling a Critical Edition of a Sanskrit Manuscript | Hindu Research Portal",
+          "summary": "Hindu Research\n\nVedic & Manuscript Research\n\n# Unveiling a Critical Edition of a Sanskrit Manuscript\n\nA scholarly publication presents a critical edition of a Sanskrit manuscript, accompanied by a detailed table of contents. The manuscript is described in terms of its physical characteristics, including palm-leaf and paper manuscripts. The edition includes a diplomatic edition and a critical editi",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-21",
+      "updated_at": "2026-08-22T04:09:33.296813+00:00"
+    },
+    {
+      "id": "b62f3abad5426a8c",
+      "slug": "official-website-of-national-archives-of-india-government-of-india-b62f3aba",
+      "title": "Official website of National Archives of India, Government of India",
+      "summary": "The National Archives of India is the custodian of the records of enduring value of the Government of India. Established on 11 March 1891 at Calcutta (Kolkata) as the Imperial Records Department, the National Archives of India is the custodian of the records of enduring value. It is the biggest archival repository in South Asia. It has a vast corpus of records viz., public records, private papers,",
+      "category": "Vedic & Manuscript Research",
+      "date": "2026-08-22",
+      "published_at": "2026-08-22",
+      "source_published_at": null,
+      "source": "nationalarchives.nic.in",
+      "source_url": "https://nationalarchives.nic.in/en",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "Official website of National Archives of India, Government of India",
+          "summary": "The National Archives of India is the custodian of the records of enduring value of the Government of India. Established on 11 March 1891 at Calcutta (Kolkata) as the Imperial Records Department, the National Archives of India is the custodian of the records of enduring value. It is the biggest archival repository in South Asia. It has a vast corpus of records viz., public records, private papers,",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-14",
+      "updated_at": "2026-08-22T04:09:33.295561+00:00"
+    },
+    {
+      "id": "5415d1afc8050325",
+      "slug": "american-indian-and-alaska-native-records-in-the-national-archives-national-archives-5415d1af",
+      "title": "American Indian and Alaska Native Records in the ...",
+      "summary": "To help you answer this question, use the navigation options below to explore the vast resources relating to American Indian and Alaska Native research.\n\nIf you are just beginning archival research, please review guidance about getting started.\n\nPlease note: Although some records related to American Indians and Alaska Natives are digitized and available online, there are many records that are only",
+      "category": "Global Cultural & Temple Events",
+      "date": "2026-08-22",
+      "published_at": "2026-08-22",
+      "source_published_at": null,
+      "source": "archives.gov",
+      "source_url": "https://www.archives.gov/research/native-americans",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "American Indian and Alaska Native Records in the ...",
+          "summary": "To help you answer this question, use the navigation options below to explore the vast resources relating to American Indian and Alaska Native research.\n\nIf you are just beginning archival research, please review guidance about getting started.\n\nPlease note: Although some records related to American Indians and Alaska Natives are digitized and available online, there are many records that are only",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-21",
+      "updated_at": "2026-08-22T04:09:33.293276+00:00"
+    },
+    {
+      "id": "bb47e5c67a2eefa0",
+      "slug": "revitalizing-indian-education-integrating-traditional-knowledge-systems-into-modern-learning-bb47e5c6",
+      "title": "From Gurukul to Global Classroom: A Spiral Pedagogical Model for Integrating Indian Knowledge Systems Across Lifelong Learning",
+      "summary": "learning. This research proposes the Spiral Pedagogical Model as a conceptual framework for integrating IKS from early childhood education to higher education and adult learning. The research begins by examining the fundamental pedagogical elements of the Gurukul system, such as experiential education, the guru-shishya Parampara, moral and spiritual development, and community-based education, to d",
+      "category": "Daily Research Hook / Topic Idea",
+      "date": "2026-08-22",
+      "published_at": "2026-08-22",
+      "source_published_at": null,
+      "source": "ijsrm.net",
+      "source_url": "https://ijsrm.net/index.php/ijsrm/article/view/7067",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "From Gurukul to Global Classroom: A Spiral Pedagogical Model for Integrating Indian Knowledge Systems Across Lifelong Learning",
+          "summary": "learning. This research proposes the Spiral Pedagogical Model as a conceptual framework for integrating IKS from early childhood education to higher education and adult learning. The research begins by examining the fundamental pedagogical elements of the Gurukul system, such as experiential education, the guru-shishya Parampara, moral and spiritual development, and community-based education, to d",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-14",
+      "updated_at": "2026-08-22T04:09:33.292320+00:00"
+    },
+    {
+      "id": "3b146254b62d8e84",
+      "slug": "mimansa-3b146254",
+      "title": "Mimansa",
+      "summary": "As one of the six major _Astik darshanas, Mimansa_ is a well-recognized school of Indian philosophy. Its nature is not philosophical advocacy. Rather, as a logical system of interpretation of Veda for carrying out the Vedic rituals, it has practical applications. The word _Mimansa_ derives from the root _man_ meaning “to know”. The _Mimansa_ system is oriented toward interpreting Vedic texts used ",
+      "category": "Daily Research Hook / Topic Idea",
+      "date": "2026-08-22",
+      "published_at": "2026-08-22",
+      "source_published_at": null,
+      "source": "pmc.ncbi.nlm.nih.gov",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3121252",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "Mimansa",
+          "summary": "As one of the six major _Astik darshanas, Mimansa_ is a well-recognized school of Indian philosophy. Its nature is not philosophical advocacy. Rather, as a logical system of interpretation of Veda for carrying out the Vedic rituals, it has practical applications. The word _Mimansa_ derives from the root _man_ meaning “to know”. The _Mimansa_ system is oriented toward interpreting Vedic texts used ",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-22",
+      "updated_at": "2026-08-22"
     },
     {
       "id": "12dcde139ec8ffb4",
@@ -64,36 +274,6 @@
       "updated_at": "2026-08-21"
     },
     {
-      "id": "8da5ee15834d64b7",
-      "slug": "archaeological-survey-of-india-8da5ee15",
-      "title": "Archaeological Survey of India",
-      "summary": "India is singularly rich in epigraphical wealth. It is estimated that so far more than one lakh inscriptions have been discovered from the length and breadth of the country, and still a large number of inscriptions have to be brought to light by conducting an intensive and systematic survey of our vast sub- continent. [...] Epigraphy forms one of the very important sources for understanding the hi",
-      "category": "Archaeology & Ancient Discoveries",
-      "date": "2026-08-21",
-      "published_at": "2026-08-21",
-      "source_published_at": null,
-      "source": "asi.nic.in",
-      "source_url": "https://asi.nic.in/pages/Epigraphy-Branch/HQ",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "Archaeological Survey of India",
-          "summary": "India is singularly rich in epigraphical wealth. It is estimated that so far more than one lakh inscriptions have been discovered from the length and breadth of the country, and still a large number of inscriptions have to be brought to light by conducting an intensive and systematic survey of our vast sub- continent. [...] Epigraphy forms one of the very important sources for understanding the hi",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-14",
-      "updated_at": "2026-08-21T04:13:22.178647+00:00"
-    },
-    {
       "id": "5ed1656dbf0a05ba",
       "slug": "toward-a-critical-edition-of-the-la-k-vat-ras-tra-the-significance-of-the-palm-leaf-manuscript-5ed1656d",
       "title": "Toward a Critical Edition of the Laṅkāvatārasūtra: The Significance of the Palm leaf Manuscript",
@@ -124,36 +304,6 @@
       "updated_at": "2026-08-21T04:13:22.176084+00:00"
     },
     {
-      "id": "5cec0fd2934ecd5e",
-      "slug": "unveiling-a-critical-edition-of-a-sanskrit-manuscript-hindu-research-portal-5cec0fd2",
-      "title": "Unveiling a Critical Edition of a Sanskrit Manuscript | Hindu Research Portal",
-      "summary": "Hindu Research\n\nVedic & Manuscript Research\n\n# Unveiling a Critical Edition of a Sanskrit Manuscript\n\nA scholarly publication presents a critical edition of a Sanskrit manuscript, accompanied by a detailed table of contents. The manuscript is described in terms of its physical characteristics, including palm-leaf and paper manuscripts. The edition includes a diplomatic edition and a critical editi",
-      "category": "Vedic & Manuscript Research",
-      "date": "2026-08-21",
-      "published_at": "2026-08-21",
-      "source_published_at": null,
-      "source": "hinduresearch.com",
-      "source_url": "https://hinduresearch.com/news/articles/2026/08/sanskrit-manuscript-critical-edition-table-of-contents-revealed-d25e967e.html",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "Unveiling a Critical Edition of a Sanskrit Manuscript | Hindu Research Portal",
-          "summary": "Hindu Research\n\nVedic & Manuscript Research\n\n# Unveiling a Critical Edition of a Sanskrit Manuscript\n\nA scholarly publication presents a critical edition of a Sanskrit manuscript, accompanied by a detailed table of contents. The manuscript is described in terms of its physical characteristics, including palm-leaf and paper manuscripts. The edition includes a diplomatic edition and a critical editi",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-21",
-      "updated_at": "2026-08-21"
-    },
-    {
       "id": "6511e9400abe2a8f",
       "slug": "unpacking-the-evolution-of-ny-ya-s-philosophy-of-language-in-premodern-south-asia-6511e940",
       "title": "Prābhākāra Mīmāṃsā and the Rise of Nyāya’s Philosophy of Language – The Indian Philosophy Blog",
@@ -182,36 +332,6 @@
       },
       "first_published": "2026-08-15",
       "updated_at": "2026-08-21T04:13:22.166567+00:00"
-    },
-    {
-      "id": "5415d1afc8050325",
-      "slug": "american-indian-and-alaska-native-records-in-the-national-archives-national-archives-5415d1af",
-      "title": "American Indian and Alaska Native Records in the National Archives | National Archives",
-      "summary": "To help you answer this question, use the navigation options below to explore the vast resources relating to American Indian and Alaska Native research.\n\nIf you are just beginning archival research, please review guidance about getting started.\n\nPlease note: Although some records related to American Indians and Alaska Natives are digitized and available online, there are many records that are only",
-      "category": "Global Cultural & Temple Events",
-      "date": "2026-08-21",
-      "published_at": "2026-08-21",
-      "source_published_at": null,
-      "source": "archives.gov",
-      "source_url": "https://www.archives.gov/research/native-americans",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "American Indian and Alaska Native Records in the National Archives | National Archives",
-          "summary": "To help you answer this question, use the navigation options below to explore the vast resources relating to American Indian and Alaska Native research.\n\nIf you are just beginning archival research, please review guidance about getting started.\n\nPlease note: Although some records related to American Indians and Alaska Natives are digitized and available online, there are many records that are only",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-21",
-      "updated_at": "2026-08-21"
     },
     {
       "id": "16622bf6babbbfce",
@@ -334,36 +454,6 @@
       "updated_at": "2026-08-20"
     },
     {
-      "id": "b62f3abad5426a8c",
-      "slug": "official-website-of-national-archives-of-india-government-of-india-b62f3aba",
-      "title": "Official website of National Archives of India, Government of India",
-      "summary": "The National Archives of India is the custodian of the records of enduring value of the Government of India. Established on 11 March 1891 at Calcutta (Kolkata) as the Imperial Records Department, the National Archives of India is the custodian of the records of enduring value. It is the biggest archival repository in South Asia. It has a vast corpus of records viz., public records, private papers,",
-      "category": "Vedic & Manuscript Research",
-      "date": "2026-08-20",
-      "published_at": "2026-08-20",
-      "source_published_at": null,
-      "source": "nationalarchives.nic.in",
-      "source_url": "https://nationalarchives.nic.in/en",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "Official website of National Archives of India, Government of India",
-          "summary": "The National Archives of India is the custodian of the records of enduring value of the Government of India. Established on 11 March 1891 at Calcutta (Kolkata) as the Imperial Records Department, the National Archives of India is the custodian of the records of enduring value. It is the biggest archival repository in South Asia. It has a vast corpus of records viz., public records, private papers,",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-14",
-      "updated_at": "2026-08-20T04:11:55.276367+00:00"
-    },
-    {
       "id": "108f6be6233e2b8b",
       "slug": "asia-as-method-interview-with-alexandra-munroe-108f6be6",
       "title": "“Asia as Method”: Interview with Alexandra Munroe",
@@ -392,36 +482,6 @@
       },
       "first_published": "2026-08-20",
       "updated_at": "2026-08-20"
-    },
-    {
-      "id": "bb47e5c67a2eefa0",
-      "slug": "revitalizing-indian-education-integrating-traditional-knowledge-systems-into-modern-learning-bb47e5c6",
-      "title": "From Gurukul to Global Classroom: A Spiral Pedagogical Model for Integrating Indian Knowledge Systems Across Lifelong Learning",
-      "summary": "learning. This research proposes the Spiral Pedagogical Model as a conceptual framework for integrating IKS from early childhood education to higher education and adult learning. The research begins by examining the fundamental pedagogical elements of the Gurukul system, such as experiential education, the guru-shishya Parampara, moral and spiritual development, and community-based education, to d",
-      "category": "Daily Research Hook / Topic Idea",
-      "date": "2026-08-20",
-      "published_at": "2026-08-20",
-      "source_published_at": null,
-      "source": "ijsrm.net",
-      "source_url": "https://ijsrm.net/index.php/ijsrm/article/view/7067",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "From Gurukul to Global Classroom: A Spiral Pedagogical Model for Integrating Indian Knowledge Systems Across Lifelong Learning",
-          "summary": "learning. This research proposes the Spiral Pedagogical Model as a conceptual framework for integrating IKS from early childhood education to higher education and adult learning. The research begins by examining the fundamental pedagogical elements of the Gurukul system, such as experiential education, the guru-shishya Parampara, moral and spiritual development, and community-based education, to d",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-14",
-      "updated_at": "2026-08-20T04:11:55.268828+00:00"
     },
     {
       "id": "d9fb116a4f7045ea",

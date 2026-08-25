@@ -1,8 +1,8 @@
 {
   "schema_version": "6.1B",
   "year": 2026,
-  "updated_at": "2026-08-24T04:17:59.174149+00:00",
-  "count": 45,
+  "updated_at": "2026-08-25T04:12:15.436118+00:00",
+  "count": 47,
   "articles": [
     {
       "id": "8da5ee15834d64b7",
@@ -10,8 +10,8 @@
       "title": "Archaeological Survey of India",
       "summary": "India is singularly rich in epigraphical wealth. It is estimated that so far more than one lakh inscriptions have been discovered from the length and breadth of the country, and still a large number of inscriptions have to be brought to light by conducting an intensive and systematic survey of our vast sub- continent. [...] Epigraphy forms one of the very important sources for understanding the hi",
       "category": "Archaeology & Ancient Discoveries",
-      "date": "2026-08-24",
-      "published_at": "2026-08-24",
+      "date": "2026-08-25",
+      "published_at": "2026-08-25",
       "source_published_at": null,
       "source": "asi.nic.in",
       "source_url": "https://asi.nic.in/pages/Epigraphy-Branch/HQ",
@@ -32,16 +32,76 @@
         }
       },
       "first_published": "2026-08-14",
-      "updated_at": "2026-08-24T04:18:02.433164+00:00"
+      "updated_at": "2026-08-25T04:12:20.039273+00:00"
+    },
+    {
+      "id": "ac35cfb8e1197b14",
+      "slug": "intangible-cultural-heritage-ministry-of-culture-ac35cfb8",
+      "title": "Intangible Cultural Heritage | Ministry of Culture",
+      "summary": "Link\n\nLink\n\nIntangible Cultural HeritageIntangible Cultural Heritage\n\n### 3. Kumbh Mela (2017)\n\nKumbh Mela, the world’s largest peaceful congregation, is held every four years in Allahabad, Haridwar, Ujjain, and Nasik. Millions bathe in sacred rivers seeking spiritual liberation. Rich in rituals, astronomy, and oral traditions, it unites diverse devotees while preserving age-old wisdom through gur",
+      "category": "Archaeology & Ancient Discoveries",
+      "date": "2026-08-25",
+      "published_at": "2026-08-25",
+      "source_published_at": null,
+      "source": "culture.gov.in",
+      "source_url": "https://culture.gov.in/intangible-cultural-heritage",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "Intangible Cultural Heritage | Ministry of Culture",
+          "summary": "Link\n\nLink\n\nIntangible Cultural HeritageIntangible Cultural Heritage\n\n### 3. Kumbh Mela (2017)\n\nKumbh Mela, the world’s largest peaceful congregation, is held every four years in Allahabad, Haridwar, Ujjain, and Nasik. Millions bathe in sacred rivers seeking spiritual liberation. Rich in rituals, astronomy, and oral traditions, it unites diverse devotees while preserving age-old wisdom through gur",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-25",
+      "updated_at": "2026-08-25"
+    },
+    {
+      "id": "ca9018c26bcf1671",
+      "slug": "unveiling-ancient-india-s-history-through-epigraphs-ca9018c2",
+      "title": "A study of Ancient Indian and Early Medieval Epigraphs ...",
+      "summary": "by a team of epigraphists. The estampages of the inscriptions are then studied and preserved in various epigraphy branches. The information is disseminated through various publications. In the recent past, the ASI has discovered significant inscriptions in states including Tamil Nadu, Maharashtra, Gujarat and Telangana. The Archaeological Survey of India (ASI) has taken up a total of 67,461 estamp",
+      "category": "Archaeology & Ancient Discoveries",
+      "date": "2026-08-25",
+      "published_at": "2026-08-25",
+      "source_published_at": null,
+      "source": "ijnrd.org",
+      "source_url": "https://www.ijnrd.org/papers/IJNRD2407093.pdf",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "A study of Ancient Indian and Early Medieval Epigraphs ...",
+          "summary": "by a team of epigraphists. The estampages of the inscriptions are then studied and preserved in various epigraphy branches. The information is disseminated through various publications. In the recent past, the ASI has discovered significant inscriptions in states including Tamil Nadu, Maharashtra, Gujarat and Telangana. The Archaeological Survey of India (ASI) has taken up a total of 67,461 estamp",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-14",
+      "updated_at": "2026-08-25T04:12:20.032286+00:00"
     },
     {
       "id": "5ed1656dbf0a05ba",
       "slug": "toward-a-critical-edition-of-the-la-k-vat-ras-tra-the-significance-of-the-palm-leaf-manuscript-5ed1656d",
       "title": "Toward a Critical Edition of the Laṅkāvatārasūtra: The Significance of the Palm leaf Manuscript",
       "summary": "This article examines a newly discovered and recently published Sanskrit manuscript of the Jayamatiparipṛcchāsūtra (“Inquiry of Jayamati”) and documents its relationship, previously unrecognized, as part of the Śūraṃgama-samādhisūtra (“The Concentration of Heroic Progress”). While both texts are classified as Mahāyāna sūtras, the Jayamati-paripṛcchā depicts its content as spoken by the Buddha whil",
-      "category": "Archaeology & Ancient Discoveries",
-      "date": "2026-08-24",
-      "published_at": "2026-08-24",
+      "category": "Vedic & Manuscript Research",
+      "date": "2026-08-25",
+      "published_at": "2026-08-25",
       "source_published_at": null,
       "source": "academia.edu",
       "source_url": "https://www.academia.edu/46471964/Toward_a_Critical_Edition_of_the_La%E1%B9%85k%C4%81vat%C4%81ras%C5%ABtra_The_Significance_of_the_Palm_leaf_Manuscript",
@@ -62,7 +122,127 @@
         }
       },
       "first_published": "2026-08-14",
-      "updated_at": "2026-08-24T04:18:02.432675+00:00"
+      "updated_at": "2026-08-25T04:12:20.030487+00:00"
+    },
+    {
+      "id": "7c8ab585e5d56dcb",
+      "slug": "nyaya-vaisesika-and-mimamsa-schools-a-comparative-study-of-their-epistemological-and-ontological-7c8ab585",
+      "title": "NYAYA-VAISESIKA AND MIMAMSA SCHOOLS: A COMPARATIVE STUDY OF THEIR EPISTEMOLOGICAL AND ONTOLOGICAL THEORIES | International Education and Research Journal (IERJ)",
+      "summary": "This research study thoroughly compares the Nyaya-Vaisesika and Mimamsa philosophical systems, concentrating on their distinct epistemological and ontological theories while emphasising their parallels and contrasts. The Nyaya-Vaisesika school, which originated in ancient India, emphasises logic, perception, and atomistic ontology. The Mimamsa school, on the other hand, interprets Vedic texts and ",
+      "category": "Vedic & Manuscript Research",
+      "date": "2026-08-25",
+      "published_at": "2026-08-25",
+      "source_published_at": null,
+      "source": "ierj.in",
+      "source_url": "https://www.ierj.in/journal/index.php/ierj/article/view/4861",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "NYAYA-VAISESIKA AND MIMAMSA SCHOOLS: A COMPARATIVE STUDY OF THEIR EPISTEMOLOGICAL AND ONTOLOGICAL THEORIES | International Education and Research Journal (IERJ)",
+          "summary": "This research study thoroughly compares the Nyaya-Vaisesika and Mimamsa philosophical systems, concentrating on their distinct epistemological and ontological theories while emphasising their parallels and contrasts. The Nyaya-Vaisesika school, which originated in ancient India, emphasises logic, perception, and atomistic ontology. The Mimamsa school, on the other hand, interprets Vedic texts and ",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-23",
+      "updated_at": "2026-08-25T04:12:20.029030+00:00"
+    },
+    {
+      "id": "560b52cdb5b2cb0e",
+      "slug": "national-archives-items-in-the-world-digital-library-national-archives-560b52cd",
+      "title": "National Archives Items in the World Digital Library | National Archives",
+      "summary": "| Bill of Rights, 09/25/1789 (National Archives Identifier 1408042) | Illustrated Family Record (Fraktur) Found in Revolutionary War Pension and Bounty-Land-Warrant Application File W3079, for Philip Frey, Pennsylvania, ca. 1800 - ca. 1900 (National Archives Identifier 300195) | Treaty between the Ottawa, Chippewa, Wyandot, and Potawatomi Indians, 11/17/1807 (National Archives Identifier 596331) |",
+      "category": "Global Cultural & Temple Events",
+      "date": "2026-08-25",
+      "published_at": "2026-08-25",
+      "source_published_at": null,
+      "source": "archives.gov",
+      "source_url": "https://www.archives.gov/research/world-digital-library",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "National Archives Items in the World Digital Library | National Archives",
+          "summary": "| Bill of Rights, 09/25/1789 (National Archives Identifier 1408042) | Illustrated Family Record (Fraktur) Found in Revolutionary War Pension and Bounty-Land-Warrant Application File W3079, for Philip Frey, Pennsylvania, ca. 1800 - ca. 1900 (National Archives Identifier 300195) | Treaty between the Ottawa, Chippewa, Wyandot, and Potawatomi Indians, 11/17/1807 (National Archives Identifier 596331) |",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-18",
+      "updated_at": "2026-08-25T04:12:20.026483+00:00"
+    },
+    {
+      "id": "8b5c2f5c8e75317b",
+      "slug": "studies-in-indian-mathematics-and-astronomy-bh-van-8b5c2f5c",
+      "title": "Studies in Indian Mathematics and Astronomy – Bhāvanā",
+      "summary": "Avinash Sathaye is a professor emeritus in the Department of Mathematics, University of Kentucky, USA. His main research area is Algebra and Algebraic Geometry. He also has a passion for Sanskrit and ancient Indian history of mathematics. [...] Bhāskara I, however, characterizes the mathematics section as “a little bit of mathematics” described by indications only. This is because important parts ",
+      "category": "Daily Research Hook / Topic Idea",
+      "date": "2026-08-25",
+      "published_at": "2026-08-25",
+      "source_published_at": null,
+      "source": "bhavana.org.in",
+      "source_url": "https://bhavana.org.in/studies-in-indian-mathematics-and-astronomy",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "Studies in Indian Mathematics and Astronomy – Bhāvanā",
+          "summary": "Avinash Sathaye is a professor emeritus in the Department of Mathematics, University of Kentucky, USA. His main research area is Algebra and Algebraic Geometry. He also has a passion for Sanskrit and ancient Indian history of mathematics. [...] Bhāskara I, however, characterizes the mathematics section as “a little bit of mathematics” described by indications only. This is because important parts ",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-25",
+      "updated_at": "2026-08-25"
+    },
+    {
+      "id": "f9d2b3f03a19dbfd",
+      "slug": "unpacking-the-gurukul-system-a-cornerstone-of-indian-knowledge-and-education-f9d2b3f0",
+      "title": "A Critical Study of the Gurukul System within the Indian Knowledge Systems – BHARATI INTERNATIONAL JOURNAL OF MULTIDISCIPLINARY RESEARCH AND DEVELOPMENT",
+      "summary": "Abstract: The Gurukul system was instrumental in shaping the ancient Indian knowledge framework by emphasizing a holistic, practical, and value-oriented education through a residential model of teacher and disciple. It nurtured self-discipline, ethical values, and critical thinking alongside academic pursuits, with students residing with their gurus to learn through firsthand experience and observ",
+      "category": "Daily Research Hook / Topic Idea",
+      "date": "2026-08-25",
+      "published_at": "2026-08-25",
+      "source_published_at": null,
+      "source": "bijmrd.com",
+      "source_url": "https://bijmrd.com/index.php/volume4-issue32/a-critical-study-of-the-gurukul-system-within-the-indian-knowledge-systems",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "A Critical Study of the Gurukul System within the Indian Knowledge Systems – BHARATI INTERNATIONAL JOURNAL OF MULTIDISCIPLINARY RESEARCH AND DEVELOPMENT",
+          "summary": "Abstract: The Gurukul system was instrumental in shaping the ancient Indian knowledge framework by emphasizing a holistic, practical, and value-oriented education through a residential model of teacher and disciple. It nurtured self-discipline, ethical values, and critical thinking alongside academic pursuits, with students residing with their gurus to learn through firsthand experience and observ",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-14",
+      "updated_at": "2026-08-25T04:12:20.015664+00:00"
     },
     {
       "id": "b0dc665db976f778",
@@ -155,36 +335,6 @@
       "updated_at": "2026-08-24T04:18:02.425260+00:00"
     },
     {
-      "id": "7c8ab585e5d56dcb",
-      "slug": "nyaya-vaisesika-and-mimamsa-schools-a-comparative-study-of-their-epistemological-and-ontological-7c8ab585",
-      "title": "NYAYA-VAISESIKA AND MIMAMSA SCHOOLS: A COMPARATIVE STUDY OF THEIR EPISTEMOLOGICAL AND ONTOLOGICAL THEORIES | International Education and Research Journal (IERJ)",
-      "summary": "This research study thoroughly compares the Nyaya-Vaisesika and Mimamsa philosophical systems, concentrating on their distinct epistemological and ontological theories while emphasising their parallels and contrasts. The Nyaya-Vaisesika school, which originated in ancient India, emphasises logic, perception, and atomistic ontology. The Mimamsa school, on the other hand, interprets Vedic texts and ",
-      "category": "Vedic & Manuscript Research",
-      "date": "2026-08-24",
-      "published_at": "2026-08-24",
-      "source_published_at": null,
-      "source": "ierj.in",
-      "source_url": "https://www.ierj.in/journal/index.php/ierj/article/view/4861",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "NYAYA-VAISESIKA AND MIMAMSA SCHOOLS: A COMPARATIVE STUDY OF THEIR EPISTEMOLOGICAL AND ONTOLOGICAL THEORIES | International Education and Research Journal (IERJ)",
-          "summary": "This research study thoroughly compares the Nyaya-Vaisesika and Mimamsa philosophical systems, concentrating on their distinct epistemological and ontological theories while emphasising their parallels and contrasts. The Nyaya-Vaisesika school, which originated in ancient India, emphasises logic, perception, and atomistic ontology. The Mimamsa school, on the other hand, interprets Vedic texts and ",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-23",
-      "updated_at": "2026-08-24T04:18:02.423905+00:00"
-    },
-    {
       "id": "5415d1afc8050325",
       "slug": "american-indian-and-alaska-native-records-in-the-national-archives-national-archives-5415d1af",
       "title": "American Indian and Alaska Native Records in the ...",
@@ -245,36 +395,6 @@
       "updated_at": "2026-08-24T04:18:02.422220+00:00"
     },
     {
-      "id": "ca9018c26bcf1671",
-      "slug": "unveiling-ancient-india-s-history-through-epigraphs-ca9018c2",
-      "title": "A study of Ancient Indian and Early Medieval Epigraphs ...",
-      "summary": "by a team of epigraphists. The estampages of the inscriptions are then studied and preserved in various epigraphy branches. The information is disseminated through various publications. In the recent past, the ASI has discovered significant inscriptions in states including Tamil Nadu, Maharashtra, Gujarat and Telangana. The Archaeological Survey of India (ASI) has taken up a total of 67,461 estamp",
-      "category": "Archaeology & Ancient Discoveries",
-      "date": "2026-08-23",
-      "published_at": "2026-08-23",
-      "source_published_at": null,
-      "source": "ijnrd.org",
-      "source_url": "https://www.ijnrd.org/papers/IJNRD2407093.pdf",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "A study of Ancient Indian and Early Medieval Epigraphs ...",
-          "summary": "by a team of epigraphists. The estampages of the inscriptions are then studied and preserved in various epigraphy branches. The information is disseminated through various publications. In the recent past, the ASI has discovered significant inscriptions in states including Tamil Nadu, Maharashtra, Gujarat and Telangana. The Archaeological Survey of India (ASI) has taken up a total of 67,461 estamp",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-14",
-      "updated_at": "2026-08-23T04:12:48.123554+00:00"
-    },
-    {
       "id": "58e75015b936dd9e",
       "slug": "india-s-ancient-scientific-knowledge-india-foundation-58e75015",
       "title": "India’s Ancient Scientific Knowledge – India Foundation",
@@ -303,36 +423,6 @@
       },
       "first_published": "2026-08-19",
       "updated_at": "2026-08-23T04:12:48.121685+00:00"
-    },
-    {
-      "id": "f9d2b3f03a19dbfd",
-      "slug": "unpacking-the-gurukul-system-a-cornerstone-of-indian-knowledge-and-education-f9d2b3f0",
-      "title": "A Critical Study of the Gurukul System within the Indian Knowledge Systems – BHARATI INTERNATIONAL JOURNAL OF MULTIDISCIPLINARY RESEARCH AND DEVELOPMENT",
-      "summary": "Abstract: The Gurukul system was instrumental in shaping the ancient Indian knowledge framework by emphasizing a holistic, practical, and value-oriented education through a residential model of teacher and disciple. It nurtured self-discipline, ethical values, and critical thinking alongside academic pursuits, with students residing with their gurus to learn through firsthand experience and observ",
-      "category": "Daily Research Hook / Topic Idea",
-      "date": "2026-08-23",
-      "published_at": "2026-08-23",
-      "source_published_at": null,
-      "source": "bijmrd.com",
-      "source_url": "https://bijmrd.com/index.php/volume4-issue32/a-critical-study-of-the-gurukul-system-within-the-indian-knowledge-systems",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "A Critical Study of the Gurukul System within the Indian Knowledge Systems – BHARATI INTERNATIONAL JOURNAL OF MULTIDISCIPLINARY RESEARCH AND DEVELOPMENT",
-          "summary": "Abstract: The Gurukul system was instrumental in shaping the ancient Indian knowledge framework by emphasizing a holistic, practical, and value-oriented education through a residential model of teacher and disciple. It nurtured self-discipline, ethical values, and critical thinking alongside academic pursuits, with students residing with their gurus to learn through firsthand experience and observ",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-14",
-      "updated_at": "2026-08-23T04:12:48.101873+00:00"
     },
     {
       "id": "a13c854332f35012",
@@ -806,36 +896,6 @@
         "en": {
           "title": "Perceptual Experience and Concepts in Classical Indian Philosophy (Stanford Encyclopedia of Philosophy)",
           "summary": "Uddyotakara, “The Nyāya Proofs for the Existence of the Soul”,  Translations from the introductory commentary on Nyāya-Sūtra-Bhāṣya, Arindam Chakrabarti (trans.), published as an appendix to A. Chakrabarti, Journal of Indian Philosophy, 10: 211–238, (1982).\n Vācaspati Miśra, Nyāyavārttikatātparyaṭīkā, Anantlal Thaur (ed.), Indian Council of Philosophical Research, 1996. [...] ### 3.2 The developme",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-18",
-      "updated_at": "2026-08-18"
-    },
-    {
-      "id": "560b52cdb5b2cb0e",
-      "slug": "national-archives-items-in-the-world-digital-library-national-archives-560b52cd",
-      "title": "National Archives Items in the World Digital Library | National Archives",
-      "summary": "| Bill of Rights, 09/25/1789 (National Archives Identifier 1408042) | Illustrated Family Record (Fraktur) Found in Revolutionary War Pension and Bounty-Land-Warrant Application File W3079, for Philip Frey, Pennsylvania, ca. 1800 - ca. 1900 (National Archives Identifier 300195) | Treaty between the Ottawa, Chippewa, Wyandot, and Potawatomi Indians, 11/17/1807 (National Archives Identifier 596331) |",
-      "category": "Global Cultural & Temple Events",
-      "date": "2026-08-18",
-      "published_at": "2026-08-18",
-      "source_published_at": null,
-      "source": "archives.gov",
-      "source_url": "https://www.archives.gov/research/world-digital-library",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "National Archives Items in the World Digital Library | National Archives",
-          "summary": "| Bill of Rights, 09/25/1789 (National Archives Identifier 1408042) | Illustrated Family Record (Fraktur) Found in Revolutionary War Pension and Bounty-Land-Warrant Application File W3079, for Philip Frey, Pennsylvania, ca. 1800 - ca. 1900 (National Archives Identifier 300195) | Treaty between the Ottawa, Chippewa, Wyandot, and Potawatomi Indians, 11/17/1807 (National Archives Identifier 596331) |",
           "key_takeaways": [],
           "why_this_matters": "",
           "research_hook": ""

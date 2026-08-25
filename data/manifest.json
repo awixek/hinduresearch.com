@@ -1,11 +1,11 @@
 {
   "schema_version": "6.1B",
-  "generated_at": "2026-08-24T04:17:59.174149+00:00",
+  "generated_at": "2026-08-25T04:12:15.436118+00:00",
   "site": "https://hinduresearch.com",
-  "total_articles": 45,
-  "latest_count": 45,
+  "total_articles": 47,
+  "latest_count": 47,
   "years": {
-    "2026": 45
+    "2026": 47
   },
   "paths": {
     "permanent_archive": "/data/articles.json",

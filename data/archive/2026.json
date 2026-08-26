@@ -1,8 +1,8 @@
 {
   "schema_version": "6.1B",
   "year": 2026,
-  "updated_at": "2026-08-25T04:12:15.436118+00:00",
-  "count": 47,
+  "updated_at": "2026-08-26T04:13:48.658426+00:00",
+  "count": 50,
   "articles": [
     {
       "id": "8da5ee15834d64b7",
@@ -10,8 +10,8 @@
       "title": "Archaeological Survey of India",
       "summary": "India is singularly rich in epigraphical wealth. It is estimated that so far more than one lakh inscriptions have been discovered from the length and breadth of the country, and still a large number of inscriptions have to be brought to light by conducting an intensive and systematic survey of our vast sub- continent. [...] Epigraphy forms one of the very important sources for understanding the hi",
       "category": "Archaeology & Ancient Discoveries",
-      "date": "2026-08-25",
-      "published_at": "2026-08-25",
+      "date": "2026-08-26",
+      "published_at": "2026-08-26",
       "source_published_at": null,
       "source": "asi.nic.in",
       "source_url": "https://asi.nic.in/pages/Epigraphy-Branch/HQ",
@@ -32,7 +32,217 @@
         }
       },
       "first_published": "2026-08-14",
-      "updated_at": "2026-08-25T04:12:20.039273+00:00"
+      "updated_at": "2026-08-26T04:13:51.951419+00:00"
+    },
+    {
+      "id": "ca9018c26bcf1671",
+      "slug": "unveiling-ancient-india-s-history-through-epigraphs-ca9018c2",
+      "title": "A study of Ancient Indian and Early Medieval Epigraphs ...",
+      "summary": "by a team of epigraphists. The estampages of the inscriptions are then studied and preserved in various epigraphy branches. The information is disseminated through various publications. In the recent past, the ASI has discovered significant inscriptions in states including Tamil Nadu, Maharashtra, Gujarat and Telangana. The Archaeological Survey of India (ASI) has taken up a total of 67,461 estamp",
+      "category": "Archaeology & Ancient Discoveries",
+      "date": "2026-08-26",
+      "published_at": "2026-08-26",
+      "source_published_at": null,
+      "source": "ijnrd.org",
+      "source_url": "https://www.ijnrd.org/papers/IJNRD2407093.pdf",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "A study of Ancient Indian and Early Medieval Epigraphs ...",
+          "summary": "by a team of epigraphists. The estampages of the inscriptions are then studied and preserved in various epigraphy branches. The information is disseminated through various publications. In the recent past, the ASI has discovered significant inscriptions in states including Tamil Nadu, Maharashtra, Gujarat and Telangana. The Archaeological Survey of India (ASI) has taken up a total of 67,461 estamp",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-14",
+      "updated_at": "2026-08-26T04:13:51.950655+00:00"
+    },
+    {
+      "id": "d0140395875d54f4",
+      "slug": "fashion-s-archive-fever-when-the-past-becomes-the-product-fibre2fashion-d0140395",
+      "title": "Fashion’s Archive Fever: When the Past Becomes the Product - Fibre2Fashion",
+      "summary": "Instead of introducing entirely new product categories each season, many fashion houses strategically reinterpret existing icons. Anniversary collections, heritage capsules, archive exhibitions, limited-edition collaborations, and reissued classics have become central components of annual business strategies. [...] As fashion increasingly exists within a digital ecosystem, archives have become mor",
+      "category": "Archaeology & Ancient Discoveries",
+      "date": "2026-08-26",
+      "published_at": "2026-08-26",
+      "source_published_at": "Tue, 25 Aug 2026 07:00:00 GMT",
+      "source": "fibre2fashion.com",
+      "source_url": "https://www.fibre2fashion.com/industry-article/11723/fashion-s-archive-fever-when-the-past-becomes-the-product",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "Fashion’s Archive Fever: When the Past Becomes the Product - Fibre2Fashion",
+          "summary": "Instead of introducing entirely new product categories each season, many fashion houses strategically reinterpret existing icons. Anniversary collections, heritage capsules, archive exhibitions, limited-edition collaborations, and reissued classics have become central components of annual business strategies. [...] As fashion increasingly exists within a digital ecosystem, archives have become mor",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-26",
+      "updated_at": "2026-08-26"
+    },
+    {
+      "id": "ddca38ac9161b09c",
+      "slug": "kenneth-spencer-research-library-blog-palm-leaf-manuscript-ddca38ac",
+      "title": "Kenneth Spencer Research Library Blog » Palm-leaf manuscript",
+      "summary": "Created in the 17th century, this palm-leaf manuscript (also referred to as a Pothi) contains the first five books of the Rāmāyaņa, an ancient Sanskrit epic about Prince Rama’s quest to rescue his wife, Sita, from Ravana, the 10-headed Rakshasa king of Lanka. While the epic itself dates back to over two millennia ago, the text in Spencer Research Library’s manuscript is a Telugu translation from t",
+      "category": "Vedic & Manuscript Research",
+      "date": "2026-08-26",
+      "published_at": "2026-08-26",
+      "source_published_at": null,
+      "source": "blogs.lib.ku.edu",
+      "source_url": "https://blogs.lib.ku.edu/spencer/tag/palm-leaf-manuscript",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "Kenneth Spencer Research Library Blog » Palm-leaf manuscript",
+          "summary": "Created in the 17th century, this palm-leaf manuscript (also referred to as a Pothi) contains the first five books of the Rāmāyaņa, an ancient Sanskrit epic about Prince Rama’s quest to rescue his wife, Sita, from Ravana, the 10-headed Rakshasa king of Lanka. While the epic itself dates back to over two millennia ago, the text in Spencer Research Library’s manuscript is a Telugu translation from t",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-26",
+      "updated_at": "2026-08-26"
+    },
+    {
+      "id": "7c8ab585e5d56dcb",
+      "slug": "nyaya-vaisesika-and-mimamsa-schools-a-comparative-study-of-their-epistemological-and-ontological-7c8ab585",
+      "title": "NYAYA-VAISESIKA AND MIMAMSA SCHOOLS: A COMPARATIVE STUDY OF THEIR EPISTEMOLOGICAL AND ONTOLOGICAL THEORIES | International Education and Research Journal (IERJ)",
+      "summary": "This research study thoroughly compares the Nyaya-Vaisesika and Mimamsa philosophical systems, concentrating on their distinct epistemological and ontological theories while emphasising their parallels and contrasts. The Nyaya-Vaisesika school, which originated in ancient India, emphasises logic, perception, and atomistic ontology. The Mimamsa school, on the other hand, interprets Vedic texts and ",
+      "category": "Vedic & Manuscript Research",
+      "date": "2026-08-26",
+      "published_at": "2026-08-26",
+      "source_published_at": null,
+      "source": "ierj.in",
+      "source_url": "https://www.ierj.in/journal/index.php/ierj/article/view/4861",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "NYAYA-VAISESIKA AND MIMAMSA SCHOOLS: A COMPARATIVE STUDY OF THEIR EPISTEMOLOGICAL AND ONTOLOGICAL THEORIES | International Education and Research Journal (IERJ)",
+          "summary": "This research study thoroughly compares the Nyaya-Vaisesika and Mimamsa philosophical systems, concentrating on their distinct epistemological and ontological theories while emphasising their parallels and contrasts. The Nyaya-Vaisesika school, which originated in ancient India, emphasises logic, perception, and atomistic ontology. The Mimamsa school, on the other hand, interprets Vedic texts and ",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-23",
+      "updated_at": "2026-08-26T04:13:51.934379+00:00"
+    },
+    {
+      "id": "da0ed2f16eaa4bc7",
+      "slug": "unlocking-india-s-archival-treasures-national-archives-of-india-s-digital-initiatives-da0ed2f1",
+      "title": "Online Records of National Archives of India | Official website of National Archives of India, Government of India",
+      "summary": "Archives of India subsequently released digital copies of 75 declassified files relating to Netaji in the public domain in two batches on 29 March 2016 and 27 April 2016. The 4th batch of 25 files consists of 5 files of the PMO, 4 files of MHA and 16 files of MEA pertaining to the years 1968-2008 was launched on 27 May, 2016. [...] relating to Netaji were transferred from the Ministry of Home Affa",
+      "category": "Global Cultural & Temple Events",
+      "date": "2026-08-26",
+      "published_at": "2026-08-26",
+      "source_published_at": null,
+      "source": "nationalarchives.nic.in",
+      "source_url": "https://nationalarchives.nic.in/en/online-records-national-archives-india",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "Online Records of National Archives of India | Official website of National Archives of India, Government of India",
+          "summary": "Archives of India subsequently released digital copies of 75 declassified files relating to Netaji in the public domain in two batches on 29 March 2016 and 27 April 2016. The 4th batch of 25 files consists of 5 files of the PMO, 4 files of MHA and 16 files of MEA pertaining to the years 1968-2008 was launched on 27 May, 2016. [...] relating to Netaji were transferred from the Ministry of Home Affa",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-14",
+      "updated_at": "2026-08-26T04:13:51.932165+00:00"
+    },
+    {
+      "id": "bb47e5c67a2eefa0",
+      "slug": "revitalizing-indian-education-integrating-traditional-knowledge-systems-into-modern-learning-bb47e5c6",
+      "title": "From Gurukul to Global Classroom: A Spiral Pedagogical Model for Integrating Indian Knowledge Systems Across Lifelong Learning",
+      "summary": "learning. This research proposes the Spiral Pedagogical Model as a conceptual framework for integrating IKS from early childhood education to higher education and adult learning. The research begins by examining the fundamental pedagogical elements of the Gurukul system, such as experiential education, the guru-shishya Parampara, moral and spiritual development, and community-based education, to d",
+      "category": "Daily Research Hook / Topic Idea",
+      "date": "2026-08-26",
+      "published_at": "2026-08-26",
+      "source_published_at": null,
+      "source": "ijsrm.net",
+      "source_url": "https://ijsrm.net/index.php/ijsrm/article/view/7067",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "From Gurukul to Global Classroom: A Spiral Pedagogical Model for Integrating Indian Knowledge Systems Across Lifelong Learning",
+          "summary": "learning. This research proposes the Spiral Pedagogical Model as a conceptual framework for integrating IKS from early childhood education to higher education and adult learning. The research begins by examining the fundamental pedagogical elements of the Gurukul system, such as experiential education, the guru-shishya Parampara, moral and spiritual development, and community-based education, to d",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-14",
+      "updated_at": "2026-08-26T04:13:51.923065+00:00"
+    },
+    {
+      "id": "e52425ade8effb94",
+      "slug": "collection-at-a-glance-official-website-of-national-archives-of-india-government-of-india-e52425ad",
+      "title": "Collection at a Glance | Official website of National Archives of India, Government of India",
+      "summary": "CONTEMPORARY BOOKS ON INDIAN HISTORY\n:   A most significant Collection in the Library are rare and contemporary works on India and its history going back to the 17th century, which are valuable sources for research Some of the titles are listed below: [...] PAMPHLETS\n:    These are a Collection of rare and valuable Articles, Reports, Notes prepared by various organizations and experts, on a wide r",
+      "category": "Daily Research Hook / Topic Idea",
+      "date": "2026-08-26",
+      "published_at": "2026-08-26",
+      "source_published_at": null,
+      "source": "nationalarchives.nic.in",
+      "source_url": "https://www.nationalarchives.nic.in/en/collection-glance",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "Collection at a Glance | Official website of National Archives of India, Government of India",
+          "summary": "CONTEMPORARY BOOKS ON INDIAN HISTORY\n:   A most significant Collection in the Library are rare and contemporary works on India and its history going back to the 17th century, which are valuable sources for research Some of the titles are listed below: [...] PAMPHLETS\n:    These are a Collection of rare and valuable Articles, Reports, Notes prepared by various organizations and experts, on a wide r",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-26",
+      "updated_at": "2026-08-26"
     },
     {
       "id": "ac35cfb8e1197b14",
@@ -65,36 +275,6 @@
       "updated_at": "2026-08-25"
     },
     {
-      "id": "ca9018c26bcf1671",
-      "slug": "unveiling-ancient-india-s-history-through-epigraphs-ca9018c2",
-      "title": "A study of Ancient Indian and Early Medieval Epigraphs ...",
-      "summary": "by a team of epigraphists. The estampages of the inscriptions are then studied and preserved in various epigraphy branches. The information is disseminated through various publications. In the recent past, the ASI has discovered significant inscriptions in states including Tamil Nadu, Maharashtra, Gujarat and Telangana. The Archaeological Survey of India (ASI) has taken up a total of 67,461 estamp",
-      "category": "Archaeology & Ancient Discoveries",
-      "date": "2026-08-25",
-      "published_at": "2026-08-25",
-      "source_published_at": null,
-      "source": "ijnrd.org",
-      "source_url": "https://www.ijnrd.org/papers/IJNRD2407093.pdf",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "A study of Ancient Indian and Early Medieval Epigraphs ...",
-          "summary": "by a team of epigraphists. The estampages of the inscriptions are then studied and preserved in various epigraphy branches. The information is disseminated through various publications. In the recent past, the ASI has discovered significant inscriptions in states including Tamil Nadu, Maharashtra, Gujarat and Telangana. The Archaeological Survey of India (ASI) has taken up a total of 67,461 estamp",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-14",
-      "updated_at": "2026-08-25T04:12:20.032286+00:00"
-    },
-    {
       "id": "5ed1656dbf0a05ba",
       "slug": "toward-a-critical-edition-of-the-la-k-vat-ras-tra-the-significance-of-the-palm-leaf-manuscript-5ed1656d",
       "title": "Toward a Critical Edition of the Laṅkāvatārasūtra: The Significance of the Palm leaf Manuscript",
@@ -123,36 +303,6 @@
       },
       "first_published": "2026-08-14",
       "updated_at": "2026-08-25T04:12:20.030487+00:00"
-    },
-    {
-      "id": "7c8ab585e5d56dcb",
-      "slug": "nyaya-vaisesika-and-mimamsa-schools-a-comparative-study-of-their-epistemological-and-ontological-7c8ab585",
-      "title": "NYAYA-VAISESIKA AND MIMAMSA SCHOOLS: A COMPARATIVE STUDY OF THEIR EPISTEMOLOGICAL AND ONTOLOGICAL THEORIES | International Education and Research Journal (IERJ)",
-      "summary": "This research study thoroughly compares the Nyaya-Vaisesika and Mimamsa philosophical systems, concentrating on their distinct epistemological and ontological theories while emphasising their parallels and contrasts. The Nyaya-Vaisesika school, which originated in ancient India, emphasises logic, perception, and atomistic ontology. The Mimamsa school, on the other hand, interprets Vedic texts and ",
-      "category": "Vedic & Manuscript Research",
-      "date": "2026-08-25",
-      "published_at": "2026-08-25",
-      "source_published_at": null,
-      "source": "ierj.in",
-      "source_url": "https://www.ierj.in/journal/index.php/ierj/article/view/4861",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "NYAYA-VAISESIKA AND MIMAMSA SCHOOLS: A COMPARATIVE STUDY OF THEIR EPISTEMOLOGICAL AND ONTOLOGICAL THEORIES | International Education and Research Journal (IERJ)",
-          "summary": "This research study thoroughly compares the Nyaya-Vaisesika and Mimamsa philosophical systems, concentrating on their distinct epistemological and ontological theories while emphasising their parallels and contrasts. The Nyaya-Vaisesika school, which originated in ancient India, emphasises logic, perception, and atomistic ontology. The Mimamsa school, on the other hand, interprets Vedic texts and ",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-23",
-      "updated_at": "2026-08-25T04:12:20.029030+00:00"
     },
     {
       "id": "560b52cdb5b2cb0e",
@@ -363,36 +513,6 @@
       },
       "first_published": "2026-08-21",
       "updated_at": "2026-08-24T04:18:02.422742+00:00"
-    },
-    {
-      "id": "bb47e5c67a2eefa0",
-      "slug": "revitalizing-indian-education-integrating-traditional-knowledge-systems-into-modern-learning-bb47e5c6",
-      "title": "From Gurukul to Global Classroom: A Spiral Pedagogical Model for Integrating Indian Knowledge Systems Across Lifelong Learning",
-      "summary": "learning. This research proposes the Spiral Pedagogical Model as a conceptual framework for integrating IKS from early childhood education to higher education and adult learning. The research begins by examining the fundamental pedagogical elements of the Gurukul system, such as experiential education, the guru-shishya Parampara, moral and spiritual development, and community-based education, to d",
-      "category": "Daily Research Hook / Topic Idea",
-      "date": "2026-08-24",
-      "published_at": "2026-08-24",
-      "source_published_at": null,
-      "source": "ijsrm.net",
-      "source_url": "https://ijsrm.net/index.php/ijsrm/article/view/7067",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "From Gurukul to Global Classroom: A Spiral Pedagogical Model for Integrating Indian Knowledge Systems Across Lifelong Learning",
-          "summary": "learning. This research proposes the Spiral Pedagogical Model as a conceptual framework for integrating IKS from early childhood education to higher education and adult learning. The research begins by examining the fundamental pedagogical elements of the Gurukul system, such as experiential education, the guru-shishya Parampara, moral and spiritual development, and community-based education, to d",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-14",
-      "updated_at": "2026-08-24T04:18:02.422220+00:00"
     },
     {
       "id": "58e75015b936dd9e",
@@ -1219,55 +1339,6 @@
       },
       "first_published": "2026-08-16",
       "updated_at": "2026-08-16"
-    },
-    {
-      "id": "da0ed2f16eaa4bc7",
-      "slug": "unlocking-india-s-archival-treasures-national-archives-of-india-s-digital-initiatives-da0ed2f1",
-      "title": "Declassified Netaji Files Now Accessible Online Through National Archives of India",
-      "summary": "The National Archives of India has released digital copies of declassified files related to Netaji Subhas Chandra Bose, making them available to the public and facilitating further research. The files were released in batches between 2016, with the first set of 100 files made public on January 23, 2016. This initiative aims to provide access to the rich archival treasure for scholars and users.",
-      "category": "Global Cultural & Temple Events",
-      "date": "2026-08-16",
-      "published_at": "2026-08-16",
-      "source_published_at": null,
-      "source": "nationalarchives.nic.in",
-      "source_url": "https://nationalarchives.nic.in/en/online-records-national-archives-india",
-      "key_takeaways": [
-        "100 declassified files related to Netaji were released on January 23, 2016",
-        "The National Archives of India launched a search web portal called Abhilekh Patal on March 11, 2015",
-        "The archives have implemented Digital on Demand and Page on Demand services with e-payment options"
-      ],
-      "why_this_matters": "The release of these declassified files is significant for Indian historical research, as it provides valuable insights into the life and legacy of Netaji Subhas Chandra Bose. This initiative also highlights the efforts of the National Archives of India to make historical records accessible to the public and facilitate scholarly research.",
-      "research_hook": "A future research article could explore the historical significance of the declassified Netaji files and their implications for our understanding of India's freedom struggle and post-independence era.",
-      "editorial_confidence": 90,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "hi": {
-          "title": "नेताजी से संबंधित वर्गीकृत फाइलें अब राष्ट्रीय अभिलेखागार के माध्यम से ऑनलाइन उपलब्ध हैं",
-          "summary": "राष्ट्रीय अभिलेखागार ने नेताजी सुभाष चंद्र बोस से संबंधित वर्गीकृत फाइलों की डिजिटल प्रतियां जारी की हैं, जिससे वे जनता के लिए और आगे के शोध के लिए उपलब्ध हो गई हैं। ये फाइलें 2016 से बैचों में जारी की गई थीं, जिसमें पहली श्रृंखला में 100 फाइलें 23 जनवरी, 2016 को सार्वजनिक की गई थीं। इस पहल का उद्देश्य विद्वानों और उपयोगकर्ताओं के लिए समृद्ध अभिलेखीय खजाने तक पहुंच प्रदान करना है।",
-          "key_takeaways": [
-            "23 जनवरी, 2016 को नेताजी से संबंधित 100 वर्गीकृत फाइलें जारी की गईं",
-            "राष्ट्रीय अभिलेखागार ने 11 मार्च, 2015 को अभिलेख पताल नामक एक खोज वेब पोर्टल लॉन्च किया",
-            "अभिलेखागार ने डिजिटल ऑन डिमांड और पेज ऑन डिमांड सेवाओं को ई-भुगतान विकल्पों के साथ लागू किया है"
-          ],
-          "why_this_matters": "इन वर्गीकृत फाइलों का खुलासा भारतीय ऐतिहासिक शोध के लिए महत्वपूर्ण है, क्योंकि यह नेताजी सुभाष चंद्र बोस के जीवन और विरासत में मूल्यवान अंतर्दृष्टि प्रदान करता है। यह पहल राष्ट्रीय अभिलेखागार के प्रयासों को भी उजागर करती है ताकि ऐतिहासिक रिकॉर्ड को जनता के लिए सुलभ बनाया जा सके और विद्वानों के शोध को सुविधाजनक बनाया जा सके।",
-          "research_hook": "एक भविष्य के शोध लेख में वर्गीकृत नेताजी फाइलों के ऐतिहासिक महत्व और भारत के स्वतंत्रता संग्राम और स्वतंत्रता के बाद के युग की हमारी समझ पर उनके निहितार्थों का अन्वेषण किया जा सकता है।"
-        },
-        "en": {
-          "title": "Declassified Netaji Files Now Accessible Online Through National Archives of India",
-          "summary": "The National Archives of India has released digital copies of declassified files related to Netaji Subhas Chandra Bose, making them available to the public and facilitating further research. The files were released in batches between 2016, with the first set of 100 files made public on January 23, 2016. This initiative aims to provide access to the rich archival treasure for scholars and users.",
-          "key_takeaways": [
-            "100 declassified files related to Netaji were released on January 23, 2016",
-            "The National Archives of India launched a search web portal called Abhilekh Patal on March 11, 2015",
-            "The archives have implemented Digital on Demand and Page on Demand services with e-payment options"
-          ],
-          "why_this_matters": "The release of these declassified files is significant for Indian historical research, as it provides valuable insights into the life and legacy of Netaji Subhas Chandra Bose. This initiative also highlights the efforts of the National Archives of India to make historical records accessible to the public and facilitate scholarly research.",
-          "research_hook": "A future research article could explore the historical significance of the declassified Netaji files and their implications for our understanding of India's freedom struggle and post-independence era."
-        }
-      },
-      "first_published": "2026-08-14",
-      "updated_at": "2026-08-16T04:10:14.861811+00:00"
     },
     {
       "id": "35ca43127fdffc67",

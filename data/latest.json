@@ -1,6 +1,6 @@
 {
   "schema_version": "6.1B",
-  "updated_at": "2026-08-26T04:13:48.658426+00:00",
+  "updated_at": "2026-08-27T14:31:00.862430+00:00",
   "count": 50,
   "articles": [
     {
@@ -9,8 +9,8 @@
       "title": "Archaeological Survey of India",
       "summary": "India is singularly rich in epigraphical wealth. It is estimated that so far more than one lakh inscriptions have been discovered from the length and breadth of the country, and still a large number of inscriptions have to be brought to light by conducting an intensive and systematic survey of our vast sub- continent. [...] Epigraphy forms one of the very important sources for understanding the hi",
       "category": "Archaeology & Ancient Discoveries",
-      "date": "2026-08-26",
-      "published_at": "2026-08-26",
+      "date": "2026-08-27",
+      "published_at": "2026-08-27",
       "source_published_at": null,
       "source": "asi.nic.in",
       "source_url": "https://asi.nic.in/pages/Epigraphy-Branch/HQ",
@@ -31,7 +31,7 @@
         }
       },
       "first_published": "2026-08-14",
-      "updated_at": "2026-08-26T04:13:51.951419+00:00"
+      "updated_at": "2026-08-27T14:31:07.038829+00:00"
     },
     {
       "id": "ca9018c26bcf1671",
@@ -39,8 +39,8 @@
       "title": "A study of Ancient Indian and Early Medieval Epigraphs ...",
       "summary": "by a team of epigraphists. The estampages of the inscriptions are then studied and preserved in various epigraphy branches. The information is disseminated through various publications. In the recent past, the ASI has discovered significant inscriptions in states including Tamil Nadu, Maharashtra, Gujarat and Telangana. The Archaeological Survey of India (ASI) has taken up a total of 67,461 estamp",
       "category": "Archaeology & Ancient Discoveries",
-      "date": "2026-08-26",
-      "published_at": "2026-08-26",
+      "date": "2026-08-27",
+      "published_at": "2026-08-27",
       "source_published_at": null,
       "source": "ijnrd.org",
       "source_url": "https://www.ijnrd.org/papers/IJNRD2407093.pdf",
@@ -61,7 +61,187 @@
         }
       },
       "first_published": "2026-08-14",
-      "updated_at": "2026-08-26T04:13:51.950655+00:00"
+      "updated_at": "2026-08-27T14:31:07.038223+00:00"
+    },
+    {
+      "id": "b15e325a424b8b3b",
+      "slug": "the-secret-lives-of-objects-artreview-b15e325a",
+      "title": "The Secret Lives of Objects - ArtReview",
+      "summary": "It was once the home of the architect who gives his name to the institution, and to this day it houses his vast collection of objects, of which some 15,000 are on display to the public. Back-of-the napkin calculations seem to agree: the V&A operates at around that ratio, the Met between 0.5 and 1.35; the British Museum pushes it to around 3.5 objects per sqm. The sarcophagus of Seti I, fragments o",
+      "category": "Archaeology & Ancient Discoveries",
+      "date": "2026-08-27",
+      "published_at": "2026-08-27",
+      "source_published_at": "Wed, 26 Aug 2026 16:20:54 GMT",
+      "source": "artreview.com",
+      "source_url": "https://artreview.com/the-secret-lives-of-objects-sir-john-soanes-museum-madelon-vriesendorp-opinion-sam-jacob/",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "The Secret Lives of Objects - ArtReview",
+          "summary": "It was once the home of the architect who gives his name to the institution, and to this day it houses his vast collection of objects, of which some 15,000 are on display to the public. Back-of-the napkin calculations seem to agree: the V&A operates at around that ratio, the Met between 0.5 and 1.35; the British Museum pushes it to around 3.5 objects per sqm. The sarcophagus of Seti I, fragments o",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-27",
+      "updated_at": "2026-08-27"
+    },
+    {
+      "id": "5ed1656dbf0a05ba",
+      "slug": "toward-a-critical-edition-of-the-la-k-vat-ras-tra-the-significance-of-the-palm-leaf-manuscript-5ed1656d",
+      "title": "Toward a Critical Edition of the Laṅkāvatārasūtra: The Significance of the Palm leaf Manuscript",
+      "summary": "This article examines a newly discovered and recently published Sanskrit manuscript of the Jayamatiparipṛcchāsūtra (“Inquiry of Jayamati”) and documents its relationship, previously unrecognized, as part of the Śūraṃgama-samādhisūtra (“The Concentration of Heroic Progress”). While both texts are classified as Mahāyāna sūtras, the Jayamati-paripṛcchā depicts its content as spoken by the Buddha whil",
+      "category": "Vedic & Manuscript Research",
+      "date": "2026-08-27",
+      "published_at": "2026-08-27",
+      "source_published_at": null,
+      "source": "academia.edu",
+      "source_url": "https://www.academia.edu/46471964/Toward_a_Critical_Edition_of_the_La%E1%B9%85k%C4%81vat%C4%81ras%C5%ABtra_The_Significance_of_the_Palm_leaf_Manuscript",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "Toward a Critical Edition of the Laṅkāvatārasūtra: The Significance of the Palm leaf Manuscript",
+          "summary": "This article examines a newly discovered and recently published Sanskrit manuscript of the Jayamatiparipṛcchāsūtra (“Inquiry of Jayamati”) and documents its relationship, previously unrecognized, as part of the Śūraṃgama-samādhisūtra (“The Concentration of Heroic Progress”). While both texts are classified as Mahāyāna sūtras, the Jayamati-paripṛcchā depicts its content as spoken by the Buddha whil",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-14",
+      "updated_at": "2026-08-27T14:31:07.032135+00:00"
+    },
+    {
+      "id": "7c8ab585e5d56dcb",
+      "slug": "nyaya-vaisesika-and-mimamsa-schools-a-comparative-study-of-their-epistemological-and-ontological-7c8ab585",
+      "title": "NYAYA-VAISESIKA AND MIMAMSA SCHOOLS: A COMPARATIVE STUDY OF THEIR EPISTEMOLOGICAL AND ONTOLOGICAL THEORIES | International Education and Research Journal (IERJ)",
+      "summary": "This research study thoroughly compares the Nyaya-Vaisesika and Mimamsa philosophical systems, concentrating on their distinct epistemological and ontological theories while emphasising their parallels and contrasts. The Nyaya-Vaisesika school, which originated in ancient India, emphasises logic, perception, and atomistic ontology. The Mimamsa school, on the other hand, interprets Vedic texts and ",
+      "category": "Vedic & Manuscript Research",
+      "date": "2026-08-27",
+      "published_at": "2026-08-27",
+      "source_published_at": null,
+      "source": "ierj.in",
+      "source_url": "https://www.ierj.in/journal/index.php/ierj/article/view/4861",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "NYAYA-VAISESIKA AND MIMAMSA SCHOOLS: A COMPARATIVE STUDY OF THEIR EPISTEMOLOGICAL AND ONTOLOGICAL THEORIES | International Education and Research Journal (IERJ)",
+          "summary": "This research study thoroughly compares the Nyaya-Vaisesika and Mimamsa philosophical systems, concentrating on their distinct epistemological and ontological theories while emphasising their parallels and contrasts. The Nyaya-Vaisesika school, which originated in ancient India, emphasises logic, perception, and atomistic ontology. The Mimamsa school, on the other hand, interprets Vedic texts and ",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-23",
+      "updated_at": "2026-08-27T14:31:07.029421+00:00"
+    },
+    {
+      "id": "5415d1afc8050325",
+      "slug": "american-indian-and-alaska-native-records-in-the-national-archives-national-archives-5415d1af",
+      "title": "American Indian and Alaska Native Records in the National Archives | National Archives",
+      "summary": "To help you answer this question, use the navigation options below to explore the vast resources relating to American Indian and Alaska Native research.\n\nIf you are just beginning archival research, please review guidance about getting started.\n\nPlease note: Although some records related to American Indians and Alaska Natives are digitized and available online, there are many records that are only",
+      "category": "Global Cultural & Temple Events",
+      "date": "2026-08-27",
+      "published_at": "2026-08-27",
+      "source_published_at": null,
+      "source": "archives.gov",
+      "source_url": "https://www.archives.gov/research/native-americans",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "American Indian and Alaska Native Records in the National Archives | National Archives",
+          "summary": "To help you answer this question, use the navigation options below to explore the vast resources relating to American Indian and Alaska Native research.\n\nIf you are just beginning archival research, please review guidance about getting started.\n\nPlease note: Although some records related to American Indians and Alaska Natives are digitized and available online, there are many records that are only",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-21",
+      "updated_at": "2026-08-27T14:31:07.027839+00:00"
+    },
+    {
+      "id": "3b146254b62d8e84",
+      "slug": "mimansa-3b146254",
+      "title": "Mimansa",
+      "summary": "As one of the six major _Astik darshanas, Mimansa_ is a well-recognized school of Indian philosophy. Its nature is not philosophical advocacy. Rather, as a logical system of interpretation of Veda for carrying out the Vedic rituals, it has practical applications. The word _Mimansa_ derives from the root _man_ meaning “to know”. The _Mimansa_ system is oriented toward interpreting Vedic texts used ",
+      "category": "Daily Research Hook / Topic Idea",
+      "date": "2026-08-27",
+      "published_at": "2026-08-27",
+      "source_published_at": null,
+      "source": "pmc.ncbi.nlm.nih.gov",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3121252",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "Mimansa",
+          "summary": "As one of the six major _Astik darshanas, Mimansa_ is a well-recognized school of Indian philosophy. Its nature is not philosophical advocacy. Rather, as a logical system of interpretation of Veda for carrying out the Vedic rituals, it has practical applications. The word _Mimansa_ derives from the root _man_ meaning “to know”. The _Mimansa_ system is oriented toward interpreting Vedic texts used ",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-22",
+      "updated_at": "2026-08-27T14:31:07.024811+00:00"
+    },
+    {
+      "id": "f9d2b3f03a19dbfd",
+      "slug": "unpacking-the-gurukul-system-a-cornerstone-of-indian-knowledge-and-education-f9d2b3f0",
+      "title": "A Critical Study of the Gurukul System within the Indian Knowledge Systems – BHARATI INTERNATIONAL JOURNAL OF MULTIDISCIPLINARY RESEARCH AND DEVELOPMENT",
+      "summary": "Abstract: The Gurukul system was instrumental in shaping the ancient Indian knowledge framework by emphasizing a holistic, practical, and value-oriented education through a residential model of teacher and disciple. It nurtured self-discipline, ethical values, and critical thinking alongside academic pursuits, with students residing with their gurus to learn through firsthand experience and observ",
+      "category": "Daily Research Hook / Topic Idea",
+      "date": "2026-08-27",
+      "published_at": "2026-08-27",
+      "source_published_at": null,
+      "source": "bijmrd.com",
+      "source_url": "https://bijmrd.com/index.php/volume4-issue32/a-critical-study-of-the-gurukul-system-within-the-indian-knowledge-systems",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "A Critical Study of the Gurukul System within the Indian Knowledge Systems – BHARATI INTERNATIONAL JOURNAL OF MULTIDISCIPLINARY RESEARCH AND DEVELOPMENT",
+          "summary": "Abstract: The Gurukul system was instrumental in shaping the ancient Indian knowledge framework by emphasizing a holistic, practical, and value-oriented education through a residential model of teacher and disciple. It nurtured self-discipline, ethical values, and critical thinking alongside academic pursuits, with students residing with their gurus to learn through firsthand experience and observ",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-14",
+      "updated_at": "2026-08-27T14:31:07.023755+00:00"
     },
     {
       "id": "d0140395875d54f4",
@@ -122,36 +302,6 @@
       },
       "first_published": "2026-08-26",
       "updated_at": "2026-08-26"
-    },
-    {
-      "id": "7c8ab585e5d56dcb",
-      "slug": "nyaya-vaisesika-and-mimamsa-schools-a-comparative-study-of-their-epistemological-and-ontological-7c8ab585",
-      "title": "NYAYA-VAISESIKA AND MIMAMSA SCHOOLS: A COMPARATIVE STUDY OF THEIR EPISTEMOLOGICAL AND ONTOLOGICAL THEORIES | International Education and Research Journal (IERJ)",
-      "summary": "This research study thoroughly compares the Nyaya-Vaisesika and Mimamsa philosophical systems, concentrating on their distinct epistemological and ontological theories while emphasising their parallels and contrasts. The Nyaya-Vaisesika school, which originated in ancient India, emphasises logic, perception, and atomistic ontology. The Mimamsa school, on the other hand, interprets Vedic texts and ",
-      "category": "Vedic & Manuscript Research",
-      "date": "2026-08-26",
-      "published_at": "2026-08-26",
-      "source_published_at": null,
-      "source": "ierj.in",
-      "source_url": "https://www.ierj.in/journal/index.php/ierj/article/view/4861",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "NYAYA-VAISESIKA AND MIMAMSA SCHOOLS: A COMPARATIVE STUDY OF THEIR EPISTEMOLOGICAL AND ONTOLOGICAL THEORIES | International Education and Research Journal (IERJ)",
-          "summary": "This research study thoroughly compares the Nyaya-Vaisesika and Mimamsa philosophical systems, concentrating on their distinct epistemological and ontological theories while emphasising their parallels and contrasts. The Nyaya-Vaisesika school, which originated in ancient India, emphasises logic, perception, and atomistic ontology. The Mimamsa school, on the other hand, interprets Vedic texts and ",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-23",
-      "updated_at": "2026-08-26T04:13:51.934379+00:00"
     },
     {
       "id": "da0ed2f16eaa4bc7",
@@ -274,36 +424,6 @@
       "updated_at": "2026-08-25"
     },
     {
-      "id": "5ed1656dbf0a05ba",
-      "slug": "toward-a-critical-edition-of-the-la-k-vat-ras-tra-the-significance-of-the-palm-leaf-manuscript-5ed1656d",
-      "title": "Toward a Critical Edition of the Laṅkāvatārasūtra: The Significance of the Palm leaf Manuscript",
-      "summary": "This article examines a newly discovered and recently published Sanskrit manuscript of the Jayamatiparipṛcchāsūtra (“Inquiry of Jayamati”) and documents its relationship, previously unrecognized, as part of the Śūraṃgama-samādhisūtra (“The Concentration of Heroic Progress”). While both texts are classified as Mahāyāna sūtras, the Jayamati-paripṛcchā depicts its content as spoken by the Buddha whil",
-      "category": "Vedic & Manuscript Research",
-      "date": "2026-08-25",
-      "published_at": "2026-08-25",
-      "source_published_at": null,
-      "source": "academia.edu",
-      "source_url": "https://www.academia.edu/46471964/Toward_a_Critical_Edition_of_the_La%E1%B9%85k%C4%81vat%C4%81ras%C5%ABtra_The_Significance_of_the_Palm_leaf_Manuscript",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "Toward a Critical Edition of the Laṅkāvatārasūtra: The Significance of the Palm leaf Manuscript",
-          "summary": "This article examines a newly discovered and recently published Sanskrit manuscript of the Jayamatiparipṛcchāsūtra (“Inquiry of Jayamati”) and documents its relationship, previously unrecognized, as part of the Śūraṃgama-samādhisūtra (“The Concentration of Heroic Progress”). While both texts are classified as Mahāyāna sūtras, the Jayamati-paripṛcchā depicts its content as spoken by the Buddha whil",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-14",
-      "updated_at": "2026-08-25T04:12:20.030487+00:00"
-    },
-    {
       "id": "560b52cdb5b2cb0e",
       "slug": "national-archives-items-in-the-world-digital-library-national-archives-560b52cd",
       "title": "National Archives Items in the World Digital Library | National Archives",
@@ -362,36 +482,6 @@
       },
       "first_published": "2026-08-25",
       "updated_at": "2026-08-25"
-    },
-    {
-      "id": "f9d2b3f03a19dbfd",
-      "slug": "unpacking-the-gurukul-system-a-cornerstone-of-indian-knowledge-and-education-f9d2b3f0",
-      "title": "A Critical Study of the Gurukul System within the Indian Knowledge Systems – BHARATI INTERNATIONAL JOURNAL OF MULTIDISCIPLINARY RESEARCH AND DEVELOPMENT",
-      "summary": "Abstract: The Gurukul system was instrumental in shaping the ancient Indian knowledge framework by emphasizing a holistic, practical, and value-oriented education through a residential model of teacher and disciple. It nurtured self-discipline, ethical values, and critical thinking alongside academic pursuits, with students residing with their gurus to learn through firsthand experience and observ",
-      "category": "Daily Research Hook / Topic Idea",
-      "date": "2026-08-25",
-      "published_at": "2026-08-25",
-      "source_published_at": null,
-      "source": "bijmrd.com",
-      "source_url": "https://bijmrd.com/index.php/volume4-issue32/a-critical-study-of-the-gurukul-system-within-the-indian-knowledge-systems",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "A Critical Study of the Gurukul System within the Indian Knowledge Systems – BHARATI INTERNATIONAL JOURNAL OF MULTIDISCIPLINARY RESEARCH AND DEVELOPMENT",
-          "summary": "Abstract: The Gurukul system was instrumental in shaping the ancient Indian knowledge framework by emphasizing a holistic, practical, and value-oriented education through a residential model of teacher and disciple. It nurtured self-discipline, ethical values, and critical thinking alongside academic pursuits, with students residing with their gurus to learn through firsthand experience and observ",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-14",
-      "updated_at": "2026-08-25T04:12:20.015664+00:00"
     },
     {
       "id": "b0dc665db976f778",
@@ -484,36 +574,6 @@
       "updated_at": "2026-08-24T04:18:02.425260+00:00"
     },
     {
-      "id": "5415d1afc8050325",
-      "slug": "american-indian-and-alaska-native-records-in-the-national-archives-national-archives-5415d1af",
-      "title": "American Indian and Alaska Native Records in the ...",
-      "summary": "To help you answer this question, use the navigation options below to explore the vast resources relating to American Indian and Alaska Native research.\n\nIf you are just beginning archival research, please review guidance about getting started.\n\nPlease note: Although some records related to American Indians and Alaska Natives are digitized and available online, there are many records that are only",
-      "category": "Global Cultural & Temple Events",
-      "date": "2026-08-24",
-      "published_at": "2026-08-24",
-      "source_published_at": null,
-      "source": "archives.gov",
-      "source_url": "https://www.archives.gov/research/native-americans",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "American Indian and Alaska Native Records in the ...",
-          "summary": "To help you answer this question, use the navigation options below to explore the vast resources relating to American Indian and Alaska Native research.\n\nIf you are just beginning archival research, please review guidance about getting started.\n\nPlease note: Although some records related to American Indians and Alaska Natives are digitized and available online, there are many records that are only",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-21",
-      "updated_at": "2026-08-24T04:18:02.422742+00:00"
-    },
-    {
       "id": "58e75015b936dd9e",
       "slug": "india-s-ancient-scientific-knowledge-india-foundation-58e75015",
       "title": "India’s Ancient Scientific Knowledge – India Foundation",
@@ -595,36 +655,6 @@
         "en": {
           "title": "Cultural Heritage Conservation PROJECT DESCRIPTION OF CONSERVATION OF SAKHARGADNIWASINI TEMPLE RESTORATION",
           "summary": "Bandiyagarh fort is located in Sirohi district of Rajasthan state in India. This research paper is based on new findings in our previously discovered site Bandiyagarh. The discovered structures played an important role in rewriting the history of the Parmar dynasty because Bandiyagarh is approximately 10 km away from the ruins of the capital city site, Chandravati of the royal Parmar dynasty (910 ",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-22",
-      "updated_at": "2026-08-22"
-    },
-    {
-      "id": "3b146254b62d8e84",
-      "slug": "mimansa-3b146254",
-      "title": "Mimansa",
-      "summary": "As one of the six major _Astik darshanas, Mimansa_ is a well-recognized school of Indian philosophy. Its nature is not philosophical advocacy. Rather, as a logical system of interpretation of Veda for carrying out the Vedic rituals, it has practical applications. The word _Mimansa_ derives from the root _man_ meaning “to know”. The _Mimansa_ system is oriented toward interpreting Vedic texts used ",
-      "category": "Daily Research Hook / Topic Idea",
-      "date": "2026-08-22",
-      "published_at": "2026-08-22",
-      "source_published_at": null,
-      "source": "pmc.ncbi.nlm.nih.gov",
-      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3121252",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "Mimansa",
-          "summary": "As one of the six major _Astik darshanas, Mimansa_ is a well-recognized school of Indian philosophy. Its nature is not philosophical advocacy. Rather, as a logical system of interpretation of Veda for carrying out the Vedic rituals, it has practical applications. The word _Mimansa_ derives from the root _man_ meaning “to know”. The _Mimansa_ system is oriented toward interpreting Vedic texts used ",
           "key_takeaways": [],
           "why_this_matters": "",
           "research_hook": ""
@@ -1568,31 +1598,6 @@
       "why_this_matters": "This discovery strengthens the cultural and religious footprint of ancient India across the region, providing valuable insights into the country's rich heritage. It also highlights the significance of continued archaeological research in uncovering India's past",
       "research_hook": "A future research article could explore the historical and cultural significance of the mythical Deodarvana, examining its role in ancient Indian mythology and its connection to Shaivite traditions",
       "editorial_confidence": 90,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "first_published": "2026-08-14",
-      "updated_at": "2026-08-14"
-    },
-    {
-      "id": "9a39e6efcffa51c6",
-      "slug": "comprehensive-encyclopedia-of-hinduism-covers-diverse-aspects-of-the-tradition-9a39e6ef",
-      "title": "Comprehensive Encyclopedia of Hinduism Covers Diverse Aspects of the Tradition",
-      "summary": "A new encyclopedia on Hinduism provides an in-depth look at various aspects of the tradition, including art, history, language, and literature. The encyclopedia aims to offer a better understanding of Hinduism in a global context. It covers topics such as Hinduism in different regions and its development in Hindu kingdoms and empires.",
-      "category": "Vedic & Manuscript Research",
-      "date": "2026-08-14",
-      "published_at": "2026-08-14",
-      "source_published_at": null,
-      "source": "khabar.com",
-      "source_url": "https://khabar.com/features/milestone-encyclopedia-of-hinduism",
-      "key_takeaways": [
-        "The encyclopedia covers art forms like architecture, music, and sculpture",
-        "It explores Hinduism in global contexts, including Nepal, Southeast Asia, and the Americas",
-        "The encyclopedia delves into language and literature, including texts and commentaries in Sanskrit and other Indian languages"
-      ],
-      "why_this_matters": "This encyclopedia is significant for Indian civilisation and heritage research as it provides a comprehensive resource for understanding the diverse aspects of Hinduism. It can help researchers and scholars gain a deeper insight into the tradition and its global context.",
-      "research_hook": "A future research article could explore the representation of Hinduism in Southeast Asia, examining the historical development of Hindu traditions in the region and their ongoing impact on local cultures.",
-      "editorial_confidence": 80,
       "schema_version": "6.1B",
       "language": "en",
       "image_url": null,

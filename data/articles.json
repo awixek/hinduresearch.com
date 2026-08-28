@@ -1,6 +1,6 @@
 {
   "schema_version": "6.1B",
-  "updated_at": "2026-08-27T14:31:00.862430+00:00",
+  "updated_at": "2026-08-28T15:38:28.151048+00:00",
   "count": 51,
   "articles": [
     {
@@ -9,8 +9,8 @@
       "title": "Archaeological Survey of India",
       "summary": "India is singularly rich in epigraphical wealth. It is estimated that so far more than one lakh inscriptions have been discovered from the length and breadth of the country, and still a large number of inscriptions have to be brought to light by conducting an intensive and systematic survey of our vast sub- continent. [...] Epigraphy forms one of the very important sources for understanding the hi",
       "category": "Archaeology & Ancient Discoveries",
-      "date": "2026-08-27",
-      "published_at": "2026-08-27",
+      "date": "2026-08-28",
+      "published_at": "2026-08-28",
       "source_published_at": null,
       "source": "asi.nic.in",
       "source_url": "https://asi.nic.in/pages/Epigraphy-Branch/HQ",
@@ -31,7 +31,7 @@
         }
       },
       "first_published": "2026-08-14",
-      "updated_at": "2026-08-27T14:31:07.038829+00:00"
+      "updated_at": "2026-08-28T15:38:31.558260+00:00"
     },
     {
       "id": "ca9018c26bcf1671",
@@ -39,8 +39,8 @@
       "title": "A study of Ancient Indian and Early Medieval Epigraphs ...",
       "summary": "by a team of epigraphists. The estampages of the inscriptions are then studied and preserved in various epigraphy branches. The information is disseminated through various publications. In the recent past, the ASI has discovered significant inscriptions in states including Tamil Nadu, Maharashtra, Gujarat and Telangana. The Archaeological Survey of India (ASI) has taken up a total of 67,461 estamp",
       "category": "Archaeology & Ancient Discoveries",
-      "date": "2026-08-27",
-      "published_at": "2026-08-27",
+      "date": "2026-08-28",
+      "published_at": "2026-08-28",
       "source_published_at": null,
       "source": "ijnrd.org",
       "source_url": "https://www.ijnrd.org/papers/IJNRD2407093.pdf",
@@ -61,7 +61,187 @@
         }
       },
       "first_published": "2026-08-14",
-      "updated_at": "2026-08-27T14:31:07.038223+00:00"
+      "updated_at": "2026-08-28T15:38:31.557639+00:00"
+    },
+    {
+      "id": "e84097aae594b1aa",
+      "slug": "national-archives-of-india-achieves-60-digitization-of-archival-records-e84097aa",
+      "title": "National Archives of India digitises 20 crore pages—nearly 60% completed in 2 years",
+      "summary": "The NAI holds a significant collection of documents that chronicle the evolution of modern India. It serves as a repository for various historical, political, and literary treasures. The collection features the Mountbatten plan papers on partition, the original manuscript of Jaishankar Prasad’s Kamayani, and private documents of MK Gandhi, Chakravati Rajagopalachari, as well as Rajendra Prasad, am",
+      "category": "Archaeology & Ancient Discoveries",
+      "date": "2026-08-28",
+      "published_at": "2026-08-28",
+      "source_published_at": null,
+      "source": "theprint.in",
+      "source_url": "https://theprint.in/feature/national-archives-of-india-digitises-20-crore-pages-nearly-60-completed-in-2-years/2909688",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "National Archives of India digitises 20 crore pages—nearly 60% completed in 2 years",
+          "summary": "The NAI holds a significant collection of documents that chronicle the evolution of modern India. It serves as a repository for various historical, political, and literary treasures. The collection features the Mountbatten plan papers on partition, the original manuscript of Jaishankar Prasad’s Kamayani, and private documents of MK Gandhi, Chakravati Rajagopalachari, as well as Rajendra Prasad, am",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-15",
+      "updated_at": "2026-08-28T15:38:31.556687+00:00"
+    },
+    {
+      "id": "5ed1656dbf0a05ba",
+      "slug": "toward-a-critical-edition-of-the-la-k-vat-ras-tra-the-significance-of-the-palm-leaf-manuscript-5ed1656d",
+      "title": "Toward a Critical Edition of the Laṅkāvatārasūtra: The Significance of the Palm leaf Manuscript",
+      "summary": "This article examines a newly discovered and recently published Sanskrit manuscript of the Jayamatiparipṛcchāsūtra (“Inquiry of Jayamati”) and documents its relationship, previously unrecognized, as part of the Śūraṃgama-samādhisūtra (“The Concentration of Heroic Progress”). While both texts are classified as Mahāyāna sūtras, the Jayamati-paripṛcchā depicts its content as spoken by the Buddha whil",
+      "category": "Vedic & Manuscript Research",
+      "date": "2026-08-28",
+      "published_at": "2026-08-28",
+      "source_published_at": null,
+      "source": "academia.edu",
+      "source_url": "https://www.academia.edu/46471964/Toward_a_Critical_Edition_of_the_La%E1%B9%85k%C4%81vat%C4%81ras%C5%ABtra_The_Significance_of_the_Palm_leaf_Manuscript",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "Toward a Critical Edition of the Laṅkāvatārasūtra: The Significance of the Palm leaf Manuscript",
+          "summary": "This article examines a newly discovered and recently published Sanskrit manuscript of the Jayamatiparipṛcchāsūtra (“Inquiry of Jayamati”) and documents its relationship, previously unrecognized, as part of the Śūraṃgama-samādhisūtra (“The Concentration of Heroic Progress”). While both texts are classified as Mahāyāna sūtras, the Jayamati-paripṛcchā depicts its content as spoken by the Buddha whil",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-14",
+      "updated_at": "2026-08-28T15:38:31.550062+00:00"
+    },
+    {
+      "id": "7c8ab585e5d56dcb",
+      "slug": "nyaya-vaisesika-and-mimamsa-schools-a-comparative-study-of-their-epistemological-and-ontological-7c8ab585",
+      "title": "NYAYA-VAISESIKA AND MIMAMSA SCHOOLS: A COMPARATIVE STUDY OF THEIR EPISTEMOLOGICAL AND ONTOLOGICAL THEORIES | International Education and Research Journal (IERJ)",
+      "summary": "This research study thoroughly compares the Nyaya-Vaisesika and Mimamsa philosophical systems, concentrating on their distinct epistemological and ontological theories while emphasising their parallels and contrasts. The Nyaya-Vaisesika school, which originated in ancient India, emphasises logic, perception, and atomistic ontology. The Mimamsa school, on the other hand, interprets Vedic texts and ",
+      "category": "Vedic & Manuscript Research",
+      "date": "2026-08-28",
+      "published_at": "2026-08-28",
+      "source_published_at": null,
+      "source": "ierj.in",
+      "source_url": "https://www.ierj.in/journal/index.php/ierj/article/view/4861",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "NYAYA-VAISESIKA AND MIMAMSA SCHOOLS: A COMPARATIVE STUDY OF THEIR EPISTEMOLOGICAL AND ONTOLOGICAL THEORIES | International Education and Research Journal (IERJ)",
+          "summary": "This research study thoroughly compares the Nyaya-Vaisesika and Mimamsa philosophical systems, concentrating on their distinct epistemological and ontological theories while emphasising their parallels and contrasts. The Nyaya-Vaisesika school, which originated in ancient India, emphasises logic, perception, and atomistic ontology. The Mimamsa school, on the other hand, interprets Vedic texts and ",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-23",
+      "updated_at": "2026-08-28T15:38:31.548631+00:00"
+    },
+    {
+      "id": "7d952265f17d44f2",
+      "slug": "digital-collections-native-americans-resources-in-local-history-and-genealogy-research-guides-at-7d952265",
+      "title": "Digital Collections - Native Americans: Resources in Local History and Genealogy - Research Guides at Library of Congress",
+      "summary": "Images from each of the geo-cultural regions documented in The North American Indian are represented in the collection: the Pacific Northwest, New Southwest, Great Basin, Great Plains, Plateau Region, California, and Alaska. Included are both studio and field photographs. A large number are individual or group portraits, and many subjects are identified by name. Other subjects include traditional ",
+      "category": "Global Cultural & Temple Events",
+      "date": "2026-08-28",
+      "published_at": "2026-08-28",
+      "source_published_at": null,
+      "source": "guides.loc.gov",
+      "source_url": "https://guides.loc.gov/native-americans/digital-collections",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "Digital Collections - Native Americans: Resources in Local History and Genealogy - Research Guides at Library of Congress",
+          "summary": "Images from each of the geo-cultural regions documented in The North American Indian are represented in the collection: the Pacific Northwest, New Southwest, Great Basin, Great Plains, Plateau Region, California, and Alaska. Included are both studio and field photographs. A large number are individual or group portraits, and many subjects are identified by name. Other subjects include traditional ",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-19",
+      "updated_at": "2026-08-28T15:38:31.546587+00:00"
+    },
+    {
+      "id": "bb47e5c67a2eefa0",
+      "slug": "revitalizing-indian-education-integrating-traditional-knowledge-systems-into-modern-learning-bb47e5c6",
+      "title": "From Gurukul to Global Classroom: A Spiral Pedagogical Model for Integrating Indian Knowledge Systems Across Lifelong Learning",
+      "summary": "learning. This research proposes the Spiral Pedagogical Model as a conceptual framework for integrating IKS from early childhood education to higher education and adult learning. The research begins by examining the fundamental pedagogical elements of the Gurukul system, such as experiential education, the guru-shishya Parampara, moral and spiritual development, and community-based education, to d",
+      "category": "Daily Research Hook / Topic Idea",
+      "date": "2026-08-28",
+      "published_at": "2026-08-28",
+      "source_published_at": null,
+      "source": "ijsrm.net",
+      "source_url": "https://ijsrm.net/index.php/ijsrm/article/view/7067",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "From Gurukul to Global Classroom: A Spiral Pedagogical Model for Integrating Indian Knowledge Systems Across Lifelong Learning",
+          "summary": "learning. This research proposes the Spiral Pedagogical Model as a conceptual framework for integrating IKS from early childhood education to higher education and adult learning. The research begins by examining the fundamental pedagogical elements of the Gurukul system, such as experiential education, the guru-shishya Parampara, moral and spiritual development, and community-based education, to d",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-14",
+      "updated_at": "2026-08-28T15:38:31.539588+00:00"
+    },
+    {
+      "id": "8b5c2f5c8e75317b",
+      "slug": "studies-in-indian-mathematics-and-astronomy-bh-van-8b5c2f5c",
+      "title": "Studies in Indian Mathematics and Astronomy – Bhāvanā",
+      "summary": "Avinash Sathaye is a professor emeritus in the Department of Mathematics, University of Kentucky, USA. His main research area is Algebra and Algebraic Geometry. He also has a passion for Sanskrit and ancient Indian history of mathematics. [...] Bhāskara I, however, characterizes the mathematics section as “a little bit of mathematics” described by indications only. This is because important parts ",
+      "category": "Daily Research Hook / Topic Idea",
+      "date": "2026-08-28",
+      "published_at": "2026-08-28",
+      "source_published_at": null,
+      "source": "bhavana.org.in",
+      "source_url": "https://bhavana.org.in/studies-in-indian-mathematics-and-astronomy",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "Studies in Indian Mathematics and Astronomy – Bhāvanā",
+          "summary": "Avinash Sathaye is a professor emeritus in the Department of Mathematics, University of Kentucky, USA. His main research area is Algebra and Algebraic Geometry. He also has a passion for Sanskrit and ancient Indian history of mathematics. [...] Bhāskara I, however, characterizes the mathematics section as “a little bit of mathematics” described by indications only. This is because important parts ",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-25",
+      "updated_at": "2026-08-28T15:38:31.536807+00:00"
     },
     {
       "id": "b15e325a424b8b3b",
@@ -92,66 +272,6 @@
       },
       "first_published": "2026-08-27",
       "updated_at": "2026-08-27"
-    },
-    {
-      "id": "5ed1656dbf0a05ba",
-      "slug": "toward-a-critical-edition-of-the-la-k-vat-ras-tra-the-significance-of-the-palm-leaf-manuscript-5ed1656d",
-      "title": "Toward a Critical Edition of the Laṅkāvatārasūtra: The Significance of the Palm leaf Manuscript",
-      "summary": "This article examines a newly discovered and recently published Sanskrit manuscript of the Jayamatiparipṛcchāsūtra (“Inquiry of Jayamati”) and documents its relationship, previously unrecognized, as part of the Śūraṃgama-samādhisūtra (“The Concentration of Heroic Progress”). While both texts are classified as Mahāyāna sūtras, the Jayamati-paripṛcchā depicts its content as spoken by the Buddha whil",
-      "category": "Vedic & Manuscript Research",
-      "date": "2026-08-27",
-      "published_at": "2026-08-27",
-      "source_published_at": null,
-      "source": "academia.edu",
-      "source_url": "https://www.academia.edu/46471964/Toward_a_Critical_Edition_of_the_La%E1%B9%85k%C4%81vat%C4%81ras%C5%ABtra_The_Significance_of_the_Palm_leaf_Manuscript",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "Toward a Critical Edition of the Laṅkāvatārasūtra: The Significance of the Palm leaf Manuscript",
-          "summary": "This article examines a newly discovered and recently published Sanskrit manuscript of the Jayamatiparipṛcchāsūtra (“Inquiry of Jayamati”) and documents its relationship, previously unrecognized, as part of the Śūraṃgama-samādhisūtra (“The Concentration of Heroic Progress”). While both texts are classified as Mahāyāna sūtras, the Jayamati-paripṛcchā depicts its content as spoken by the Buddha whil",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-14",
-      "updated_at": "2026-08-27T14:31:07.032135+00:00"
-    },
-    {
-      "id": "7c8ab585e5d56dcb",
-      "slug": "nyaya-vaisesika-and-mimamsa-schools-a-comparative-study-of-their-epistemological-and-ontological-7c8ab585",
-      "title": "NYAYA-VAISESIKA AND MIMAMSA SCHOOLS: A COMPARATIVE STUDY OF THEIR EPISTEMOLOGICAL AND ONTOLOGICAL THEORIES | International Education and Research Journal (IERJ)",
-      "summary": "This research study thoroughly compares the Nyaya-Vaisesika and Mimamsa philosophical systems, concentrating on their distinct epistemological and ontological theories while emphasising their parallels and contrasts. The Nyaya-Vaisesika school, which originated in ancient India, emphasises logic, perception, and atomistic ontology. The Mimamsa school, on the other hand, interprets Vedic texts and ",
-      "category": "Vedic & Manuscript Research",
-      "date": "2026-08-27",
-      "published_at": "2026-08-27",
-      "source_published_at": null,
-      "source": "ierj.in",
-      "source_url": "https://www.ierj.in/journal/index.php/ierj/article/view/4861",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "NYAYA-VAISESIKA AND MIMAMSA SCHOOLS: A COMPARATIVE STUDY OF THEIR EPISTEMOLOGICAL AND ONTOLOGICAL THEORIES | International Education and Research Journal (IERJ)",
-          "summary": "This research study thoroughly compares the Nyaya-Vaisesika and Mimamsa philosophical systems, concentrating on their distinct epistemological and ontological theories while emphasising their parallels and contrasts. The Nyaya-Vaisesika school, which originated in ancient India, emphasises logic, perception, and atomistic ontology. The Mimamsa school, on the other hand, interprets Vedic texts and ",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-23",
-      "updated_at": "2026-08-27T14:31:07.029421+00:00"
     },
     {
       "id": "5415d1afc8050325",
@@ -334,36 +454,6 @@
       "updated_at": "2026-08-26T04:13:51.932165+00:00"
     },
     {
-      "id": "bb47e5c67a2eefa0",
-      "slug": "revitalizing-indian-education-integrating-traditional-knowledge-systems-into-modern-learning-bb47e5c6",
-      "title": "From Gurukul to Global Classroom: A Spiral Pedagogical Model for Integrating Indian Knowledge Systems Across Lifelong Learning",
-      "summary": "learning. This research proposes the Spiral Pedagogical Model as a conceptual framework for integrating IKS from early childhood education to higher education and adult learning. The research begins by examining the fundamental pedagogical elements of the Gurukul system, such as experiential education, the guru-shishya Parampara, moral and spiritual development, and community-based education, to d",
-      "category": "Daily Research Hook / Topic Idea",
-      "date": "2026-08-26",
-      "published_at": "2026-08-26",
-      "source_published_at": null,
-      "source": "ijsrm.net",
-      "source_url": "https://ijsrm.net/index.php/ijsrm/article/view/7067",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "From Gurukul to Global Classroom: A Spiral Pedagogical Model for Integrating Indian Knowledge Systems Across Lifelong Learning",
-          "summary": "learning. This research proposes the Spiral Pedagogical Model as a conceptual framework for integrating IKS from early childhood education to higher education and adult learning. The research begins by examining the fundamental pedagogical elements of the Gurukul system, such as experiential education, the guru-shishya Parampara, moral and spiritual development, and community-based education, to d",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-14",
-      "updated_at": "2026-08-26T04:13:51.923065+00:00"
-    },
-    {
       "id": "e52425ade8effb94",
       "slug": "collection-at-a-glance-official-website-of-national-archives-of-india-government-of-india-e52425ad",
       "title": "Collection at a Glance | Official website of National Archives of India, Government of India",
@@ -452,36 +542,6 @@
       },
       "first_published": "2026-08-18",
       "updated_at": "2026-08-25T04:12:20.026483+00:00"
-    },
-    {
-      "id": "8b5c2f5c8e75317b",
-      "slug": "studies-in-indian-mathematics-and-astronomy-bh-van-8b5c2f5c",
-      "title": "Studies in Indian Mathematics and Astronomy – Bhāvanā",
-      "summary": "Avinash Sathaye is a professor emeritus in the Department of Mathematics, University of Kentucky, USA. His main research area is Algebra and Algebraic Geometry. He also has a passion for Sanskrit and ancient Indian history of mathematics. [...] Bhāskara I, however, characterizes the mathematics section as “a little bit of mathematics” described by indications only. This is because important parts ",
-      "category": "Daily Research Hook / Topic Idea",
-      "date": "2026-08-25",
-      "published_at": "2026-08-25",
-      "source_published_at": null,
-      "source": "bhavana.org.in",
-      "source_url": "https://bhavana.org.in/studies-in-indian-mathematics-and-astronomy",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "Studies in Indian Mathematics and Astronomy – Bhāvanā",
-          "summary": "Avinash Sathaye is a professor emeritus in the Department of Mathematics, University of Kentucky, USA. His main research area is Algebra and Algebraic Geometry. He also has a passion for Sanskrit and ancient Indian history of mathematics. [...] Bhāskara I, however, characterizes the mathematics section as “a little bit of mathematics” described by indications only. This is because important parts ",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-25",
-      "updated_at": "2026-08-25"
     },
     {
       "id": "b0dc665db976f778",
@@ -964,36 +1024,6 @@
       "updated_at": "2026-08-19T04:11:36.819234+00:00"
     },
     {
-      "id": "7d952265f17d44f2",
-      "slug": "digital-collections-native-americans-resources-in-local-history-and-genealogy-research-guides-at-7d952265",
-      "title": "Digital Collections - Native Americans: Resources in Local History and Genealogy - Research Guides at Library of Congress",
-      "summary": "Images from each of the geo-cultural regions documented in The North American Indian are represented in the collection: the Pacific Northwest, New Southwest, Great Basin, Great Plains, Plateau Region, California, and Alaska. Included are both studio and field photographs. A large number are individual or group portraits, and many subjects are identified by name. Other subjects include traditional ",
-      "category": "Global Cultural & Temple Events",
-      "date": "2026-08-19",
-      "published_at": "2026-08-19",
-      "source_published_at": null,
-      "source": "guides.loc.gov",
-      "source_url": "https://guides.loc.gov/native-americans/digital-collections",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "Digital Collections - Native Americans: Resources in Local History and Genealogy - Research Guides at Library of Congress",
-          "summary": "Images from each of the geo-cultural regions documented in The North American Indian are represented in the collection: the Pacific Northwest, New Southwest, Great Basin, Great Plains, Plateau Region, California, and Alaska. Included are both studio and field photographs. A large number are individual or group portraits, and many subjects are identified by name. Other subjects include traditional ",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-19",
-      "updated_at": "2026-08-19"
-    },
-    {
       "id": "7166e25f5c8744f4",
       "slug": "the-contribution-of-ancient-indians-to-the-world-7166e25f",
       "title": "The Contribution Of Ancient Indians To The World ...",
@@ -1462,55 +1492,6 @@
           ],
           "why_this_matters": "The study of Indian inscriptions is crucial for understanding the cultural and historical context of ancient India, and has significant implications for the field of Hindu iconography and cultural history. This research has the potential to provide new insights into the development of religious practices and societal dynamics in ancient India",
           "research_hook": "A future research article could explore the intersection of epigraphic evidence and archaeological findings to further reconstruct the historical narrative of ancient India, with a focus on the role of inscriptions in documenting the evolution of Hindu iconography"
-        }
-      },
-      "first_published": "2026-08-15",
-      "updated_at": "2026-08-15"
-    },
-    {
-      "id": "e84097aae594b1aa",
-      "slug": "national-archives-of-india-achieves-60-digitization-of-archival-records-e84097aa",
-      "title": "National Archives of India Achieves 60% Digitization of Archival Records",
-      "summary": "The National Archives of India has made significant progress in digitizing its vast collection of historical documents, with over 20 crore pages now available online. This effort aims to preserve India's rich cultural heritage and provide access to valuable historical records. The digitized collection includes notable documents such as the Mountbatten plan papers and manuscripts of prominent Indian figures.",
-      "category": "Archaeology & Ancient Discoveries",
-      "date": "2026-08-15",
-      "published_at": "2026-08-15",
-      "source_published_at": null,
-      "source": "theprint.in",
-      "source_url": "https://theprint.in/feature/national-archives-of-india-digitises-20-crore-pages-nearly-60-completed-in-2-years/2909688",
-      "key_takeaways": [
-        "Over 20 crore pages of archival records have been digitized",
-        "The digitized collection includes historical documents, literary works, and private papers of prominent Indian figures",
-        "The digitized records are available on the Abhilekh Patal web portal"
-      ],
-      "why_this_matters": "The digitization of archival records is crucial for preserving India's cultural heritage and making historical documents accessible to researchers and the public. This effort will facilitate a deeper understanding of India's history and evolution.",
-      "research_hook": "A future research article could explore the significance of specific digitized documents, such as the Mountbatten plan papers, and their relevance to India's modern history and independence movement.",
-      "editorial_confidence": 90,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "hi": {
-          "title": "भारत के राष्ट्रीय अभिलेखागार ने संग्रहीत अभिलेखों का 60% डिजिटाइजेशन पूरा किया",
-          "summary": "भारत के राष्ट्रीय अभिलेखागार ने अपने विशाल ऐतिहासिक दस्तावेजों के संग्रह को डिजिटाइज करने में महत्वपूर्ण प्रगति की है, जिसमें अब 20 करोड़ से अधिक पृष्ठ ऑनलाइन उपलब्ध हैं। यह प्रयास भारत की समृद्ध सांस्कृतिक विरासत को संरक्षित करने और मूल्यवान ऐतिहासिक अभिलेखों तक पहुंच प्रदान करने के उद्देश्य से किया जा रहा है। डिजिटाइज्ड संग्रह में माउंटबेटन योजना के पत्र और प्रमुख भारतीय व्यक्तियों के हस्तलिखित पांडुलिपियां शामिल हैं।",
-          "key_takeaways": [
-            "20 करोड़ से अधिक पृष्ठों के अभिलेखों को डिजिटाइज्ड किया गया है",
-            "डिजिटाइज्ड संग्रह में ऐतिहासिक दस्तावेज, साहित्यिक कृतियां और प्रमुख भारतीय व्यक्तियों के निजी पत्र शामिल हैं",
-            "डिजिटाइज्ड अभिलेख अभिलेख पटल वेब पोर्टल पर उपलब्ध हैं"
-          ],
-          "why_this_matters": "अभिलेखों का डिजिटाइजेशन भारत की सांस्कृतिक विरासत को संरक्षित करने और ऐतिहासिक दस्तावेजों को शोधकर्ताओं और जनता के लिए सुलभ बनाने के लिए महत्वपूर्ण है। यह प्रयास भारत के इतिहास और विकास की गहरी समझ को सुविधाजनक बनाएगा।",
-          "research_hook": "एक भविष्य के शोध लेख में माउंटबेटन योजना के पत्र जैसे विशिष्ट डिजिटाइज्ड दस्तावेजों के महत्व और भारत के आधुनिक इतिहास और स्वतंत्रता आंदोलन से उनके संबंध का अन्वेषण किया जा सकता है।"
-        },
-        "en": {
-          "title": "National Archives of India Achieves 60% Digitization of Archival Records",
-          "summary": "The National Archives of India has made significant progress in digitizing its vast collection of historical documents, with over 20 crore pages now available online. This effort aims to preserve India's rich cultural heritage and provide access to valuable historical records. The digitized collection includes notable documents such as the Mountbatten plan papers and manuscripts of prominent Indian figures.",
-          "key_takeaways": [
-            "Over 20 crore pages of archival records have been digitized",
-            "The digitized collection includes historical documents, literary works, and private papers of prominent Indian figures",
-            "The digitized records are available on the Abhilekh Patal web portal"
-          ],
-          "why_this_matters": "The digitization of archival records is crucial for preserving India's cultural heritage and making historical documents accessible to researchers and the public. This effort will facilitate a deeper understanding of India's history and evolution.",
-          "research_hook": "A future research article could explore the significance of specific digitized documents, such as the Mountbatten plan papers, and their relevance to India's modern history and independence movement."
         }
       },
       "first_published": "2026-08-15",

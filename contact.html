@@ -1,0 +1,497 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us — Hindu Research Portal</title>
+    <meta name="description" content="Get in touch with Hindu Research Portal for general enquiries, research corrections, content collaborations, and technical support.">
+    <link rel="canonical" href="https://hinduresearch.com/contact.html">
+    
+    <style>
+        :root {
+            --bg-primary: #0f172a;
+            --bg-secondary: #1e293b;
+            --bg-card: #1e293b;
+            --text-primary: #f8fafc;
+            --text-secondary: #94a3b8;
+            --accent: #f97316;
+            --accent-hover: #ea580c;
+            --border-color: #334155;
+            --font-main: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            --max-width: 1100px;
+        }
+
+        [data-theme="light"] {
+            --bg-primary: #f8fafc;
+            --bg-secondary: #ffffff;
+            --bg-card: #ffffff;
+            --text-primary: #0f172a;
+            --text-secondary: #475569;
+            --accent: #ea580c;
+            --accent-hover: #c2410c;
+            --border-color: #e2e8f0;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: var(--font-main);
+            background-color: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.6;
+            transition: background-color 0.3s ease, color 0.3s ease;
+        }
+
+        /* Header & Navigation */
+        header {
+            background-color: var(--bg-secondary);
+            border-bottom: 1px solid var(--border-color);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        .header-container {
+            max-width: var(--max-width);
+            margin: 0 auto;
+            padding: 1rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo {
+            font-size: 1.25rem;
+            font-weight: 700;
+            color: var(--text-primary);
+            text-decoration: none;
+        }
+
+        .logo span {
+            color: var(--accent);
+        }
+
+        nav ul {
+            display: flex;
+            list-style: none;
+            gap: 1.25rem;
+            align-items: center;
+        }
+
+        nav a {
+            color: var(--text-secondary);
+            text-decoration: none;
+            font-size: 0.95rem;
+            transition: color 0.2s;
+        }
+
+        nav a:hover, nav a.active {
+            color: var(--accent);
+        }
+
+        .controls {
+            display: flex;
+            gap: 0.5rem;
+            align-items: center;
+        }
+
+        .btn-toggle {
+            background: transparent;
+            border: 1px solid var(--border-color);
+            color: var(--text-primary);
+            padding: 0.35rem 0.75rem;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 0.85rem;
+            transition: all 0.2s ease;
+        }
+
+        .btn-toggle:hover {
+            border-color: var(--accent);
+            color: var(--accent);
+        }
+
+        /* Layout & Content */
+        main {
+            max-width: var(--max-width);
+            margin: 2rem auto;
+            padding: 0 1rem;
+        }
+
+        .hero-section {
+            text-align: center;
+            margin-bottom: 2.5rem;
+        }
+
+        .hero-section h1 {
+            font-size: 2.2rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .hero-section p {
+            color: var(--text-secondary);
+            font-size: 1.1rem;
+        }
+
+        .contact-grid {
+            display: grid;
+            grid-template-columns: 2fr 1fr;
+            gap: 2rem;
+        }
+
+        @media (max-width: 768px) {
+            .contact-grid {
+                grid-template-columns: 1fr;
+            }
+            nav ul {
+                display: none; /* Relies on site mobile drawer if active */
+            }
+        }
+
+        .section-card {
+            background-color: var(--bg-card);
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            padding: 1.5rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .section-card h2 {
+            font-size: 1.25rem;
+            margin-bottom: 0.75rem;
+            color: var(--accent);
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .section-card p, .section-card ul {
+            color: var(--text-secondary);
+            font-size: 0.95rem;
+        }
+
+        .section-card ul {
+            margin-left: 1.25rem;
+            margin-top: 0.5rem;
+        }
+
+        .section-card li {
+            margin-bottom: 0.3rem;
+        }
+
+        .email-link {
+            color: var(--accent);
+            text-decoration: none;
+            font-weight: 600;
+            word-break: break-all;
+        }
+
+        .email-link:hover {
+            text-decoration: underline;
+        }
+
+        .notice-box {
+            background-color: rgba(249, 115, 22, 0.08);
+            border-left: 4px solid var(--accent);
+            padding: 1rem;
+            border-radius: 0 6px 6px 0;
+            margin-top: 1rem;
+        }
+
+        /* Sidebar Info */
+        .info-sidebar .section-card {
+            margin-bottom: 1rem;
+        }
+
+        .info-item {
+            margin-bottom: 1rem;
+        }
+
+        .info-item:last-child {
+            margin-bottom: 0;
+        }
+
+        .info-label {
+            font-size: 0.85rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            color: var(--text-secondary);
+            margin-bottom: 0.2rem;
+        }
+
+        .info-value {
+            font-size: 1rem;
+            font-weight: 500;
+        }
+
+        /* Footer */
+        footer {
+            background-color: var(--bg-secondary);
+            border-top: 1px solid var(--border-color);
+            margin-top: 4rem;
+            padding: 2rem 1rem;
+            text-align: center;
+            color: var(--text-secondary);
+            font-size: 0.9rem;
+        }
+
+        .footer-links {
+            display: flex;
+            justify-content: center;
+            gap: 1.5rem;
+            margin-bottom: 1rem;
+            flex-wrap: wrap;
+        }
+
+        .footer-links a {
+            color: var(--text-secondary);
+            text-decoration: none;
+        }
+
+        .footer-links a:hover {
+            color: var(--accent);
+        }
+    </style>
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "ContactPage",
+      "name": "Contact Us — Hindu Research Portal",
+      "url": "https://hinduresearch.com/contact.html",
+      "description": "Contact channels for research inquiries, editorial corrections, source submissions, and technical feedback for Hindu Research Portal.",
+      "mainEntity": {
+        "@type": "Organization",
+        "name": "Hindu Research Portal",
+        "url": "https://hinduresearch.com",
+        "email": [
+          "hinduresearch.com@gmail.com",
+          "ay5890573@gmail.com"
+        ],
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Prayagraj",
+          "addressRegion": "Uttar Pradesh",
+          "addressCountry": "India"
+        }
+      }
+    }
+    </script>
+</head>
+<body>
+
+    <header>
+        <div class="header-container">
+            <a href="index.html" class="logo">Hindu <span>Research</span></a>
+            <nav>
+                <ul>
+                    <li><a href="index.html" data-i18n="nav-home">Home</a></li>
+                    <li><a href="about.html" data-i18n="nav-about">About</a></li>
+                    <li><a href="editorial-policy.html" data-i18n="nav-editorial">Editorial Policy</a></li>
+                    <li><a href="contact.html" class="active" data-i18n="nav-contact">Contact</a></li>
+                </ul>
+            </nav>
+            <div class="controls">
+                <button id="langToggle" class="btn-toggle" onclick="toggleLanguage()">EN / HI</button>
+                <button id="themeToggle" class="btn-toggle" onclick="toggleTheme()">🌙</button>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <section class="hero-section">
+            <h1 data-i18n="page-title">Contact Us</h1>
+            <p data-i18n="page-subtitle">We welcome academic inquiries, fact corrections, and research collaborations.</p>
+        </section>
+
+        <div class="contact-grid">
+            <div class="contact-sections">
+
+                <div class="section-card">
+                    <h2 data-i18n="sec1-title">General Enquiries</h2>
+                    <p data-i18n="sec1-desc">For general questions, information regarding our digital portal, or public inquiries, reach out to us at:</p>
+                    <p style="margin-top: 0.5rem;"><a href="mailto:hinduresearch.com@gmail.com" class="email-link">hinduresearch.com@gmail.com</a></p>
+                </div>
+
+                <div class="section-card">
+                    <h2 data-i18n="sec2-title">Research & Fact Corrections</h2>
+                    <p data-i18n="sec2-desc">We aim for strict factual precision across all articles and socio-political research papers. If you identify an inaccuracy:</p>
+                    <div class="notice-box">
+                        <p><strong data-i18n="sec2-box-title">Correction Submission Checklist:</strong></p>
+                        <ul>
+                            <li data-i18n="sec2-box-1">Include the exact page URL from our portal.</li>
+                            <li data-i18n="sec2-box-2">Specify the exact statement or claim requiring revision.</li>
+                            <li data-i18n="sec2-box-3">Provide peer-reviewed academic sources, primary historical texts, or verifiable links.</li>
+                        </ul>
+                    </div>
+                    <p style="margin-top: 0.75rem;"><span data-i18n="sec2-send">Send corrections to:</span> <a href="mailto:hinduresearch.com@gmail.com?subject=Fact%20Correction%20Request" class="email-link">hinduresearch.com@gmail.com</a></p>
+                </div>
+
+                <div class="section-card">
+                    <h2 data-i18n="sec3-title">Source Suggestions & Collaboration</h2>
+                    <p data-i18n="sec3-desc">If you have primary manuscript sources, historical documentation, or research material you would like our team to review, or if you wish to collaborate on research topics:</p>
+                    <p style="margin-top: 0.5rem;"><a href="mailto:ay5890573@gmail.com?subject=Research%20Collaboration" class="email-link">ay5890573@gmail.com</a></p>
+                </div>
+
+                <div class="section-card">
+                    <h2 data-i18n="sec4-title">Technical Support</h2>
+                    <p data-i18n="sec4-desc">To report broken links, website rendering errors, or accessibility issues, contact our technical desk directly:</p>
+                    <p style="margin-top: 0.5rem;"><a href="mailto:ay5890573@gmail.com?subject=Technical%20Issue" class="email-link">ay5890573@gmail.com</a></p>
+                </div>
+
+            </div>
+
+            <div class="info-sidebar">
+                <div class="section-card">
+                    <h2 data-i18n="side-details">Details</h2>
+                    
+                    <div class="info-item">
+                        <div class="info-label" data-i18n="side-loc-label">Location</div>
+                        <div class="info-value" data-i18n="side-loc-val">Prayagraj, Uttar Pradesh, India</div>
+                    </div>
+
+                    <div class="info-item" style="margin-top: 1rem;">
+                        <div class="info-label" data-i18n="side-email-label">Primary Emails</div>
+                        <div class="info-value">
+                            <a href="mailto:hinduresearch.com@gmail.com" class="email-link">hinduresearch.com@gmail.com</a><br>
+                            <a href="mailto:ay5890573@gmail.com" class="email-link">ay5890573@gmail.com</a>
+                        </div>
+                    </div>
+
+                    <div class="info-item" style="margin-top: 1rem;">
+                        <div class="info-label">Instagram</div>
+                        <div class="info-value">
+                            @xyz2ak
+                        </div>
+                    </div>
+                </div>
+
+                <div class="section-card">
+                    <h2 data-i18n="side-links-title">Quick Links</h2>
+                    <ul style="list-style: none; margin-left: 0;">
+                        <li style="margin-bottom: 0.5rem;"><a href="index.html" class="email-link" data-i18n="nav-home">Home</a></li>
+                        <li style="margin-bottom: 0.5rem;"><a href="about.html" class="email-link" data-i18n="nav-about">About Us</a></li>
+                        <li style="margin-bottom: 0.5rem;"><a href="editorial-policy.html" class="email-link" data-i18n="nav-editorial">Editorial Policy</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <div class="footer-links">
+            <a href="index.html" data-i18n="nav-home">Home</a>
+            <a href="about.html" data-i18n="nav-about">About</a>
+            <a href="editorial-policy.html" data-i18n="nav-editorial">Editorial Policy</a>
+            <a href="contact.html" data-i18n="nav-contact">Contact</a>
+        </div>
+        <p>© <span id="year"></span> Hindu Research Portal. All rights reserved.</p>
+    </footer>
+
+    <script>
+        // Set dynamic current year
+        document.getElementById('year').textContent = new Date().getFullYear();
+
+        // Localized Strings Dictionary
+        const translations = {
+            en: {
+                "nav-home": "Home",
+                "nav-about": "About",
+                "nav-editorial": "Editorial Policy",
+                "nav-contact": "Contact",
+                "page-title": "Contact Us",
+                "page-subtitle": "We welcome academic inquiries, fact corrections, and research collaborations.",
+                "sec1-title": "General Enquiries",
+                "sec1-desc": "For general questions, information regarding our digital portal, or public inquiries, reach out to us at:",
+                "sec2-title": "Research & Fact Corrections",
+                "sec2-desc": "We aim for strict factual precision across all articles and socio-political research papers. If you identify an inaccuracy:",
+                "sec2-box-title": "Correction Submission Checklist:",
+                "sec2-box-1": "Include the exact page URL from our portal.",
+                "sec2-box-2": "Specify the exact statement or claim requiring revision.",
+                "sec2-box-3": "Provide peer-reviewed academic sources, primary historical texts, or verifiable links.",
+                "sec2-send": "Send corrections to:",
+                "sec3-title": "Source Suggestions & Collaboration",
+                "sec3-desc": "If you have primary manuscript sources, historical documentation, or research material you would like our team to review, or if you wish to collaborate on research topics:",
+                "sec4-title": "Technical Support",
+                "sec4-desc": "To report broken links, website rendering errors, or accessibility issues, contact our technical desk directly:",
+                "side-details": "Details",
+                "side-loc-label": "Location",
+                "side-loc-val": "Prayagraj, Uttar Pradesh, India",
+                "side-email-label": "Primary Emails",
+                "side-links-title": "Quick Links"
+            },
+            hi: {
+                "nav-home": "मुख्य पृष्ठ",
+                "nav-about": "हमारे बारे में",
+                "nav-editorial": "संपादकीय नीति",
+                "nav-contact": "संपर्क करें",
+                "page-title": "संपर्क करें",
+                "page-subtitle": "हम शोध संबंधी पूछताछ, तथ्य सुधार और सहयोग का स्वागत करते हैं।",
+                "sec1-title": "सामान्य पूछताछ",
+                "sec1-desc": "सामान्य प्रश्नों, हमारे डिजिटल पोर्टल के संबंध में जानकारी या सार्वजनिक पूछताछ के लिए, हमसे संपर्क करें:",
+                "sec2-title": "शोध एवं तथ्य सुधार",
+                "sec2-desc": "हम सभी लेखों और सामाजिक-राजनीतिक शोध पत्रों में सटीक तथ्यों का लक्ष्य रखते हैं। यदि आपको कोई त्रुटि मिलती है:",
+                "sec2-box-title": "त्रुटि सुधार जमा करने की जांच सूची:",
+                "sec2-box-1": "हमारे पोर्टल से सटीक पृष्ठ का URL शामिल करें।",
+                "sec2-box-2": "उस सटीक कथन का उल्लेख करें जिसमें संशोधन की आवश्यकता है।",
+                "sec2-box-3": "सत्यापित स्रोत, शैक्षणिक संदर्भ या प्राथमिक ऐतिहासिक ग्रंथ प्रदान करें।",
+                "sec2-send": "सुधार यहां भेजें:",
+                "sec3-title": "स्रोत सुझाव एवं सहयोग",
+                "sec3-desc": "यदि आपके पास प्राथमिक पांडुलिपि स्रोत, ऐतिहासिक दस्तावेज या शोध सामग्री है जिसकी समीक्षा आप हमारी टीम से कराना चाहते हैं:",
+                "sec4-title": "तकनीकी सहायता",
+                "sec4-desc": "टूटे हुए लिंक, वेबसाइट त्रुटियों या पहुंच संबंधी समस्याओं की रिपोर्ट करने के लिए सीधे तकनीकी टीम से संपर्क करें:",
+                "side-details": "विवरण",
+                "side-loc-label": "स्थान",
+                "side-loc-val": "प्रयागराज, उत्तर प्रदेश, भारत",
+                "side-email-label": "प्राथमिक ईमेल",
+                "side-links-title": "त्वरित लिंक"
+            }
+        };
+
+        // Language Switch Logic (Persisted via localStorage)
+        let currentLang = localStorage.getItem('pref_lang') || 'en';
+
+        function applyLanguage(lang) {
+            currentLang = lang;
+            localStorage.setItem('pref_lang', lang);
+            document.querySelectorAll('[data-i18n]').forEach(elem => {
+                const key = elem.getAttribute('data-i18n');
+                if (translations[lang] && translations[lang][key]) {
+                    elem.textContent = translations[lang][key];
+                }
+            });
+            document.getElementById('langToggle').textContent = lang === 'en' ? 'EN / हिंदी' : 'हिंदी / EN';
+        }
+
+        function toggleLanguage() {
+            const nextLang = currentLang === 'en' ? 'hi' : 'en';
+            applyLanguage(nextLang);
+        }
+
+        // Dark Mode Logic (Persisted via localStorage)
+        function applyTheme(theme) {
+            document.documentElement.setAttribute('data-theme', theme);
+            localStorage.setItem('pref_theme', theme);
+            document.getElementById('themeToggle').textContent = theme === 'dark' ? '🌙' : '☀️';
+        }
+
+        function toggleTheme() {
+            const currentTheme = document.documentElement.getAttribute('data-theme') || 'dark';
+            const nextTheme = currentTheme === 'dark' ? 'light' : 'dark';
+            applyTheme(nextTheme);
+        }
+
+        // Initialize state on load
+        (function init() {
+            const savedTheme = localStorage.getItem('pref_theme') || 'dark';
+            applyTheme(savedTheme);
+            applyLanguage(currentLang);
+        })();
+    </script>
+</body>
+  </html>
+  

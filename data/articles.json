@@ -1,8 +1,248 @@
 {
   "schema_version": "6.1B",
-  "updated_at": "2026-08-28T15:38:28.151048+00:00",
-  "count": 51,
+  "updated_at": "2026-08-29T10:22:59.744315+00:00",
+  "count": 52,
   "articles": [
+    {
+      "id": "5d0d324138c0944e",
+      "slug": "archaeological-survey-of-india-decodes-5th-century-sanskrit-seal-wion-news-5d0d3241",
+      "title": "Archaeological Survey Of India Decodes 5th Century Sanskrit Seal | WION News",
+      "summary": "India's archaeologists have decoded a 5th century mystery rewriting what we know about ancient Shaivite traditions. The Archaeological Survey of India's Epigraphy Division has deciphered rare Sanskrit inscription written in Brahmi script on a seal discovered in present-day Pakistan-occupied Kashmir. The inscription points to a Shaiva temple dedicated to Lord Shiva as Kotishvara in the mythical Deo",
+      "category": "Archaeology & Ancient Discoveries",
+      "date": "2026-08-29",
+      "published_at": "2026-08-29",
+      "source_published_at": null,
+      "source": "youtube.com",
+      "source_url": "https://www.youtube.com/watch?v=5WYm1BFAQsI",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "Archaeological Survey Of India Decodes 5th Century Sanskrit Seal | WION News",
+          "summary": "India's archaeologists have decoded a 5th century mystery rewriting what we know about ancient Shaivite traditions. The Archaeological Survey of India's Epigraphy Division has deciphered rare Sanskrit inscription written in Brahmi script on a seal discovered in present-day Pakistan-occupied Kashmir. The inscription points to a Shaiva temple dedicated to Lord Shiva as Kotishvara in the mythical Deo",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-29",
+      "updated_at": "2026-08-29"
+    },
+    {
+      "id": "ca9018c26bcf1671",
+      "slug": "unveiling-ancient-india-s-history-through-epigraphs-ca9018c2",
+      "title": "[PDF] A study of Ancient Indian and Early Medieval Epigraphs with special ...",
+      "summary": "by a team of epigraphists. The estampages of the inscriptions are then studied and preserved in various epigraphy branches. The information is disseminated through various publications. In the recent past, the ASI has discovered significant inscriptions in states including Tamil Nadu, Maharashtra, Gujarat and Telangana. The Archaeological Survey of India (ASI) has taken up a total of 67,461 estamp",
+      "category": "Archaeology & Ancient Discoveries",
+      "date": "2026-08-29",
+      "published_at": "2026-08-29",
+      "source_published_at": null,
+      "source": "ijnrd.org",
+      "source_url": "https://www.ijnrd.org/papers/IJNRD2407093.pdf",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "[PDF] A study of Ancient Indian and Early Medieval Epigraphs with special ...",
+          "summary": "by a team of epigraphists. The estampages of the inscriptions are then studied and preserved in various epigraphy branches. The information is disseminated through various publications. In the recent past, the ASI has discovered significant inscriptions in states including Tamil Nadu, Maharashtra, Gujarat and Telangana. The Archaeological Survey of India (ASI) has taken up a total of 67,461 estamp",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-14",
+      "updated_at": "2026-08-29T10:23:02.254577+00:00"
+    },
+    {
+      "id": "e84097aae594b1aa",
+      "slug": "national-archives-of-india-achieves-60-digitization-of-archival-records-e84097aa",
+      "title": "National Archives of India digitises 20 crore pages—nearly 60% completed in 2 years",
+      "summary": "The NAI holds a significant collection of documents that chronicle the evolution of modern India. It serves as a repository for various historical, political, and literary treasures. The collection features the Mountbatten plan papers on partition, the original manuscript of Jaishankar Prasad’s Kamayani, and private documents of MK Gandhi, Chakravati Rajagopalachari, as well as Rajendra Prasad, am",
+      "category": "Archaeology & Ancient Discoveries",
+      "date": "2026-08-29",
+      "published_at": "2026-08-29",
+      "source_published_at": null,
+      "source": "theprint.in",
+      "source_url": "https://theprint.in/feature/national-archives-of-india-digitises-20-crore-pages-nearly-60-completed-in-2-years/2909688",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "National Archives of India digitises 20 crore pages—nearly 60% completed in 2 years",
+          "summary": "The NAI holds a significant collection of documents that chronicle the evolution of modern India. It serves as a repository for various historical, political, and literary treasures. The collection features the Mountbatten plan papers on partition, the original manuscript of Jaishankar Prasad’s Kamayani, and private documents of MK Gandhi, Chakravati Rajagopalachari, as well as Rajendra Prasad, am",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-15",
+      "updated_at": "2026-08-29T10:23:02.253081+00:00"
+    },
+    {
+      "id": "5ed1656dbf0a05ba",
+      "slug": "toward-a-critical-edition-of-the-la-k-vat-ras-tra-the-significance-of-the-palm-leaf-manuscript-5ed1656d",
+      "title": "Toward a Critical Edition of the Laṅkāvatārasūtra: The Significance of the Palm leaf Manuscript",
+      "summary": "This article examines a newly discovered and recently published Sanskrit manuscript of the Jayamatiparipṛcchāsūtra (“Inquiry of Jayamati”) and documents its relationship, previously unrecognized, as part of the Śūraṃgama-samādhisūtra (“The Concentration of Heroic Progress”). While both texts are classified as Mahāyāna sūtras, the Jayamati-paripṛcchā depicts its content as spoken by the Buddha whil",
+      "category": "Vedic & Manuscript Research",
+      "date": "2026-08-29",
+      "published_at": "2026-08-29",
+      "source_published_at": null,
+      "source": "academia.edu",
+      "source_url": "https://www.academia.edu/46471964/Toward_a_Critical_Edition_of_the_La%E1%B9%85k%C4%81vat%C4%81ras%C5%ABtra_The_Significance_of_the_Palm_leaf_Manuscript",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "Toward a Critical Edition of the Laṅkāvatārasūtra: The Significance of the Palm leaf Manuscript",
+          "summary": "This article examines a newly discovered and recently published Sanskrit manuscript of the Jayamatiparipṛcchāsūtra (“Inquiry of Jayamati”) and documents its relationship, previously unrecognized, as part of the Śūraṃgama-samādhisūtra (“The Concentration of Heroic Progress”). While both texts are classified as Mahāyāna sūtras, the Jayamati-paripṛcchā depicts its content as spoken by the Buddha whil",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-14",
+      "updated_at": "2026-08-29T10:23:02.251462+00:00"
+    },
+    {
+      "id": "5cec0fd2934ecd5e",
+      "slug": "unveiling-a-critical-edition-of-a-sanskrit-manuscript-hindu-research-portal-5cec0fd2",
+      "title": "Unveiling a Critical Edition of a Sanskrit Manuscript | Hindu Research Portal",
+      "summary": "Hindu Research\n\nVedic & Manuscript Research\n\n# Unveiling a Critical Edition of a Sanskrit Manuscript\n\nA scholarly publication presents a critical edition of a Sanskrit manuscript, accompanied by a detailed table of contents. The manuscript is described in terms of its physical characteristics, including palm-leaf and paper manuscripts. The edition includes a diplomatic edition and a critical editi",
+      "category": "Vedic & Manuscript Research",
+      "date": "2026-08-29",
+      "published_at": "2026-08-29",
+      "source_published_at": null,
+      "source": "hinduresearch.com",
+      "source_url": "https://hinduresearch.com/news/articles/2026/08/sanskrit-manuscript-critical-edition-table-of-contents-revealed-d25e967e.html",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "Unveiling a Critical Edition of a Sanskrit Manuscript | Hindu Research Portal",
+          "summary": "Hindu Research\n\nVedic & Manuscript Research\n\n# Unveiling a Critical Edition of a Sanskrit Manuscript\n\nA scholarly publication presents a critical edition of a Sanskrit manuscript, accompanied by a detailed table of contents. The manuscript is described in terms of its physical characteristics, including palm-leaf and paper manuscripts. The edition includes a diplomatic edition and a critical editi",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-21",
+      "updated_at": "2026-08-29T10:23:02.249501+00:00"
+    },
+    {
+      "id": "7c8ab585e5d56dcb",
+      "slug": "nyaya-vaisesika-and-mimamsa-schools-a-comparative-study-of-their-epistemological-and-ontological-7c8ab585",
+      "title": "NYAYA-VAISESIKA AND MIMAMSA SCHOOLS: A COMPARATIVE STUDY OF THEIR EPISTEMOLOGICAL AND ONTOLOGICAL THEORIES | International Education and Research Journal (IERJ)",
+      "summary": "This research study thoroughly compares the Nyaya-Vaisesika and Mimamsa philosophical systems, concentrating on their distinct epistemological and ontological theories while emphasising their parallels and contrasts. The Nyaya-Vaisesika school, which originated in ancient India, emphasises logic, perception, and atomistic ontology. The Mimamsa school, on the other hand, interprets Vedic texts and ",
+      "category": "Vedic & Manuscript Research",
+      "date": "2026-08-29",
+      "published_at": "2026-08-29",
+      "source_published_at": null,
+      "source": "ierj.in",
+      "source_url": "https://www.ierj.in/journal/index.php/ierj/article/view/4861",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "NYAYA-VAISESIKA AND MIMAMSA SCHOOLS: A COMPARATIVE STUDY OF THEIR EPISTEMOLOGICAL AND ONTOLOGICAL THEORIES | International Education and Research Journal (IERJ)",
+          "summary": "This research study thoroughly compares the Nyaya-Vaisesika and Mimamsa philosophical systems, concentrating on their distinct epistemological and ontological theories while emphasising their parallels and contrasts. The Nyaya-Vaisesika school, which originated in ancient India, emphasises logic, perception, and atomistic ontology. The Mimamsa school, on the other hand, interprets Vedic texts and ",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-23",
+      "updated_at": "2026-08-29T10:23:02.245678+00:00"
+    },
+    {
+      "id": "7d952265f17d44f2",
+      "slug": "digital-collections-native-americans-resources-in-local-history-and-genealogy-research-guides-at-7d952265",
+      "title": "Digital Collections - Native Americans: Resources in Local History and Genealogy - Research Guides at Library of Congress",
+      "summary": "Images from each of the geo-cultural regions documented in The North American Indian are represented in the collection: the Pacific Northwest, New Southwest, Great Basin, Great Plains, Plateau Region, California, and Alaska. Included are both studio and field photographs. A large number are individual or group portraits, and many subjects are identified by name. Other subjects include traditional ",
+      "category": "Global Cultural & Temple Events",
+      "date": "2026-08-29",
+      "published_at": "2026-08-29",
+      "source_published_at": null,
+      "source": "guides.loc.gov",
+      "source_url": "https://guides.loc.gov/native-americans/digital-collections",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "Digital Collections - Native Americans: Resources in Local History and Genealogy - Research Guides at Library of Congress",
+          "summary": "Images from each of the geo-cultural regions documented in The North American Indian are represented in the collection: the Pacific Northwest, New Southwest, Great Basin, Great Plains, Plateau Region, California, and Alaska. Included are both studio and field photographs. A large number are individual or group portraits, and many subjects are identified by name. Other subjects include traditional ",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-19",
+      "updated_at": "2026-08-29T10:23:02.243369+00:00"
+    },
+    {
+      "id": "bb47e5c67a2eefa0",
+      "slug": "revitalizing-indian-education-integrating-traditional-knowledge-systems-into-modern-learning-bb47e5c6",
+      "title": "From Gurukul to Global Classroom: A Spiral Pedagogical Model for Integrating Indian Knowledge Systems Across Lifelong Learning",
+      "summary": "learning. This research proposes the Spiral Pedagogical Model as a conceptual framework for integrating IKS from early childhood education to higher education and adult learning. The research begins by examining the fundamental pedagogical elements of the Gurukul system, such as experiential education, the guru-shishya Parampara, moral and spiritual development, and community-based education, to d",
+      "category": "Daily Research Hook / Topic Idea",
+      "date": "2026-08-29",
+      "published_at": "2026-08-29",
+      "source_published_at": null,
+      "source": "ijsrm.net",
+      "source_url": "https://ijsrm.net/index.php/ijsrm/article/view/7067",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "From Gurukul to Global Classroom: A Spiral Pedagogical Model for Integrating Indian Knowledge Systems Across Lifelong Learning",
+          "summary": "learning. This research proposes the Spiral Pedagogical Model as a conceptual framework for integrating IKS from early childhood education to higher education and adult learning. The research begins by examining the fundamental pedagogical elements of the Gurukul system, such as experiential education, the guru-shishya Parampara, moral and spiritual development, and community-based education, to d",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-14",
+      "updated_at": "2026-08-29T10:23:02.241444+00:00"
+    },
     {
       "id": "8da5ee15834d64b7",
       "slug": "archaeological-survey-of-india-8da5ee15",
@@ -32,186 +272,6 @@
       },
       "first_published": "2026-08-14",
       "updated_at": "2026-08-28T15:38:31.558260+00:00"
-    },
-    {
-      "id": "ca9018c26bcf1671",
-      "slug": "unveiling-ancient-india-s-history-through-epigraphs-ca9018c2",
-      "title": "A study of Ancient Indian and Early Medieval Epigraphs ...",
-      "summary": "by a team of epigraphists. The estampages of the inscriptions are then studied and preserved in various epigraphy branches. The information is disseminated through various publications. In the recent past, the ASI has discovered significant inscriptions in states including Tamil Nadu, Maharashtra, Gujarat and Telangana. The Archaeological Survey of India (ASI) has taken up a total of 67,461 estamp",
-      "category": "Archaeology & Ancient Discoveries",
-      "date": "2026-08-28",
-      "published_at": "2026-08-28",
-      "source_published_at": null,
-      "source": "ijnrd.org",
-      "source_url": "https://www.ijnrd.org/papers/IJNRD2407093.pdf",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "A study of Ancient Indian and Early Medieval Epigraphs ...",
-          "summary": "by a team of epigraphists. The estampages of the inscriptions are then studied and preserved in various epigraphy branches. The information is disseminated through various publications. In the recent past, the ASI has discovered significant inscriptions in states including Tamil Nadu, Maharashtra, Gujarat and Telangana. The Archaeological Survey of India (ASI) has taken up a total of 67,461 estamp",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-14",
-      "updated_at": "2026-08-28T15:38:31.557639+00:00"
-    },
-    {
-      "id": "e84097aae594b1aa",
-      "slug": "national-archives-of-india-achieves-60-digitization-of-archival-records-e84097aa",
-      "title": "National Archives of India digitises 20 crore pages—nearly 60% completed in 2 years",
-      "summary": "The NAI holds a significant collection of documents that chronicle the evolution of modern India. It serves as a repository for various historical, political, and literary treasures. The collection features the Mountbatten plan papers on partition, the original manuscript of Jaishankar Prasad’s Kamayani, and private documents of MK Gandhi, Chakravati Rajagopalachari, as well as Rajendra Prasad, am",
-      "category": "Archaeology & Ancient Discoveries",
-      "date": "2026-08-28",
-      "published_at": "2026-08-28",
-      "source_published_at": null,
-      "source": "theprint.in",
-      "source_url": "https://theprint.in/feature/national-archives-of-india-digitises-20-crore-pages-nearly-60-completed-in-2-years/2909688",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "National Archives of India digitises 20 crore pages—nearly 60% completed in 2 years",
-          "summary": "The NAI holds a significant collection of documents that chronicle the evolution of modern India. It serves as a repository for various historical, political, and literary treasures. The collection features the Mountbatten plan papers on partition, the original manuscript of Jaishankar Prasad’s Kamayani, and private documents of MK Gandhi, Chakravati Rajagopalachari, as well as Rajendra Prasad, am",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-15",
-      "updated_at": "2026-08-28T15:38:31.556687+00:00"
-    },
-    {
-      "id": "5ed1656dbf0a05ba",
-      "slug": "toward-a-critical-edition-of-the-la-k-vat-ras-tra-the-significance-of-the-palm-leaf-manuscript-5ed1656d",
-      "title": "Toward a Critical Edition of the Laṅkāvatārasūtra: The Significance of the Palm leaf Manuscript",
-      "summary": "This article examines a newly discovered and recently published Sanskrit manuscript of the Jayamatiparipṛcchāsūtra (“Inquiry of Jayamati”) and documents its relationship, previously unrecognized, as part of the Śūraṃgama-samādhisūtra (“The Concentration of Heroic Progress”). While both texts are classified as Mahāyāna sūtras, the Jayamati-paripṛcchā depicts its content as spoken by the Buddha whil",
-      "category": "Vedic & Manuscript Research",
-      "date": "2026-08-28",
-      "published_at": "2026-08-28",
-      "source_published_at": null,
-      "source": "academia.edu",
-      "source_url": "https://www.academia.edu/46471964/Toward_a_Critical_Edition_of_the_La%E1%B9%85k%C4%81vat%C4%81ras%C5%ABtra_The_Significance_of_the_Palm_leaf_Manuscript",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "Toward a Critical Edition of the Laṅkāvatārasūtra: The Significance of the Palm leaf Manuscript",
-          "summary": "This article examines a newly discovered and recently published Sanskrit manuscript of the Jayamatiparipṛcchāsūtra (“Inquiry of Jayamati”) and documents its relationship, previously unrecognized, as part of the Śūraṃgama-samādhisūtra (“The Concentration of Heroic Progress”). While both texts are classified as Mahāyāna sūtras, the Jayamati-paripṛcchā depicts its content as spoken by the Buddha whil",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-14",
-      "updated_at": "2026-08-28T15:38:31.550062+00:00"
-    },
-    {
-      "id": "7c8ab585e5d56dcb",
-      "slug": "nyaya-vaisesika-and-mimamsa-schools-a-comparative-study-of-their-epistemological-and-ontological-7c8ab585",
-      "title": "NYAYA-VAISESIKA AND MIMAMSA SCHOOLS: A COMPARATIVE STUDY OF THEIR EPISTEMOLOGICAL AND ONTOLOGICAL THEORIES | International Education and Research Journal (IERJ)",
-      "summary": "This research study thoroughly compares the Nyaya-Vaisesika and Mimamsa philosophical systems, concentrating on their distinct epistemological and ontological theories while emphasising their parallels and contrasts. The Nyaya-Vaisesika school, which originated in ancient India, emphasises logic, perception, and atomistic ontology. The Mimamsa school, on the other hand, interprets Vedic texts and ",
-      "category": "Vedic & Manuscript Research",
-      "date": "2026-08-28",
-      "published_at": "2026-08-28",
-      "source_published_at": null,
-      "source": "ierj.in",
-      "source_url": "https://www.ierj.in/journal/index.php/ierj/article/view/4861",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "NYAYA-VAISESIKA AND MIMAMSA SCHOOLS: A COMPARATIVE STUDY OF THEIR EPISTEMOLOGICAL AND ONTOLOGICAL THEORIES | International Education and Research Journal (IERJ)",
-          "summary": "This research study thoroughly compares the Nyaya-Vaisesika and Mimamsa philosophical systems, concentrating on their distinct epistemological and ontological theories while emphasising their parallels and contrasts. The Nyaya-Vaisesika school, which originated in ancient India, emphasises logic, perception, and atomistic ontology. The Mimamsa school, on the other hand, interprets Vedic texts and ",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-23",
-      "updated_at": "2026-08-28T15:38:31.548631+00:00"
-    },
-    {
-      "id": "7d952265f17d44f2",
-      "slug": "digital-collections-native-americans-resources-in-local-history-and-genealogy-research-guides-at-7d952265",
-      "title": "Digital Collections - Native Americans: Resources in Local History and Genealogy - Research Guides at Library of Congress",
-      "summary": "Images from each of the geo-cultural regions documented in The North American Indian are represented in the collection: the Pacific Northwest, New Southwest, Great Basin, Great Plains, Plateau Region, California, and Alaska. Included are both studio and field photographs. A large number are individual or group portraits, and many subjects are identified by name. Other subjects include traditional ",
-      "category": "Global Cultural & Temple Events",
-      "date": "2026-08-28",
-      "published_at": "2026-08-28",
-      "source_published_at": null,
-      "source": "guides.loc.gov",
-      "source_url": "https://guides.loc.gov/native-americans/digital-collections",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "Digital Collections - Native Americans: Resources in Local History and Genealogy - Research Guides at Library of Congress",
-          "summary": "Images from each of the geo-cultural regions documented in The North American Indian are represented in the collection: the Pacific Northwest, New Southwest, Great Basin, Great Plains, Plateau Region, California, and Alaska. Included are both studio and field photographs. A large number are individual or group portraits, and many subjects are identified by name. Other subjects include traditional ",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-19",
-      "updated_at": "2026-08-28T15:38:31.546587+00:00"
-    },
-    {
-      "id": "bb47e5c67a2eefa0",
-      "slug": "revitalizing-indian-education-integrating-traditional-knowledge-systems-into-modern-learning-bb47e5c6",
-      "title": "From Gurukul to Global Classroom: A Spiral Pedagogical Model for Integrating Indian Knowledge Systems Across Lifelong Learning",
-      "summary": "learning. This research proposes the Spiral Pedagogical Model as a conceptual framework for integrating IKS from early childhood education to higher education and adult learning. The research begins by examining the fundamental pedagogical elements of the Gurukul system, such as experiential education, the guru-shishya Parampara, moral and spiritual development, and community-based education, to d",
-      "category": "Daily Research Hook / Topic Idea",
-      "date": "2026-08-28",
-      "published_at": "2026-08-28",
-      "source_published_at": null,
-      "source": "ijsrm.net",
-      "source_url": "https://ijsrm.net/index.php/ijsrm/article/view/7067",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "From Gurukul to Global Classroom: A Spiral Pedagogical Model for Integrating Indian Knowledge Systems Across Lifelong Learning",
-          "summary": "learning. This research proposes the Spiral Pedagogical Model as a conceptual framework for integrating IKS from early childhood education to higher education and adult learning. The research begins by examining the fundamental pedagogical elements of the Gurukul system, such as experiential education, the guru-shishya Parampara, moral and spiritual development, and community-based education, to d",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-14",
-      "updated_at": "2026-08-28T15:38:31.539588+00:00"
     },
     {
       "id": "8b5c2f5c8e75317b",
@@ -572,36 +632,6 @@
       },
       "first_published": "2026-08-24",
       "updated_at": "2026-08-24"
-    },
-    {
-      "id": "5cec0fd2934ecd5e",
-      "slug": "unveiling-a-critical-edition-of-a-sanskrit-manuscript-hindu-research-portal-5cec0fd2",
-      "title": "Unveiling a Critical Edition of a Sanskrit Manuscript | Hindu Research Portal",
-      "summary": "Hindu Research\n\nVedic & Manuscript Research\n\n# Unveiling a Critical Edition of a Sanskrit Manuscript\n\nA scholarly publication presents a critical edition of a Sanskrit manuscript, accompanied by a detailed table of contents. The manuscript is described in terms of its physical characteristics, including palm-leaf and paper manuscripts. The edition includes a diplomatic edition and a critical editi",
-      "category": "Vedic & Manuscript Research",
-      "date": "2026-08-24",
-      "published_at": "2026-08-24",
-      "source_published_at": null,
-      "source": "hinduresearch.com",
-      "source_url": "https://hinduresearch.com/news/articles/2026/08/sanskrit-manuscript-critical-edition-table-of-contents-revealed-d25e967e.html",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "Unveiling a Critical Edition of a Sanskrit Manuscript | Hindu Research Portal",
-          "summary": "Hindu Research\n\nVedic & Manuscript Research\n\n# Unveiling a Critical Edition of a Sanskrit Manuscript\n\nA scholarly publication presents a critical edition of a Sanskrit manuscript, accompanied by a detailed table of contents. The manuscript is described in terms of its physical characteristics, including palm-leaf and paper manuscripts. The edition includes a diplomatic edition and a critical editi",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-21",
-      "updated_at": "2026-08-24T04:18:02.426798+00:00"
     },
     {
       "id": "b62f3abad5426a8c",

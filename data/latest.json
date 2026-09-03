@@ -1,46 +1,16 @@
 {
   "schema_version": "6.1B",
-  "updated_at": "2026-09-02T08:07:31.055414+00:00",
+  "updated_at": "2026-09-03T08:17:32.429441+00:00",
   "count": 50,
   "articles": [
-    {
-      "id": "c23a3b47acaf8a84",
-      "slug": "ancient-indian-inscriptions-uncovered-in-egypt-s-valley-of-the-kings-c23a3b47",
-      "title": "2,000-year-old inscriptions found in Valley of the Kings offer fresh insight into Indian presence in Ancient Egypt - The Art Newspaper - International art news and events",
-      "summary": "At last week’s International Conference on Tamil Epigraphy in the South Indian city of Chennai, Charlotte Schmid, of the French School of Asian Studies in Paris and Ingo Strauch, of the University of Lausanne, presented a paper on their latest research, identifying the inscriptions as coming from several regions of the Indian subcontinent, with the majority in Tamil-Brahmi, an ancient language con",
-      "category": "Archaeology & Ancient Discoveries",
-      "date": "2026-09-02",
-      "published_at": "2026-09-02",
-      "source_published_at": null,
-      "source": "theartnewspaper.com",
-      "source_url": "https://www.theartnewspaper.com/2026/02/25/2000-year-old-inscriptions-found-in-valley-of-the-kings-offer-fresh-insight-into-indian-presence-in-ancient-egypt",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "2,000-year-old inscriptions found in Valley of the Kings offer fresh insight into Indian presence in Ancient Egypt - The Art Newspaper - International art news and events",
-          "summary": "At last week’s International Conference on Tamil Epigraphy in the South Indian city of Chennai, Charlotte Schmid, of the French School of Asian Studies in Paris and Ingo Strauch, of the University of Lausanne, presented a paper on their latest research, identifying the inscriptions as coming from several regions of the Indian subcontinent, with the majority in Tamil-Brahmi, an ancient language con",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-14",
-      "updated_at": "2026-09-02T08:07:33.473113+00:00"
-    },
     {
       "id": "8da5ee15834d64b7",
       "slug": "archaeological-survey-of-india-8da5ee15",
       "title": "Archaeological Survey of India",
       "summary": "India is singularly rich in epigraphical wealth. It is estimated that so far more than one lakh inscriptions have been discovered from the length and breadth of the country, and still a large number of inscriptions have to be brought to light by conducting an intensive and systematic survey of our vast sub- continent. [...] Epigraphy forms one of the very important sources for understanding the hi",
       "category": "Archaeology & Ancient Discoveries",
-      "date": "2026-09-02",
-      "published_at": "2026-09-02",
+      "date": "2026-09-03",
+      "published_at": "2026-09-03",
       "source_published_at": null,
       "source": "asi.nic.in",
       "source_url": "https://asi.nic.in/pages/Epigraphy-Branch/HQ",
@@ -61,7 +31,217 @@
         }
       },
       "first_published": "2026-08-14",
-      "updated_at": "2026-09-02T08:07:33.461337+00:00"
+      "updated_at": "2026-09-03T08:17:35.854498+00:00"
+    },
+    {
+      "id": "c23a3b47acaf8a84",
+      "slug": "ancient-indian-inscriptions-uncovered-in-egypt-s-valley-of-the-kings-c23a3b47",
+      "title": "2,000-year-old inscriptions found in Valley of the Kings offer fresh insight into Indian presence in Ancient Egypt - The Art Newspaper - International art news and events",
+      "summary": "At last week’s International Conference on Tamil Epigraphy in the South Indian city of Chennai, Charlotte Schmid, of the French School of Asian Studies in Paris and Ingo Strauch, of the University of Lausanne, presented a paper on their latest research, identifying the inscriptions as coming from several regions of the Indian subcontinent, with the majority in Tamil-Brahmi, an ancient language con",
+      "category": "Archaeology & Ancient Discoveries",
+      "date": "2026-09-03",
+      "published_at": "2026-09-03",
+      "source_published_at": null,
+      "source": "theartnewspaper.com",
+      "source_url": "https://www.theartnewspaper.com/2026/02/25/2000-year-old-inscriptions-found-in-valley-of-the-kings-offer-fresh-insight-into-indian-presence-in-ancient-egypt",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "2,000-year-old inscriptions found in Valley of the Kings offer fresh insight into Indian presence in Ancient Egypt - The Art Newspaper - International art news and events",
+          "summary": "At last week’s International Conference on Tamil Epigraphy in the South Indian city of Chennai, Charlotte Schmid, of the French School of Asian Studies in Paris and Ingo Strauch, of the University of Lausanne, presented a paper on their latest research, identifying the inscriptions as coming from several regions of the Indian subcontinent, with the majority in Tamil-Brahmi, an ancient language con",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-14",
+      "updated_at": "2026-09-03T08:17:35.853700+00:00"
+    },
+    {
+      "id": "58e75015b936dd9e",
+      "slug": "india-s-ancient-scientific-knowledge-india-foundation-58e75015",
+      "title": "India’s Ancient Scientific Knowledge – India Foundation",
+      "summary": "Ancient Indian mathematicians made advancements in algebra(#_edn2) and trigonometry. Aryabhata’s work named Āryabhatiya contained solutions to quadratic equations. He introduced trigonometric functions in the context of astronomy. Trigonometry was used to construct fire altars in various shapes like bird (Garuda) shape, as described in texts like Yajurveda. Baudhāyana (800-740 BCE), provided an ap",
+      "category": "Archaeology & Ancient Discoveries",
+      "date": "2026-09-03",
+      "published_at": "2026-09-03",
+      "source_published_at": null,
+      "source": "indiafoundation.in",
+      "source_url": "https://indiafoundation.in/articles-and-commentaries/indias-ancient-scientific-knowledge",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "India’s Ancient Scientific Knowledge – India Foundation",
+          "summary": "Ancient Indian mathematicians made advancements in algebra(#_edn2) and trigonometry. Aryabhata’s work named Āryabhatiya contained solutions to quadratic equations. He introduced trigonometric functions in the context of astronomy. Trigonometry was used to construct fire altars in various shapes like bird (Garuda) shape, as described in texts like Yajurveda. Baudhāyana (800-740 BCE), provided an ap",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-19",
+      "updated_at": "2026-09-03T08:17:35.851712+00:00"
+    },
+    {
+      "id": "5ed1656dbf0a05ba",
+      "slug": "toward-a-critical-edition-of-the-la-k-vat-ras-tra-the-significance-of-the-palm-leaf-manuscript-5ed1656d",
+      "title": "(PDF) Toward a Critical Edition of the Laṅkāvatārasūtra: The Significance of the Palm leaf Manuscript",
+      "summary": "This article examines a newly discovered and recently published Sanskrit manuscript of the Jayamatiparipṛcchāsūtra (“Inquiry of Jayamati”) and documents its relationship, previously unrecognized, as part of the Śūraṃgama-samādhisūtra (“The Concentration of Heroic Progress”). While both texts are classified as Mahāyāna sūtras, the Jayamati-paripṛcchā depicts its content as spoken by the Buddha whil",
+      "category": "Vedic & Manuscript Research",
+      "date": "2026-09-03",
+      "published_at": "2026-09-03",
+      "source_published_at": null,
+      "source": "academia.edu",
+      "source_url": "https://www.academia.edu/46471964/Toward_a_Critical_Edition_of_the_La%E1%B9%85k%C4%81vat%C4%81ras%C5%ABtra_The_Significance_of_the_Palm_leaf_Manuscript",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "(PDF) Toward a Critical Edition of the Laṅkāvatārasūtra: The Significance of the Palm leaf Manuscript",
+          "summary": "This article examines a newly discovered and recently published Sanskrit manuscript of the Jayamatiparipṛcchāsūtra (“Inquiry of Jayamati”) and documents its relationship, previously unrecognized, as part of the Śūraṃgama-samādhisūtra (“The Concentration of Heroic Progress”). While both texts are classified as Mahāyāna sūtras, the Jayamati-paripṛcchā depicts its content as spoken by the Buddha whil",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-14",
+      "updated_at": "2026-09-03T08:17:35.848767+00:00"
+    },
+    {
+      "id": "7c8ab585e5d56dcb",
+      "slug": "nyaya-vaisesika-and-mimamsa-schools-a-comparative-study-of-their-epistemological-and-ontological-7c8ab585",
+      "title": "NYAYA-VAISESIKA AND MIMAMSA SCHOOLS: A COMPARATIVE STUDY OF THEIR EPISTEMOLOGICAL AND ONTOLOGICAL THEORIES | International Education and Research Journal (IERJ)",
+      "summary": "This research study thoroughly compares the Nyaya-Vaisesika and Mimamsa philosophical systems, concentrating on their distinct epistemological and ontological theories while emphasising their parallels and contrasts. The Nyaya-Vaisesika school, which originated in ancient India, emphasises logic, perception, and atomistic ontology. The Mimamsa school, on the other hand, interprets Vedic texts and ",
+      "category": "Vedic & Manuscript Research",
+      "date": "2026-09-03",
+      "published_at": "2026-09-03",
+      "source_published_at": null,
+      "source": "ierj.in",
+      "source_url": "https://www.ierj.in/journal/index.php/ierj/article/view/4861",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "NYAYA-VAISESIKA AND MIMAMSA SCHOOLS: A COMPARATIVE STUDY OF THEIR EPISTEMOLOGICAL AND ONTOLOGICAL THEORIES | International Education and Research Journal (IERJ)",
+          "summary": "This research study thoroughly compares the Nyaya-Vaisesika and Mimamsa philosophical systems, concentrating on their distinct epistemological and ontological theories while emphasising their parallels and contrasts. The Nyaya-Vaisesika school, which originated in ancient India, emphasises logic, perception, and atomistic ontology. The Mimamsa school, on the other hand, interprets Vedic texts and ",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-23",
+      "updated_at": "2026-09-03T08:17:35.845502+00:00"
+    },
+    {
+      "id": "560b52cdb5b2cb0e",
+      "slug": "national-archives-items-in-the-world-digital-library-national-archives-560b52cd",
+      "title": "National Archives Items in the World Digital Library",
+      "summary": "| Bill of Rights, 09/25/1789 (National Archives Identifier 1408042) | Illustrated Family Record (Fraktur) Found in Revolutionary War Pension and Bounty-Land-Warrant Application File W3079, for Philip Frey, Pennsylvania, ca. 1800 - ca. 1900 (National Archives Identifier 300195) | Treaty between the Ottawa, Chippewa, Wyandot, and Potawatomi Indians, 11/17/1807 (National Archives Identifier 596331) |",
+      "category": "Global Cultural & Temple Events",
+      "date": "2026-09-03",
+      "published_at": "2026-09-03",
+      "source_published_at": null,
+      "source": "archives.gov",
+      "source_url": "https://www.archives.gov/research/world-digital-library",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "National Archives Items in the World Digital Library",
+          "summary": "| Bill of Rights, 09/25/1789 (National Archives Identifier 1408042) | Illustrated Family Record (Fraktur) Found in Revolutionary War Pension and Bounty-Land-Warrant Application File W3079, for Philip Frey, Pennsylvania, ca. 1800 - ca. 1900 (National Archives Identifier 300195) | Treaty between the Ottawa, Chippewa, Wyandot, and Potawatomi Indians, 11/17/1807 (National Archives Identifier 596331) |",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-18",
+      "updated_at": "2026-09-03T08:17:35.843366+00:00"
+    },
+    {
+      "id": "bb47e5c67a2eefa0",
+      "slug": "revitalizing-indian-education-integrating-traditional-knowledge-systems-into-modern-learning-bb47e5c6",
+      "title": "From Gurukul to Global Classroom: A Spiral Pedagogical Model for Integrating Indian Knowledge Systems Across Lifelong Learning",
+      "summary": "learning. This research proposes the Spiral Pedagogical Model as a conceptual framework for integrating IKS from early childhood education to higher education and adult learning. The research begins by examining the fundamental pedagogical elements of the Gurukul system, such as experiential education, the guru-shishya Parampara, moral and spiritual development, and community-based education, to d",
+      "category": "Daily Research Hook / Topic Idea",
+      "date": "2026-09-03",
+      "published_at": "2026-09-03",
+      "source_published_at": null,
+      "source": "ijsrm.net",
+      "source_url": "https://ijsrm.net/index.php/ijsrm/article/view/7067",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "From Gurukul to Global Classroom: A Spiral Pedagogical Model for Integrating Indian Knowledge Systems Across Lifelong Learning",
+          "summary": "learning. This research proposes the Spiral Pedagogical Model as a conceptual framework for integrating IKS from early childhood education to higher education and adult learning. The research begins by examining the fundamental pedagogical elements of the Gurukul system, such as experiential education, the guru-shishya Parampara, moral and spiritual development, and community-based education, to d",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-14",
+      "updated_at": "2026-09-03T08:17:35.839414+00:00"
+    },
+    {
+      "id": "3b146254b62d8e84",
+      "slug": "mimansa-3b146254",
+      "title": "Mimansa",
+      "summary": "As one of the six major _Astik darshanas, Mimansa_ is a well-recognized school of Indian philosophy. Its nature is not philosophical advocacy. Rather, as a logical system of interpretation of Veda for carrying out the Vedic rituals, it has practical applications. The word _Mimansa_ derives from the root _man_ meaning “to know”. The _Mimansa_ system is oriented toward interpreting Vedic texts used ",
+      "category": "Daily Research Hook / Topic Idea",
+      "date": "2026-09-03",
+      "published_at": "2026-09-03",
+      "source_published_at": null,
+      "source": "pmc.ncbi.nlm.nih.gov",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3121252",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "Mimansa",
+          "summary": "As one of the six major _Astik darshanas, Mimansa_ is a well-recognized school of Indian philosophy. Its nature is not philosophical advocacy. Rather, as a logical system of interpretation of Veda for carrying out the Vedic rituals, it has practical applications. The word _Mimansa_ derives from the root _man_ meaning “to know”. The _Mimansa_ system is oriented toward interpreting Vedic texts used ",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-22",
+      "updated_at": "2026-09-03T08:17:35.835559+00:00"
     },
     {
       "id": "49ed6cf8182ee7c5",
@@ -152,36 +332,6 @@
       },
       "first_published": "2026-08-20",
       "updated_at": "2026-09-02T08:07:33.450155+00:00"
-    },
-    {
-      "id": "7c8ab585e5d56dcb",
-      "slug": "nyaya-vaisesika-and-mimamsa-schools-a-comparative-study-of-their-epistemological-and-ontological-7c8ab585",
-      "title": "NYAYA-VAISESIKA AND MIMAMSA SCHOOLS: A COMPARATIVE STUDY OF THEIR EPISTEMOLOGICAL AND ONTOLOGICAL THEORIES | International Education and Research Journal (IERJ)",
-      "summary": "This research study thoroughly compares the Nyaya-Vaisesika and Mimamsa philosophical systems, concentrating on their distinct epistemological and ontological theories while emphasising their parallels and contrasts. The Nyaya-Vaisesika school, which originated in ancient India, emphasises logic, perception, and atomistic ontology. The Mimamsa school, on the other hand, interprets Vedic texts and ",
-      "category": "Vedic & Manuscript Research",
-      "date": "2026-09-02",
-      "published_at": "2026-09-02",
-      "source_published_at": null,
-      "source": "ierj.in",
-      "source_url": "https://www.ierj.in/journal/index.php/ierj/article/view/4861",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "NYAYA-VAISESIKA AND MIMAMSA SCHOOLS: A COMPARATIVE STUDY OF THEIR EPISTEMOLOGICAL AND ONTOLOGICAL THEORIES | International Education and Research Journal (IERJ)",
-          "summary": "This research study thoroughly compares the Nyaya-Vaisesika and Mimamsa philosophical systems, concentrating on their distinct epistemological and ontological theories while emphasising their parallels and contrasts. The Nyaya-Vaisesika school, which originated in ancient India, emphasises logic, perception, and atomistic ontology. The Mimamsa school, on the other hand, interprets Vedic texts and ",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-23",
-      "updated_at": "2026-09-02T08:07:33.445447+00:00"
     },
     {
       "id": "5415d1afc8050325",
@@ -334,36 +484,6 @@
       "updated_at": "2026-09-01T08:54:48.924840+00:00"
     },
     {
-      "id": "5ed1656dbf0a05ba",
-      "slug": "toward-a-critical-edition-of-the-la-k-vat-ras-tra-the-significance-of-the-palm-leaf-manuscript-5ed1656d",
-      "title": "Toward a Critical Edition of the Laṅkāvatārasūtra: The Significance of the Palm leaf Manuscript",
-      "summary": "with the original Sanskrit. Once the texts are established, it is only by comparison with the original Sanskrit that we can try to determine what the Jonang revisers were attempting to clarify or correct. Here follows the edited and corrected Sanskrit text, an English translation (by myself), the edited and corrected Tibetan text as revised by Shong ston, and the edited and corrected Tibetan text ",
-      "category": "Vedic & Manuscript Research",
-      "date": "2026-09-01",
-      "published_at": "2026-09-01",
-      "source_published_at": null,
-      "source": "academia.edu",
-      "source_url": "https://www.academia.edu/46471964/Toward_a_Critical_Edition_of_the_La%E1%B9%85k%C4%81vat%C4%81ras%C5%ABtra_The_Significance_of_the_Palm_leaf_Manuscript",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "Toward a Critical Edition of the Laṅkāvatārasūtra: The Significance of the Palm leaf Manuscript",
-          "summary": "with the original Sanskrit. Once the texts are established, it is only by comparison with the original Sanskrit that we can try to determine what the Jonang revisers were attempting to clarify or correct. Here follows the edited and corrected Sanskrit text, an English translation (by myself), the edited and corrected Tibetan text as revised by Shong ston, and the edited and corrected Tibetan text ",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-14",
-      "updated_at": "2026-09-01T08:54:48.922057+00:00"
-    },
-    {
       "id": "942cc38ca00582be",
       "slug": "h-ry-ji-palm-leaf-manuscript-ja-x-nj-ng-praj-p-ramit-h-daya-942cc38c",
       "title": "Hōryūji Palm-leaf Manuscript. (Ja) – Xīnjīng 心經 | Prajñāpāramitāhṛdaya",
@@ -422,66 +542,6 @@
       },
       "first_published": "2026-08-19",
       "updated_at": "2026-09-01T08:54:48.910147+00:00"
-    },
-    {
-      "id": "3b146254b62d8e84",
-      "slug": "mimansa-3b146254",
-      "title": "Mimansa - PMC",
-      "summary": "This paper considers the relevance to Ayurvedic education of Mimansa, one of the six “orthodox” systems of ancient Indian philosophy, which, like Ayurveda, regard the Vedas as supremely authoritative. At the postgraduate level, Mimansa assists the study of Ayurveda because it provides a system of resolving possible conflicts between statements in the texts of the Veda, which can also be applied to",
-      "category": "Daily Research Hook / Topic Idea",
-      "date": "2026-09-01",
-      "published_at": "2026-09-01",
-      "source_published_at": null,
-      "source": "pmc.ncbi.nlm.nih.gov",
-      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3121252",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "Mimansa - PMC",
-          "summary": "This paper considers the relevance to Ayurvedic education of Mimansa, one of the six “orthodox” systems of ancient Indian philosophy, which, like Ayurveda, regard the Vedas as supremely authoritative. At the postgraduate level, Mimansa assists the study of Ayurveda because it provides a system of resolving possible conflicts between statements in the texts of the Veda, which can also be applied to",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-22",
-      "updated_at": "2026-09-01T08:54:48.905656+00:00"
-    },
-    {
-      "id": "bb47e5c67a2eefa0",
-      "slug": "revitalizing-indian-education-integrating-traditional-knowledge-systems-into-modern-learning-bb47e5c6",
-      "title": "From Gurukul to Global Classroom: A Spiral Pedagogical Model for Integrating Indian Knowledge Systems Across Lifelong Learning",
-      "summary": "learning. This research proposes the Spiral Pedagogical Model as a conceptual framework for integrating IKS from early childhood education to higher education and adult learning. The research begins by examining the fundamental pedagogical elements of the Gurukul system, such as experiential education, the guru-shishya Parampara, moral and spiritual development, and community-based education, to d",
-      "category": "Archaeology & Ancient Discoveries",
-      "date": "2026-08-31",
-      "published_at": "2026-08-31",
-      "source_published_at": null,
-      "source": "ijsrm.net",
-      "source_url": "https://ijsrm.net/index.php/ijsrm/article/view/7067",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "From Gurukul to Global Classroom: A Spiral Pedagogical Model for Integrating Indian Knowledge Systems Across Lifelong Learning",
-          "summary": "learning. This research proposes the Spiral Pedagogical Model as a conceptual framework for integrating IKS from early childhood education to higher education and adult learning. The research begins by examining the fundamental pedagogical elements of the Gurukul system, such as experiential education, the guru-shishya Parampara, moral and spiritual development, and community-based education, to d",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-14",
-      "updated_at": "2026-08-31T10:03:54.622525+00:00"
     },
     {
       "id": "c3041d34e6e681d3",
@@ -602,36 +662,6 @@
       },
       "first_published": "2026-08-14",
       "updated_at": "2026-08-30T09:28:18.423316+00:00"
-    },
-    {
-      "id": "58e75015b936dd9e",
-      "slug": "india-s-ancient-scientific-knowledge-india-foundation-58e75015",
-      "title": "India’s Ancient Scientific Knowledge – India Foundation",
-      "summary": "Ancient Indian mathematicians made advancements in algebra(#_edn2) and trigonometry. Aryabhata’s work named Āryabhatiya contained solutions to quadratic equations. He introduced trigonometric functions in the context of astronomy. Trigonometry was used to construct fire altars in various shapes like bird (Garuda) shape, as described in texts like Yajurveda. Baudhāyana (800-740 BCE), provided an ap",
-      "category": "Archaeology & Ancient Discoveries",
-      "date": "2026-08-30",
-      "published_at": "2026-08-30",
-      "source_published_at": null,
-      "source": "indiafoundation.in",
-      "source_url": "https://indiafoundation.in/articles-and-commentaries/indias-ancient-scientific-knowledge",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "India’s Ancient Scientific Knowledge – India Foundation",
-          "summary": "Ancient Indian mathematicians made advancements in algebra(#_edn2) and trigonometry. Aryabhata’s work named Āryabhatiya contained solutions to quadratic equations. He introduced trigonometric functions in the context of astronomy. Trigonometry was used to construct fire altars in various shapes like bird (Garuda) shape, as described in texts like Yajurveda. Baudhāyana (800-740 BCE), provided an ap",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-19",
-      "updated_at": "2026-08-30T09:28:18.420828+00:00"
     },
     {
       "id": "d26273ce344397c4",
@@ -932,36 +962,6 @@
       },
       "first_published": "2026-08-25",
       "updated_at": "2026-08-25"
-    },
-    {
-      "id": "560b52cdb5b2cb0e",
-      "slug": "national-archives-items-in-the-world-digital-library-national-archives-560b52cd",
-      "title": "National Archives Items in the World Digital Library | National Archives",
-      "summary": "| Bill of Rights, 09/25/1789 (National Archives Identifier 1408042) | Illustrated Family Record (Fraktur) Found in Revolutionary War Pension and Bounty-Land-Warrant Application File W3079, for Philip Frey, Pennsylvania, ca. 1800 - ca. 1900 (National Archives Identifier 300195) | Treaty between the Ottawa, Chippewa, Wyandot, and Potawatomi Indians, 11/17/1807 (National Archives Identifier 596331) |",
-      "category": "Global Cultural & Temple Events",
-      "date": "2026-08-25",
-      "published_at": "2026-08-25",
-      "source_published_at": null,
-      "source": "archives.gov",
-      "source_url": "https://www.archives.gov/research/world-digital-library",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "National Archives Items in the World Digital Library | National Archives",
-          "summary": "| Bill of Rights, 09/25/1789 (National Archives Identifier 1408042) | Illustrated Family Record (Fraktur) Found in Revolutionary War Pension and Bounty-Land-Warrant Application File W3079, for Philip Frey, Pennsylvania, ca. 1800 - ca. 1900 (National Archives Identifier 300195) | Treaty between the Ottawa, Chippewa, Wyandot, and Potawatomi Indians, 11/17/1807 (National Archives Identifier 596331) |",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-18",
-      "updated_at": "2026-08-25T04:12:20.026483+00:00"
     },
     {
       "id": "b0dc665db976f778",

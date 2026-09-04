@@ -1,7 +1,7 @@
 {
   "schema_version": "6.1B",
-  "updated_at": "2026-09-03T08:17:32.429441+00:00",
-  "count": 57,
+  "updated_at": "2026-09-04T08:12:23.079567+00:00",
+  "count": 58,
   "articles": [
     {
       "id": "8da5ee15834d64b7",
@@ -9,8 +9,8 @@
       "title": "Archaeological Survey of India",
       "summary": "India is singularly rich in epigraphical wealth. It is estimated that so far more than one lakh inscriptions have been discovered from the length and breadth of the country, and still a large number of inscriptions have to be brought to light by conducting an intensive and systematic survey of our vast sub- continent. [...] Epigraphy forms one of the very important sources for understanding the hi",
       "category": "Archaeology & Ancient Discoveries",
-      "date": "2026-09-03",
-      "published_at": "2026-09-03",
+      "date": "2026-09-04",
+      "published_at": "2026-09-04",
       "source_published_at": null,
       "source": "asi.nic.in",
       "source_url": "https://asi.nic.in/pages/Epigraphy-Branch/HQ",
@@ -31,7 +31,217 @@
         }
       },
       "first_published": "2026-08-14",
-      "updated_at": "2026-09-03T08:17:35.854498+00:00"
+      "updated_at": "2026-09-04T08:12:26.894495+00:00"
+    },
+    {
+      "id": "402822a2a4d39597",
+      "slug": "palm-leaf-manuscript-wikipedia-402822a2",
+      "title": "Palm-leaf manuscript - Wikipedia",
+      "summary": "One of the oldest surviving Sanskrit manuscripts on palm leaves is of the Parameshvaratantra, a Shaiva Siddhanta text of Hinduism. It is from the 9th century, and dated to about 828 CE. The discovered palm-leaf collection also includes a few parts of another text, the Jñānārṇavamahātantra, currently held by the University of Cambridge. [...] One of the oldest surviving complete palm leaf manuscrip",
+      "category": "Archaeology & Ancient Discoveries",
+      "date": "2026-09-04",
+      "published_at": "2026-09-04",
+      "source_published_at": null,
+      "source": "en.wikipedia.org",
+      "source_url": "https://en.wikipedia.org/wiki/Palm-leaf_manuscript",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "Palm-leaf manuscript - Wikipedia",
+          "summary": "One of the oldest surviving Sanskrit manuscripts on palm leaves is of the Parameshvaratantra, a Shaiva Siddhanta text of Hinduism. It is from the 9th century, and dated to about 828 CE. The discovered palm-leaf collection also includes a few parts of another text, the Jñānārṇavamahātantra, currently held by the University of Cambridge. [...] One of the oldest surviving complete palm leaf manuscrip",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-09-04",
+      "updated_at": "2026-09-04"
+    },
+    {
+      "id": "58e75015b936dd9e",
+      "slug": "india-s-ancient-scientific-knowledge-india-foundation-58e75015",
+      "title": "India’s Ancient Scientific Knowledge – India Foundation",
+      "summary": "Ancient Indian mathematicians made advancements in algebra(#_edn2) and trigonometry. Aryabhata’s work named Āryabhatiya contained solutions to quadratic equations. He introduced trigonometric functions in the context of astronomy. Trigonometry was used to construct fire altars in various shapes like bird (Garuda) shape, as described in texts like Yajurveda. Baudhāyana (800-740 BCE), provided an ap",
+      "category": "Archaeology & Ancient Discoveries",
+      "date": "2026-09-04",
+      "published_at": "2026-09-04",
+      "source_published_at": null,
+      "source": "indiafoundation.in",
+      "source_url": "https://indiafoundation.in/articles-and-commentaries/indias-ancient-scientific-knowledge",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "India’s Ancient Scientific Knowledge – India Foundation",
+          "summary": "Ancient Indian mathematicians made advancements in algebra(#_edn2) and trigonometry. Aryabhata’s work named Āryabhatiya contained solutions to quadratic equations. He introduced trigonometric functions in the context of astronomy. Trigonometry was used to construct fire altars in various shapes like bird (Garuda) shape, as described in texts like Yajurveda. Baudhāyana (800-740 BCE), provided an ap",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-19",
+      "updated_at": "2026-09-04T08:12:26.889661+00:00"
+    },
+    {
+      "id": "5ed1656dbf0a05ba",
+      "slug": "toward-a-critical-edition-of-the-la-k-vat-ras-tra-the-significance-of-the-palm-leaf-manuscript-5ed1656d",
+      "title": "(PDF) Toward a Critical Edition of the Laṅkāvatārasūtra: The Significance of the Palm leaf Manuscript",
+      "summary": "This article examines a newly discovered and recently published Sanskrit manuscript of the Jayamatiparipṛcchāsūtra (“Inquiry of Jayamati”) and documents its relationship, previously unrecognized, as part of the Śūraṃgama-samādhisūtra (“The Concentration of Heroic Progress”). While both texts are classified as Mahāyāna sūtras, the Jayamati-paripṛcchā depicts its content as spoken by the Buddha whil",
+      "category": "Vedic & Manuscript Research",
+      "date": "2026-09-04",
+      "published_at": "2026-09-04",
+      "source_published_at": null,
+      "source": "academia.edu",
+      "source_url": "https://www.academia.edu/46471964/Toward_a_Critical_Edition_of_the_La%E1%B9%85k%C4%81vat%C4%81ras%C5%ABtra_The_Significance_of_the_Palm_leaf_Manuscript",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "(PDF) Toward a Critical Edition of the Laṅkāvatārasūtra: The Significance of the Palm leaf Manuscript",
+          "summary": "This article examines a newly discovered and recently published Sanskrit manuscript of the Jayamatiparipṛcchāsūtra (“Inquiry of Jayamati”) and documents its relationship, previously unrecognized, as part of the Śūraṃgama-samādhisūtra (“The Concentration of Heroic Progress”). While both texts are classified as Mahāyāna sūtras, the Jayamati-paripṛcchā depicts its content as spoken by the Buddha whil",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-14",
+      "updated_at": "2026-09-04T08:12:26.888823+00:00"
+    },
+    {
+      "id": "b62f3abad5426a8c",
+      "slug": "official-website-of-national-archives-of-india-government-of-india-b62f3aba",
+      "title": "Official website of National Archives of India, Government of India",
+      "summary": "The National Archives of India is the custodian of the records of enduring value of the Government of India. Established on 11 March 1891 at Calcutta (Kolkata) as the Imperial Records Department, the National Archives of India is the custodian of the records of enduring value. It is the biggest archival repository in South Asia. It has a vast corpus of records viz., public records, private papers,",
+      "category": "Vedic & Manuscript Research",
+      "date": "2026-09-04",
+      "published_at": "2026-09-04",
+      "source_published_at": null,
+      "source": "nationalarchives.nic.in",
+      "source_url": "https://nationalarchives.nic.in/en",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "Official website of National Archives of India, Government of India",
+          "summary": "The National Archives of India is the custodian of the records of enduring value of the Government of India. Established on 11 March 1891 at Calcutta (Kolkata) as the Imperial Records Department, the National Archives of India is the custodian of the records of enduring value. It is the biggest archival repository in South Asia. It has a vast corpus of records viz., public records, private papers,",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-14",
+      "updated_at": "2026-09-04T08:12:26.887131+00:00"
+    },
+    {
+      "id": "560b52cdb5b2cb0e",
+      "slug": "national-archives-items-in-the-world-digital-library-national-archives-560b52cd",
+      "title": "National Archives Items in the World Digital Library | National Archives",
+      "summary": "| Bill of Rights, 09/25/1789 (National Archives Identifier 1408042) | Illustrated Family Record (Fraktur) Found in Revolutionary War Pension and Bounty-Land-Warrant Application File W3079, for Philip Frey, Pennsylvania, ca. 1800 - ca. 1900 (National Archives Identifier 300195) | Treaty between the Ottawa, Chippewa, Wyandot, and Potawatomi Indians, 11/17/1807 (National Archives Identifier 596331) |",
+      "category": "Global Cultural & Temple Events",
+      "date": "2026-09-04",
+      "published_at": "2026-09-04",
+      "source_published_at": null,
+      "source": "archives.gov",
+      "source_url": "https://www.archives.gov/research/world-digital-library",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "National Archives Items in the World Digital Library | National Archives",
+          "summary": "| Bill of Rights, 09/25/1789 (National Archives Identifier 1408042) | Illustrated Family Record (Fraktur) Found in Revolutionary War Pension and Bounty-Land-Warrant Application File W3079, for Philip Frey, Pennsylvania, ca. 1800 - ca. 1900 (National Archives Identifier 300195) | Treaty between the Ottawa, Chippewa, Wyandot, and Potawatomi Indians, 11/17/1807 (National Archives Identifier 596331) |",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-18",
+      "updated_at": "2026-09-04T08:12:26.885551+00:00"
+    },
+    {
+      "id": "16622bf6babbbfce",
+      "slug": "revitalizing-indian-knowledge-systems-in-education-a-new-era-for-nep-2020-16622bf6",
+      "title": "From Gurukul to Global: Indian Knowledge Systems Shaping NEP 2020 | International Journal of Innovations in Science, Engineering And Management",
+      "summary": "India's educational system experienced an important shift with the National Education Policy (NEP) 2020, which focuses on a return to the roots while educating students for a global future. The intentional integration of Indian Knowledge Systems (IKS), an immense collection of indigenous philosophies, sciences, arts, and pedagogies that have developed over millennia, lies at the core of this chang",
+      "category": "Daily Research Hook / Topic Idea",
+      "date": "2026-09-04",
+      "published_at": "2026-09-04",
+      "source_published_at": null,
+      "source": "ijisem.com",
+      "source_url": "https://ijisem.com/journal/index.php/ijisem/article/view/380",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "From Gurukul to Global: Indian Knowledge Systems Shaping NEP 2020 | International Journal of Innovations in Science, Engineering And Management",
+          "summary": "India's educational system experienced an important shift with the National Education Policy (NEP) 2020, which focuses on a return to the roots while educating students for a global future. The intentional integration of Indian Knowledge Systems (IKS), an immense collection of indigenous philosophies, sciences, arts, and pedagogies that have developed over millennia, lies at the core of this chang",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-17",
+      "updated_at": "2026-09-04T08:12:26.884478+00:00"
+    },
+    {
+      "id": "bb47e5c67a2eefa0",
+      "slug": "revitalizing-indian-education-integrating-traditional-knowledge-systems-into-modern-learning-bb47e5c6",
+      "title": "From Gurukul to Global Classroom: A Spiral Pedagogical Model for Integrating Indian Knowledge Systems Across Lifelong Learning",
+      "summary": "learning. This research proposes the Spiral Pedagogical Model as a conceptual framework for integrating IKS from early childhood education to higher education and adult learning. The research begins by examining the fundamental pedagogical elements of the Gurukul system, such as experiential education, the guru-shishya Parampara, moral and spiritual development, and community-based education, to d",
+      "category": "Daily Research Hook / Topic Idea",
+      "date": "2026-09-04",
+      "published_at": "2026-09-04",
+      "source_published_at": null,
+      "source": "ijsrm.net",
+      "source_url": "https://ijsrm.net/index.php/ijsrm/article/view/7067",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "From Gurukul to Global Classroom: A Spiral Pedagogical Model for Integrating Indian Knowledge Systems Across Lifelong Learning",
+          "summary": "learning. This research proposes the Spiral Pedagogical Model as a conceptual framework for integrating IKS from early childhood education to higher education and adult learning. The research begins by examining the fundamental pedagogical elements of the Gurukul system, such as experiential education, the guru-shishya Parampara, moral and spiritual development, and community-based education, to d",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-14",
+      "updated_at": "2026-09-04T08:12:26.881905+00:00"
     },
     {
       "id": "c23a3b47acaf8a84",
@@ -64,66 +274,6 @@
       "updated_at": "2026-09-03T08:17:35.853700+00:00"
     },
     {
-      "id": "58e75015b936dd9e",
-      "slug": "india-s-ancient-scientific-knowledge-india-foundation-58e75015",
-      "title": "India’s Ancient Scientific Knowledge – India Foundation",
-      "summary": "Ancient Indian mathematicians made advancements in algebra(#_edn2) and trigonometry. Aryabhata’s work named Āryabhatiya contained solutions to quadratic equations. He introduced trigonometric functions in the context of astronomy. Trigonometry was used to construct fire altars in various shapes like bird (Garuda) shape, as described in texts like Yajurveda. Baudhāyana (800-740 BCE), provided an ap",
-      "category": "Archaeology & Ancient Discoveries",
-      "date": "2026-09-03",
-      "published_at": "2026-09-03",
-      "source_published_at": null,
-      "source": "indiafoundation.in",
-      "source_url": "https://indiafoundation.in/articles-and-commentaries/indias-ancient-scientific-knowledge",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "India’s Ancient Scientific Knowledge – India Foundation",
-          "summary": "Ancient Indian mathematicians made advancements in algebra(#_edn2) and trigonometry. Aryabhata’s work named Āryabhatiya contained solutions to quadratic equations. He introduced trigonometric functions in the context of astronomy. Trigonometry was used to construct fire altars in various shapes like bird (Garuda) shape, as described in texts like Yajurveda. Baudhāyana (800-740 BCE), provided an ap",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-19",
-      "updated_at": "2026-09-03T08:17:35.851712+00:00"
-    },
-    {
-      "id": "5ed1656dbf0a05ba",
-      "slug": "toward-a-critical-edition-of-the-la-k-vat-ras-tra-the-significance-of-the-palm-leaf-manuscript-5ed1656d",
-      "title": "(PDF) Toward a Critical Edition of the Laṅkāvatārasūtra: The Significance of the Palm leaf Manuscript",
-      "summary": "This article examines a newly discovered and recently published Sanskrit manuscript of the Jayamatiparipṛcchāsūtra (“Inquiry of Jayamati”) and documents its relationship, previously unrecognized, as part of the Śūraṃgama-samādhisūtra (“The Concentration of Heroic Progress”). While both texts are classified as Mahāyāna sūtras, the Jayamati-paripṛcchā depicts its content as spoken by the Buddha whil",
-      "category": "Vedic & Manuscript Research",
-      "date": "2026-09-03",
-      "published_at": "2026-09-03",
-      "source_published_at": null,
-      "source": "academia.edu",
-      "source_url": "https://www.academia.edu/46471964/Toward_a_Critical_Edition_of_the_La%E1%B9%85k%C4%81vat%C4%81ras%C5%ABtra_The_Significance_of_the_Palm_leaf_Manuscript",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "(PDF) Toward a Critical Edition of the Laṅkāvatārasūtra: The Significance of the Palm leaf Manuscript",
-          "summary": "This article examines a newly discovered and recently published Sanskrit manuscript of the Jayamatiparipṛcchāsūtra (“Inquiry of Jayamati”) and documents its relationship, previously unrecognized, as part of the Śūraṃgama-samādhisūtra (“The Concentration of Heroic Progress”). While both texts are classified as Mahāyāna sūtras, the Jayamati-paripṛcchā depicts its content as spoken by the Buddha whil",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-14",
-      "updated_at": "2026-09-03T08:17:35.848767+00:00"
-    },
-    {
       "id": "7c8ab585e5d56dcb",
       "slug": "nyaya-vaisesika-and-mimamsa-schools-a-comparative-study-of-their-epistemological-and-ontological-7c8ab585",
       "title": "NYAYA-VAISESIKA AND MIMAMSA SCHOOLS: A COMPARATIVE STUDY OF THEIR EPISTEMOLOGICAL AND ONTOLOGICAL THEORIES | International Education and Research Journal (IERJ)",
@@ -152,66 +302,6 @@
       },
       "first_published": "2026-08-23",
       "updated_at": "2026-09-03T08:17:35.845502+00:00"
-    },
-    {
-      "id": "560b52cdb5b2cb0e",
-      "slug": "national-archives-items-in-the-world-digital-library-national-archives-560b52cd",
-      "title": "National Archives Items in the World Digital Library",
-      "summary": "| Bill of Rights, 09/25/1789 (National Archives Identifier 1408042) | Illustrated Family Record (Fraktur) Found in Revolutionary War Pension and Bounty-Land-Warrant Application File W3079, for Philip Frey, Pennsylvania, ca. 1800 - ca. 1900 (National Archives Identifier 300195) | Treaty between the Ottawa, Chippewa, Wyandot, and Potawatomi Indians, 11/17/1807 (National Archives Identifier 596331) |",
-      "category": "Global Cultural & Temple Events",
-      "date": "2026-09-03",
-      "published_at": "2026-09-03",
-      "source_published_at": null,
-      "source": "archives.gov",
-      "source_url": "https://www.archives.gov/research/world-digital-library",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "National Archives Items in the World Digital Library",
-          "summary": "| Bill of Rights, 09/25/1789 (National Archives Identifier 1408042) | Illustrated Family Record (Fraktur) Found in Revolutionary War Pension and Bounty-Land-Warrant Application File W3079, for Philip Frey, Pennsylvania, ca. 1800 - ca. 1900 (National Archives Identifier 300195) | Treaty between the Ottawa, Chippewa, Wyandot, and Potawatomi Indians, 11/17/1807 (National Archives Identifier 596331) |",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-18",
-      "updated_at": "2026-09-03T08:17:35.843366+00:00"
-    },
-    {
-      "id": "bb47e5c67a2eefa0",
-      "slug": "revitalizing-indian-education-integrating-traditional-knowledge-systems-into-modern-learning-bb47e5c6",
-      "title": "From Gurukul to Global Classroom: A Spiral Pedagogical Model for Integrating Indian Knowledge Systems Across Lifelong Learning",
-      "summary": "learning. This research proposes the Spiral Pedagogical Model as a conceptual framework for integrating IKS from early childhood education to higher education and adult learning. The research begins by examining the fundamental pedagogical elements of the Gurukul system, such as experiential education, the guru-shishya Parampara, moral and spiritual development, and community-based education, to d",
-      "category": "Daily Research Hook / Topic Idea",
-      "date": "2026-09-03",
-      "published_at": "2026-09-03",
-      "source_published_at": null,
-      "source": "ijsrm.net",
-      "source_url": "https://ijsrm.net/index.php/ijsrm/article/view/7067",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "From Gurukul to Global Classroom: A Spiral Pedagogical Model for Integrating Indian Knowledge Systems Across Lifelong Learning",
-          "summary": "learning. This research proposes the Spiral Pedagogical Model as a conceptual framework for integrating IKS from early childhood education to higher education and adult learning. The research begins by examining the fundamental pedagogical elements of the Gurukul system, such as experiential education, the guru-shishya Parampara, moral and spiritual development, and community-based education, to d",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-14",
-      "updated_at": "2026-09-03T08:17:35.839414+00:00"
     },
     {
       "id": "3b146254b62d8e84",
@@ -274,36 +364,6 @@
       "updated_at": "2026-09-02"
     },
     {
-      "id": "b62f3abad5426a8c",
-      "slug": "official-website-of-national-archives-of-india-government-of-india-b62f3aba",
-      "title": "Official website of National Archives of India, Government of India",
-      "summary": "The National Archives of India is the custodian of the records of enduring value of the Government of India. Established on 11 March 1891 at Calcutta (Kolkata) as the Imperial Records Department, the National Archives of India is the custodian of the records of enduring value. It is the biggest archival repository in South Asia. It has a vast corpus of records viz., public records, private papers,",
-      "category": "Vedic & Manuscript Research",
-      "date": "2026-09-02",
-      "published_at": "2026-09-02",
-      "source_published_at": null,
-      "source": "nationalarchives.nic.in",
-      "source_url": "https://nationalarchives.nic.in/en",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "Official website of National Archives of India, Government of India",
-          "summary": "The National Archives of India is the custodian of the records of enduring value of the Government of India. Established on 11 March 1891 at Calcutta (Kolkata) as the Imperial Records Department, the National Archives of India is the custodian of the records of enduring value. It is the biggest archival repository in South Asia. It has a vast corpus of records viz., public records, private papers,",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-14",
-      "updated_at": "2026-09-02T08:07:33.452807+00:00"
-    },
-    {
       "id": "82bda81ff2aaf25a",
       "slug": "university-of-southern-mississippi-82bda81f",
       "title": "University of Southern Mississippi",
@@ -362,36 +422,6 @@
       },
       "first_published": "2026-08-21",
       "updated_at": "2026-09-02T08:07:33.441269+00:00"
-    },
-    {
-      "id": "16622bf6babbbfce",
-      "slug": "revitalizing-indian-knowledge-systems-in-education-a-new-era-for-nep-2020-16622bf6",
-      "title": "From Gurukul to Global: Indian Knowledge Systems Shaping NEP 2020 | International Journal of Innovations in Science, Engineering And Management",
-      "summary": "India's educational system experienced an important shift with the National Education Policy (NEP) 2020, which focuses on a return to the roots while educating students for a global future. The intentional integration of Indian Knowledge Systems (IKS), an immense collection of indigenous philosophies, sciences, arts, and pedagogies that have developed over millennia, lies at the core of this chang",
-      "category": "Daily Research Hook / Topic Idea",
-      "date": "2026-09-02",
-      "published_at": "2026-09-02",
-      "source_published_at": null,
-      "source": "ijisem.com",
-      "source_url": "https://ijisem.com/journal/index.php/ijisem/article/view/380",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "From Gurukul to Global: Indian Knowledge Systems Shaping NEP 2020 | International Journal of Innovations in Science, Engineering And Management",
-          "summary": "India's educational system experienced an important shift with the National Education Policy (NEP) 2020, which focuses on a return to the roots while educating students for a global future. The intentional integration of Indian Knowledge Systems (IKS), an immense collection of indigenous philosophies, sciences, arts, and pedagogies that have developed over millennia, lies at the core of this chang",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-17",
-      "updated_at": "2026-09-02T08:07:33.436662+00:00"
     },
     {
       "id": "fded457cd5c61907",

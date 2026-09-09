@@ -1,8 +1,248 @@
 {
   "schema_version": "6.1B",
-  "updated_at": "2026-09-08T08:19:50.522579+00:00",
+  "updated_at": "2026-09-09T08:23:00.522513+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "8da5ee15834d64b7",
+      "slug": "archaeological-survey-of-india-8da5ee15",
+      "title": "Archaeological Survey of India",
+      "summary": "India is singularly rich in epigraphical wealth. It is estimated that so far more than one lakh inscriptions have been discovered from the length and breadth of the country, and still a large number of inscriptions have to be brought to light by conducting an intensive and systematic survey of our vast sub- continent. [...] Epigraphy forms one of the very important sources for understanding the hi",
+      "category": "Archaeology & Ancient Discoveries",
+      "date": "2026-09-09",
+      "published_at": "2026-09-09",
+      "source_published_at": null,
+      "source": "asi.nic.in",
+      "source_url": "https://asi.nic.in/pages/Epigraphy-Branch/HQ",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "Archaeological Survey of India",
+          "summary": "India is singularly rich in epigraphical wealth. It is estimated that so far more than one lakh inscriptions have been discovered from the length and breadth of the country, and still a large number of inscriptions have to be brought to light by conducting an intensive and systematic survey of our vast sub- continent. [...] Epigraphy forms one of the very important sources for understanding the hi",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-14",
+      "updated_at": "2026-09-09T08:23:03.823722+00:00"
+    },
+    {
+      "id": "bb47e5c67a2eefa0",
+      "slug": "revitalizing-indian-education-integrating-traditional-knowledge-systems-into-modern-learning-bb47e5c6",
+      "title": "From Gurukul to Global Classroom: A Spiral Pedagogical Model for Integrating Indian Knowledge Systems Across Lifelong Learning",
+      "summary": "learning. This research proposes the Spiral Pedagogical Model as a conceptual framework for integrating IKS from early childhood education to higher education and adult learning. The research begins by examining the fundamental pedagogical elements of the Gurukul system, such as experiential education, the guru-shishya Parampara, moral and spiritual development, and community-based education, to d",
+      "category": "Archaeology & Ancient Discoveries",
+      "date": "2026-09-09",
+      "published_at": "2026-09-09",
+      "source_published_at": null,
+      "source": "ijsrm.net",
+      "source_url": "https://ijsrm.net/index.php/ijsrm/article/view/7067",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "From Gurukul to Global Classroom: A Spiral Pedagogical Model for Integrating Indian Knowledge Systems Across Lifelong Learning",
+          "summary": "learning. This research proposes the Spiral Pedagogical Model as a conceptual framework for integrating IKS from early childhood education to higher education and adult learning. The research begins by examining the fundamental pedagogical elements of the Gurukul system, such as experiential education, the guru-shishya Parampara, moral and spiritual development, and community-based education, to d",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-14",
+      "updated_at": "2026-09-09T08:23:03.823065+00:00"
+    },
+    {
+      "id": "58e75015b936dd9e",
+      "slug": "india-s-ancient-scientific-knowledge-india-foundation-58e75015",
+      "title": "India’s Ancient Scientific Knowledge – India Foundation",
+      "summary": "Ancient Indian mathematicians made advancements in algebra(#_edn2) and trigonometry. Aryabhata’s work named Āryabhatiya contained solutions to quadratic equations. He introduced trigonometric functions in the context of astronomy. Trigonometry was used to construct fire altars in various shapes like bird (Garuda) shape, as described in texts like Yajurveda. Baudhāyana (800-740 BCE), provided an ap",
+      "category": "Archaeology & Ancient Discoveries",
+      "date": "2026-09-09",
+      "published_at": "2026-09-09",
+      "source_published_at": null,
+      "source": "indiafoundation.in",
+      "source_url": "https://indiafoundation.in/articles-and-commentaries/indias-ancient-scientific-knowledge",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "India’s Ancient Scientific Knowledge – India Foundation",
+          "summary": "Ancient Indian mathematicians made advancements in algebra(#_edn2) and trigonometry. Aryabhata’s work named Āryabhatiya contained solutions to quadratic equations. He introduced trigonometric functions in the context of astronomy. Trigonometry was used to construct fire altars in various shapes like bird (Garuda) shape, as described in texts like Yajurveda. Baudhāyana (800-740 BCE), provided an ap",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-19",
+      "updated_at": "2026-09-09T08:23:03.821076+00:00"
+    },
+    {
+      "id": "5ed1656dbf0a05ba",
+      "slug": "toward-a-critical-edition-of-the-la-k-vat-ras-tra-the-significance-of-the-palm-leaf-manuscript-5ed1656d",
+      "title": "(PDF) Toward a Critical Edition of the Laṅkāvatārasūtra: The Significance of the Palm leaf Manuscript",
+      "summary": "This article examines a newly discovered and recently published Sanskrit manuscript of the Jayamatiparipṛcchāsūtra (“Inquiry of Jayamati”) and documents its relationship, previously unrecognized, as part of the Śūraṃgama-samādhisūtra (“The Concentration of Heroic Progress”). While both texts are classified as Mahāyāna sūtras, the Jayamati-paripṛcchā depicts its content as spoken by the Buddha whil",
+      "category": "Vedic & Manuscript Research",
+      "date": "2026-09-09",
+      "published_at": "2026-09-09",
+      "source_published_at": null,
+      "source": "academia.edu",
+      "source_url": "https://www.academia.edu/46471964/Toward_a_Critical_Edition_of_the_La%E1%B9%85k%C4%81vat%C4%81ras%C5%ABtra_The_Significance_of_the_Palm_leaf_Manuscript",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "(PDF) Toward a Critical Edition of the Laṅkāvatārasūtra: The Significance of the Palm leaf Manuscript",
+          "summary": "This article examines a newly discovered and recently published Sanskrit manuscript of the Jayamatiparipṛcchāsūtra (“Inquiry of Jayamati”) and documents its relationship, previously unrecognized, as part of the Śūraṃgama-samādhisūtra (“The Concentration of Heroic Progress”). While both texts are classified as Mahāyāna sūtras, the Jayamati-paripṛcchā depicts its content as spoken by the Buddha whil",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-14",
+      "updated_at": "2026-09-09T08:23:03.820302+00:00"
+    },
+    {
+      "id": "b62f3abad5426a8c",
+      "slug": "official-website-of-national-archives-of-india-government-of-india-b62f3aba",
+      "title": "Official website of National Archives of India, Government of India",
+      "summary": "The National Archives of India is the custodian of the records of enduring value of the Government of India. Established on 11 March 1891 at Calcutta (Kolkata) as the Imperial Records Department, the National Archives of India is the custodian of the records of enduring value. It is the biggest archival repository in South Asia. It has a vast corpus of records viz., public records, private papers,",
+      "category": "Vedic & Manuscript Research",
+      "date": "2026-09-09",
+      "published_at": "2026-09-09",
+      "source_published_at": null,
+      "source": "nationalarchives.nic.in",
+      "source_url": "https://nationalarchives.nic.in/en",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "Official website of National Archives of India, Government of India",
+          "summary": "The National Archives of India is the custodian of the records of enduring value of the Government of India. Established on 11 March 1891 at Calcutta (Kolkata) as the Imperial Records Department, the National Archives of India is the custodian of the records of enduring value. It is the biggest archival repository in South Asia. It has a vast corpus of records viz., public records, private papers,",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-14",
+      "updated_at": "2026-09-09T08:23:03.818922+00:00"
+    },
+    {
+      "id": "f68f08653a8e4fed",
+      "slug": "nyaya-religion-and-philosophy-research-starters-ebscohost-f68f0865",
+      "title": "Nyaya | Religion and Philosophy | Research Starters | EBSCOhost",
+      "summary": "## Full Article\n\nNyaya is one of the classical schools of Indian philosophy within the Hindu tradition. It is one of the six darshans of Hinduism. Darshans are paths by which people may interact with the divine. The other darshans include Samkhya, Yoga, Vaisheshika, Mimamsa, and Vedanta. Each darshan attempts to interact with the divine in a different manner. [...] ## Full Article\n\nNyaya is one of",
+      "category": "Vedic & Manuscript Research",
+      "date": "2026-09-09",
+      "published_at": "2026-09-09",
+      "source_published_at": null,
+      "source": "ebsco.com",
+      "source_url": "https://www.ebsco.com/research-starters/religion-and-philosophy/nyaya",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "Nyaya | Religion and Philosophy | Research Starters | EBSCOhost",
+          "summary": "## Full Article\n\nNyaya is one of the classical schools of Indian philosophy within the Hindu tradition. It is one of the six darshans of Hinduism. Darshans are paths by which people may interact with the divine. The other darshans include Samkhya, Yoga, Vaisheshika, Mimamsa, and Vedanta. Each darshan attempts to interact with the divine in a different manner. [...] ## Full Article\n\nNyaya is one of",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-09-09",
+      "updated_at": "2026-09-09"
+    },
+    {
+      "id": "5415d1afc8050325",
+      "slug": "american-indian-and-alaska-native-records-in-the-national-archives-national-archives-5415d1af",
+      "title": "American Indian and Alaska Native Records in the National Archives | National Archives",
+      "summary": "To help you answer this question, use the navigation options below to explore the vast resources relating to American Indian and Alaska Native research.\n\nIf you are just beginning archival research, please review guidance about getting started.\n\nPlease note: Although some records related to American Indians and Alaska Natives are digitized and available online, there are many records that are only",
+      "category": "Global Cultural & Temple Events",
+      "date": "2026-09-09",
+      "published_at": "2026-09-09",
+      "source_published_at": null,
+      "source": "archives.gov",
+      "source_url": "https://www.archives.gov/research/native-americans",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "American Indian and Alaska Native Records in the National Archives | National Archives",
+          "summary": "To help you answer this question, use the navigation options below to explore the vast resources relating to American Indian and Alaska Native research.\n\nIf you are just beginning archival research, please review guidance about getting started.\n\nPlease note: Although some records related to American Indians and Alaska Natives are digitized and available online, there are many records that are only",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-21",
+      "updated_at": "2026-09-09T08:23:03.807646+00:00"
+    },
+    {
+      "id": "16622bf6babbbfce",
+      "slug": "revitalizing-indian-knowledge-systems-in-education-a-new-era-for-nep-2020-16622bf6",
+      "title": "From Gurukul to Global: Indian Knowledge Systems Shaping NEP 2020 | International Journal of Innovations in Science, Engineering And Management",
+      "summary": "India's educational system experienced an important shift with the National Education Policy (NEP) 2020, which focuses on a return to the roots while educating students for a global future. The intentional integration of Indian Knowledge Systems (IKS), an immense collection of indigenous philosophies, sciences, arts, and pedagogies that have developed over millennia, lies at the core of this chang",
+      "category": "Daily Research Hook / Topic Idea",
+      "date": "2026-09-09",
+      "published_at": "2026-09-09",
+      "source_published_at": null,
+      "source": "ijisem.com",
+      "source_url": "https://ijisem.com/journal/index.php/ijisem/article/view/380",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "From Gurukul to Global: Indian Knowledge Systems Shaping NEP 2020 | International Journal of Innovations in Science, Engineering And Management",
+          "summary": "India's educational system experienced an important shift with the National Education Policy (NEP) 2020, which focuses on a return to the roots while educating students for a global future. The intentional integration of Indian Knowledge Systems (IKS), an immense collection of indigenous philosophies, sciences, arts, and pedagogies that have developed over millennia, lies at the core of this chang",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-17",
+      "updated_at": "2026-09-09T08:23:03.806260+00:00"
+    },
     {
       "id": "6aec9242aa96fee7",
       "slug": "research-news-hindu-research-portal-6aec9242",
@@ -34,96 +274,6 @@
       "updated_at": "2026-09-08"
     },
     {
-      "id": "8da5ee15834d64b7",
-      "slug": "archaeological-survey-of-india-8da5ee15",
-      "title": "Archaeological Survey of India",
-      "summary": "India is singularly rich in epigraphical wealth. It is estimated that so far more than one lakh inscriptions have been discovered from the length and breadth of the country, and still a large number of inscriptions have to be brought to light by conducting an intensive and systematic survey of our vast sub- continent. [...] Epigraphy forms one of the very important sources for understanding the hi",
-      "category": "Archaeology & Ancient Discoveries",
-      "date": "2026-09-08",
-      "published_at": "2026-09-08",
-      "source_published_at": null,
-      "source": "asi.nic.in",
-      "source_url": "https://asi.nic.in/pages/Epigraphy-Branch/HQ",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "Archaeological Survey of India",
-          "summary": "India is singularly rich in epigraphical wealth. It is estimated that so far more than one lakh inscriptions have been discovered from the length and breadth of the country, and still a large number of inscriptions have to be brought to light by conducting an intensive and systematic survey of our vast sub- continent. [...] Epigraphy forms one of the very important sources for understanding the hi",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-14",
-      "updated_at": "2026-09-08T08:19:52.856373+00:00"
-    },
-    {
-      "id": "58e75015b936dd9e",
-      "slug": "india-s-ancient-scientific-knowledge-india-foundation-58e75015",
-      "title": "India’s Ancient Scientific Knowledge – India Foundation",
-      "summary": "Ancient Indian mathematicians made advancements in algebra(#_edn2) and trigonometry. Aryabhata’s work named Āryabhatiya contained solutions to quadratic equations. He introduced trigonometric functions in the context of astronomy. Trigonometry was used to construct fire altars in various shapes like bird (Garuda) shape, as described in texts like Yajurveda. Baudhāyana (800-740 BCE), provided an ap",
-      "category": "Archaeology & Ancient Discoveries",
-      "date": "2026-09-08",
-      "published_at": "2026-09-08",
-      "source_published_at": null,
-      "source": "indiafoundation.in",
-      "source_url": "https://indiafoundation.in/articles-and-commentaries/indias-ancient-scientific-knowledge",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "India’s Ancient Scientific Knowledge – India Foundation",
-          "summary": "Ancient Indian mathematicians made advancements in algebra(#_edn2) and trigonometry. Aryabhata’s work named Āryabhatiya contained solutions to quadratic equations. He introduced trigonometric functions in the context of astronomy. Trigonometry was used to construct fire altars in various shapes like bird (Garuda) shape, as described in texts like Yajurveda. Baudhāyana (800-740 BCE), provided an ap",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-19",
-      "updated_at": "2026-09-08T08:19:52.855145+00:00"
-    },
-    {
-      "id": "5ed1656dbf0a05ba",
-      "slug": "toward-a-critical-edition-of-the-la-k-vat-ras-tra-the-significance-of-the-palm-leaf-manuscript-5ed1656d",
-      "title": "(PDF) Toward a Critical Edition of the Laṅkāvatārasūtra: The Significance of the Palm leaf Manuscript",
-      "summary": "This article examines a newly discovered and recently published Sanskrit manuscript of the Jayamatiparipṛcchāsūtra (“Inquiry of Jayamati”) and documents its relationship, previously unrecognized, as part of the Śūraṃgama-samādhisūtra (“The Concentration of Heroic Progress”). While both texts are classified as Mahāyāna sūtras, the Jayamati-paripṛcchā depicts its content as spoken by the Buddha whil",
-      "category": "Vedic & Manuscript Research",
-      "date": "2026-09-08",
-      "published_at": "2026-09-08",
-      "source_published_at": null,
-      "source": "academia.edu",
-      "source_url": "https://www.academia.edu/46471964/Toward_a_Critical_Edition_of_the_La%E1%B9%85k%C4%81vat%C4%81ras%C5%ABtra_The_Significance_of_the_Palm_leaf_Manuscript",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "(PDF) Toward a Critical Edition of the Laṅkāvatārasūtra: The Significance of the Palm leaf Manuscript",
-          "summary": "This article examines a newly discovered and recently published Sanskrit manuscript of the Jayamatiparipṛcchāsūtra (“Inquiry of Jayamati”) and documents its relationship, previously unrecognized, as part of the Śūraṃgama-samādhisūtra (“The Concentration of Heroic Progress”). While both texts are classified as Mahāyāna sūtras, the Jayamati-paripṛcchā depicts its content as spoken by the Buddha whil",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-14",
-      "updated_at": "2026-09-08T08:19:52.853344+00:00"
-    },
-    {
       "id": "7c8ab585e5d56dcb",
       "slug": "nyaya-vaisesika-and-mimamsa-schools-a-comparative-study-of-their-epistemological-and-ontological-7c8ab585",
       "title": "NYAYA-VAISESIKA AND MIMAMSA SCHOOLS: A COMPARATIVE STUDY OF THEIR EPISTEMOLOGICAL AND ONTOLOGICAL THEORIES | International Education and Research Journal (IERJ)",
@@ -152,66 +302,6 @@
       },
       "first_published": "2026-08-23",
       "updated_at": "2026-09-08T08:19:52.850121+00:00"
-    },
-    {
-      "id": "5415d1afc8050325",
-      "slug": "american-indian-and-alaska-native-records-in-the-national-archives-national-archives-5415d1af",
-      "title": "American Indian and Alaska Native Records in the National Archives | National Archives",
-      "summary": "To help you answer this question, use the navigation options below to explore the vast resources relating to American Indian and Alaska Native research.\n\nIf you are just beginning archival research, please review guidance about getting started.\n\nPlease note: Although some records related to American Indians and Alaska Natives are digitized and available online, there are many records that are only",
-      "category": "Global Cultural & Temple Events",
-      "date": "2026-09-08",
-      "published_at": "2026-09-08",
-      "source_published_at": null,
-      "source": "archives.gov",
-      "source_url": "https://www.archives.gov/research/native-americans",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "American Indian and Alaska Native Records in the National Archives | National Archives",
-          "summary": "To help you answer this question, use the navigation options below to explore the vast resources relating to American Indian and Alaska Native research.\n\nIf you are just beginning archival research, please review guidance about getting started.\n\nPlease note: Although some records related to American Indians and Alaska Natives are digitized and available online, there are many records that are only",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-21",
-      "updated_at": "2026-09-08T08:19:52.847678+00:00"
-    },
-    {
-      "id": "bb47e5c67a2eefa0",
-      "slug": "revitalizing-indian-education-integrating-traditional-knowledge-systems-into-modern-learning-bb47e5c6",
-      "title": "From Gurukul to Global Classroom: A Spiral Pedagogical Model for Integrating Indian Knowledge Systems Across Lifelong Learning",
-      "summary": "learning. This research proposes the Spiral Pedagogical Model as a conceptual framework for integrating IKS from early childhood education to higher education and adult learning. The research begins by examining the fundamental pedagogical elements of the Gurukul system, such as experiential education, the guru-shishya Parampara, moral and spiritual development, and community-based education, to d",
-      "category": "Daily Research Hook / Topic Idea",
-      "date": "2026-09-08",
-      "published_at": "2026-09-08",
-      "source_published_at": null,
-      "source": "ijsrm.net",
-      "source_url": "https://ijsrm.net/index.php/ijsrm/article/view/7067",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "From Gurukul to Global Classroom: A Spiral Pedagogical Model for Integrating Indian Knowledge Systems Across Lifelong Learning",
-          "summary": "learning. This research proposes the Spiral Pedagogical Model as a conceptual framework for integrating IKS from early childhood education to higher education and adult learning. The research begins by examining the fundamental pedagogical elements of the Gurukul system, such as experiential education, the guru-shishya Parampara, moral and spiritual development, and community-based education, to d",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-14",
-      "updated_at": "2026-09-08T08:19:52.843959+00:00"
     },
     {
       "id": "3b146254b62d8e84",
@@ -484,36 +574,6 @@
       "updated_at": "2026-09-05"
     },
     {
-      "id": "b62f3abad5426a8c",
-      "slug": "official-website-of-national-archives-of-india-government-of-india-b62f3aba",
-      "title": "Official website of National Archives of India, Government of India",
-      "summary": "The National Archives of India is the custodian of the records of enduring value of the Government of India. Established on 11 March 1891 at Calcutta (Kolkata) as the Imperial Records Department, the National Archives of India is the custodian of the records of enduring value. It is the biggest archival repository in South Asia. It has a vast corpus of records viz., public records, private papers,",
-      "category": "Vedic & Manuscript Research",
-      "date": "2026-09-05",
-      "published_at": "2026-09-05",
-      "source_published_at": null,
-      "source": "nationalarchives.nic.in",
-      "source_url": "https://nationalarchives.nic.in/en",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "Official website of National Archives of India, Government of India",
-          "summary": "The National Archives of India is the custodian of the records of enduring value of the Government of India. Established on 11 March 1891 at Calcutta (Kolkata) as the Imperial Records Department, the National Archives of India is the custodian of the records of enduring value. It is the biggest archival repository in South Asia. It has a vast corpus of records viz., public records, private papers,",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-14",
-      "updated_at": "2026-09-05T07:52:04.737566+00:00"
-    },
-    {
       "id": "560b52cdb5b2cb0e",
       "slug": "national-archives-items-in-the-world-digital-library-national-archives-560b52cd",
       "title": "National Archives Items in the World Digital Library",
@@ -572,36 +632,6 @@
       },
       "first_published": "2026-09-04",
       "updated_at": "2026-09-04"
-    },
-    {
-      "id": "16622bf6babbbfce",
-      "slug": "revitalizing-indian-knowledge-systems-in-education-a-new-era-for-nep-2020-16622bf6",
-      "title": "From Gurukul to Global: Indian Knowledge Systems Shaping NEP 2020 | International Journal of Innovations in Science, Engineering And Management",
-      "summary": "India's educational system experienced an important shift with the National Education Policy (NEP) 2020, which focuses on a return to the roots while educating students for a global future. The intentional integration of Indian Knowledge Systems (IKS), an immense collection of indigenous philosophies, sciences, arts, and pedagogies that have developed over millennia, lies at the core of this chang",
-      "category": "Daily Research Hook / Topic Idea",
-      "date": "2026-09-04",
-      "published_at": "2026-09-04",
-      "source_published_at": null,
-      "source": "ijisem.com",
-      "source_url": "https://ijisem.com/journal/index.php/ijisem/article/view/380",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "From Gurukul to Global: Indian Knowledge Systems Shaping NEP 2020 | International Journal of Innovations in Science, Engineering And Management",
-          "summary": "India's educational system experienced an important shift with the National Education Policy (NEP) 2020, which focuses on a return to the roots while educating students for a global future. The intentional integration of Indian Knowledge Systems (IKS), an immense collection of indigenous philosophies, sciences, arts, and pedagogies that have developed over millennia, lies at the core of this chang",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-17",
-      "updated_at": "2026-09-04T08:12:26.884478+00:00"
     },
     {
       "id": "49ed6cf8182ee7c5",
@@ -1465,36 +1495,6 @@
         "en": {
           "title": "Artificial Intelligence, Religion, and Values: Opportunities, Risks, and the Family as the First Line of Defense | Emirates Scholar Center",
           "summary": "advanced neural translation has dissolved long-standing linguistic barriers, exemplified by the real-time rendering of liturgical texts into more than sixty languages, while large language models have surfaced substantial thematic convergences across scriptural and philosophical traditions, with one analysis identifying roughly 73% similarity between the Bhagavad Gita and the Upanishads, opening f",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-18",
-      "updated_at": "2026-08-18"
-    },
-    {
-      "id": "2f58e7bc63088cd6",
-      "slug": "joy-sen-2f58e7bc",
-      "title": "Joy Sen",
-      "summary": "Indology and Indic systems - The areas of research are Community and Regional Planning. Varanasi and Vedanga - Publication 2 (Varanasi Micro Projects) by Sen J.",
-      "category": "Daily Research Hook / Topic Idea",
-      "date": "2026-08-18",
-      "published_at": "2026-08-18",
-      "source_published_at": "Mon, 17 Aug 2026 09:00:00 GMT",
-      "source": "iitkgp.ac.in",
-      "source_url": "https://www.iitkgp.ac.in/department/AR/faculty/ar-joysen",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "Joy Sen",
-          "summary": "Indology and Indic systems - The areas of research are Community and Regional Planning. Varanasi and Vedanga - Publication 2 (Varanasi Micro Projects) by Sen J.",
           "key_takeaways": [],
           "why_this_matters": "",
           "research_hook": ""

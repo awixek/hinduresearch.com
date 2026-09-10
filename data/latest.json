@@ -1,6 +1,6 @@
 {
   "schema_version": "6.1B",
-  "updated_at": "2026-09-09T08:23:00.522513+00:00",
+  "updated_at": "2026-09-10T08:22:56.116499+00:00",
   "count": 50,
   "articles": [
     {
@@ -9,8 +9,8 @@
       "title": "Archaeological Survey of India",
       "summary": "India is singularly rich in epigraphical wealth. It is estimated that so far more than one lakh inscriptions have been discovered from the length and breadth of the country, and still a large number of inscriptions have to be brought to light by conducting an intensive and systematic survey of our vast sub- continent. [...] Epigraphy forms one of the very important sources for understanding the hi",
       "category": "Archaeology & Ancient Discoveries",
-      "date": "2026-09-09",
-      "published_at": "2026-09-09",
+      "date": "2026-09-10",
+      "published_at": "2026-09-10",
       "source_published_at": null,
       "source": "asi.nic.in",
       "source_url": "https://asi.nic.in/pages/Epigraphy-Branch/HQ",
@@ -31,7 +31,217 @@
         }
       },
       "first_published": "2026-08-14",
-      "updated_at": "2026-09-09T08:23:03.823722+00:00"
+      "updated_at": "2026-09-10T08:22:58.909109+00:00"
+    },
+    {
+      "id": "ca9018c26bcf1671",
+      "slug": "unveiling-ancient-india-s-history-through-epigraphs-ca9018c2",
+      "title": "[PDF] A study of Ancient Indian and Early Medieval Epigraphs with special ...",
+      "summary": "by a team of epigraphists. The estampages of the inscriptions are then studied and preserved in various epigraphy branches. The information is disseminated through various publications. In the recent past, the ASI has discovered significant inscriptions in states including Tamil Nadu, Maharashtra, Gujarat and Telangana. The Archaeological Survey of India (ASI) has taken up a total of 67,461 estamp",
+      "category": "Archaeology & Ancient Discoveries",
+      "date": "2026-09-10",
+      "published_at": "2026-09-10",
+      "source_published_at": null,
+      "source": "ijnrd.org",
+      "source_url": "https://www.ijnrd.org/papers/IJNRD2407093.pdf",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "[PDF] A study of Ancient Indian and Early Medieval Epigraphs with special ...",
+          "summary": "by a team of epigraphists. The estampages of the inscriptions are then studied and preserved in various epigraphy branches. The information is disseminated through various publications. In the recent past, the ASI has discovered significant inscriptions in states including Tamil Nadu, Maharashtra, Gujarat and Telangana. The Archaeological Survey of India (ASI) has taken up a total of 67,461 estamp",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-14",
+      "updated_at": "2026-09-10T08:22:58.908473+00:00"
+    },
+    {
+      "id": "2e6bccf9555c3121",
+      "slug": "preserving-india-s-manuscript-in-the-digital-age-gyan-bharatam-2e6bccf9",
+      "title": "Preserving India's Manuscript in the Digital Age | Gyan Bharatam",
+      "summary": "The Gyan Bharatam Mission safeguards India's manuscript heritage by bringing it into the digital age. Ancient stories, knowledge, and insights are preserved",
+      "category": "Archaeology & Ancient Discoveries",
+      "date": "2026-09-10",
+      "published_at": "2026-09-10",
+      "source_published_at": "Thu, 10 Sep 2026 01:00:00 GMT",
+      "source": "gyanbharatam.gov.in",
+      "source_url": "https://gyanbharatam.gov.in/manuscript/view?id=376c778b-81ee-4346-9962-e356e9329dc0",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "Preserving India's Manuscript in the Digital Age | Gyan Bharatam",
+          "summary": "The Gyan Bharatam Mission safeguards India's manuscript heritage by bringing it into the digital age. Ancient stories, knowledge, and insights are preserved",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-09-10",
+      "updated_at": "2026-09-10"
+    },
+    {
+      "id": "5cec0fd2934ecd5e",
+      "slug": "unveiling-a-critical-edition-of-a-sanskrit-manuscript-hindu-research-portal-5cec0fd2",
+      "title": "Unveiling a Critical Edition of a Sanskrit Manuscript | Hindu Research Portal",
+      "summary": "Hindu Research\n\nVedic & Manuscript Research\n\n# Unveiling a Critical Edition of a Sanskrit Manuscript\n\nA scholarly publication presents a critical edition of a Sanskrit manuscript, accompanied by a detailed table of contents. The manuscript is described in terms of its physical characteristics, including palm-leaf and paper manuscripts. The edition includes a diplomatic edition and a critical editi",
+      "category": "Vedic & Manuscript Research",
+      "date": "2026-09-10",
+      "published_at": "2026-09-10",
+      "source_published_at": null,
+      "source": "hinduresearch.com",
+      "source_url": "https://hinduresearch.com/news/articles/2026/08/sanskrit-manuscript-critical-edition-table-of-contents-revealed-d25e967e.html",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "Unveiling a Critical Edition of a Sanskrit Manuscript | Hindu Research Portal",
+          "summary": "Hindu Research\n\nVedic & Manuscript Research\n\n# Unveiling a Critical Edition of a Sanskrit Manuscript\n\nA scholarly publication presents a critical edition of a Sanskrit manuscript, accompanied by a detailed table of contents. The manuscript is described in terms of its physical characteristics, including palm-leaf and paper manuscripts. The edition includes a diplomatic edition and a critical editi",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-21",
+      "updated_at": "2026-09-10T08:22:58.896068+00:00"
+    },
+    {
+      "id": "f9d2b3f03a19dbfd",
+      "slug": "unpacking-the-gurukul-system-a-cornerstone-of-indian-knowledge-and-education-f9d2b3f0",
+      "title": "A Critical Study of the Gurukul System within the Indian Knowledge Systems – BHARATI INTERNATIONAL JOURNAL OF MULTIDISCIPLINARY RESEARCH AND DEVELOPMENT",
+      "summary": "Abstract: The Gurukul system was instrumental in shaping the ancient Indian knowledge framework by emphasizing a holistic, practical, and value-oriented education through a residential model of teacher and disciple. It nurtured self-discipline, ethical values, and critical thinking alongside academic pursuits, with students residing with their gurus to learn through firsthand experience and observ",
+      "category": "Vedic & Manuscript Research",
+      "date": "2026-09-10",
+      "published_at": "2026-09-10",
+      "source_published_at": null,
+      "source": "bijmrd.com",
+      "source_url": "https://bijmrd.com/index.php/volume4-issue32/a-critical-study-of-the-gurukul-system-within-the-indian-knowledge-systems",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "A Critical Study of the Gurukul System within the Indian Knowledge Systems – BHARATI INTERNATIONAL JOURNAL OF MULTIDISCIPLINARY RESEARCH AND DEVELOPMENT",
+          "summary": "Abstract: The Gurukul system was instrumental in shaping the ancient Indian knowledge framework by emphasizing a holistic, practical, and value-oriented education through a residential model of teacher and disciple. It nurtured self-discipline, ethical values, and critical thinking alongside academic pursuits, with students residing with their gurus to learn through firsthand experience and observ",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-14",
+      "updated_at": "2026-09-10T08:22:58.891754+00:00"
+    },
+    {
+      "id": "560b52cdb5b2cb0e",
+      "slug": "national-archives-items-in-the-world-digital-library-national-archives-560b52cd",
+      "title": "National Archives Items in the World Digital Library | National Archives",
+      "summary": "| Bill of Rights, 09/25/1789 (National Archives Identifier 1408042) | Illustrated Family Record (Fraktur) Found in Revolutionary War Pension and Bounty-Land-Warrant Application File W3079, for Philip Frey, Pennsylvania, ca. 1800 - ca. 1900 (National Archives Identifier 300195) | Treaty between the Ottawa, Chippewa, Wyandot, and Potawatomi Indians, 11/17/1807 (National Archives Identifier 596331) |",
+      "category": "Global Cultural & Temple Events",
+      "date": "2026-09-10",
+      "published_at": "2026-09-10",
+      "source_published_at": null,
+      "source": "archives.gov",
+      "source_url": "https://www.archives.gov/research/world-digital-library",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "National Archives Items in the World Digital Library | National Archives",
+          "summary": "| Bill of Rights, 09/25/1789 (National Archives Identifier 1408042) | Illustrated Family Record (Fraktur) Found in Revolutionary War Pension and Bounty-Land-Warrant Application File W3079, for Philip Frey, Pennsylvania, ca. 1800 - ca. 1900 (National Archives Identifier 300195) | Treaty between the Ottawa, Chippewa, Wyandot, and Potawatomi Indians, 11/17/1807 (National Archives Identifier 596331) |",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-18",
+      "updated_at": "2026-09-10T08:22:58.886543+00:00"
+    },
+    {
+      "id": "8b5c2f5c8e75317b",
+      "slug": "studies-in-indian-mathematics-and-astronomy-bh-van-8b5c2f5c",
+      "title": "Studies in Indian Mathematics and Astronomy – Bhāvanā",
+      "summary": "Avinash Sathaye is a professor emeritus in the Department of Mathematics, University of Kentucky, USA. His main research area is Algebra and Algebraic Geometry. He also has a passion for Sanskrit and ancient Indian history of mathematics. [...] Bhāskara I, however, characterizes the mathematics section as “a little bit of mathematics” described by indications only. This is because important parts ",
+      "category": "Daily Research Hook / Topic Idea",
+      "date": "2026-09-10",
+      "published_at": "2026-09-10",
+      "source_published_at": null,
+      "source": "bhavana.org.in",
+      "source_url": "https://bhavana.org.in/studies-in-indian-mathematics-and-astronomy",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "Studies in Indian Mathematics and Astronomy – Bhāvanā",
+          "summary": "Avinash Sathaye is a professor emeritus in the Department of Mathematics, University of Kentucky, USA. His main research area is Algebra and Algebraic Geometry. He also has a passion for Sanskrit and ancient Indian history of mathematics. [...] Bhāskara I, however, characterizes the mathematics section as “a little bit of mathematics” described by indications only. This is because important parts ",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-25",
+      "updated_at": "2026-09-10T08:22:58.883752+00:00"
+    },
+    {
+      "id": "5aaa541d76cc8b10",
+      "slug": "from-gurukul-to-digital-classrooms-reinterpreting-indian-knowledge-systems-in-the-nep-2020-era-z-5aaa541d",
+      "title": "From Gurukul to Digital Classrooms: Reinterpreting Indian Knowledge Systems in the NEP 2020 Era | Zenodo",
+      "summary": "scholarly articles, policy documents, and recent research on Indian Knowledge Systems, Gurukul pedagogy, and digital education initiatives. The analysis highlights the philosophical and pedagogical convergence between traditional Gurukul values—such as experiential learning, value-based education, holistic development, and individualized mentorship—and modern digital classrooms supported by inform",
+      "category": "Daily Research Hook / Topic Idea",
+      "date": "2026-09-10",
+      "published_at": "2026-09-10",
+      "source_published_at": null,
+      "source": "zenodo.org",
+      "source_url": "https://zenodo.org/records/18530545",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "From Gurukul to Digital Classrooms: Reinterpreting Indian Knowledge Systems in the NEP 2020 Era | Zenodo",
+          "summary": "scholarly articles, policy documents, and recent research on Indian Knowledge Systems, Gurukul pedagogy, and digital education initiatives. The analysis highlights the philosophical and pedagogical convergence between traditional Gurukul values—such as experiential learning, value-based education, holistic development, and individualized mentorship—and modern digital classrooms supported by inform",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-09-10",
+      "updated_at": "2026-09-10"
     },
     {
       "id": "bb47e5c67a2eefa0",
@@ -334,36 +544,6 @@
       "updated_at": "2026-09-08T08:19:52.840385+00:00"
     },
     {
-      "id": "ca9018c26bcf1671",
-      "slug": "unveiling-ancient-india-s-history-through-epigraphs-ca9018c2",
-      "title": "[PDF] A study of Ancient Indian and Early Medieval Epigraphs with special ...",
-      "summary": "by a team of epigraphists. The estampages of the inscriptions are then studied and preserved in various epigraphy branches. The information is disseminated through various publications. In the recent past, the ASI has discovered significant inscriptions in states including Tamil Nadu, Maharashtra, Gujarat and Telangana. The Archaeological Survey of India (ASI) has taken up a total of 67,461 estamp",
-      "category": "Archaeology & Ancient Discoveries",
-      "date": "2026-09-07",
-      "published_at": "2026-09-07",
-      "source_published_at": null,
-      "source": "ijnrd.org",
-      "source_url": "https://www.ijnrd.org/papers/IJNRD2407093.pdf",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "[PDF] A study of Ancient Indian and Early Medieval Epigraphs with special ...",
-          "summary": "by a team of epigraphists. The estampages of the inscriptions are then studied and preserved in various epigraphy branches. The information is disseminated through various publications. In the recent past, the ASI has discovered significant inscriptions in states including Tamil Nadu, Maharashtra, Gujarat and Telangana. The Archaeological Survey of India (ASI) has taken up a total of 67,461 estamp",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-14",
-      "updated_at": "2026-09-07T08:37:17.681551+00:00"
-    },
-    {
       "id": "c23a3b47acaf8a84",
       "slug": "ancient-indian-inscriptions-uncovered-in-egypt-s-valley-of-the-kings-c23a3b47",
       "title": "2,000-year-old inscriptions found in Valley of the Kings offer fresh insight into Indian presence in Ancient Egypt - The Art Newspaper - International art news and events",
@@ -484,66 +664,6 @@
       "updated_at": "2026-09-07T08:37:17.657965+00:00"
     },
     {
-      "id": "f9d2b3f03a19dbfd",
-      "slug": "unpacking-the-gurukul-system-a-cornerstone-of-indian-knowledge-and-education-f9d2b3f0",
-      "title": "A Critical Study of the Gurukul System within the Indian Knowledge Systems – BHARATI INTERNATIONAL JOURNAL OF MULTIDISCIPLINARY RESEARCH AND DEVELOPMENT",
-      "summary": "Abstract: The Gurukul system was instrumental in shaping the ancient Indian knowledge framework by emphasizing a holistic, practical, and value-oriented education through a residential model of teacher and disciple. It nurtured self-discipline, ethical values, and critical thinking alongside academic pursuits, with students residing with their gurus to learn through firsthand experience and observ",
-      "category": "Daily Research Hook / Topic Idea",
-      "date": "2026-09-07",
-      "published_at": "2026-09-07",
-      "source_published_at": null,
-      "source": "bijmrd.com",
-      "source_url": "https://bijmrd.com/index.php/volume4-issue32/a-critical-study-of-the-gurukul-system-within-the-indian-knowledge-systems",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "A Critical Study of the Gurukul System within the Indian Knowledge Systems – BHARATI INTERNATIONAL JOURNAL OF MULTIDISCIPLINARY RESEARCH AND DEVELOPMENT",
-          "summary": "Abstract: The Gurukul system was instrumental in shaping the ancient Indian knowledge framework by emphasizing a holistic, practical, and value-oriented education through a residential model of teacher and disciple. It nurtured self-discipline, ethical values, and critical thinking alongside academic pursuits, with students residing with their gurus to learn through firsthand experience and observ",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-14",
-      "updated_at": "2026-09-07T08:37:17.655765+00:00"
-    },
-    {
-      "id": "8b5c2f5c8e75317b",
-      "slug": "studies-in-indian-mathematics-and-astronomy-bh-van-8b5c2f5c",
-      "title": "Studies in Indian Mathematics and Astronomy – Bhāvanā",
-      "summary": "Avinash Sathaye is a professor emeritus in the Department of Mathematics, University of Kentucky, USA. His main research area is Algebra and Algebraic Geometry. He also has a passion for Sanskrit and ancient Indian history of mathematics. [...] Bhāskara I, however, characterizes the mathematics section as “a little bit of mathematics” described by indications only. This is because important parts ",
-      "category": "Daily Research Hook / Topic Idea",
-      "date": "2026-09-06",
-      "published_at": "2026-09-06",
-      "source_published_at": null,
-      "source": "bhavana.org.in",
-      "source_url": "https://bhavana.org.in/studies-in-indian-mathematics-and-astronomy",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "Studies in Indian Mathematics and Astronomy – Bhāvanā",
-          "summary": "Avinash Sathaye is a professor emeritus in the Department of Mathematics, University of Kentucky, USA. His main research area is Algebra and Algebraic Geometry. He also has a passion for Sanskrit and ancient Indian history of mathematics. [...] Bhāskara I, however, characterizes the mathematics section as “a little bit of mathematics” described by indications only. This is because important parts ",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-25",
-      "updated_at": "2026-09-06T08:06:44.229457+00:00"
-    },
-    {
       "id": "bb3f989f4d812fe0",
       "slug": "diwali-community-celebration-seattle-art-museum-bb3f989f",
       "title": "Diwali Community Celebration | Seattle Art Museum",
@@ -572,36 +692,6 @@
       },
       "first_published": "2026-09-05",
       "updated_at": "2026-09-05"
-    },
-    {
-      "id": "560b52cdb5b2cb0e",
-      "slug": "national-archives-items-in-the-world-digital-library-national-archives-560b52cd",
-      "title": "National Archives Items in the World Digital Library",
-      "summary": "| Bill of Rights, 09/25/1789 (National Archives Identifier 1408042) | Illustrated Family Record (Fraktur) Found in Revolutionary War Pension and Bounty-Land-Warrant Application File W3079, for Philip Frey, Pennsylvania, ca. 1800 - ca. 1900 (National Archives Identifier 300195) | Treaty between the Ottawa, Chippewa, Wyandot, and Potawatomi Indians, 11/17/1807 (National Archives Identifier 596331) |",
-      "category": "Global Cultural & Temple Events",
-      "date": "2026-09-05",
-      "published_at": "2026-09-05",
-      "source_published_at": null,
-      "source": "archives.gov",
-      "source_url": "https://www.archives.gov/research/world-digital-library",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "National Archives Items in the World Digital Library",
-          "summary": "| Bill of Rights, 09/25/1789 (National Archives Identifier 1408042) | Illustrated Family Record (Fraktur) Found in Revolutionary War Pension and Bounty-Land-Warrant Application File W3079, for Philip Frey, Pennsylvania, ca. 1800 - ca. 1900 (National Archives Identifier 300195) | Treaty between the Ottawa, Chippewa, Wyandot, and Potawatomi Indians, 11/17/1807 (National Archives Identifier 596331) |",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-18",
-      "updated_at": "2026-09-05T07:52:04.733276+00:00"
     },
     {
       "id": "402822a2a4d39597",
@@ -752,36 +842,6 @@
       },
       "first_published": "2026-09-01",
       "updated_at": "2026-09-01"
-    },
-    {
-      "id": "5cec0fd2934ecd5e",
-      "slug": "unveiling-a-critical-edition-of-a-sanskrit-manuscript-hindu-research-portal-5cec0fd2",
-      "title": "Unveiling a Critical Edition of a Sanskrit Manuscript | Hindu Research Portal",
-      "summary": "## Key Takeaways\n\n The manuscript is available in both palm-leaf and paper forms\n A stemma is included to illustrate the relationships between different manuscripts\n The publication features both diplomatic and critical editions of the Sanskrit text\n\n## Why This Matters [...] This critical edition contributes significantly to the field of Vedic and manuscript research, providing valuable insights ",
-      "category": "Vedic & Manuscript Research",
-      "date": "2026-09-01",
-      "published_at": "2026-09-01",
-      "source_published_at": null,
-      "source": "hinduresearch.com",
-      "source_url": "https://hinduresearch.com/news/articles/2026/08/sanskrit-manuscript-critical-edition-table-of-contents-revealed-d25e967e.html",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "Unveiling a Critical Edition of a Sanskrit Manuscript | Hindu Research Portal",
-          "summary": "## Key Takeaways\n\n The manuscript is available in both palm-leaf and paper forms\n A stemma is included to illustrate the relationships between different manuscripts\n The publication features both diplomatic and critical editions of the Sanskrit text\n\n## Why This Matters [...] This critical edition contributes significantly to the field of Vedic and manuscript research, providing valuable insights ",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-21",
-      "updated_at": "2026-09-01T08:54:48.924840+00:00"
     },
     {
       "id": "942cc38ca00582be",
@@ -1435,66 +1495,6 @@
         "en": {
           "title": "The Contribution Of Ancient Indians To The World ...",
           "summary": "the world. From astronomy and mathematics to medicine and metallurgy, scientists who lived ages ago, made ground breaking discoveries and devised remarkable theories. Their wisdom and insights continue to inspire and influence our understanding of the world. Key Words Ancient India, Scientific contributions, Mathematics, Astronomy, Medicine, Metallurgy, Indian philosophy, Scientific method, Aryabh",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-18",
-      "updated_at": "2026-08-18"
-    },
-    {
-      "id": "05b77b1275295d1c",
-      "slug": "perceptual-experience-and-concepts-in-classical-indian-philosophy-stanford-encyclopedia-of-philo-05b77b12",
-      "title": "Perceptual Experience and Concepts in Classical Indian Philosophy (Stanford Encyclopedia of Philosophy)",
-      "summary": "Uddyotakara, “The Nyāya Proofs for the Existence of the Soul”,  Translations from the introductory commentary on Nyāya-Sūtra-Bhāṣya, Arindam Chakrabarti (trans.), published as an appendix to A. Chakrabarti, Journal of Indian Philosophy, 10: 211–238, (1982).\n Vācaspati Miśra, Nyāyavārttikatātparyaṭīkā, Anantlal Thaur (ed.), Indian Council of Philosophical Research, 1996. [...] ### 3.2 The developme",
-      "category": "Vedic & Manuscript Research",
-      "date": "2026-08-18",
-      "published_at": "2026-08-18",
-      "source_published_at": null,
-      "source": "plato.stanford.edu",
-      "source_url": "https://plato.stanford.edu/entries/perception-india",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "Perceptual Experience and Concepts in Classical Indian Philosophy (Stanford Encyclopedia of Philosophy)",
-          "summary": "Uddyotakara, “The Nyāya Proofs for the Existence of the Soul”,  Translations from the introductory commentary on Nyāya-Sūtra-Bhāṣya, Arindam Chakrabarti (trans.), published as an appendix to A. Chakrabarti, Journal of Indian Philosophy, 10: 211–238, (1982).\n Vācaspati Miśra, Nyāyavārttikatātparyaṭīkā, Anantlal Thaur (ed.), Indian Council of Philosophical Research, 1996. [...] ### 3.2 The developme",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-18",
-      "updated_at": "2026-08-18"
-    },
-    {
-      "id": "3c93250e26f56b14",
-      "slug": "artificial-intelligence-religion-and-values-opportunities-risks-and-the-family-as-the-first-line-3c93250e",
-      "title": "Artificial Intelligence, Religion, and Values: Opportunities, Risks, and the Family as the First Line of Defense | Emirates Scholar Center",
-      "summary": "advanced neural translation has dissolved long-standing linguistic barriers, exemplified by the real-time rendering of liturgical texts into more than sixty languages, while large language models have surfaced substantial thematic convergences across scriptural and philosophical traditions, with one analysis identifying roughly 73% similarity between the Bhagavad Gita and the Upanishads, opening f",
-      "category": "Daily Research Hook / Topic Idea",
-      "date": "2026-08-18",
-      "published_at": "2026-08-18",
-      "source_published_at": "Mon, 17 Aug 2026 08:00:00 GMT",
-      "source": "emiratesscholar.com",
-      "source_url": "https://emiratesscholar.com/paper/2576",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "Artificial Intelligence, Religion, and Values: Opportunities, Risks, and the Family as the First Line of Defense | Emirates Scholar Center",
-          "summary": "advanced neural translation has dissolved long-standing linguistic barriers, exemplified by the real-time rendering of liturgical texts into more than sixty languages, while large language models have surfaced substantial thematic convergences across scriptural and philosophical traditions, with one analysis identifying roughly 73% similarity between the Bhagavad Gita and the Upanishads, opening f",
           "key_takeaways": [],
           "why_this_matters": "",
           "research_hook": ""

@@ -1,16 +1,16 @@
 {
   "schema_version": "6.1B",
-  "updated_at": "2026-09-10T08:22:56.116499+00:00",
+  "updated_at": "2026-09-11T08:17:41.525657+00:00",
   "count": 50,
   "articles": [
     {
       "id": "8da5ee15834d64b7",
       "slug": "archaeological-survey-of-india-8da5ee15",
       "title": "Archaeological Survey of India",
-      "summary": "India is singularly rich in epigraphical wealth. It is estimated that so far more than one lakh inscriptions have been discovered from the length and breadth of the country, and still a large number of inscriptions have to be brought to light by conducting an intensive and systematic survey of our vast sub- continent. [...] Epigraphy forms one of the very important sources for understanding the hi",
+      "summary": "India is singularly rich in epigraphical wealth. It is estimated that so far more than one lakh inscriptions have been discovered from the length and breadth of the country, and still a large number of inscriptions have to be brought to light by conducting an intensive and systematic survey of our vast sub- continent. [...] The Epigraphy Branch of the Archaeological Survey of India came into exist",
       "category": "Archaeology & Ancient Discoveries",
-      "date": "2026-09-10",
-      "published_at": "2026-09-10",
+      "date": "2026-09-11",
+      "published_at": "2026-09-11",
       "source_published_at": null,
       "source": "asi.nic.in",
       "source_url": "https://asi.nic.in/pages/Epigraphy-Branch/HQ",
@@ -24,23 +24,23 @@
       "translations": {
         "en": {
           "title": "Archaeological Survey of India",
-          "summary": "India is singularly rich in epigraphical wealth. It is estimated that so far more than one lakh inscriptions have been discovered from the length and breadth of the country, and still a large number of inscriptions have to be brought to light by conducting an intensive and systematic survey of our vast sub- continent. [...] Epigraphy forms one of the very important sources for understanding the hi",
+          "summary": "India is singularly rich in epigraphical wealth. It is estimated that so far more than one lakh inscriptions have been discovered from the length and breadth of the country, and still a large number of inscriptions have to be brought to light by conducting an intensive and systematic survey of our vast sub- continent. [...] The Epigraphy Branch of the Archaeological Survey of India came into exist",
           "key_takeaways": [],
           "why_this_matters": "",
           "research_hook": ""
         }
       },
       "first_published": "2026-08-14",
-      "updated_at": "2026-09-10T08:22:58.909109+00:00"
+      "updated_at": "2026-09-11T08:17:45.614820+00:00"
     },
     {
       "id": "ca9018c26bcf1671",
       "slug": "unveiling-ancient-india-s-history-through-epigraphs-ca9018c2",
-      "title": "[PDF] A study of Ancient Indian and Early Medieval Epigraphs with special ...",
+      "title": "A study of Ancient Indian and Early Medieval Epigraphs ...",
       "summary": "by a team of epigraphists. The estampages of the inscriptions are then studied and preserved in various epigraphy branches. The information is disseminated through various publications. In the recent past, the ASI has discovered significant inscriptions in states including Tamil Nadu, Maharashtra, Gujarat and Telangana. The Archaeological Survey of India (ASI) has taken up a total of 67,461 estamp",
       "category": "Archaeology & Ancient Discoveries",
-      "date": "2026-09-10",
-      "published_at": "2026-09-10",
+      "date": "2026-09-11",
+      "published_at": "2026-09-11",
       "source_published_at": null,
       "source": "ijnrd.org",
       "source_url": "https://www.ijnrd.org/papers/IJNRD2407093.pdf",
@@ -53,7 +53,7 @@
       "image_url": null,
       "translations": {
         "en": {
-          "title": "[PDF] A study of Ancient Indian and Early Medieval Epigraphs with special ...",
+          "title": "A study of Ancient Indian and Early Medieval Epigraphs ...",
           "summary": "by a team of epigraphists. The estampages of the inscriptions are then studied and preserved in various epigraphy branches. The information is disseminated through various publications. In the recent past, the ASI has discovered significant inscriptions in states including Tamil Nadu, Maharashtra, Gujarat and Telangana. The Archaeological Survey of India (ASI) has taken up a total of 67,461 estamp",
           "key_takeaways": [],
           "why_this_matters": "",
@@ -61,7 +61,187 @@
         }
       },
       "first_published": "2026-08-14",
-      "updated_at": "2026-09-10T08:22:58.908473+00:00"
+      "updated_at": "2026-09-11T08:17:45.614414+00:00"
+    },
+    {
+      "id": "5415d1afc8050325",
+      "slug": "american-indian-and-alaska-native-records-in-the-national-archives-national-archives-5415d1af",
+      "title": "American Indian and Alaska Native Records in the National Archives | National Archives",
+      "summary": "To help you answer this question, use the navigation options below to explore the vast resources relating to American Indian and Alaska Native research.\n\nIf you are just beginning archival research, please review guidance about getting started.\n\nPlease note: Although some records related to American Indians and Alaska Natives are digitized and available online, there are many records that are only",
+      "category": "Archaeology & Ancient Discoveries",
+      "date": "2026-09-11",
+      "published_at": "2026-09-11",
+      "source_published_at": null,
+      "source": "archives.gov",
+      "source_url": "https://www.archives.gov/research/native-americans",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "American Indian and Alaska Native Records in the National Archives | National Archives",
+          "summary": "To help you answer this question, use the navigation options below to explore the vast resources relating to American Indian and Alaska Native research.\n\nIf you are just beginning archival research, please review guidance about getting started.\n\nPlease note: Although some records related to American Indians and Alaska Natives are digitized and available online, there are many records that are only",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-21",
+      "updated_at": "2026-09-11T08:17:45.613640+00:00"
+    },
+    {
+      "id": "5cec0fd2934ecd5e",
+      "slug": "unveiling-a-critical-edition-of-a-sanskrit-manuscript-hindu-research-portal-5cec0fd2",
+      "title": "Unveiling a Critical Edition of a Sanskrit Manuscript | Hindu Research Portal",
+      "summary": "Hindu Research\n\nVedic & Manuscript Research\n\n# Unveiling a Critical Edition of a Sanskrit Manuscript\n\nA scholarly publication presents a critical edition of a Sanskrit manuscript, accompanied by a detailed table of contents. The manuscript is described in terms of its physical characteristics, including palm-leaf and paper manuscripts. The edition includes a diplomatic edition and a critical editi",
+      "category": "Vedic & Manuscript Research",
+      "date": "2026-09-11",
+      "published_at": "2026-09-11",
+      "source_published_at": null,
+      "source": "hinduresearch.com",
+      "source_url": "https://hinduresearch.com/news/articles/2026/08/sanskrit-manuscript-critical-edition-table-of-contents-revealed-d25e967e.html",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "Unveiling a Critical Edition of a Sanskrit Manuscript | Hindu Research Portal",
+          "summary": "Hindu Research\n\nVedic & Manuscript Research\n\n# Unveiling a Critical Edition of a Sanskrit Manuscript\n\nA scholarly publication presents a critical edition of a Sanskrit manuscript, accompanied by a detailed table of contents. The manuscript is described in terms of its physical characteristics, including palm-leaf and paper manuscripts. The edition includes a diplomatic edition and a critical editi",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-21",
+      "updated_at": "2026-09-11T08:17:45.611224+00:00"
+    },
+    {
+      "id": "dd67eb678a134933",
+      "slug": "indian-philosophy-samkhya-yoga-nyaya-vaisesika-purva-mimamsa-vedanta-net-paper-1-2019-dd67eb67",
+      "title": "Indian Philosophy: Samkhya, Yoga, Nyaya, Vaisesika, Purva Mimamsa, Vedanta (NET Paper 1) 2019",
+      "summary": "[7:28] knowledge according to Nia there are four sources of knowledge those are perception inference comparison and\n[7:38] testimony so these four sources of knowledge are very very important and according to the eye the world is\n[7:47] real the philosophy does not have a kind of monist view we could say so very very important aspect lay down under nyah\n[7:56] given by Oxford on Gotham and this ta",
+      "category": "Vedic & Manuscript Research",
+      "date": "2026-09-11",
+      "published_at": "2026-09-11",
+      "source_published_at": null,
+      "source": "youtube.com",
+      "source_url": "https://www.youtube.com/watch?v=veTRigttccs",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "Indian Philosophy: Samkhya, Yoga, Nyaya, Vaisesika, Purva Mimamsa, Vedanta (NET Paper 1) 2019",
+          "summary": "[7:28] knowledge according to Nia there are four sources of knowledge those are perception inference comparison and\n[7:38] testimony so these four sources of knowledge are very very important and according to the eye the world is\n[7:47] real the philosophy does not have a kind of monist view we could say so very very important aspect lay down under nyah\n[7:56] given by Oxford on Gotham and this ta",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-09-11",
+      "updated_at": "2026-09-11"
+    },
+    {
+      "id": "653ad9394b27c15e",
+      "slug": "sourcing-india-s-cold-war-from-nehru-to-gandhi-wilson-center-653ad939",
+      "title": "Sourcing India's Cold War: From Nehru to Gandhi | Wilson Center",
+      "summary": "The National Archives (NAI) are the central repository for records produced by the Government of India. Its holdings are arranged by provenance and maintain the somewhat organic structure of each government ministry’s own archives (the incomplete catalog is available online). Each ministry’s records are further organized by “transfer lists,” or specific tranches that were declassified and deposite",
+      "category": "Global Cultural & Temple Events",
+      "date": "2026-09-11",
+      "published_at": "2026-09-11",
+      "source_published_at": null,
+      "source": "wilsoncenter.org",
+      "source_url": "https://www.wilsoncenter.org/indias-archives",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "Sourcing India's Cold War: From Nehru to Gandhi | Wilson Center",
+          "summary": "The National Archives (NAI) are the central repository for records produced by the Government of India. Its holdings are arranged by provenance and maintain the somewhat organic structure of each government ministry’s own archives (the incomplete catalog is available online). Each ministry’s records are further organized by “transfer lists,” or specific tranches that were declassified and deposite",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-09-11",
+      "updated_at": "2026-09-11"
+    },
+    {
+      "id": "f9d2b3f03a19dbfd",
+      "slug": "unpacking-the-gurukul-system-a-cornerstone-of-indian-knowledge-and-education-f9d2b3f0",
+      "title": "A Critical Study of the Gurukul System within the Indian Knowledge Systems – BHARATI INTERNATIONAL JOURNAL OF MULTIDISCIPLINARY RESEARCH AND DEVELOPMENT",
+      "summary": "Abstract: The Gurukul system was instrumental in shaping the ancient Indian knowledge framework by emphasizing a holistic, practical, and value-oriented education through a residential model of teacher and disciple. It nurtured self-discipline, ethical values, and critical thinking alongside academic pursuits, with students residing with their gurus to learn through firsthand experience and observ",
+      "category": "Daily Research Hook / Topic Idea",
+      "date": "2026-09-11",
+      "published_at": "2026-09-11",
+      "source_published_at": null,
+      "source": "bijmrd.com",
+      "source_url": "https://bijmrd.com/index.php/volume4-issue32/a-critical-study-of-the-gurukul-system-within-the-indian-knowledge-systems",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "A Critical Study of the Gurukul System within the Indian Knowledge Systems – BHARATI INTERNATIONAL JOURNAL OF MULTIDISCIPLINARY RESEARCH AND DEVELOPMENT",
+          "summary": "Abstract: The Gurukul system was instrumental in shaping the ancient Indian knowledge framework by emphasizing a holistic, practical, and value-oriented education through a residential model of teacher and disciple. It nurtured self-discipline, ethical values, and critical thinking alongside academic pursuits, with students residing with their gurus to learn through firsthand experience and observ",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-14",
+      "updated_at": "2026-09-11T08:17:45.594282+00:00"
+    },
+    {
+      "id": "7148b110a00eebc2",
+      "slug": "ancient-indian-medicine-and-its-legacy-pdf-mathematics-ayurveda-7148b110",
+      "title": "Ancient Indian Medicine and Its Legacy | PDF | Mathematics | Ayurveda",
+      "summary": "The document explores the significant contributions of ancient Indian sciences across various fields including mathematics, astronomy, medicine, metallurgy, linguistics, and philosophy. It highlights innovations such as the numeral zero, Ayurvedic medicine, and advanced surgical techniques, as well as the influence of these ideas on global knowledge and modern practices. The case study emphasizes ",
+      "category": "Daily Research Hook / Topic Idea",
+      "date": "2026-09-11",
+      "published_at": "2026-09-11",
+      "source_published_at": null,
+      "source": "scribd.com",
+      "source_url": "https://www.scribd.com/document/844924695/Case-Study-6-IKS-2",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "Ancient Indian Medicine and Its Legacy | PDF | Mathematics | Ayurveda",
+          "summary": "The document explores the significant contributions of ancient Indian sciences across various fields including mathematics, astronomy, medicine, metallurgy, linguistics, and philosophy. It highlights innovations such as the numeral zero, Ayurvedic medicine, and advanced surgical techniques, as well as the influence of these ideas on global knowledge and modern practices. The case study emphasizes ",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-09-11",
+      "updated_at": "2026-09-11"
     },
     {
       "id": "2e6bccf9555c3121",
@@ -92,66 +272,6 @@
       },
       "first_published": "2026-09-10",
       "updated_at": "2026-09-10"
-    },
-    {
-      "id": "5cec0fd2934ecd5e",
-      "slug": "unveiling-a-critical-edition-of-a-sanskrit-manuscript-hindu-research-portal-5cec0fd2",
-      "title": "Unveiling a Critical Edition of a Sanskrit Manuscript | Hindu Research Portal",
-      "summary": "Hindu Research\n\nVedic & Manuscript Research\n\n# Unveiling a Critical Edition of a Sanskrit Manuscript\n\nA scholarly publication presents a critical edition of a Sanskrit manuscript, accompanied by a detailed table of contents. The manuscript is described in terms of its physical characteristics, including palm-leaf and paper manuscripts. The edition includes a diplomatic edition and a critical editi",
-      "category": "Vedic & Manuscript Research",
-      "date": "2026-09-10",
-      "published_at": "2026-09-10",
-      "source_published_at": null,
-      "source": "hinduresearch.com",
-      "source_url": "https://hinduresearch.com/news/articles/2026/08/sanskrit-manuscript-critical-edition-table-of-contents-revealed-d25e967e.html",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "Unveiling a Critical Edition of a Sanskrit Manuscript | Hindu Research Portal",
-          "summary": "Hindu Research\n\nVedic & Manuscript Research\n\n# Unveiling a Critical Edition of a Sanskrit Manuscript\n\nA scholarly publication presents a critical edition of a Sanskrit manuscript, accompanied by a detailed table of contents. The manuscript is described in terms of its physical characteristics, including palm-leaf and paper manuscripts. The edition includes a diplomatic edition and a critical editi",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-21",
-      "updated_at": "2026-09-10T08:22:58.896068+00:00"
-    },
-    {
-      "id": "f9d2b3f03a19dbfd",
-      "slug": "unpacking-the-gurukul-system-a-cornerstone-of-indian-knowledge-and-education-f9d2b3f0",
-      "title": "A Critical Study of the Gurukul System within the Indian Knowledge Systems – BHARATI INTERNATIONAL JOURNAL OF MULTIDISCIPLINARY RESEARCH AND DEVELOPMENT",
-      "summary": "Abstract: The Gurukul system was instrumental in shaping the ancient Indian knowledge framework by emphasizing a holistic, practical, and value-oriented education through a residential model of teacher and disciple. It nurtured self-discipline, ethical values, and critical thinking alongside academic pursuits, with students residing with their gurus to learn through firsthand experience and observ",
-      "category": "Vedic & Manuscript Research",
-      "date": "2026-09-10",
-      "published_at": "2026-09-10",
-      "source_published_at": null,
-      "source": "bijmrd.com",
-      "source_url": "https://bijmrd.com/index.php/volume4-issue32/a-critical-study-of-the-gurukul-system-within-the-indian-knowledge-systems",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "A Critical Study of the Gurukul System within the Indian Knowledge Systems – BHARATI INTERNATIONAL JOURNAL OF MULTIDISCIPLINARY RESEARCH AND DEVELOPMENT",
-          "summary": "Abstract: The Gurukul system was instrumental in shaping the ancient Indian knowledge framework by emphasizing a holistic, practical, and value-oriented education through a residential model of teacher and disciple. It nurtured self-discipline, ethical values, and critical thinking alongside academic pursuits, with students residing with their gurus to learn through firsthand experience and observ",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-14",
-      "updated_at": "2026-09-10T08:22:58.891754+00:00"
     },
     {
       "id": "560b52cdb5b2cb0e",
@@ -392,36 +512,6 @@
       },
       "first_published": "2026-09-09",
       "updated_at": "2026-09-09"
-    },
-    {
-      "id": "5415d1afc8050325",
-      "slug": "american-indian-and-alaska-native-records-in-the-national-archives-national-archives-5415d1af",
-      "title": "American Indian and Alaska Native Records in the National Archives | National Archives",
-      "summary": "To help you answer this question, use the navigation options below to explore the vast resources relating to American Indian and Alaska Native research.\n\nIf you are just beginning archival research, please review guidance about getting started.\n\nPlease note: Although some records related to American Indians and Alaska Natives are digitized and available online, there are many records that are only",
-      "category": "Global Cultural & Temple Events",
-      "date": "2026-09-09",
-      "published_at": "2026-09-09",
-      "source_published_at": null,
-      "source": "archives.gov",
-      "source_url": "https://www.archives.gov/research/native-americans",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "American Indian and Alaska Native Records in the National Archives | National Archives",
-          "summary": "To help you answer this question, use the navigation options below to explore the vast resources relating to American Indian and Alaska Native research.\n\nIf you are just beginning archival research, please review guidance about getting started.\n\nPlease note: Although some records related to American Indians and Alaska Natives are digitized and available online, there are many records that are only",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-21",
-      "updated_at": "2026-09-09T08:23:03.807646+00:00"
     },
     {
       "id": "16622bf6babbbfce",
@@ -1412,96 +1502,6 @@
       },
       "first_published": "2026-08-20",
       "updated_at": "2026-08-20"
-    },
-    {
-      "id": "d9fb116a4f7045ea",
-      "slug": "unveiling-ancient-indian-epigraphy-insights-from-halmidi-and-beyond-d9fb116a",
-      "title": "Early Indian epigraphy",
-      "summary": ". A replica at Halmidi village. The original is at the Bangalore museum\n\nThe Halmidi inscription is the oldest known inscription in the Kannada language. The inscription is carved on a pillar, that was discovered in the village of Halmidi, a few miles from the famous temple town of Belur in the Hassan district of Karnataka, and is dated 450 CE. The original inscription has now been deposited in an",
-      "category": "Archaeology & Ancient Discoveries",
-      "date": "2026-08-19",
-      "published_at": "2026-08-19",
-      "source_published_at": null,
-      "source": "en.wikipedia.org",
-      "source_url": "https://en.wikipedia.org/wiki/Early_Indian_epigraphy",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "Early Indian epigraphy",
-          "summary": ". A replica at Halmidi village. The original is at the Bangalore museum\n\nThe Halmidi inscription is the oldest known inscription in the Kannada language. The inscription is carved on a pillar, that was discovered in the village of Halmidi, a few miles from the famous temple town of Belur in the Hassan district of Karnataka, and is dated 450 CE. The original inscription has now been deposited in an",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-16",
-      "updated_at": "2026-08-19T04:11:36.828114+00:00"
-    },
-    {
-      "id": "c7e94cd03b5a89e4",
-      "slug": "mimamsa-bibliography-philpapers-c7e94cd0",
-      "title": "Mimamsa - Bibliography - PhilPapers",
-      "summary": "Remove from this list    Direct download Export citation Bookmark\n36. Six systems of Indian philosophy: the sūtras of six systems of Indian philosophy with English translation, transliteration, and indices.Madan Mohan Agrawal (ed.) - 2001 -  Delhi: Chaukhamba Sanskrit Pratishthan.details\n\n    Compilation of basic text of six systems of Indian philosophy.\n\n    Mimamsa in Asian Philosophy\n\n    Nyay",
-      "category": "Vedic & Manuscript Research",
-      "date": "2026-08-19",
-      "published_at": "2026-08-19",
-      "source_published_at": null,
-      "source": "philpapers.org",
-      "source_url": "https://philpapers.org/browse/mimamsa",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "Mimamsa - Bibliography - PhilPapers",
-          "summary": "Remove from this list    Direct download Export citation Bookmark\n36. Six systems of Indian philosophy: the sūtras of six systems of Indian philosophy with English translation, transliteration, and indices.Madan Mohan Agrawal (ed.) - 2001 -  Delhi: Chaukhamba Sanskrit Pratishthan.details\n\n    Compilation of basic text of six systems of Indian philosophy.\n\n    Mimamsa in Asian Philosophy\n\n    Nyay",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-14",
-      "updated_at": "2026-08-19T04:11:36.819234+00:00"
-    },
-    {
-      "id": "7166e25f5c8744f4",
-      "slug": "the-contribution-of-ancient-indians-to-the-world-7166e25f",
-      "title": "The Contribution Of Ancient Indians To The World ...",
-      "summary": "the world. From astronomy and mathematics to medicine and metallurgy, scientists who lived ages ago, made ground breaking discoveries and devised remarkable theories. Their wisdom and insights continue to inspire and influence our understanding of the world. Key Words Ancient India, Scientific contributions, Mathematics, Astronomy, Medicine, Metallurgy, Indian philosophy, Scientific method, Aryabh",
-      "category": "Archaeology & Ancient Discoveries",
-      "date": "2026-08-18",
-      "published_at": "2026-08-18",
-      "source_published_at": null,
-      "source": "ijcrt.org",
-      "source_url": "https://www.ijcrt.org/papers/IJCRT2310324.pdf",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "The Contribution Of Ancient Indians To The World ...",
-          "summary": "the world. From astronomy and mathematics to medicine and metallurgy, scientists who lived ages ago, made ground breaking discoveries and devised remarkable theories. Their wisdom and insights continue to inspire and influence our understanding of the world. Key Words Ancient India, Scientific contributions, Mathematics, Astronomy, Medicine, Metallurgy, Indian philosophy, Scientific method, Aryabh",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-18",
-      "updated_at": "2026-08-18"
     }
   ]
 }

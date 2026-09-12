@@ -1,16 +1,16 @@
 {
   "schema_version": "6.1B",
-  "updated_at": "2026-09-11T08:17:41.525657+00:00",
+  "updated_at": "2026-09-12T08:07:40.436258+00:00",
   "count": 50,
   "articles": [
     {
       "id": "8da5ee15834d64b7",
       "slug": "archaeological-survey-of-india-8da5ee15",
       "title": "Archaeological Survey of India",
-      "summary": "India is singularly rich in epigraphical wealth. It is estimated that so far more than one lakh inscriptions have been discovered from the length and breadth of the country, and still a large number of inscriptions have to be brought to light by conducting an intensive and systematic survey of our vast sub- continent. [...] The Epigraphy Branch of the Archaeological Survey of India came into exist",
+      "summary": "India is singularly rich in epigraphical wealth. It is estimated that so far more than one lakh inscriptions have been discovered from the length and breadth of the country, and still a large number of inscriptions have to be brought to light by conducting an intensive and systematic survey of our vast sub- continent. [...] Epigraphy forms one of the very important sources for understanding the hi",
       "category": "Archaeology & Ancient Discoveries",
-      "date": "2026-09-11",
-      "published_at": "2026-09-11",
+      "date": "2026-09-12",
+      "published_at": "2026-09-12",
       "source_published_at": null,
       "source": "asi.nic.in",
       "source_url": "https://asi.nic.in/pages/Epigraphy-Branch/HQ",
@@ -24,14 +24,224 @@
       "translations": {
         "en": {
           "title": "Archaeological Survey of India",
-          "summary": "India is singularly rich in epigraphical wealth. It is estimated that so far more than one lakh inscriptions have been discovered from the length and breadth of the country, and still a large number of inscriptions have to be brought to light by conducting an intensive and systematic survey of our vast sub- continent. [...] The Epigraphy Branch of the Archaeological Survey of India came into exist",
+          "summary": "India is singularly rich in epigraphical wealth. It is estimated that so far more than one lakh inscriptions have been discovered from the length and breadth of the country, and still a large number of inscriptions have to be brought to light by conducting an intensive and systematic survey of our vast sub- continent. [...] Epigraphy forms one of the very important sources for understanding the hi",
           "key_takeaways": [],
           "why_this_matters": "",
           "research_hook": ""
         }
       },
       "first_published": "2026-08-14",
-      "updated_at": "2026-09-11T08:17:45.614820+00:00"
+      "updated_at": "2026-09-12T08:07:42.518878+00:00"
+    },
+    {
+      "id": "c23a3b47acaf8a84",
+      "slug": "ancient-indian-inscriptions-uncovered-in-egypt-s-valley-of-the-kings-c23a3b47",
+      "title": "2,000-year-old inscriptions found in Valley of the Kings offer fresh insight into Indian presence in Ancient Egypt - The Art Newspaper - International art news and events",
+      "summary": "At last week’s International Conference on Tamil Epigraphy in the South Indian city of Chennai, Charlotte Schmid, of the French School of Asian Studies in Paris and Ingo Strauch, of the University of Lausanne, presented a paper on their latest research, identifying the inscriptions as coming from several regions of the Indian subcontinent, with the majority in Tamil-Brahmi, an ancient language con",
+      "category": "Archaeology & Ancient Discoveries",
+      "date": "2026-09-12",
+      "published_at": "2026-09-12",
+      "source_published_at": null,
+      "source": "theartnewspaper.com",
+      "source_url": "https://www.theartnewspaper.com/2026/02/25/2000-year-old-inscriptions-found-in-valley-of-the-kings-offer-fresh-insight-into-indian-presence-in-ancient-egypt",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "2,000-year-old inscriptions found in Valley of the Kings offer fresh insight into Indian presence in Ancient Egypt - The Art Newspaper - International art news and events",
+          "summary": "At last week’s International Conference on Tamil Epigraphy in the South Indian city of Chennai, Charlotte Schmid, of the French School of Asian Studies in Paris and Ingo Strauch, of the University of Lausanne, presented a paper on their latest research, identifying the inscriptions as coming from several regions of the Indian subcontinent, with the majority in Tamil-Brahmi, an ancient language con",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-14",
+      "updated_at": "2026-09-12T08:07:42.518148+00:00"
+    },
+    {
+      "id": "3468b0c057f83897",
+      "slug": "trump-criticizes-smithsonian-s-focus-on-oppression-3468b0c0",
+      "title": "Trump criticizes Smithsonian's focus on oppression",
+      "summary": "The Smithsonian is a vast museum and research complex and a premier exhibition space for U.S. history and ⁠culture, with ​21 museums and galleries and the National Zoo.\n\nTrump has targeted U.S. ​cultural and historical institutions - from museums to monuments to national parks - with his declarations and orders leading to the dismantling of ​slavery exhibits and the restoration of Confederate stat",
+      "category": "Archaeology & Ancient Discoveries",
+      "date": "2026-09-12",
+      "published_at": "2026-09-12",
+      "source_published_at": "Sat, 12 Sep 2026 03:47:46 GMT",
+      "source": "reuters.com",
+      "source_url": "https://www.reuters.com/world/us/trump-criticizes-smithsonians-focus-oppression-2026-09-12",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "Trump criticizes Smithsonian's focus on oppression",
+          "summary": "The Smithsonian is a vast museum and research complex and a premier exhibition space for U.S. history and ⁠culture, with ​21 museums and galleries and the National Zoo.\n\nTrump has targeted U.S. ​cultural and historical institutions - from museums to monuments to national parks - with his declarations and orders leading to the dismantling of ​slavery exhibits and the restoration of Confederate stat",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-09-12",
+      "updated_at": "2026-09-12"
+    },
+    {
+      "id": "5ed1656dbf0a05ba",
+      "slug": "toward-a-critical-edition-of-the-la-k-vat-ras-tra-the-significance-of-the-palm-leaf-manuscript-5ed1656d",
+      "title": "Toward a Critical Edition of the Laṅkāvatārasūtra: The Significance of the Palm leaf Manuscript",
+      "summary": "This article examines a newly discovered and recently published Sanskrit manuscript of the Jayamatiparipṛcchāsūtra (“Inquiry of Jayamati”) and documents its relationship, previously unrecognized, as part of the Śūraṃgama-samādhisūtra (“The Concentration of Heroic Progress”). While both texts are classified as Mahāyāna sūtras, the Jayamati-paripṛcchā depicts its content as spoken by the Buddha whil",
+      "category": "Vedic & Manuscript Research",
+      "date": "2026-09-12",
+      "published_at": "2026-09-12",
+      "source_published_at": null,
+      "source": "academia.edu",
+      "source_url": "https://www.academia.edu/46471964/Toward_a_Critical_Edition_of_the_La%E1%B9%85k%C4%81vat%C4%81ras%C5%ABtra_The_Significance_of_the_Palm_leaf_Manuscript",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "Toward a Critical Edition of the Laṅkāvatārasūtra: The Significance of the Palm leaf Manuscript",
+          "summary": "This article examines a newly discovered and recently published Sanskrit manuscript of the Jayamatiparipṛcchāsūtra (“Inquiry of Jayamati”) and documents its relationship, previously unrecognized, as part of the Śūraṃgama-samādhisūtra (“The Concentration of Heroic Progress”). While both texts are classified as Mahāyāna sūtras, the Jayamati-paripṛcchā depicts its content as spoken by the Buddha whil",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-14",
+      "updated_at": "2026-09-12T08:07:42.502662+00:00"
+    },
+    {
+      "id": "c7e94cd03b5a89e4",
+      "slug": "mimamsa-bibliography-philpapers-c7e94cd0",
+      "title": "Mimamsa - Bibliography - PhilPapers",
+      "summary": "Remove from this list    Direct download Export citation Bookmark\n36. Six systems of Indian philosophy: the sūtras of six systems of Indian philosophy with English translation, transliteration, and indices.Madan Mohan Agrawal (ed.) - 2001 -  Delhi: Chaukhamba Sanskrit Pratishthan.details\n\n    Compilation of basic text of six systems of Indian philosophy.\n\n    Mimamsa in Asian Philosophy\n\n    Nyay",
+      "category": "Vedic & Manuscript Research",
+      "date": "2026-09-12",
+      "published_at": "2026-09-12",
+      "source_published_at": null,
+      "source": "philpapers.org",
+      "source_url": "https://philpapers.org/browse/mimamsa",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "Mimamsa - Bibliography - PhilPapers",
+          "summary": "Remove from this list    Direct download Export citation Bookmark\n36. Six systems of Indian philosophy: the sūtras of six systems of Indian philosophy with English translation, transliteration, and indices.Madan Mohan Agrawal (ed.) - 2001 -  Delhi: Chaukhamba Sanskrit Pratishthan.details\n\n    Compilation of basic text of six systems of Indian philosophy.\n\n    Mimamsa in Asian Philosophy\n\n    Nyay",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-14",
+      "updated_at": "2026-09-12T08:07:42.499090+00:00"
+    },
+    {
+      "id": "5415d1afc8050325",
+      "slug": "american-indian-and-alaska-native-records-in-the-national-archives-national-archives-5415d1af",
+      "title": "American Indian and Alaska Native Records in the National Archives | National Archives",
+      "summary": "To help you answer this question, use the navigation options below to explore the vast resources relating to American Indian and Alaska Native research.\n\nIf you are just beginning archival research, please review guidance about getting started.\n\nPlease note: Although some records related to American Indians and Alaska Natives are digitized and available online, there are many records that are only",
+      "category": "Global Cultural & Temple Events",
+      "date": "2026-09-12",
+      "published_at": "2026-09-12",
+      "source_published_at": null,
+      "source": "archives.gov",
+      "source_url": "https://www.archives.gov/research/native-americans",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "American Indian and Alaska Native Records in the National Archives | National Archives",
+          "summary": "To help you answer this question, use the navigation options below to explore the vast resources relating to American Indian and Alaska Native research.\n\nIf you are just beginning archival research, please review guidance about getting started.\n\nPlease note: Although some records related to American Indians and Alaska Natives are digitized and available online, there are many records that are only",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-21",
+      "updated_at": "2026-09-12T08:07:42.494000+00:00"
+    },
+    {
+      "id": "16622bf6babbbfce",
+      "slug": "revitalizing-indian-knowledge-systems-in-education-a-new-era-for-nep-2020-16622bf6",
+      "title": "From Gurukul to Global: Indian Knowledge Systems Shaping NEP 2020 | International Journal of Innovations in Science Engineering And Management",
+      "summary": "India's educational system experienced an important shift with the National Education Policy (NEP) 2020, which focuses on a return to the roots while educating students for a global future. The intentional integration of Indian Knowledge Systems (IKS), an immense collection of indigenous philosophies, sciences, arts, and pedagogies that have developed over millennia, lies at the core of this chang",
+      "category": "Daily Research Hook / Topic Idea",
+      "date": "2026-09-12",
+      "published_at": "2026-09-12",
+      "source_published_at": null,
+      "source": "ijisem.com",
+      "source_url": "https://ijisem.com/journal/index.php/ijisem/article/view/380",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "From Gurukul to Global: Indian Knowledge Systems Shaping NEP 2020 | International Journal of Innovations in Science Engineering And Management",
+          "summary": "India's educational system experienced an important shift with the National Education Policy (NEP) 2020, which focuses on a return to the roots while educating students for a global future. The intentional integration of Indian Knowledge Systems (IKS), an immense collection of indigenous philosophies, sciences, arts, and pedagogies that have developed over millennia, lies at the core of this chang",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-17",
+      "updated_at": "2026-09-12T08:07:42.493123+00:00"
+    },
+    {
+      "id": "bb47e5c67a2eefa0",
+      "slug": "revitalizing-indian-education-integrating-traditional-knowledge-systems-into-modern-learning-bb47e5c6",
+      "title": "From Gurukul to Global Classroom: A Spiral Pedagogical Model for Integrating Indian Knowledge Systems Across Lifelong Learning",
+      "summary": "learning. This research proposes the Spiral Pedagogical Model as a conceptual framework for integrating IKS from early childhood education to higher education and adult learning. The research begins by examining the fundamental pedagogical elements of the Gurukul system, such as experiential education, the guru-shishya Parampara, moral and spiritual development, and community-based education, to d",
+      "category": "Daily Research Hook / Topic Idea",
+      "date": "2026-09-12",
+      "published_at": "2026-09-12",
+      "source_published_at": null,
+      "source": "ijsrm.net",
+      "source_url": "https://ijsrm.net/index.php/ijsrm/article/view/7067",
+      "key_takeaways": [],
+      "why_this_matters": "",
+      "research_hook": "",
+      "editorial_confidence": 0,
+      "schema_version": "6.1B",
+      "language": "en",
+      "image_url": null,
+      "translations": {
+        "en": {
+          "title": "From Gurukul to Global Classroom: A Spiral Pedagogical Model for Integrating Indian Knowledge Systems Across Lifelong Learning",
+          "summary": "learning. This research proposes the Spiral Pedagogical Model as a conceptual framework for integrating IKS from early childhood education to higher education and adult learning. The research begins by examining the fundamental pedagogical elements of the Gurukul system, such as experiential education, the guru-shishya Parampara, moral and spiritual development, and community-based education, to d",
+          "key_takeaways": [],
+          "why_this_matters": "",
+          "research_hook": ""
+        }
+      },
+      "first_published": "2026-08-14",
+      "updated_at": "2026-09-12T08:07:42.489005+00:00"
     },
     {
       "id": "ca9018c26bcf1671",
@@ -62,36 +272,6 @@
       },
       "first_published": "2026-08-14",
       "updated_at": "2026-09-11T08:17:45.614414+00:00"
-    },
-    {
-      "id": "5415d1afc8050325",
-      "slug": "american-indian-and-alaska-native-records-in-the-national-archives-national-archives-5415d1af",
-      "title": "American Indian and Alaska Native Records in the National Archives | National Archives",
-      "summary": "To help you answer this question, use the navigation options below to explore the vast resources relating to American Indian and Alaska Native research.\n\nIf you are just beginning archival research, please review guidance about getting started.\n\nPlease note: Although some records related to American Indians and Alaska Natives are digitized and available online, there are many records that are only",
-      "category": "Archaeology & Ancient Discoveries",
-      "date": "2026-09-11",
-      "published_at": "2026-09-11",
-      "source_published_at": null,
-      "source": "archives.gov",
-      "source_url": "https://www.archives.gov/research/native-americans",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "American Indian and Alaska Native Records in the National Archives | National Archives",
-          "summary": "To help you answer this question, use the navigation options below to explore the vast resources relating to American Indian and Alaska Native research.\n\nIf you are just beginning archival research, please review guidance about getting started.\n\nPlease note: Although some records related to American Indians and Alaska Natives are digitized and available online, there are many records that are only",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-21",
-      "updated_at": "2026-09-11T08:17:45.613640+00:00"
     },
     {
       "id": "5cec0fd2934ecd5e",
@@ -364,36 +544,6 @@
       "updated_at": "2026-09-10"
     },
     {
-      "id": "bb47e5c67a2eefa0",
-      "slug": "revitalizing-indian-education-integrating-traditional-knowledge-systems-into-modern-learning-bb47e5c6",
-      "title": "From Gurukul to Global Classroom: A Spiral Pedagogical Model for Integrating Indian Knowledge Systems Across Lifelong Learning",
-      "summary": "learning. This research proposes the Spiral Pedagogical Model as a conceptual framework for integrating IKS from early childhood education to higher education and adult learning. The research begins by examining the fundamental pedagogical elements of the Gurukul system, such as experiential education, the guru-shishya Parampara, moral and spiritual development, and community-based education, to d",
-      "category": "Archaeology & Ancient Discoveries",
-      "date": "2026-09-09",
-      "published_at": "2026-09-09",
-      "source_published_at": null,
-      "source": "ijsrm.net",
-      "source_url": "https://ijsrm.net/index.php/ijsrm/article/view/7067",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "From Gurukul to Global Classroom: A Spiral Pedagogical Model for Integrating Indian Knowledge Systems Across Lifelong Learning",
-          "summary": "learning. This research proposes the Spiral Pedagogical Model as a conceptual framework for integrating IKS from early childhood education to higher education and adult learning. The research begins by examining the fundamental pedagogical elements of the Gurukul system, such as experiential education, the guru-shishya Parampara, moral and spiritual development, and community-based education, to d",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-14",
-      "updated_at": "2026-09-09T08:23:03.823065+00:00"
-    },
-    {
       "id": "58e75015b936dd9e",
       "slug": "india-s-ancient-scientific-knowledge-india-foundation-58e75015",
       "title": "India’s Ancient Scientific Knowledge – India Foundation",
@@ -422,36 +572,6 @@
       },
       "first_published": "2026-08-19",
       "updated_at": "2026-09-09T08:23:03.821076+00:00"
-    },
-    {
-      "id": "5ed1656dbf0a05ba",
-      "slug": "toward-a-critical-edition-of-the-la-k-vat-ras-tra-the-significance-of-the-palm-leaf-manuscript-5ed1656d",
-      "title": "(PDF) Toward a Critical Edition of the Laṅkāvatārasūtra: The Significance of the Palm leaf Manuscript",
-      "summary": "This article examines a newly discovered and recently published Sanskrit manuscript of the Jayamatiparipṛcchāsūtra (“Inquiry of Jayamati”) and documents its relationship, previously unrecognized, as part of the Śūraṃgama-samādhisūtra (“The Concentration of Heroic Progress”). While both texts are classified as Mahāyāna sūtras, the Jayamati-paripṛcchā depicts its content as spoken by the Buddha whil",
-      "category": "Vedic & Manuscript Research",
-      "date": "2026-09-09",
-      "published_at": "2026-09-09",
-      "source_published_at": null,
-      "source": "academia.edu",
-      "source_url": "https://www.academia.edu/46471964/Toward_a_Critical_Edition_of_the_La%E1%B9%85k%C4%81vat%C4%81ras%C5%ABtra_The_Significance_of_the_Palm_leaf_Manuscript",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "(PDF) Toward a Critical Edition of the Laṅkāvatārasūtra: The Significance of the Palm leaf Manuscript",
-          "summary": "This article examines a newly discovered and recently published Sanskrit manuscript of the Jayamatiparipṛcchāsūtra (“Inquiry of Jayamati”) and documents its relationship, previously unrecognized, as part of the Śūraṃgama-samādhisūtra (“The Concentration of Heroic Progress”). While both texts are classified as Mahāyāna sūtras, the Jayamati-paripṛcchā depicts its content as spoken by the Buddha whil",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-14",
-      "updated_at": "2026-09-09T08:23:03.820302+00:00"
     },
     {
       "id": "b62f3abad5426a8c",
@@ -512,36 +632,6 @@
       },
       "first_published": "2026-09-09",
       "updated_at": "2026-09-09"
-    },
-    {
-      "id": "16622bf6babbbfce",
-      "slug": "revitalizing-indian-knowledge-systems-in-education-a-new-era-for-nep-2020-16622bf6",
-      "title": "From Gurukul to Global: Indian Knowledge Systems Shaping NEP 2020 | International Journal of Innovations in Science, Engineering And Management",
-      "summary": "India's educational system experienced an important shift with the National Education Policy (NEP) 2020, which focuses on a return to the roots while educating students for a global future. The intentional integration of Indian Knowledge Systems (IKS), an immense collection of indigenous philosophies, sciences, arts, and pedagogies that have developed over millennia, lies at the core of this chang",
-      "category": "Daily Research Hook / Topic Idea",
-      "date": "2026-09-09",
-      "published_at": "2026-09-09",
-      "source_published_at": null,
-      "source": "ijisem.com",
-      "source_url": "https://ijisem.com/journal/index.php/ijisem/article/view/380",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "From Gurukul to Global: Indian Knowledge Systems Shaping NEP 2020 | International Journal of Innovations in Science, Engineering And Management",
-          "summary": "India's educational system experienced an important shift with the National Education Policy (NEP) 2020, which focuses on a return to the roots while educating students for a global future. The intentional integration of Indian Knowledge Systems (IKS), an immense collection of indigenous philosophies, sciences, arts, and pedagogies that have developed over millennia, lies at the core of this chang",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-17",
-      "updated_at": "2026-09-09T08:23:03.806260+00:00"
     },
     {
       "id": "6aec9242aa96fee7",
@@ -632,36 +722,6 @@
       },
       "first_published": "2026-08-22",
       "updated_at": "2026-09-08T08:19:52.840385+00:00"
-    },
-    {
-      "id": "c23a3b47acaf8a84",
-      "slug": "ancient-indian-inscriptions-uncovered-in-egypt-s-valley-of-the-kings-c23a3b47",
-      "title": "2,000-year-old inscriptions found in Valley of the Kings offer fresh insight into Indian presence in Ancient Egypt - The Art Newspaper - International art news and events",
-      "summary": "At last week’s International Conference on Tamil Epigraphy in the South Indian city of Chennai, Charlotte Schmid, of the French School of Asian Studies in Paris and Ingo Strauch, of the University of Lausanne, presented a paper on their latest research, identifying the inscriptions as coming from several regions of the Indian subcontinent, with the majority in Tamil-Brahmi, an ancient language con",
-      "category": "Archaeology & Ancient Discoveries",
-      "date": "2026-09-07",
-      "published_at": "2026-09-07",
-      "source_published_at": null,
-      "source": "theartnewspaper.com",
-      "source_url": "https://www.theartnewspaper.com/2026/02/25/2000-year-old-inscriptions-found-in-valley-of-the-kings-offer-fresh-insight-into-indian-presence-in-ancient-egypt",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "2,000-year-old inscriptions found in Valley of the Kings offer fresh insight into Indian presence in Ancient Egypt - The Art Newspaper - International art news and events",
-          "summary": "At last week’s International Conference on Tamil Epigraphy in the South Indian city of Chennai, Charlotte Schmid, of the French School of Asian Studies in Paris and Ingo Strauch, of the University of Lausanne, presented a paper on their latest research, identifying the inscriptions as coming from several regions of the Indian subcontinent, with the majority in Tamil-Brahmi, an ancient language con",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-14",
-      "updated_at": "2026-09-07T08:37:17.677250+00:00"
     },
     {
       "id": "6039e88250c49e15",
@@ -1442,66 +1502,6 @@
       },
       "first_published": "2026-08-15",
       "updated_at": "2026-08-21T04:13:22.166567+00:00"
-    },
-    {
-      "id": "a688308e09136814",
-      "slug": "past-phd-theses-religious-studies-mcmaster-university-a688308e",
-      "title": "Past PhD Theses | Religious Studies | McMaster University",
-      "summary": "Leonard Stan (Ph.D. 2007), “The Concept of Alterity in Soren Kierkegaard’s Authorship” (Supervisor: Dr. P. Travis Kroeker). Dr. Stan is a professor in the School of Liberal Studies at Conestoga College.\n\nRuebens Turci (Ph.D. 2007), “Sraddha in the Bhagavad Gita” (Supervisor: Dr. Paul Younger). Dr. Turci is Associate Researcher at PEIND – Indian Studies Program of the State University of Rio de Jan",
-      "category": "Archaeology & Ancient Discoveries",
-      "date": "2026-08-20",
-      "published_at": "2026-08-20",
-      "source_published_at": "Wed, 19 Aug 2026 20:00:00 GMT",
-      "source": "religiousstudies.mcmaster.ca",
-      "source_url": "https://religiousstudies.mcmaster.ca/graduate-programs/phd-program/past-phd-theses",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "Past PhD Theses | Religious Studies | McMaster University",
-          "summary": "Leonard Stan (Ph.D. 2007), “The Concept of Alterity in Soren Kierkegaard’s Authorship” (Supervisor: Dr. P. Travis Kroeker). Dr. Stan is a professor in the School of Liberal Studies at Conestoga College.\n\nRuebens Turci (Ph.D. 2007), “Sraddha in the Bhagavad Gita” (Supervisor: Dr. Paul Younger). Dr. Turci is Associate Researcher at PEIND – Indian Studies Program of the State University of Rio de Jan",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-20",
-      "updated_at": "2026-08-20"
-    },
-    {
-      "id": "108f6be6233e2b8b",
-      "slug": "asia-as-method-interview-with-alexandra-munroe-108f6be6",
-      "title": "“Asia as Method”: Interview with Alexandra Munroe",
-      "summary": "In 2006, Alexandra Munroe was appointed to a newly created position at the Solomon R. Guggenheim Museum: senior curator of Asian art, the first such role at any modern and contemporary art museum in the West. Over two decades, she significantly expanded the New York institution’s vision beyond Eurocentric frameworks, introducing seminal non-Western artists to American audiences through landmark ex",
-      "category": "Global Cultural & Temple Events",
-      "date": "2026-08-20",
-      "published_at": "2026-08-20",
-      "source_published_at": "Wed, 19 Aug 2026 07:52:15 GMT",
-      "source": "artasiapacific.com",
-      "source_url": "https://www.artasiapacific.com/people/asia-as-method-interview-with-alexandra-munroe",
-      "key_takeaways": [],
-      "why_this_matters": "",
-      "research_hook": "",
-      "editorial_confidence": 0,
-      "schema_version": "6.1B",
-      "language": "en",
-      "image_url": null,
-      "translations": {
-        "en": {
-          "title": "“Asia as Method”: Interview with Alexandra Munroe",
-          "summary": "In 2006, Alexandra Munroe was appointed to a newly created position at the Solomon R. Guggenheim Museum: senior curator of Asian art, the first such role at any modern and contemporary art museum in the West. Over two decades, she significantly expanded the New York institution’s vision beyond Eurocentric frameworks, introducing seminal non-Western artists to American audiences through landmark ex",
-          "key_takeaways": [],
-          "why_this_matters": "",
-          "research_hook": ""
-        }
-      },
-      "first_published": "2026-08-20",
-      "updated_at": "2026-08-20"
     }
   ]
 }
